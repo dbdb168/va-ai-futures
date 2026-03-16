@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap');
+      .region-label {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        pointer-events: none;
+        letter-spacing: 0.02em;
+      }
+      .region-sublabel {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 8px;
+        font-weight: 400;
+        pointer-events: none;
+        opacity: 0.8;
+        letter-spacing: 0.01em;
+      }
+      .region-path {
+        stroke: #FFFFFF;
+        stroke-width: 2;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+        cursor: pointer;
+        transition: opacity 0.2s ease;
+      }
+      .region-path:hover {
+        opacity: 0.82;
+      }
+    </style>
+  </defs>
+
+  <title>Virginia Weldon Cooper Center Demographic Regions</title>
+  <desc>Map of Virginia divided into 8 demographic regions defined by the University of Virginia Weldon Cooper Center for Public Service.</desc>
+
+  <!-- ============================================================
+       Virginia's shape reference:
+       - The state stretches roughly from (20,220) at the SW tip
+         to (610,30) at the NE corner (near DC)
+       - The southern border runs ~east along NC border
+       - Hampton Roads is the SE bulge
+       - Eastern Shore is a separate narrow peninsula to the east
+
+       Shared boundary points (used by adjacent regions):
+
+       A = (20,228)   SW tip of state
+       B = (230,222)  SW/Valley boundary (near Radford)
+       C = (395,84)   Top of Valley / Northern boundary (near Winchester)
+       D = (612,32)   NE tip (near DC)
+       E = (614,80)   Northern/Central join on eastern edge
+       F = (650,220)  Central/Hampton Roads boundary
+       G = (746,294)  SE tip of Hampton Roads
+       H = (618,260)  Southside/Hampton Roads boundary
+       I = (554,258)  Central/Southside/Hampton Roads triple point
+       J = (175,294)  SW/Southside boundary on southern border
+       K = (32,320)   Southern border SW corner
+       L = (580,316)  Southern border Hampton Roads
+
+       Interior boundaries:
+       M = (230,250)  Valley/West Central boundary bottom
+       N = (412,236)  West Central/Central boundary
+       O = (414,262)  West Central/Southside boundary
+       P = (350,218)  Valley/Central/Northern triple point area
+       ============================================================ -->
+
+  <!-- SOUTHWEST VIRGINIA
+       Far western wedge of the state -->
+  <path
+    id="southwest"
+    class="region-path"
+    data-region="Southwest"
+    fill="#D4A020"
+    d="M 20,228
+       C 35,222 55,216 80,212
+       C 105,208 125,210 145,218
+       C 160,224 172,232 185,238
+       C 195,242 205,240 215,234
+       L 230,222
+       L 237,238
+       L 240,252
+       L 235,265
+       L 225,275
+       L 210,280
+       L 190,288
+       L 170,296
+       L 150,302
+       L 125,308
+       L 95,314
+       L 65,318
+       L 40,320
+       L 30,320
+       L 22,316
+       L 16,306
+       L 14,290
+       L 16,270
+       L 18,250
+       Z"
+  />
+
+  <!-- VALLEY (Shenandoah Valley)
+       Western strip running NE-SW along the mountains -->
+  <path
+    id="valley"
+    class="region-path"
+    data-region="Valley"
+    fill="#C8C0AD"
+    d="M 230,222
+       L 248,208
+       L 265,190
+       L 280,172
+       L 295,155
+       L 310,140
+       L 328,126
+       L 348,114
+       L 362,104
+       L 378,92
+       L 395,84
+       L 405,92
+       L 408,102
+       L 402,114
+       L 392,128
+       L 382,142
+       L 372,158
+       L 365,172
+       L 358,186
+       L 348,200
+       L 338,212
+       L 325,222
+       L 310,232
+       L 295,240
+       L 278,248
+       L 260,254
+       L 245,258
+       L 240,252
+       L 237,238
+       Z"
+  />
+
+  <!-- WEST CENTRAL (Roanoke/Lynchburg)
+       Between Valley and Southside -->
+  <path
+    id="west-central"
+    class="region-path"
+    data-region="West Central"
+    fill="#4A7B5A"
+    d="M 225,275
+       L 240,268
+       L 255,260
+       L 270,252
+       L 285,246
+       L 300,240
+       L 318,234
+       L 338,226
+       L 355,220
+       L 372,216
+       L 388,214
+       L 400,216
+       L 412,222
+       L 420,232
+       L 422,244
+       L 418,256
+       L 410,264
+       L 398,272
+       L 382,278
+       L 365,284
+       L 345,290
+       L 325,294
+       L 305,298
+       L 285,300
+       L 265,302
+       L 248,302
+       L 238,300
+       L 230,296
+       L 225,288
+       Z"
+  />
+
+  <!-- NORTHERN VIRGINIA
+       Northeast portion, DC suburbs area -->
+  <path
+    id="northern"
+    class="region-path"
+    data-region="Northern"
+    fill="#1E3322"
+    d="M 395,84
+       L 415,78
+       L 438,72
+       L 462,66
+       L 488,60
+       L 512,54
+       L 535,48
+       L 555,42
+       L 575,36
+       L 594,32
+       L 612,32
+       L 616,38
+       L 616,48
+       L 612,60
+       L 604,74
+       L 594,88
+       L 582,104
+       L 570,118
+       L 556,130
+       L 540,142
+       L 522,152
+       L 502,162
+       L 482,170
+       L 462,176
+       L 442,180
+       L 422,182
+       L 408,182
+       L 400,178
+       L 396,170
+       L 394,160
+       L 394,148
+       L 396,136
+       L 400,122
+       L 404,110
+       L 406,98
+       L 405,92
+       Z"
+  />
+
+  <!-- CENTRAL VIRGINIA (Richmond metro)
+       Large central region -->
+  <path
+    id="central"
+    class="region-path"
+    data-region="Central"
+    fill="#2D6B3F"
+    d="M 408,182
+       L 428,180
+       L 448,176
+       L 468,172
+       L 488,166
+       L 508,160
+       L 528,152
+       L 548,142
+       L 564,132
+       L 578,120
+       L 590,108
+       L 600,96
+       L 608,84
+       L 614,74
+       L 618,82
+       L 624,94
+       L 630,110
+       L 636,128
+       L 640,148
+       L 644,168
+       L 648,188
+       L 650,204
+       L 650,220
+       L 646,232
+       L 638,242
+       L 628,250
+       L 616,256
+       L 600,260
+       L 584,262
+       L 566,264
+       L 548,264
+       L 530,264
+       L 512,264
+       L 494,264
+       L 476,264
+       L 458,264
+       L 440,264
+       L 428,264
+       L 418,262
+       L 418,256
+       L 422,244
+       L 420,232
+       L 412,222
+       L 404,216
+       L 398,212
+       L 396,204
+       L 398,194
+       L 402,188
+       Z"
+  />
+
+  <!-- SOUTHSIDE
+       Southern strip along NC border -->
+  <path
+    id="southside"
+    class="region-path"
+    data-region="Southside"
+    fill="#E85D45"
+    d="M 230,296
+       L 248,302
+       L 270,302
+       L 295,300
+       L 320,296
+       L 345,292
+       L 368,286
+       L 388,280
+       L 404,274
+       L 414,268
+       L 420,264
+       L 432,264
+       L 448,264
+       L 470,264
+       L 492,264
+       L 514,264
+       L 536,264
+       L 556,264
+       L 572,264
+       L 588,264
+       L 602,262
+       L 614,260
+       L 620,262
+       L 622,268
+       L 620,278
+       L 614,290
+       L 604,302
+       L 592,312
+       L 578,320
+       L 560,326
+       L 540,330
+       L 518,334
+       L 494,336
+       L 468,338
+       L 440,339
+       L 412,340
+       L 384,340
+       L 356,339
+       L 328,338
+       L 300,336
+       L 274,334
+       L 250,330
+       L 230,326
+       L 214,322
+       L 198,318
+       L 184,314
+       L 170,310
+       L 156,306
+       L 145,302
+       L 150,302
+       L 170,296
+       L 190,288
+       L 210,280
+       L 225,275
+       L 225,288
+       Z"
+  />
+
+  <!-- HAMPTON ROADS
+       Southeast, Tidewater area -->
+  <path
+    id="hampton-roads"
+    class="region-path"
+    data-region="Hampton Roads"
+    fill="#6B7B6B"
+    d="M 620,262
+       L 630,256
+       L 640,248
+       L 648,240
+       L 654,232
+       L 660,224
+       L 666,218
+       L 674,214
+       L 684,210
+       L 694,210
+       L 704,212
+       L 712,218
+       L 718,226
+       L 722,236
+       L 724,246
+       L 726,256
+       L 728,264
+       L 732,272
+       L 736,280
+       L 740,286
+       L 744,290
+       L 746,294
+       L 744,300
+       L 738,306
+       L 730,312
+       L 720,316
+       L 708,318
+       L 694,320
+       L 678,320
+       L 662,320
+       L 646,318
+       L 632,316
+       L 620,312
+       L 608,308
+       L 596,302
+       L 586,296
+       L 576,290
+       L 568,284
+       L 560,278
+       L 554,272
+       L 550,268
+       L 548,264
+       L 556,264
+       L 572,264
+       L 588,264
+       L 604,262
+       L 614,260
+       Z"
+  />
+
+  <!-- EASTERN SHORE
+       Delmarva Peninsula portion, separate from mainland -->
+  <path
+    id="eastern"
+    class="region-path"
+    data-region="Eastern"
+    fill="#808A80"
+    d="M 730,100
+       L 736,97
+       L 742,96
+       L 748,97
+       L 752,100
+       L 756,106
+       L 758,114
+       L 760,124
+       L 760,136
+       L 760,148
+       L 758,160
+       L 756,172
+       L 754,184
+       L 750,196
+       L 746,208
+       L 742,218
+       L 738,226
+       L 734,232
+       L 730,236
+       L 726,234
+       L 722,228
+       L 720,222
+       L 718,216
+       L 716,210
+       L 716,202
+       L 718,194
+       L 720,186
+       L 722,176
+       L 724,166
+       L 726,156
+       L 727,146
+       L 728,136
+       L 729,126
+       L 730,116
+       L 730,108
+       Z"
+  />
+
+  <!-- ============================================================
+       REGION LABELS
+       ============================================================ -->
+
+  <!-- Southwest -->
+  <text class="region-label" x="120" y="272" fill="#1E3322" text-anchor="middle">Southwest</text>
+
+  <!-- Valley -->
+  <text class="region-label" x="320" y="172" fill="#1E3322" text-anchor="middle">Valley</text>
+
+  <!-- West Central -->
+  <text class="region-label" x="330" y="260" fill="#FFFFFF" text-anchor="middle">West Central</text>
+  <text class="region-sublabel" x="330" y="271" fill="#FFFFFF" text-anchor="middle">Roanoke / Lynchburg</text>
+
+  <!-- Northern Virginia -->
+  <text class="region-label" x="510" y="100" fill="#FFFFFF" text-anchor="middle">Northern Virginia</text>
+
+  <!-- Central -->
+  <text class="region-label" x="540" y="210" fill="#FFFFFF" text-anchor="middle">Central</text>
+  <text class="region-sublabel" x="540" y="222" fill="#FFFFFF" text-anchor="middle">Richmond metro</text>
+
+  <!-- Southside -->
+  <text class="region-label" x="420" y="312" fill="#FFFFFF" text-anchor="middle">Southside</text>
+
+  <!-- Hampton Roads -->
+  <text class="region-label" x="670" y="280" fill="#FFFFFF" text-anchor="middle">Hampton</text>
+  <text class="region-label" x="670" y="294" fill="#FFFFFF" text-anchor="middle">Roads</text>
+
+  <!-- Eastern Shore -->
+  <text class="region-label" x="742" y="162" fill="#FFFFFF" text-anchor="middle" font-size="9" transform="rotate(5,742,162)">Eastern</text>
+  <text class="region-sublabel" x="742" y="173" fill="#FFFFFF" text-anchor="middle" transform="rotate(5,742,173)">Shore</text>
+
+</svg>

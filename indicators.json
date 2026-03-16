@@ -1,0 +1,159 @@
+{
+  "last_updated": "2026-03-16",
+  "legend": {
+    "not-yet": "No evidence observed",
+    "emerging": "Early signals, anecdotal",
+    "active": "Multiple data points, pattern forming",
+    "strong": "Clear, measurable trend"
+  },
+  "scenarios": [
+    {
+      "id": "build-it-yourself",
+      "name": "Build It Yourself",
+      "subtitle": "Deep & Distributed",
+      "indicators": [
+        {
+          "signal": "Chamber of commerce conversations shift from 'Is anyone using AI?' to 'What are you using?'",
+          "status": "emerging",
+          "evidence": "Anecdotal reports from Richmond and Northern Virginia chambers. Not yet observed in rural markets.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "SaaS cancellation rates rise as businesses replace generic features with bespoke workflows",
+          "status": "not-yet",
+          "evidence": "No public data yet. Individual cases observed but no measurable trend.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Peer-network AI sharing emerges organically at trade association meetings",
+          "status": "emerging",
+          "evidence": "BuildFirst workshop participants report sharing techniques informally. Richmond and Charlottesville clusters forming.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Generational business transitions accelerate as younger owners use AI to prove capability",
+          "status": "not-yet",
+          "evidence": "Scenario-specific. Not yet measurable at scale.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Rural adoption follows metro by 12-18 months rather than stalling permanently",
+          "status": "not-yet",
+          "evidence": "Too early to assess. Metro adoption patterns still forming.",
+          "last_updated": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "software-does-it-for-you",
+      "name": "Software Does It For You",
+      "subtitle": "Shallow & Distributed",
+      "indicators": [
+        {
+          "signal": "AI adoption surveys show strong numbers (60%+ 'using AI') but few businesses describe what they built themselves",
+          "status": "active",
+          "evidence": "Census BTOS data shows rising AI 'use' but surveys do not distinguish passive exposure from active building. Virginia Chamber survey (Jan 2026) confirms pattern.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "SaaS switching costs rise dramatically as AI features absorb business intelligence",
+          "status": "emerging",
+          "evidence": "QuickBooks, Toast, ServiceTitan all shipping embedded AI. Lock-in dynamics beginning but not yet measured.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Policy urgency evaporates because metrics look strong",
+          "status": "emerging",
+          "evidence": "GO Virginia has not prioritized AI fluency programming. Community colleges operating on standard timelines.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "The inoculation effect: businesses report satisfaction but no curiosity about going further",
+          "status": "emerging",
+          "evidence": "BuildFirst assessments show pattern: businesses that tried embedded AI rate themselves as 'using AI' but score low on fluency metrics.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Out-of-state competitors with deeper fluency begin entering Virginia markets",
+          "status": "not-yet",
+          "evidence": "No measurable signal yet. Watching property management and dental sectors.",
+          "last_updated": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "pockets-of-excellence",
+      "name": "Pockets of Excellence",
+      "subtitle": "Deep & Concentrated",
+      "indicators": [
+        {
+          "signal": "Metro business communities develop visible AI fluency while rural chambers never mention it",
+          "status": "active",
+          "evidence": "Richmond, NoVA, and Charlottesville have active AI programming. Southside and Southwest chambers have none. Hampton Roads mixed.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Well-funded rural AI initiatives report thin attendance and conclude 'resistance'",
+          "status": "not-yet",
+          "evidence": "Limited rural AI initiatives launched to date. Pattern not yet testable.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Invisible differential growth: fluent firms grow at 12-15% while non-fluent competitors grow at 2-3%",
+          "status": "not-yet",
+          "evidence": "Too early for growth differential measurement. Watching BLS QCEW data for sectoral divergence.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Generational business transitions stall when founders and successors cannot reconcile approaches",
+          "status": "not-yet",
+          "evidence": "Scenario-specific. Anecdotal only.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "The 140-mile gap between metro builders and rural businesses feels unbridgeable despite identical technology access",
+          "status": "emerging",
+          "evidence": "BuildFirst client geography is 85% metro Richmond and NoVA. Access is identical. Engagement is not.",
+          "last_updated": "2026-03-16"
+        }
+      ]
+    },
+    {
+      "id": "the-widening-gap",
+      "name": "The Widening Gap",
+      "subtitle": "Shallow & Concentrated",
+      "indicators": [
+        {
+          "signal": "A vivid, local AI failure story crystallizes into community narrative and freezes adoption",
+          "status": "not-yet",
+          "evidence": "No high-profile Virginia-specific AI failure stories in business context. National stories exist but have not localized.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "A recession arrives during the critical 2027-2028 learning window",
+          "status": "not-yet",
+          "evidence": "Economic forecasts mixed. Federal spending contraction is a risk factor for Virginia specifically.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Fluent firms grow at 15-25% while non-fluent firms grow at 0-3%",
+          "status": "not-yet",
+          "evidence": "Growth differential not yet measurable at scale.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Out-of-state competitors enter Virginia markets with deeper fluency",
+          "status": "not-yet",
+          "evidence": "Not yet observed. Watching property management and insurance sectors.",
+          "last_updated": "2026-03-16"
+        },
+        {
+          "signal": "Business valuations diverge: AI-fluent businesses at 4x earnings, non-fluent at 2x",
+          "status": "not-yet",
+          "evidence": "Too early. Valuation data lags by 12-24 months.",
+          "last_updated": "2026-03-16"
+        }
+      ]
+    }
+  ]
+}
