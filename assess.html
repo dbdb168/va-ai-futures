@@ -445,6 +445,7 @@ function submitAssessment() {
   callClaude(prompt)
     .then(function(data) {
       renderResults(data, scores, name, email, region);
+      sendToWebhook(data, scores, name, email, region, bizUrl);
       nextStep(4);
     })
     .catch(function(err) {
@@ -543,6 +544,189 @@ function renderResults(data, scores, name, email, region) {
 }
 
 function esc(s) { if (!s) return ''; var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+// ===== Email HTML Builder =====
+function buildResultsEmail(data, scores, name, region) {
+  var dimColors = { delegation: '#3A7BB5', description: '#D4A020', discernment: '#2D6B3F', diligence: '#9B5BA3' };
+  var dimNames = { delegation: 'Delegation', description: 'Description', discernment: 'Discernment', diligence: 'Diligence' };
+  var dimWhats = { delegation: 'Knowing what to hand off', description: 'Communicating clearly with AI', discernment: 'Evaluating AI output quality', diligence: 'Verifying, governing, trust' };
+
+  function dimCard(dim) {
+    var s = scores[dim];
+    var pct = (s / 4) * 100;
+    var c = dimColors[dim];
+    return '<td style="width:50%;vertical-align:top;padding:6px;">'
+      + '<div style="border:1px solid rgba(0,0,0,0.08);border-radius:8px;overflow:hidden;">'
+      + '<div style="height:3px;background:' + c + ';"></div>'
+      + '<div style="padding:16px 14px;">'
+      + '<div style="font-size:14px;font-weight:700;color:#1E3322;">' + dimNames[dim] + '</div>'
+      + '<div style="font-size:11px;color:#808A80;margin-bottom:6px;">' + dimWhats[dim] + '</div>'
+      + '<div style="font-size:22px;font-weight:600;color:' + c + ';margin-bottom:6px;">' + s.toFixed(1) + ' <span style="font-size:12px;color:#808A80;font-weight:400;">/ 4.0</span></div>'
+      + '<div style="height:4px;background:rgba(0,0,0,0.06);border-radius:2px;overflow:hidden;">'
+      + '<div style="height:100%;width:' + pct + '%;background:' + c + ';border-radius:2px;"></div>'
+      + '</div></div></div></td>';
+  }
+
+  function scenarioRow(s) {
+    var rel = (s.relevance || 'medium').toLowerCase();
+    var relColor = rel === 'high' ? '#2D6B3F' : rel === 'medium' ? '#D4A020' : '#C8C0AD';
+    return '<tr>'
+      + '<td style="padding:12px 0;border-bottom:1px solid rgba(0,0,0,0.06);vertical-align:top;width:80px;">'
+      + '<span style="font-size:10px;font-weight:700;letter-spacing:0.5px;text-transform:uppercase;color:' + relColor + ';">' + rel.toUpperCase() + '</span></td>'
+      + '<td style="padding:12px 0 12px 12px;border-bottom:1px solid rgba(0,0,0,0.06);vertical-align:top;">'
+      + '<div style="font-size:15px;font-weight:600;color:#1E3322;margin-bottom:2px;">' + (s.name || '') + '</div>'
+      + '<div style="font-size:13px;color:#6B7B6B;line-height:1.5;">' + (s.implication || s.implications || '') + '</div>'
+      + '</td></tr>';
+  }
+
+  var scenarioRows = (data.scenarios || []).map(scenarioRow).join('');
+  var actionItems = (data.actions || []).map(function(a) {
+    return '<tr><td style="padding:8px 12px 8px 0;vertical-align:top;width:16px;"><div style="width:6px;height:6px;background:#2D6B3F;border-radius:50%;margin-top:6px;"></div></td>'
+      + '<td style="padding:8px 0;font-size:14px;color:#1E3322;line-height:1.6;">' + a + '</td></tr>';
+  }).join('');
+
+  return '<!DOCTYPE html>'
+    + '<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"></head>'
+    + '<body style="margin:0;padding:0;background:#F5F0EB;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;">'
+    + '<div style="height:3px;background:linear-gradient(to right,#1E3322,#2D6B3F,#6B7B6B,#C8C0AD);"></div>'
+    + '<div style="max-width:600px;margin:0 auto;padding:40px 24px;">'
+
+    // Logo
+    + '<div style="margin-bottom:32px;">'
+    + '<span style="font-family:Georgia,serif;font-size:13px;color:#808A80;">THE FLUENCY QUESTION</span>'
+    + '</div>'
+
+    // Header
+    + '<h1 style="font-family:Georgia,serif;font-size:26px;font-weight:400;color:#1E3322;margin:0 0 4px;">' + name.split(' ')[0] + ', here is your AI futures analysis.</h1>'
+    + '<p style="font-size:13px;color:#808A80;margin:0 0 32px;">' + region + ' | ' + (data.industry || 'Virginia SMB') + ' | March 2026</p>'
+
+    // Business summary
+    + '<div style="background:#FFFFFF;border-radius:10px;padding:24px;margin-bottom:20px;">'
+    + '<p style="font-size:15px;line-height:1.7;color:#1E3322;margin:0;">' + (data.business_summary || '') + '</p>'
+    + '</div>'
+
+    // Industry + Region context
+    + '<table style="width:100%;border-collapse:collapse;margin-bottom:20px;" cellpadding="0" cellspacing="0"><tr>'
+    + '<td style="width:50%;vertical-align:top;padding:0 8px 0 0;">'
+    + '<div style="background:#FFFFFF;border-radius:10px;padding:20px;">'
+    + '<div style="font-size:10px;font-weight:700;letter-spacing:0.5px;text-transform:uppercase;color:#808A80;margin-bottom:4px;">Industry</div>'
+    + '<p style="font-size:13px;line-height:1.6;color:#6B7B6B;margin:0;">' + (data.industry_context || '') + '</p>'
+    + '</div></td>'
+    + '<td style="width:50%;vertical-align:top;padding:0 0 0 8px;">'
+    + '<div style="background:#FFFFFF;border-radius:10px;padding:20px;">'
+    + '<div style="font-size:10px;font-weight:700;letter-spacing:0.5px;text-transform:uppercase;color:#808A80;margin-bottom:4px;">Region</div>'
+    + '<p style="font-size:13px;line-height:1.6;color:#6B7B6B;margin:0;">' + (data.region_context || '') + '</p>'
+    + '</div></td>'
+    + '</tr></table>'
+
+    // Fluency profile
+    + '<div style="background:#FFFFFF;border-radius:10px;padding:24px;margin-bottom:20px;">'
+    + '<h2 style="font-family:Georgia,serif;font-size:20px;font-weight:400;color:#1E3322;margin:0 0 4px;">Your Fluency Profile</h2>'
+    + '<p style="font-size:13px;color:#808A80;margin:0 0 16px;">Overall: ' + scores.overall.toFixed(1) + ' / 4.0</p>'
+    + '<p style="font-size:14px;color:#6B7B6B;line-height:1.6;margin:0 0 16px;">' + (data.fluency_profile || '') + '</p>'
+    + '<table style="width:100%;border-collapse:collapse;" cellpadding="0" cellspacing="0">'
+    + '<tr>' + dimCard('delegation') + dimCard('description') + '</tr>'
+    + '<tr>' + dimCard('discernment') + dimCard('diligence') + '</tr>'
+    + '</table>'
+    + '<p style="font-size:10px;color:#C8C0AD;text-align:center;margin:12px 0 0;">AI Fluency Framework by Dakan &amp; Feller, in collaboration with Anthropic (2025)</p>'
+    + '</div>'
+
+    // Scenario relevance
+    + '<div style="background:#FFFFFF;border-radius:10px;padding:24px;margin-bottom:20px;">'
+    + '<h2 style="font-family:Georgia,serif;font-size:20px;font-weight:400;color:#1E3322;margin:0 0 4px;">Which Scenarios Matter Most</h2>'
+    + '<p style="font-size:14px;color:#6B7B6B;line-height:1.6;margin:0 0 16px;">' + (data.trajectory || '') + '</p>'
+    + '<table style="width:100%;border-collapse:collapse;" cellpadding="0" cellspacing="0">'
+    + scenarioRows
+    + '</table></div>'
+
+    // Actions
+    + '<div style="background:#FFFFFF;border-radius:10px;padding:24px;margin-bottom:32px;">'
+    + '<h2 style="font-family:Georgia,serif;font-size:20px;font-weight:400;color:#1E3322;margin:0 0 16px;">Three Actions for Your Business</h2>'
+    + '<table style="width:100%;border-collapse:collapse;" cellpadding="0" cellspacing="0">'
+    + actionItems
+    + '</table></div>'
+
+    // CTA
+    + '<div style="text-align:center;border-top:1px solid rgba(0,0,0,0.08);padding-top:32px;margin-bottom:24px;">'
+    + '<h3 style="font-family:Georgia,serif;font-size:19px;font-weight:400;color:#1E3322;margin:0 0 8px;">Let\'s talk about what this means.</h3>'
+    + '<p style="font-size:14px;color:#6B7B6B;line-height:1.7;margin:0 0 20px;">Book 30 minutes with David to walk through your results and figure out the right next step for your business.</p>'
+    + '<a href="https://calendar.app.google/YcKijHth3KuxVZi28" style="display:inline-block;background:#2D6B3F;color:#FFFFFF;padding:14px 28px;border-radius:8px;font-size:15px;font-weight:600;text-decoration:none;">Book a 30-minute conversation</a>'
+    + '</div>'
+
+    // Footer
+    + '<div style="text-align:center;padding-top:20px;font-size:12px;color:#808A80;line-height:1.6;">'
+    + '<p style="margin:0;">This analysis is part of <a href="https://buildfirst.io" style="color:#2D6B3F;text-decoration:none;">BuildFirst</a>\'s Virginia AI Futures research.</p>'
+    + '<p style="margin:4px 0 0;"><a href="http://localhost:8000/virginia-futures.html" style="color:#2D6B3F;text-decoration:none;">Read the full report</a> | <a href="http://localhost:8000/dashboard.html" style="color:#2D6B3F;text-decoration:none;">View the live dashboard</a></p>'
+    + '</div>'
+
+    + '</div></body></html>';
+}
+
+// ===== Webhook =====
+// SETUP: Create a new Make.com scenario with a webhook trigger.
+// Paste the webhook URL below. The scenario should:
+// 1. Send the user their results email (from david@thisisluminary.co)
+// 2. Notify David with the lead data
+// 3. Log to Google Sheet for research tracking
+var VA_FUTURES_WEBHOOK_URL = ''; // <-- Paste your Make.com webhook URL here
+
+function sendToWebhook(data, scores, name, email, region, bizUrl) {
+  if (!VA_FUTURES_WEBHOOK_URL) {
+    console.warn('[VA Futures] No webhook URL configured. Email not sent.');
+    return;
+  }
+
+  var dims = ['delegation', 'description', 'discernment', 'diligence'];
+  var dScores = {};
+  var dLevels = {};
+  dims.forEach(function(dim) {
+    dScores[dim] = Math.round(scores[dim] * 10) / 10;
+    var s = scores[dim];
+    dLevels[dim] = s >= 3.25 ? 'Strong' : s >= 2.25 ? 'Growing' : 'Developing';
+  });
+
+  var weakest = dims.reduce(function(min, d) { return scores[d] < scores[min] ? d : min; }, dims[0]);
+  var strongest = dims.reduce(function(max, d) { return scores[d] > scores[max] ? d : max; }, dims[0]);
+
+  var payload = {
+    // Lead data
+    email: email,
+    name: name,
+    region: region,
+    business_url: bizUrl || '',
+    industry: data.industry || '',
+
+    // Fluency scores
+    overall_score: Math.round(scores.overall * 10) / 10,
+    spectrum_score: Math.round(scores.spectrum * 10) / 10,
+    d_scores: dScores,
+    d_levels: dLevels,
+    strongest_d: strongest,
+    weakest_d: weakest,
+    current_mode: data.current_mode || '',
+
+    // Scenario analysis
+    trajectory: data.trajectory || '',
+    scenario_relevance: (data.scenarios || []).map(function(s) {
+      return { name: s.name, relevance: s.relevance };
+    }),
+
+    // Pre-rendered email
+    email_html: buildResultsEmail(data, scores, name, region),
+
+    // Meta
+    timestamp: new Date().toISOString(),
+    source: 'virginia-futures-assessment'
+  };
+
+  fetch(VA_FUTURES_WEBHOOK_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload)
+  }).catch(function(err) {
+    console.warn('[VA Futures] Webhook failed:', err);
+  });
+}
 
 // ===== Prompt =====
 var PROMPT = [
