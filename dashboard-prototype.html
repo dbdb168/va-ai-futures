@@ -1,0 +1,953 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Prototype — Virginia AI Futures</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <style>
+    /* ===== Design System (from Virginia Futures) ===== */
+    :root {
+      --dark-green: #1E3322;
+      --mid-green: #2D6B3F;
+      --muted-green: #6B7B6B;
+      --grey-green: #808A80;
+      --tan: #C8C0AD;
+      --border: #F4F5F5;
+      --red: #E85D45;
+      --gold: #D4A020;
+      --white: #FFFFFF;
+      --warm-bg: #F5F0EB;
+    }
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--dark-green);
+      background: var(--white);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 60px 40px;
+    }
+
+    h1 {
+      font-family: 'Newsreader', serif;
+      font-size: 42px;
+      font-weight: 400;
+      line-height: 1.15;
+      margin-bottom: 8px;
+    }
+
+    h2 {
+      font-family: 'Newsreader', serif;
+      font-size: 32px;
+      font-weight: 400;
+      line-height: 1.2;
+      margin-bottom: 8px;
+    }
+
+    h3 {
+      font-family: 'Newsreader', serif;
+      font-size: 22px;
+      font-weight: 500;
+      margin-bottom: 6px;
+    }
+
+    .subtitle {
+      font-size: 15px;
+      color: var(--muted-green);
+      margin-bottom: 32px;
+      line-height: 1.6;
+    }
+
+    .meta {
+      font-size: 13px;
+      color: var(--grey-green);
+    }
+
+    .section-divider {
+      width: 60px;
+      height: 1px;
+      background: var(--tan);
+      margin: 48px 0;
+    }
+
+    /* ===== Overall Summary ===== */
+    .summary-bar {
+      background: var(--dark-green);
+      color: var(--white);
+      border-radius: 12px;
+      padding: 32px;
+      margin-bottom: 48px;
+    }
+
+    .summary-bar h2 {
+      color: var(--white);
+      font-size: 24px;
+      margin-bottom: 12px;
+    }
+
+    .summary-bar p {
+      color: var(--tan);
+      font-size: 15px;
+      line-height: 1.65;
+    }
+
+    .summary-scenarios {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      gap: 12px;
+      margin-top: 24px;
+    }
+
+    .summary-scenario {
+      text-align: center;
+      padding: 16px 8px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0.08);
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .summary-scenario:hover,
+    .summary-scenario.active {
+      background: rgba(255,255,255,0.15);
+    }
+
+    .summary-scenario .score {
+      font-family: 'Newsreader', serif;
+      font-size: 36px;
+      font-weight: 500;
+      color: var(--white);
+      line-height: 1;
+    }
+
+    .summary-scenario .label {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: var(--tan);
+      margin-top: 6px;
+    }
+
+    .summary-scenario .name {
+      font-family: 'Newsreader', serif;
+      font-size: 14px;
+      color: var(--white);
+      margin-top: 4px;
+    }
+
+    .signal-dots {
+      display: flex;
+      gap: 4px;
+      justify-content: center;
+      margin-top: 8px;
+    }
+
+    .signal-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+    }
+
+    .signal-dot.active { background: var(--mid-green); }
+    .signal-dot.emerging { background: var(--gold); }
+    .signal-dot.not-yet { background: rgba(255,255,255,0.2); }
+
+    /* ===== Global Charts Section ===== */
+    .chart-section {
+      margin-bottom: 48px;
+    }
+
+    .chart-context {
+      font-size: 15px;
+      color: var(--muted-green);
+      line-height: 1.65;
+      margin-bottom: 16px;
+    }
+
+    .chart-context strong {
+      color: var(--dark-green);
+    }
+
+    .chart-wrapper {
+      position: relative;
+      height: 300px;
+      margin: 16px 0;
+    }
+
+    .chart-source {
+      font-size: 12px;
+      color: var(--tan);
+      margin-top: 8px;
+    }
+
+    /* ===== Scenario Detail Panels ===== */
+    .scenario-panels {
+      margin-top: 48px;
+    }
+
+    .scenario-panel {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-bottom: 16px;
+      overflow: hidden;
+      transition: border-color 0.3s;
+    }
+
+    .scenario-panel:hover {
+      border-color: var(--tan);
+    }
+
+    .scenario-panel-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 24px;
+      cursor: pointer;
+      background: none;
+      border: none;
+      width: 100%;
+      text-align: left;
+      font-family: inherit;
+    }
+
+    .scenario-panel-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .scenario-panel-strength {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Newsreader', serif;
+      font-size: 18px;
+      font-weight: 500;
+      color: var(--white);
+      flex-shrink: 0;
+    }
+
+    .scenario-panel-info h3 {
+      font-size: 18px;
+      margin-bottom: 2px;
+    }
+
+    .scenario-panel-info .scenario-type {
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: var(--grey-green);
+    }
+
+    .scenario-panel-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .scenario-panel-status {
+      font-size: 13px;
+      color: var(--grey-green);
+    }
+
+    .scenario-panel-toggle {
+      font-size: 20px;
+      color: var(--tan);
+      transition: transform 0.3s;
+    }
+
+    .scenario-panel.open .scenario-panel-toggle {
+      transform: rotate(45deg);
+    }
+
+    .scenario-panel-body {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.5s ease-out;
+    }
+
+    .scenario-panel.open .scenario-panel-body {
+      max-height: 3000px;
+    }
+
+    .scenario-panel-content {
+      padding: 0 24px 24px;
+      border-top: 1px solid var(--border);
+    }
+
+    .scenario-narrative {
+      font-size: 15px;
+      color: var(--muted-green);
+      line-height: 1.65;
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 20px;
+    }
+
+    /* ===== Indicators within scenario panels ===== */
+    .indicator-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .indicator-item:last-child {
+      border-bottom: none;
+    }
+
+    .indicator-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      margin-top: 5px;
+    }
+
+    .indicator-dot.active { background: var(--mid-green); }
+    .indicator-dot.emerging { background: var(--gold); }
+    .indicator-dot.not-yet { background: var(--tan); }
+    .indicator-dot.strong { background: var(--dark-green); }
+
+    .indicator-text {
+      flex: 1;
+    }
+
+    .indicator-signal {
+      font-size: 15px;
+      color: var(--dark-green);
+      margin-bottom: 4px;
+    }
+
+    .indicator-source {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: var(--tan);
+    }
+
+    .indicator-evidence {
+      font-size: 13px;
+      color: var(--grey-green);
+      line-height: 1.5;
+      margin-top: 4px;
+    }
+
+    .indicator-logic {
+      font-size: 13px;
+      color: var(--muted-green);
+      line-height: 1.5;
+      margin-top: 6px;
+      padding: 8px 12px;
+      background: var(--warm-bg);
+      border-radius: 6px;
+      font-style: italic;
+    }
+
+    /* ===== Scenario mini-chart inside panel ===== */
+    .scenario-chart-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin: 20px 0;
+    }
+
+    .scenario-mini-chart {
+      background: var(--warm-bg);
+      border-radius: 8px;
+      padding: 16px;
+    }
+
+    .scenario-mini-chart h4 {
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: var(--grey-green);
+      margin-bottom: 8px;
+    }
+
+    .mini-chart-wrapper {
+      height: 160px;
+      position: relative;
+    }
+
+    /* ===== Legend ===== */
+    .legend {
+      display: flex;
+      gap: 20px;
+      font-size: 13px;
+      color: var(--grey-green);
+      margin-bottom: 24px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 768px) {
+      .container { padding: 32px 20px; }
+      h1 { font-size: 32px; }
+      .summary-scenarios { grid-template-columns: 1fr 1fr; }
+      .scenario-chart-row { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- ===== Header ===== -->
+  <p class="meta" style="margin-bottom: 4px;">THE FLUENCY QUESTION</p>
+  <h1>Where Is Virginia Tracking?</h1>
+  <p class="subtitle">A living dashboard tracking which AI future is materializing for Virginia's small and mid-size businesses. Updated quarterly from six data sources. Next update: June 2026.</p>
+
+  <!-- ===== Overall Summary ===== -->
+  <div class="summary-bar">
+    <h2>Current Assessment: March 2026</h2>
+    <p>Virginia is tracking between "Software Does It For You" and "Pockets of Excellence." Broad shallow adoption is measurably happening. Metro pockets of deeper engagement are forming. The distributed fluency scenario remains aspirational.</p>
+
+    <div class="summary-scenarios">
+      <div class="summary-scenario" data-scenario="build-it-yourself">
+        <div class="score">30%</div>
+        <div class="label">Deep &amp; Distributed</div>
+        <div class="name">Build It Yourself</div>
+        <div class="signal-dots">
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot not-yet"></span>
+          <span class="signal-dot not-yet"></span>
+        </div>
+      </div>
+      <div class="summary-scenario active" data-scenario="software-does-it">
+        <div class="score">70%</div>
+        <div class="label">Shallow &amp; Distributed</div>
+        <div class="name">Software Does It For You</div>
+        <div class="signal-dots">
+          <span class="signal-dot active"></span>
+          <span class="signal-dot active"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot emerging"></span>
+        </div>
+      </div>
+      <div class="summary-scenario" data-scenario="pockets">
+        <div class="score">50%</div>
+        <div class="label">Deep &amp; Concentrated</div>
+        <div class="name">Pockets of Excellence</div>
+        <div class="signal-dots">
+          <span class="signal-dot active"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot not-yet"></span>
+        </div>
+      </div>
+      <div class="summary-scenario" data-scenario="widening-gap">
+        <div class="score">20%</div>
+        <div class="label">Shallow &amp; Concentrated</div>
+        <div class="name">The Widening Gap</div>
+        <div class="signal-dots">
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot emerging"></span>
+          <span class="signal-dot not-yet"></span>
+          <span class="signal-dot not-yet"></span>
+          <span class="signal-dot not-yet"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Global Charts ===== -->
+  <h2>The Data</h2>
+  <p class="subtitle">Four metrics that matter. Each tells a different part of the story.</p>
+
+  <!-- Chart 1: Regional Unemployment -->
+  <div class="chart-section">
+    <h3>Regional Employment Divergence</h3>
+    <p class="chart-context"><strong>Why this matters:</strong> If AI fluency spreads broadly, economic benefits distribute and these lines converge. If fluency concentrates in metros, the lines diverge. The persistent 1.5 to 2.5 percentage point gap between Northern Virginia and Southside is the economic signature of uneven capability distribution.</p>
+    <div class="chart-wrapper"><canvas id="chart-unemployment"></canvas></div>
+    <p class="chart-source">Source: Bureau of Labor Statistics, Local Area Unemployment Statistics. County-level data aggregated to Weldon Cooper Center regions.</p>
+  </div>
+
+  <!-- Chart 2: Automation vs Augmentation -->
+  <div class="chart-section">
+    <h3>How People Use AI: Automation vs. Augmentation</h3>
+    <p class="chart-context"><strong>Why this matters:</strong> Augmentation means people are thinking with AI, building, iterating, using it as a judgment partner. Automation means AI is doing tasks for people without deeper engagement. The ratio between these two modes is the clearest measure of whether adoption is becoming fluency or staying shallow.</p>
+    <div class="chart-wrapper" style="height:260px;"><canvas id="chart-augmentation"></canvas></div>
+    <p class="chart-source">Source: Anthropic Economic Index (Hugging Face, CC-BY). US national data from Claude conversations. Reports: Feb 2025, Sep 2025, Jan 2026.</p>
+  </div>
+
+  <!-- Chart 3: Geographic Spread -->
+  <div class="chart-section">
+    <h3>Geographic Spread of AI Usage</h3>
+    <p class="chart-context"><strong>Why this matters:</strong> The Gini coefficient measures how evenly AI usage is distributed across US states. Lower means more equal. A falling Gini means AI is spreading geographically, which favors the distributed scenarios. A rising Gini means concentration, which favors "Pockets of Excellence" or "The Widening Gap."</p>
+    <div style="display:flex; align-items:center; gap:32px; margin:24px 0; padding:24px; background:var(--warm-bg); border-radius:12px;">
+      <div style="text-align:center;">
+        <div style="font-family:Newsreader,serif; font-size:48px; font-weight:500; color:var(--mid-green);">0.37</div>
+        <div style="font-size:13px; color:var(--grey-green);">Aug 2025</div>
+      </div>
+      <div style="font-size:32px; color:var(--mid-green);">&darr;</div>
+      <div style="text-align:center;">
+        <div style="font-family:Newsreader,serif; font-size:48px; font-weight:500; color:var(--mid-green);">0.32</div>
+        <div style="font-size:13px; color:var(--grey-green);">Nov 2025</div>
+      </div>
+      <div style="flex:1; font-size:15px; line-height:1.6; color:var(--muted-green);">
+        Gini falling by 0.05 in three months. AI usage is spreading geographically across US states. At this rate, state-level parity in 2 to 5 years. This is a positive signal for distributed scenarios.
+      </div>
+    </div>
+    <p class="chart-source">Source: Anthropic Economic Index, January 2026 report. US state-level data.</p>
+  </div>
+
+  <!-- Chart 4: Task Coverage Gap -->
+  <div class="chart-section">
+    <h3>The Fluency Gap: What AI Could Do vs. What It Does</h3>
+    <p class="chart-context"><strong>Why this matters:</strong> This is the fluency question visualized. The gap between what AI is theoretically capable of in each occupation and what businesses actually use it for represents unrealized potential. In "Build It Yourself," the green bars grow across all categories. In "Software Does It For You," they grow only where vendors embed AI. In "Pockets of Excellence," they grow only in metro knowledge-worker categories.</p>
+    <div class="chart-wrapper" style="height:340px;"><canvas id="chart-task-coverage"></canvas></div>
+    <p class="chart-source">Source: Anthropic Economic Index + Eloundou et al. (2023) theoretical capability scores. Observed data from real Claude usage in professional contexts.</p>
+  </div>
+
+  <div class="section-divider"></div>
+
+  <!-- ===== Scenario Detail Panels ===== -->
+  <div class="scenario-panels">
+    <h2>Scenario Signal Detail</h2>
+    <p class="subtitle">Click each scenario to see the specific indicators driving its assessment, with evidence and data.</p>
+
+    <div class="legend">
+      <span class="legend-item"><span class="indicator-dot active" style="display:inline-block;"></span> Active</span>
+      <span class="legend-item"><span class="indicator-dot emerging" style="display:inline-block;"></span> Emerging</span>
+      <span class="legend-item"><span class="indicator-dot not-yet" style="display:inline-block;"></span> Not yet</span>
+    </div>
+
+    <!-- Panel: Software Does It For You (strongest signals) -->
+    <div class="scenario-panel open">
+      <button class="scenario-panel-header">
+        <div class="scenario-panel-left">
+          <div class="scenario-panel-strength" style="background:var(--gold);">70%</div>
+          <div class="scenario-panel-info">
+            <h3>&ldquo;Software Does It For You&rdquo;</h3>
+            <span class="scenario-type">Shallow &amp; Distributed</span>
+          </div>
+        </div>
+        <div class="scenario-panel-right">
+          <span class="scenario-panel-status">2 active, 3 emerging</span>
+          <span class="scenario-panel-toggle">+</span>
+        </div>
+      </button>
+      <div class="scenario-panel-body">
+        <div class="scenario-panel-content">
+          <p class="scenario-narrative">Platform-delivered AI is creating broad but shallow adoption. SaaS vendors are embedding AI features that satisfy curiosity without building capability. The inoculation effect is measurable: businesses report "using AI" while scoring low on fluency metrics.</p>
+
+          <div class="scenario-chart-row">
+            <div class="scenario-mini-chart">
+              <h4>Relevant metric: Automation ratio</h4>
+              <div class="mini-chart-wrapper"><canvas id="mini-auto-ratio"></canvas></div>
+            </div>
+            <div class="scenario-mini-chart">
+              <h4>Relevant metric: Task coverage</h4>
+              <div class="mini-chart-wrapper"><canvas id="mini-task-shallow"></canvas></div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot active"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">High reported AI "adoption" with low fluency depth</div>
+              <div class="indicator-source">Census BTOS, Anthropic Economic Index</div>
+              <div class="indicator-evidence">Only 4% of occupations use AI for 75%+ of tasks. 36% use it for 25%+. The gap between "using AI" and "fluent in AI" is wide and measurable.</div>
+              <div class="indicator-logic">This is the signature of shallow adoption: everyone reports using AI, almost nobody has built anything with it.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot active"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">SaaS platforms shipping AI features that absorb business intelligence</div>
+              <div class="indicator-source">Industry observation</div>
+              <div class="indicator-evidence">QuickBooks, Toast, ServiceTitan, Dentrix, Procore, AppFolio all shipped embedded AI in 2025-2026. Each learns from business data, deepening lock-in.</div>
+              <div class="indicator-logic">When AI features absorb business intelligence into vendor platforms, switching costs become existential. The floor rises but becomes a ceiling.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Automation ratio rising faster than augmentation</div>
+              <div class="indicator-source">Anthropic Economic Index</div>
+              <div class="indicator-evidence">Aug 2025: automation briefly overtook augmentation for the first time. Nov 2025: swung back. API usage is 75% automation. Trend is mixed.</div>
+              <div class="indicator-logic">High automation + low augmentation = AI doing tasks for people, not people learning to think with AI.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Policy urgency low despite adoption metrics</div>
+              <div class="indicator-source">BuildFirst field observations</div>
+              <div class="indicator-evidence">GO Virginia has not prioritized AI fluency programming. Community colleges on standard 12-18 month timelines. No emergency posture.</div>
+              <div class="indicator-logic">When adoption metrics look strong, policymakers see no urgency. The institutional vacuum persists.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Task coverage broad but shallow (routine tasks only)</div>
+              <div class="indicator-source">Anthropic Economic Index</div>
+              <div class="indicator-evidence">36% of occupations use AI for 25%+ of tasks, but usage concentrates in routine categories. Deep judgment-augmentation remains rare.</div>
+              <div class="indicator-logic">Broad but shallow = the platform scenario. AI everywhere but not doing anything vendors couldn't have shipped.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel: Pockets of Excellence -->
+    <div class="scenario-panel">
+      <button class="scenario-panel-header">
+        <div class="scenario-panel-left">
+          <div class="scenario-panel-strength" style="background:var(--grey-green);">50%</div>
+          <div class="scenario-panel-info">
+            <h3>&ldquo;Pockets of Excellence&rdquo;</h3>
+            <span class="scenario-type">Deep &amp; Concentrated</span>
+          </div>
+        </div>
+        <div class="scenario-panel-right">
+          <span class="scenario-panel-status">1 active, 3 emerging</span>
+          <span class="scenario-panel-toggle">+</span>
+        </div>
+      </button>
+      <div class="scenario-panel-body">
+        <div class="scenario-panel-content">
+          <p class="scenario-narrative">Deep AI fluency is forming in metro clusters while rural Virginia remains at platform level. The metro-rural gap in AI engagement is structural, not temporary. BuildFirst client geography is 85% metro Richmond and NoVA.</p>
+
+          <div class="scenario-chart-row">
+            <div class="scenario-mini-chart">
+              <h4>Relevant metric: Regional divergence</h4>
+              <div class="mini-chart-wrapper"><canvas id="mini-divergence"></canvas></div>
+            </div>
+            <div class="scenario-mini-chart">
+              <h4>Relevant metric: Geographic Gini</h4>
+              <div style="display:flex; align-items:center; justify-content:center; gap:16px; height:160px;">
+                <div style="text-align:center;">
+                  <div style="font-family:Newsreader,serif; font-size:36px; font-weight:500; color:var(--mid-green);">0.37</div>
+                  <div style="font-size:11px; color:var(--grey-green);">Aug</div>
+                </div>
+                <div style="font-size:24px; color:var(--mid-green);">&darr;</div>
+                <div style="text-align:center;">
+                  <div style="font-family:Newsreader,serif; font-size:36px; font-weight:500; color:var(--mid-green);">0.32</div>
+                  <div style="font-size:11px; color:var(--grey-green);">Nov</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot active"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Metro-rural gap in AI engagement widening</div>
+              <div class="indicator-source">BuildFirst field observations, BLS QCEW</div>
+              <div class="indicator-evidence">BuildFirst client geography is 85% metro Richmond and NoVA. Richmond, NoVA, Charlottesville have active AI programming. Southside and Southwest chambers have none.</div>
+              <div class="indicator-logic">The defining feature: deep fluency in metros, platform-level elsewhere.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Employment and wage growth diverging between metro and rural</div>
+              <div class="indicator-source">BLS QCEW, FRED</div>
+              <div class="indicator-evidence">BLS data shows continued employment concentration in NoVA, Richmond, Hampton Roads. Southside and Southwest flat to declining.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Augmentation concentrated in knowledge-worker metros</div>
+              <div class="indicator-source">Anthropic Economic Index</div>
+              <div class="indicator-evidence">Augmentation highest in Computer & Math (37.2% of usage). These occupations concentrate in metro areas. Fairfax City has 2nd highest patenting intensity in the US.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Young worker job-finding rates declining in exposed occupations</div>
+              <div class="indicator-source">Anthropic Labor Market Impacts (March 2026)</div>
+              <div class="indicator-evidence">14% drop in job-finding rates for ages 22-25 in AI-exposed occupations.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot not-yet"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Rural AI initiatives report thin engagement (messenger problem)</div>
+              <div class="indicator-source">BuildFirst field observations</div>
+              <div class="indicator-evidence">Limited rural AI initiatives launched to date. Pattern not yet testable at scale.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel: Build It Yourself -->
+    <div class="scenario-panel">
+      <button class="scenario-panel-header">
+        <div class="scenario-panel-left">
+          <div class="scenario-panel-strength" style="background:var(--mid-green);">30%</div>
+          <div class="scenario-panel-info">
+            <h3>&ldquo;Build It Yourself&rdquo;</h3>
+            <span class="scenario-type">Deep &amp; Distributed</span>
+          </div>
+        </div>
+        <div class="scenario-panel-right">
+          <span class="scenario-panel-status">0 active, 3 emerging</span>
+          <span class="scenario-panel-toggle">+</span>
+        </div>
+      </button>
+      <div class="scenario-panel-body">
+        <div class="scenario-panel-content">
+          <p class="scenario-narrative">Early signs but no confirmation. The geographic Gini is falling nationally and peer-network sharing is beginning in Richmond and Charlottesville. But no population-level evidence of businesses building bespoke AI tools.</p>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Augmentation ratio rising nationally</div>
+              <div class="indicator-source">Anthropic Economic Index</div>
+              <div class="indicator-evidence">Jan 2025: 56% augmentation. Aug 2025: automation briefly overtook. Nov 2025: augmentation recovered to 52%. Trend volatile but augmentation-leaning.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Geographic Gini coefficient falling</div>
+              <div class="indicator-source">Anthropic Economic Index</div>
+              <div class="indicator-evidence">US state-level Gini fell from 0.37 to 0.32 (Aug-Nov 2025). Suggestive of distribution, but national data only.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Peer-network AI sharing at trade associations and chambers</div>
+              <div class="indicator-source">BuildFirst field observations</div>
+              <div class="indicator-evidence">BuildFirst participants report sharing techniques informally. Richmond and Charlottesville clusters forming. Not yet in Southside or Southwest.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot not-yet"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Businesses building bespoke AI tools</div>
+              <div class="indicator-source">BuildFirst field observations, Census BTOS</div>
+              <div class="indicator-evidence">Individual cases observed. No population-level data yet.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot not-yet"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Employment growth distributed across regions</div>
+              <div class="indicator-source">BLS QCEW, FRED</div>
+              <div class="indicator-evidence">No evidence of distributed growth acceleration yet.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel: The Widening Gap -->
+    <div class="scenario-panel">
+      <button class="scenario-panel-header">
+        <div class="scenario-panel-left">
+          <div class="scenario-panel-strength" style="background:var(--red);">20%</div>
+          <div class="scenario-panel-info">
+            <h3>&ldquo;The Widening Gap&rdquo;</h3>
+            <span class="scenario-type">Shallow &amp; Concentrated</span>
+          </div>
+        </div>
+        <div class="scenario-panel-right">
+          <span class="scenario-panel-status">0 active, 2 emerging</span>
+          <span class="scenario-panel-toggle">+</span>
+        </div>
+      </button>
+      <div class="scenario-panel-body">
+        <div class="scenario-panel-content">
+          <p class="scenario-narrative">No trigger event yet, but economic conditions are soft. Virginia hiring rate at 3.4% (weak). Continued unemployment claims 24% higher year-over-year. If a recession hits during the 2027-2028 critical window, this scenario activates rapidly.</p>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Economic contraction risk during critical learning window</div>
+              <div class="indicator-source">FRED, Virginia budget outlook</div>
+              <div class="indicator-evidence">Virginia hiring rate at 3.4% (weak). Continued claims 24% higher YoY. Federal spending contraction is a Virginia-specific risk.</div>
+              <div class="indicator-logic">A recession during the critical window is asymmetric: fluent firms benefit (low marginal AI cost), non-fluent firms cut the investments that would close the gap.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot emerging"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">BLS growth projections declining in AI-exposed occupations</div>
+              <div class="indicator-source">Anthropic Labor Market Impacts</div>
+              <div class="indicator-evidence">For every 10pp increase in observed AI coverage, BLS growth projection drops 0.6pp. Modest but statistically significant.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot not-yet"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Local AI failure story crystallizes into community narrative</div>
+              <div class="indicator-source">News monitoring</div>
+              <div class="indicator-evidence">No high-profile Virginia-specific AI failure stories in business context. National stories exist but have not localized.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot not-yet"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Geographic Gini rising (usage concentrating)</div>
+              <div class="indicator-source">Anthropic Economic Index</div>
+              <div class="indicator-evidence">Gini actually fell from 0.37 to 0.32. Currently trending against this scenario.</div>
+            </div>
+          </div>
+
+          <div class="indicator-item">
+            <span class="indicator-dot not-yet"></span>
+            <div class="indicator-text">
+              <div class="indicator-signal">Business AI investment deferred or cut</div>
+              <div class="indicator-source">BuildFirst field observations</div>
+              <div class="indicator-evidence">No measurable signal yet. BuildFirst pipeline remains active.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-divider"></div>
+
+  <p class="meta">Data sources: Anthropic Economic Index (Hugging Face, CC-BY) &bull; Anthropic Labor Market Impacts (March 2026) &bull; BLS LAUS &amp; QCEW &bull; FRED &bull; Census BTOS &bull; BuildFirst field observations</p>
+  <p class="meta" style="margin-top:8px;">Updated quarterly. We are actively reviewing new data sources and developments. As the Anthropic Economic Index expands geographic granularity and new Virginia-specific surveys become available, we will incorporate them.</p>
+  <p class="meta" style="margin-top:8px;">A <a href="https://buildfirst.io" style="color:var(--mid-green);">BuildFirst</a> Research Project &bull; March 2026</p>
+
+</div>
+
+<script>
+  // ===== Render Charts =====
+  function makeChart(id, type, labels, datasets, opts) {
+    var canvas = document.getElementById(id);
+    if (!canvas) return;
+    new Chart(canvas.getContext('2d'), {
+      type: type,
+      data: { labels: labels, datasets: datasets },
+      options: Object.assign({
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { position: 'bottom', labels: { font: { family: 'Inter', size: 12 }, color: '#6B7B6B', usePointStyle: true, padding: 16 } }
+        }
+      }, opts || {})
+    });
+  }
+
+  // Regional unemployment
+  makeChart('chart-unemployment', 'line',
+    ['Jan 24', 'Mar 24', 'Jun 24', 'Sep 24', 'Dec 24', 'Mar 25', 'Jun 25', 'Sep 25', 'Dec 25'],
+    [
+      { label: 'Northern Virginia', data: [2.3,2.1,2.6,2.3,2.1,2.6,3.5,2.9,3.2], borderColor: '#2D6B3F', borderWidth: 2, pointRadius: 3, tension: 0.3, fill: false },
+      { label: 'Richmond Metro', data: [2.8,2.6,3.0,2.7,2.5,3.0,3.7,3.1,3.2], borderColor: '#4A8B5E', borderWidth: 2, pointRadius: 3, tension: 0.3, fill: false },
+      { label: 'Hampton Roads', data: [3.0,2.9,3.2,2.9,2.8,3.1,4.0,3.5,3.6], borderColor: '#6B7B6B', borderWidth: 2, pointRadius: 3, tension: 0.3, fill: false },
+      { label: 'Shenandoah Valley', data: [2.4,2.2,2.8,2.4,2.2,2.8,3.4,2.6,2.9], borderColor: '#808A80', borderWidth: 2, pointRadius: 3, tension: 0.3, fill: false },
+      { label: 'Roanoke / NRV', data: [2.9,2.7,3.6,2.8,2.6,3.3,4.4,3.2,3.5], borderColor: '#C8C0AD', borderWidth: 2, pointRadius: 3, tension: 0.3, fill: false },
+      { label: 'Southside', data: [4.5,4.2,4.4,3.9,3.6,4.2,5.3,4.4,4.6], borderColor: '#E85D45', borderWidth: 2, pointRadius: 3, tension: 0.3, fill: false },
+      { label: 'Southwest', data: [3.8,3.6,4.1,3.6,3.4,3.9,5.0,3.9,4.3], borderColor: '#D4A020', borderWidth: 2, pointRadius: 3, tension: 0.3, fill: false }
+    ],
+    { scales: { x: { grid: { display: false } }, y: { grid: { color: '#F4F5F5' }, ticks: { callback: function(v){return v+'%';} } } } }
+  );
+
+  // Augmentation vs automation
+  makeChart('chart-augmentation', 'bar',
+    ['Jan 2025', 'Aug 2025', 'Nov 2025'],
+    [
+      { label: 'Augmentation', data: [56, 46, 52], backgroundColor: '#2D6B3F', borderRadius: 4 },
+      { label: 'Automation', data: [41, 51, 45], backgroundColor: '#D4A020', borderRadius: 4 }
+    ],
+    { scales: { x: { grid: { display: false } }, y: { grid: { color: '#F4F5F5' }, ticks: { callback: function(v){return v+'%';} }, max: 70 } } }
+  );
+
+  // Task coverage
+  makeChart('chart-task-coverage', 'bar',
+    ['Computer & Math', 'Arts & Media', 'Office & Admin', 'Business & Financial', 'Education', 'Healthcare', 'Construction', 'Food Service'],
+    [
+      { label: 'Observed usage', data: [33,15,12,10,8,4,2,1], backgroundColor: '#2D6B3F', borderRadius: 4 },
+      { label: 'Theoretical capability', data: [94,68,90,76,54,32,18,12], backgroundColor: '#C8C0AD', borderRadius: 4 }
+    ],
+    { indexAxis: 'y', scales: { x: { grid: { color: '#F4F5F5' }, ticks: { callback: function(v){return v+'%';} }, max: 100 }, y: { grid: { display: false } } } }
+  );
+
+  // Mini charts inside scenario panels
+  makeChart('mini-auto-ratio', 'bar',
+    ['Jan 25', 'Aug 25', 'Nov 25'],
+    [
+      { label: 'Automation', data: [41, 51, 45], backgroundColor: '#D4A020', borderRadius: 3 },
+      { label: 'Augmentation', data: [56, 46, 52], backgroundColor: '#2D6B3F', borderRadius: 3 }
+    ],
+    { plugins: { legend: { display: false } }, scales: { x: { grid: { display: false }, ticks: { font: { size: 10 } } }, y: { grid: { color: '#F4F5F5' }, ticks: { callback: function(v){return v+'%';}, font: { size: 10 } }, max: 60 } } }
+  );
+
+  makeChart('mini-task-shallow', 'bar',
+    ['Comp', 'Arts', 'Office', 'Biz', 'Edu', 'Health'],
+    [
+      { label: 'Used', data: [33,15,12,10,8,4], backgroundColor: '#2D6B3F', borderRadius: 3 },
+      { label: 'Possible', data: [94,68,90,76,54,32], backgroundColor: '#C8C0AD', borderRadius: 3 }
+    ],
+    { indexAxis: 'y', plugins: { legend: { display: false } }, scales: { x: { grid: { display: false }, ticks: { font: { size: 10 } }, max: 100 }, y: { grid: { display: false }, ticks: { font: { size: 10 } } } } }
+  );
+
+  makeChart('mini-divergence', 'line',
+    ['Jan 24', 'Jun 24', 'Dec 24', 'Jun 25', 'Dec 25'],
+    [
+      { label: 'NoVA', data: [2.3,2.6,2.1,3.5,3.2], borderColor: '#2D6B3F', borderWidth: 2, pointRadius: 2, tension: 0.3, fill: false },
+      { label: 'Southside', data: [4.5,4.4,3.6,5.3,4.6], borderColor: '#E85D45', borderWidth: 2, pointRadius: 2, tension: 0.3, fill: false }
+    ],
+    { plugins: { legend: { display: false } }, scales: { x: { grid: { display: false }, ticks: { font: { size: 10 } } }, y: { grid: { color: '#F4F5F5' }, ticks: { font: { size: 10 }, callback: function(v){return v+'%';} } } } }
+  );
+
+  // ===== Accordion Toggle =====
+  document.querySelectorAll('.scenario-panel-header').forEach(function(header) {
+    header.addEventListener('click', function() {
+      var panel = this.closest('.scenario-panel');
+      panel.classList.toggle('open');
+    });
+  });
+</script>
+
+</body>
+</html>
