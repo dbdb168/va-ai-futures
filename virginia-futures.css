@@ -251,8 +251,8 @@ img {
 /* ===== Fiction Disclaimer ===== */
 .fiction-disclaimer {
   max-width: var(--reading-width);
-  margin: 0 auto;
-  padding: 24px 80px;
+  margin: -24px auto 0;
+  padding: 0 80px 24px;
 }
 
 .fiction-disclaimer-inner {
@@ -481,6 +481,7 @@ img {
   line-height: 1.12;
   color: var(--white);
   margin-bottom: 16px;
+  text-wrap: balance;
 }
 
 .chapter-break p {
