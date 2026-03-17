@@ -229,7 +229,7 @@
         'anthropic-dangerous-direct-browser-access': 'true'
       },
       body: JSON.stringify({
-        model: 'claude-3-haiku-20240307',
+        model: 'claude-sonnet-4-5-20250929',
         max_tokens: 2500,
         messages: [
           { role: 'user', content: prompt }
