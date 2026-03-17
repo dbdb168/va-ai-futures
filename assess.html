@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assess Your Business — Virginia AI Futures</title>
+<meta name="description" content="Where does your business sit in Virginia's AI future? A personalized fluency assessment and scenario analysis in 10 minutes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --dark-green: #1E3322;
+  --mid-green: #2D6B3F;
+  --muted-green: #6B7B6B;
+  --grey-green: #808A80;
+  --tan: #C8C0AD;
+  --border: #F4F5F5;
+  --red: #E85D45;
+  --gold: #D4A020;
+  --white: #FFFFFF;
+  --warm-bg: #F5F0EB;
+  --delegation: #3A7BB5;
+  --description: #D4A020;
+  --discernment: #2D6B3F;
+  --diligence: #9B5BA3;
+}
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Inter', sans-serif; color: var(--dark-green); background: var(--white); font-size: 16px; line-height: 1.7; }
+
+/* Header */
+.site-header { position: fixed; top: 0; left: 0; right: 0; z-index: 200; background: rgba(255,255,255,0.95); backdrop-filter: blur(8px); border-bottom: 1px solid var(--border); padding: 0 40px; height: 56px; display: flex; align-items: center; justify-content: space-between; }
+.site-header a { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 500; color: var(--grey-green); text-decoration: none; }
+.site-header a:hover { color: var(--dark-green); }
+.brand { font-family: 'Newsreader', serif; font-size: 15px; font-weight: 500; color: var(--dark-green); }
+
+/* Layout */
+.page { max-width: 640px; margin: 0 auto; padding: 100px 32px 80px; }
+
+/* Progress */
+.progress-bar { position: fixed; top: 56px; left: 0; width: 100%; height: 3px; background: var(--border); z-index: 199; }
+.progress-fill { height: 100%; background: var(--mid-green); width: 0%; transition: width 0.4s ease; }
+
+/* Typography */
+h1 { font-family: 'Newsreader', serif; font-size: 36px; font-weight: 400; line-height: 1.15; margin-bottom: 8px; }
+h2 { font-family: 'Newsreader', serif; font-size: 26px; font-weight: 400; margin-bottom: 6px; }
+.subtitle { font-size: 15px; color: var(--muted-green); margin-bottom: 24px; line-height: 1.65; }
+.meta { font-size: 13px; color: var(--grey-green); }
+
+/* Steps */
+.step { display: none; }
+.step.active { display: block; }
+
+/* Form */
+label { display: block; font-weight: 500; font-size: 15px; margin-bottom: 6px; }
+input[type="text"], input[type="email"], input[type="url"], textarea, select {
+  width: 100%; padding: 12px 14px; font-family: 'Inter', sans-serif; font-size: 15px;
+  border: 1px solid var(--tan); border-radius: 8px; background: var(--white); color: var(--dark-green);
+  outline: none; transition: border-color 0.2s;
+}
+input:focus, textarea:focus, select:focus { border-color: var(--mid-green); }
+textarea { resize: vertical; min-height: 80px; }
+.field { margin-bottom: 20px; }
+.field-hint { font-size: 13px; color: var(--grey-green); margin-top: 4px; }
+
+/* Option cards */
+.option-group { margin-bottom: 24px; }
+.option-card {
+  display: block; padding: 14px 16px; border: 1px solid var(--border); border-radius: 8px;
+  margin-bottom: 8px; cursor: pointer; transition: all 0.15s; font-size: 15px; line-height: 1.5;
+}
+.option-card:hover { border-color: var(--mid-green); background: rgba(45,107,63,0.04); }
+.option-card.selected { border-color: var(--mid-green); background: rgba(45,107,63,0.08); font-weight: 500; }
+.option-card input { display: none; }
+
+/* Question */
+.question-block { margin-bottom: 32px; padding-bottom: 32px; border-bottom: 1px solid var(--border); }
+.question-block:last-child { border-bottom: none; }
+.question-num { font-size: 12px; font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase; color: var(--tan); margin-bottom: 4px; }
+.question-dim { font-size: 11px; font-weight: 500; letter-spacing: 0.5px; text-transform: uppercase; padding: 2px 8px; border-radius: 4px; display: inline-block; margin-bottom: 8px; }
+.question-text { font-family: 'Newsreader', serif; font-size: 20px; font-weight: 400; margin-bottom: 16px; }
+
+/* Buttons */
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 14px 32px; background: var(--mid-green); color: var(--white); border-radius: 8px; font-size: 16px; font-weight: 600; border: none; cursor: pointer; transition: opacity 0.2s; }
+.btn:hover { opacity: 0.85; }
+.btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.btn-secondary { background: none; color: var(--mid-green); border: 1px solid var(--mid-green); }
+
+/* Data notice */
+.data-notice { background: var(--warm-bg); border-radius: 8px; padding: 16px 20px; margin: 24px 0; font-size: 14px; line-height: 1.6; color: var(--muted-green); }
+
+/* Loading */
+.loading { text-align: center; padding: 60px 20px; }
+.spinner { display: inline-block; width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--mid-green); border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 16px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* Results */
+.result-section { margin-bottom: 40px; }
+.result-section h3 { font-family: 'Newsreader', serif; font-size: 22px; font-weight: 500; margin-bottom: 8px; }
+
+.fluency-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 20px 0; }
+.fluency-card { border: 1px solid var(--border); border-radius: 8px; padding: 20px; }
+.fluency-card-title { font-size: 12px; font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 4px; }
+.fluency-card-score { font-family: 'Newsreader', serif; font-size: 28px; font-weight: 500; margin-bottom: 4px; }
+.fluency-bar { height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; margin-bottom: 8px; }
+.fluency-bar-fill { height: 100%; border-radius: 3px; }
+.fluency-card-desc { font-size: 13px; color: var(--grey-green); line-height: 1.5; }
+
+.scenario-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0; }
+.scenario-card { border: 1px solid var(--border); border-radius: 8px; padding: 16px; }
+.scenario-card-label { font-size: 11px; font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 4px; }
+.scenario-card-label.high { color: var(--mid-green); }
+.scenario-card-label.medium { color: var(--gold); }
+.scenario-card-label.low { color: var(--tan); }
+.scenario-card h4 { font-family: 'Newsreader', serif; font-size: 16px; font-weight: 500; margin-bottom: 6px; }
+.scenario-card p { font-size: 13px; color: var(--grey-green); line-height: 1.5; }
+
+.action-list { list-style: none; padding: 0; }
+.action-list li { padding: 12px 0; border-bottom: 1px solid var(--border); font-size: 15px; line-height: 1.6; display: flex; gap: 12px; }
+.action-list li:last-child { border-bottom: none; }
+.action-list li::before { content: ''; width: 6px; height: 6px; background: var(--mid-green); border-radius: 50%; flex-shrink: 0; margin-top: 8px; }
+
+.cta-box { background: var(--warm-bg); border-radius: 12px; padding: 32px; text-align: center; margin: 40px 0; }
+.cta-box h3 { font-family: 'Newsreader', serif; font-size: 24px; font-weight: 400; margin-bottom: 8px; }
+.cta-box p { font-size: 15px; color: var(--muted-green); margin-bottom: 20px; }
+
+@media (max-width: 768px) {
+  .page { padding: 80px 20px 60px; }
+  h1 { font-size: 28px; }
+  .fluency-grid, .scenario-cards { grid-template-columns: 1fr; }
+  .site-header { padding: 0 20px; }
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <span class="brand"><a href="virginia-futures.html" style="color:var(--dark-green); text-decoration:none;">A BuildFirst Research Project</a></span>
+  <nav style="display:flex; gap:20px;">
+    <a href="virginia-futures.html">Main Report</a>
+    <a href="dashboard.html">Dashboard</a>
+  </nav>
+</header>
+
+<div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+
+<div class="page">
+
+  <!-- ===== STEP 1: About Your Business ===== -->
+  <div class="step active" id="step-1">
+    <h1>Where Does Your Business Sit in Virginia's AI Future?</h1>
+    <p class="subtitle">A 10-minute assessment that combines your AI fluency profile with a personalized scenario analysis for your business. You will receive your results by email.</p>
+
+    <div class="data-notice">
+      <strong>How we use your information.</strong> Your email is used to send your results and to follow up with you. Your assessment responses are anonymized and contribute to ongoing research into AI fluency patterns among Virginia businesses. We do not share your individual responses. By completing this assessment, you consent to this use.
+    </div>
+
+    <div class="field">
+      <label for="email">Email address</label>
+      <input type="email" id="email" required placeholder="you@company.com">
+      <div class="field-hint">Your results will be sent here.</div>
+    </div>
+    <div class="field">
+      <label for="name">Your name</label>
+      <input type="text" id="name" required placeholder="First and last name">
+    </div>
+    <div class="field">
+      <label for="bizUrl">Business website</label>
+      <input type="url" id="bizUrl" placeholder="https://yourcompany.com">
+      <div class="field-hint">We will research your business to personalize the analysis. If you do not have a website, describe your business below.</div>
+    </div>
+    <div class="field">
+      <label for="bizDesc">Briefly describe your business</label>
+      <textarea id="bizDesc" rows="3" placeholder="What you do, how many people, where in Virginia. The more specific, the better the analysis."></textarea>
+    </div>
+    <div class="field">
+      <label for="region">Virginia region</label>
+      <select id="region" required>
+        <option value="">Select your region</option>
+        <option value="Northern Virginia">Northern Virginia</option>
+        <option value="Richmond Metro">Richmond Metro</option>
+        <option value="Hampton Roads">Hampton Roads</option>
+        <option value="Charlottesville / Central Virginia">Charlottesville / Central Virginia</option>
+        <option value="Shenandoah Valley">Shenandoah Valley</option>
+        <option value="Roanoke / New River Valley">Roanoke / New River Valley</option>
+        <option value="Southside">Southside</option>
+        <option value="Southwest Virginia">Southwest Virginia</option>
+      </select>
+    </div>
+
+    <button class="btn" onclick="nextStep(2)">Continue to Assessment</button>
+  </div>
+
+  <!-- ===== STEP 2: Fluency Assessment ===== -->
+  <div class="step" id="step-2">
+    <h2>Your AI Fluency</h2>
+    <p class="subtitle">Ten questions based on Anthropic's Four Ds Framework. Pick the answer closest to where you are today. No wrong answers.</p>
+
+    <div id="questions"></div>
+
+    <div style="display:flex; gap:12px; margin-top:24px;">
+      <button class="btn btn-secondary" onclick="nextStep(1)">Back</button>
+      <button class="btn" id="submitBtn" onclick="submitAssessment()" disabled>Get My Analysis</button>
+    </div>
+  </div>
+
+  <!-- ===== STEP 3: Loading ===== -->
+  <div class="step" id="step-3">
+    <div class="loading">
+      <div class="spinner"></div>
+      <h2>Generating your personalized analysis</h2>
+      <p class="subtitle" style="margin-top:8px;">Claude is researching your business and combining it with your fluency profile and Virginia scenario data. This takes 15 to 30 seconds.</p>
+    </div>
+  </div>
+
+  <!-- ===== STEP 4: Results ===== -->
+  <div class="step" id="step-4">
+    <h1 id="resultHeadline">Your AI Futures Analysis</h1>
+    <p class="meta" id="resultMeta"></p>
+
+    <!-- Business summary -->
+    <div class="result-section" id="resultSummary"></div>
+
+    <!-- Fluency profile (from assessment) -->
+    <div class="result-section">
+      <h3>Your Fluency Profile</h3>
+      <p class="subtitle" id="fluencyNarrative"></p>
+      <div class="fluency-grid" id="fluencyGrid"></div>
+      <p class="meta" style="margin-top:8px;">Based on the AI Fluency Framework by Dakan, Feller &amp; Anthropic (2025).</p>
+    </div>
+
+    <!-- Scenario relevance -->
+    <div class="result-section" id="resultScenarios"></div>
+
+    <!-- Actions -->
+    <div class="result-section" id="resultActions"></div>
+
+    <!-- CTA -->
+    <div class="cta-box">
+      <h3>Let's talk about what this means for your business.</h3>
+      <p>You have a read on where you are. Book 30 minutes with David to walk through your results and figure out the right next step.</p>
+      <a href="https://calendar.app.google/YcKijHth3KuxVZi28" target="_blank" class="btn">Book a 30-minute conversation</a>
+    </div>
+
+    <p class="meta" style="text-align:center; margin-top:24px;">A copy of these results has been sent to <strong id="resultEmail"></strong>.</p>
+    <p class="meta" style="text-align:center; margin-top:8px;"><a href="virginia-futures.html" style="color:var(--mid-green);">Read the full Virginia AI Futures report</a> &nbsp;|&nbsp; <a href="dashboard.html" style="color:var(--mid-green);">View the live dashboard</a></p>
+  </div>
+
+</div>
+
+<script>
+// ===== Assessment Questions (adapted from BuildFirst 4D framework) =====
+var questions = [
+  { num: 1, dim: 'spectrum', dimLabel: 'Current Practice', color: '#808A80',
+    q: 'How do you use AI today?',
+    opts: [
+      { text: 'I ask it questions when I am stuck', score: 1 },
+      { text: 'I have set up a few things that run on their own', score: 2 },
+      { text: 'I think with it. It is part of how I work through problems', score: 3 },
+      { text: 'I have built systems where AI handles entire workflows', score: 4 }
+    ]
+  },
+  { num: 2, dim: 'delegation', dimLabel: 'Delegation', color: '#3A7BB5',
+    q: 'A new project lands on your desk. How do you think about AI for it?',
+    opts: [
+      { text: 'I would not really think about AI for it', score: 1 },
+      { text: 'I would try the obvious parts: drafting, summarizing', score: 2 },
+      { text: 'I would break the project down and map where AI adds real value', score: 3 },
+      { text: 'I would design the entire workflow with AI as a partner from the start', score: 4 }
+    ]
+  },
+  { num: 3, dim: 'description', dimLabel: 'Description', color: '#D4A020',
+    q: 'When you ask AI to do something, how do you communicate what you need?',
+    opts: [
+      { text: 'I type what I need and see what comes back', score: 1 },
+      { text: 'I give it context and examples', score: 2 },
+      { text: 'I define the role, the output format, the constraints, and the quality bar', score: 3 },
+      { text: 'I build reusable frameworks that encode how I think', score: 4 }
+    ]
+  },
+  { num: 4, dim: 'discernment', dimLabel: 'Discernment', color: '#2D6B3F',
+    q: 'AI gives you a piece of work. What do you do with it?',
+    opts: [
+      { text: 'If it looks good, I use it', score: 1 },
+      { text: 'I skim it for obvious errors', score: 2 },
+      { text: 'I stress-test the reasoning and check what it might have missed', score: 3 },
+      { text: 'I have a systematic verification process before anything goes out', score: 4 }
+    ]
+  },
+  { num: 5, dim: 'diligence', dimLabel: 'Diligence', color: '#9B5BA3',
+    q: 'Your team wants to start using AI with client work. What is your first reaction?',
+    opts: [
+      { text: 'Great, we should be using more AI', score: 1 },
+      { text: 'I would want to see the output before it goes to clients', score: 2 },
+      { text: 'I would want clear guidelines on what AI can and cannot do', score: 3 },
+      { text: 'I would want a full framework: approved uses, data handling, review gates', score: 4 }
+    ]
+  },
+  { num: 6, dim: 'spectrum', dimLabel: 'Current Practice', color: '#808A80',
+    q: 'Think about your last working week. How embedded was AI?',
+    opts: [
+      { text: 'I did not really use it', score: 1 },
+      { text: 'A few tasks: drafting an email, looking something up', score: 2 },
+      { text: 'It was part of most of my thinking and decision-making', score: 3 },
+      { text: 'It ran in the background continuously, handling things for me', score: 4 }
+    ]
+  },
+  { num: 7, dim: 'delegation', dimLabel: 'Delegation', color: '#3A7BB5',
+    q: 'What would you NOT let AI do?',
+    opts: [
+      { text: 'I have not really thought about it', score: 1 },
+      { text: 'I would not let it make decisions about people or money', score: 2 },
+      { text: 'I have clear categories: AI-safe, human-only, and collaborative', score: 3 },
+      { text: 'I have built those boundaries into my workflow design', score: 4 }
+    ]
+  },
+  { num: 8, dim: 'description', dimLabel: 'Description', color: '#D4A020',
+    q: 'AI gives you something that is not quite right. What do you do?',
+    opts: [
+      { text: 'I fix it myself', score: 1 },
+      { text: 'I ask it to try again with a bit more direction', score: 2 },
+      { text: 'I diagnose why it missed and adjust my approach', score: 3 },
+      { text: 'I refine the underlying system so it does not happen again', score: 4 }
+    ]
+  },
+  { num: 9, dim: 'discernment', dimLabel: 'Discernment', color: '#2D6B3F',
+    q: 'How confident are you spotting when AI gets something wrong in your domain?',
+    opts: [
+      { text: 'I am not always sure', score: 1 },
+      { text: 'I catch the big mistakes', score: 2 },
+      { text: 'I know where AI is reliable and where it is not in my field', score: 3 },
+      { text: 'I have built verification into my process so mistakes get caught automatically', score: 4 }
+    ]
+  },
+  { num: 10, dim: 'diligence', dimLabel: 'Diligence', color: '#9B5BA3',
+    q: 'Where do you want to be with AI in 12 months?',
+    opts: [
+      { text: 'I would like to use it more consistently', score: 1 },
+      { text: 'I want it handling my routine work reliably', score: 2 },
+      { text: 'I want it to be my thinking partner across everything I do', score: 3 },
+      { text: 'I want AI systems running key parts of my operation', score: 4 }
+    ]
+  }
+];
+
+var answers = {};
+
+// ===== Render Questions =====
+(function() {
+  var container = document.getElementById('questions');
+  questions.forEach(function(q) {
+    var block = document.createElement('div');
+    block.className = 'question-block';
+    block.innerHTML = '<div class="question-num">Question ' + q.num + ' of 10</div>'
+      + '<span class="question-dim" style="background:' + q.color + '22; color:' + q.color + ';">' + q.dimLabel + '</span>'
+      + '<div class="question-text">' + q.q + '</div>'
+      + '<div class="option-group" id="q' + q.num + '"></div>';
+    container.appendChild(block);
+
+    var group = block.querySelector('.option-group');
+    q.opts.forEach(function(opt) {
+      var card = document.createElement('label');
+      card.className = 'option-card';
+      card.innerHTML = '<input type="radio" name="q' + q.num + '" value="' + opt.score + '">' + opt.text;
+      card.addEventListener('click', function() {
+        group.querySelectorAll('.option-card').forEach(function(c) { c.classList.remove('selected'); });
+        card.classList.add('selected');
+        answers['q' + q.num] = { dim: q.dim, score: opt.score };
+        checkComplete();
+      });
+      group.appendChild(card);
+    });
+  });
+})();
+
+function checkComplete() {
+  var answered = Object.keys(answers).length;
+  document.getElementById('submitBtn').disabled = answered < 10;
+  updateProgress();
+}
+
+// ===== Navigation =====
+function nextStep(n) {
+  if (n === 2) {
+    if (!document.getElementById('email').value || !document.getElementById('name').value || !document.getElementById('region').value) {
+      alert('Please fill in your email, name, and region.');
+      return;
+    }
+  }
+  document.querySelectorAll('.step').forEach(function(s) { s.classList.remove('active'); });
+  document.getElementById('step-' + n).classList.add('active');
+  window.scrollTo(0, 0);
+  updateProgress();
+}
+
+function updateProgress() {
+  var step = document.querySelector('.step.active');
+  var pct = 0;
+  if (step.id === 'step-1') pct = 0;
+  else if (step.id === 'step-2') pct = 20 + (Object.keys(answers).length / 10) * 60;
+  else if (step.id === 'step-3') pct = 90;
+  else if (step.id === 'step-4') pct = 100;
+  document.getElementById('progressFill').style.width = pct + '%';
+}
+
+// ===== Score Calculation =====
+function calcScores() {
+  var dims = { delegation: [], description: [], discernment: [], diligence: [], spectrum: [] };
+  Object.keys(answers).forEach(function(k) {
+    var a = answers[k];
+    dims[a.dim].push(a.score);
+  });
+  var result = {};
+  Object.keys(dims).forEach(function(d) {
+    var arr = dims[d];
+    result[d] = arr.length ? arr.reduce(function(a, b) { return a + b; }, 0) / arr.length : 0;
+  });
+  result.overall = (result.delegation + result.description + result.discernment + result.diligence) / 4;
+  return result;
+}
+
+// ===== Submit =====
+function submitAssessment() {
+  nextStep(3);
+  var scores = calcScores();
+  var email = document.getElementById('email').value;
+  var name = document.getElementById('name').value;
+  var bizUrl = document.getElementById('bizUrl').value;
+  var bizDesc = document.getElementById('bizDesc').value;
+  var region = document.getElementById('region').value;
+
+  var businessInfo = 'Name: ' + name + '\nEmail: ' + email + '\nRegion: ' + region;
+  if (bizUrl) businessInfo += '\nWebsite: ' + bizUrl;
+  if (bizDesc) businessInfo += '\nBusiness description: ' + bizDesc;
+  businessInfo += '\n\nAI FLUENCY ASSESSMENT SCORES (1-4 scale):';
+  businessInfo += '\nOverall: ' + scores.overall.toFixed(1);
+  businessInfo += '\nDelegation: ' + scores.delegation.toFixed(1) + ' (knowing what to hand off vs. keep)';
+  businessInfo += '\nDescription: ' + scores.description.toFixed(1) + ' (communicating clearly with AI)';
+  businessInfo += '\nDiscernment: ' + scores.discernment.toFixed(1) + ' (evaluating AI output quality)';
+  businessInfo += '\nDiligence: ' + scores.diligence.toFixed(1) + ' (verifying, governing, trust layer)';
+  businessInfo += '\nCurrent practice level: ' + scores.spectrum.toFixed(1);
+
+  var prompt = PROMPT.replace('{{business_info}}', businessInfo);
+
+  callClaude(prompt)
+    .then(function(data) {
+      renderResults(data, scores, name, email, region);
+      nextStep(4);
+    })
+    .catch(function(err) {
+      alert('Analysis failed: ' + err.message + '. Please try again.');
+      nextStep(2);
+    });
+}
+
+function callClaude(prompt) {
+  var key = window.ANTHROPIC_API_KEY || '';
+  if (!key) return Promise.reject(new Error('API key not configured'));
+
+  return fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-api-key': key,
+      'anthropic-version': '2023-06-01',
+      'anthropic-dangerous-direct-browser-access': 'true'
+    },
+    body: JSON.stringify({
+      model: 'claude-sonnet-4-5-20250929',
+      max_tokens: 3000,
+      messages: [{ role: 'user', content: prompt }]
+    })
+  })
+  .then(function(res) {
+    if (!res.ok) return res.json().then(function(e) { throw new Error(e.error && e.error.message || 'API error'); });
+    return res.json();
+  })
+  .then(function(data) {
+    var text = data.content && data.content[0] && data.content[0].text;
+    if (!text) throw new Error('No response');
+    var jsonStr = text;
+    var cb = text.match(/```(?:json)?\s*([\s\S]*?)```/);
+    if (cb) jsonStr = cb[1];
+    else { var bm = text.match(/\{[\s\S]*\}/); if (bm) jsonStr = bm[0]; }
+    return JSON.parse(jsonStr.trim());
+  });
+}
+
+// ===== Render Results =====
+function renderResults(data, scores, name, email, region) {
+  document.getElementById('resultHeadline').textContent = name.split(' ')[0] + ', here is your AI futures analysis.';
+  document.getElementById('resultMeta').textContent = region + ' | ' + (data.industry || 'Virginia SMB') + ' | March 2026';
+  document.getElementById('resultEmail').textContent = email;
+
+  // Summary
+  document.getElementById('resultSummary').innerHTML =
+    '<p style="font-size:17px; line-height:1.7;">' + esc(data.business_summary) + '</p>'
+    + '<div style="display:grid; grid-template-columns:1fr 1fr; gap:16px; margin:20px 0;">'
+    + '<div><p style="font-size:12px; font-weight:600; letter-spacing:0.5px; text-transform:uppercase; color:var(--grey-green); margin-bottom:4px;">Industry Context</p><p style="font-size:14px; line-height:1.6; color:var(--muted-green);">' + esc(data.industry_context) + '</p></div>'
+    + '<div><p style="font-size:12px; font-weight:600; letter-spacing:0.5px; text-transform:uppercase; color:var(--grey-green); margin-bottom:4px;">Regional Context</p><p style="font-size:14px; line-height:1.6; color:var(--muted-green);">' + esc(data.region_context) + '</p></div>'
+    + '</div>';
+
+  // Fluency
+  var dimLabels = { delegation: 'Delegation', description: 'Description', discernment: 'Discernment', diligence: 'Diligence' };
+  var dimColors = { delegation: '#3A7BB5', description: '#D4A020', discernment: '#2D6B3F', diligence: '#9B5BA3' };
+  var dimDescs = { delegation: 'Knowing what to hand off vs. keep', description: 'Communicating clearly with AI', discernment: 'Evaluating AI output quality', diligence: 'Verifying, governing, trust layer' };
+
+  document.getElementById('fluencyNarrative').textContent = data.fluency_profile || ('Overall score: ' + scores.overall.toFixed(1) + ' / 4.0. ' + (data.current_mode || ''));
+
+  var grid = document.getElementById('fluencyGrid');
+  grid.innerHTML = '';
+  ['delegation', 'description', 'discernment', 'diligence'].forEach(function(dim) {
+    var s = scores[dim];
+    var pct = (s / 4) * 100;
+    grid.innerHTML += '<div class="fluency-card">'
+      + '<div class="fluency-card-title" style="color:' + dimColors[dim] + ';">' + dimLabels[dim] + '</div>'
+      + '<div class="fluency-card-score" style="color:' + dimColors[dim] + ';">' + s.toFixed(1) + '<span style="font-size:14px; color:var(--grey-green);"> / 4.0</span></div>'
+      + '<div class="fluency-bar"><div class="fluency-bar-fill" style="width:' + pct + '%; background:' + dimColors[dim] + ';"></div></div>'
+      + '<div class="fluency-card-desc">' + dimDescs[dim] + '</div>'
+      + '</div>';
+  });
+
+  // Scenarios
+  var scenarioHtml = '<h3>Which Scenarios Matter Most for You</h3>';
+  scenarioHtml += '<p class="subtitle">' + esc(data.trajectory || data.most_likely_trajectory || '') + '</p>';
+  scenarioHtml += '<div class="scenario-cards">';
+  (data.scenarios || []).forEach(function(s) {
+    var rel = (s.relevance || 'medium').toLowerCase();
+    scenarioHtml += '<div class="scenario-card">'
+      + '<div class="scenario-card-label ' + rel + '">' + rel.toUpperCase() + ' RELEVANCE</div>'
+      + '<h4>' + esc(s.name) + '</h4>'
+      + '<p>' + esc(s.implication || s.implications || '') + '</p>'
+      + '</div>';
+  });
+  scenarioHtml += '</div>';
+  document.getElementById('resultScenarios').innerHTML = scenarioHtml;
+
+  // Actions
+  var actionsHtml = '<h3>Three Actions for Your Business</h3><ul class="action-list">';
+  (data.actions || []).forEach(function(a) { actionsHtml += '<li>' + esc(a) + '</li>'; });
+  actionsHtml += '</ul>';
+  document.getElementById('resultActions').innerHTML = actionsHtml;
+}
+
+function esc(s) { if (!s) return ''; var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+// ===== Prompt =====
+var PROMPT = [
+  'You are generating a personalized AI futures analysis for a Virginia business owner who just completed a fluency assessment.',
+  '',
+  'IMPORTANT: If a website URL is provided, research what the business does based on the URL. Identify their industry, services, approximate size, and location. Use this to make the analysis highly specific to their actual business.',
+  '',
+  'CONTEXT: "The Fluency Question" is a BuildFirst research project examining how AI fluency (not just adoption) will reshape Virginia\'s 780,000 SMBs over five years. Four scenarios were constructed using Shell methodology by crossing fluency depth x geographic reach.',
+  '',
+  'SCENARIOS:',
+  '1. "Build It Yourself" (Deep & Distributed): Broad fluency spreads through peer networks. Owners build bespoke tools.',
+  '2. "Software Does It For You" (Shallow & Distributed): Platform AI creates broad but shallow adoption. The inoculation effect.',
+  '3. "Pockets of Excellence" (Deep & Concentrated): Deep fluency in metro clusters, platform-level elsewhere. Most probable.',
+  '4. "The Widening Gap" (Shallow & Concentrated): Trust shock or recession hardens the divide.',
+  '',
+  'FLUENCY FRAMEWORK (Anthropic, Dakan & Feller, 2025):',
+  '- Delegation: Knowing what to hand off vs. keep',
+  '- Description: Communicating needs with clarity',
+  '- Discernment: Evaluating AI output quality',
+  '- Diligence: Verifying, governing, trust layer',
+  '',
+  'MODES OF ENGAGEMENT (not sequential):',
+  '- Asking, Automating, Augmenting, Agency',
+  '',
+  'VIRGINIA REGIONS:',
+  '- Northern Virginia: High density, federal/tech, strong peer networks',
+  '- Richmond Metro: Growing, VCU nearby, active chamber AI programming',
+  '- Hampton Roads: Mixed, military/defense, pockets forming',
+  '- Charlottesville: UVA influence, small but engaged',
+  '- Shenandoah Valley: Agricultural, thinner networks, 12-18mo behind metro',
+  '- Roanoke/NRV: Virginia Tech influence, limited broader diffusion',
+  '- Southside: Lowest density, messenger problem most acute',
+  '- Southwest: Coal transition, institutional support thin',
+  '',
+  'BUSINESS AND ASSESSMENT DATA:',
+  '{{business_info}}',
+  '',
+  'Generate a deeply personalized analysis. Reference their specific business, industry, region, and assessment scores. Be concrete: name tools, workflows, competitors, SaaS platforms relevant to them. Pragmatic tone. No hype.',
+  '',
+  'Return ONLY valid JSON:',
+  '{',
+  '  "business_summary": "2-3 sentences. What this business is, where it sits, and its most likely AI trajectory. Be specific to them.",',
+  '  "industry": "Their industry classification",',
+  '  "industry_context": "2-3 sentences. AI fluency in their specific industry. Builder window. Dominant SaaS. Where bespoke beats platform.",',
+  '  "region_context": "2-3 sentences. Their regional peer network density, institutional support, knowledge infrastructure.",',
+  '  "current_mode": "Their current mode of engagement based on assessment scores, with explanation.",',
+  '  "fluency_profile": "2-3 sentences interpreting their 4D scores. Which dimension is strongest, which needs work, what that means practically.",',
+  '  "scenarios": [',
+  '    {"name":"Build It Yourself","relevance":"high|medium|low","implication":"2-3 sentences specific to them."},',
+  '    {"name":"Software Does It For You","relevance":"high|medium|low","implication":"2-3 sentences."},',
+  '    {"name":"Pockets of Excellence","relevance":"high|medium|low","implication":"2-3 sentences."},',
+  '    {"name":"The Widening Gap","relevance":"high|medium|low","implication":"2-3 sentences."}',
+  '  ],',
+  '  "trajectory": "2-3 sentences. Which scenario is most relevant for them and why.",',
+  '  "actions": ["Specific action 1 for THIS business","Action 2 referencing their scores","Action 3 tied to their region and industry"]',
+  '}'
+].join('\n');
+</script>
+<script src="config.js"></script>
+</body>
+</html>
