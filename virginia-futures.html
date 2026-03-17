@@ -363,24 +363,15 @@
 
       <h3 class="fade-in">Where Are We Now?</h3>
 
-      <p class="fade-in">Each scenario has a distinct economic signature: a pattern of indicators that, taken together, suggest which future is materializing. The dashboard below tracks these indicators against current evidence from multiple data sources.</p>
+      <p class="fade-in">Each scenario has a distinct economic signature: a pattern of indicators that, taken together, suggest which future is materializing. We track 20 indicators across the four scenarios using data from the Anthropic Economic Index, BLS, FRED, Census BTOS, and BuildFirst field observations. Updated quarterly.</p>
 
-      <div class="callout-card fade-in">
-        <h4>How This Dashboard Works</h4>
-        <p>Indicators are assessed against data from the <span class="inline-expandable" data-expand="data-sources-expand">six primary sources listed below</span>. Each indicator can move one step per update cycle: from <em>not yet observed</em> to <em>emerging</em> to <em>active</em> to <em>strong</em>. Movement requires at least two data points trending in the same direction. No single data release can swing the dashboard.</p>
-        <p style="margin-top:8px;"><strong>Update cadence:</strong> Quarterly, aligned with BLS and Anthropic Economic Index release schedules. Next scheduled update: June 2026.</p>
-        <p style="margin-top:8px;"><strong>Living analysis:</strong> We are actively reviewing new data sources and developments. As the Anthropic Economic Index expands its geographic granularity and new Virginia-specific surveys become available, we will incorporate them. The methodology and data sources behind this dashboard will evolve alongside the research.</p>
-      </div>
-      <div class="inline-expand-content" id="data-sources-expand">
-        <p><strong>Anthropic Economic Index</strong> (quarterly, Hugging Face CC-BY). Tracks automation vs. augmentation ratio, occupational task coverage, geographic distribution of AI usage, and task complexity metrics across millions of real Claude conversations. The only public dataset measuring what people actually do with AI, not just whether they report using it.</p>
-        <p><strong>Anthropic Labor Market Impacts Research</strong> (March 2026). Observed exposure scores for 800 US occupations combining O*NET task data with real-world AI usage patterns. Tracks employment effects, young worker job-finding rates, and BLS growth projection correlations.</p>
-        <p><strong>FRED / Federal Reserve Economic Data</strong> (monthly/quarterly, API). 17,401 Virginia-specific economic series including unemployment, GDP, wages, and labor force participation by metropolitan statistical area.</p>
-        <p><strong>BLS Quarterly Census of Employment and Wages</strong> (quarterly). County-level employment and wage data aggregated to Weldon Cooper Center regions. The most granular measure of where Virginia&rsquo;s economy is growing and where it is not.</p>
-        <p><strong>Census Business Trends and Outlook Survey</strong> (quarterly, API). AI adoption rates and technology usage among US businesses, with industry and size breakdowns.</p>
-        <p><strong>BuildFirst Field Observations</strong> (ongoing). Qualitative signals from workshops, coaching engagements, and chamber of commerce interactions across Virginia. The only source that directly measures AI fluency vs. adoption in Virginia&rsquo;s SMB market.</p>
-      </div>
+      <p class="fade-in"><strong>Current reading (March 2026):</strong> Virginia is tracking between &ldquo;Software Does It For You&rdquo; and &ldquo;Pockets of Excellence.&rdquo; Broad shallow adoption is measurably happening. Metro pockets of deeper engagement are forming. The distributed fluency scenario remains aspirational.</p>
 
-      <div id="indicators-dashboard" class="indicators-dashboard fade-in"></div>
+      <div class="cta-section fade-in" style="margin-top:32px; margin-bottom:32px;">
+        <h3>Where Is Virginia Tracking?</h3>
+        <p>Live data, charts, and scenario signal assessment from six sources.</p>
+        <a href="dashboard.html" class="cta-button">View the Dashboard</a>
+      </div>
 
       <div class="cta-section fade-in">
         <h3>BuildFirst</h3>
@@ -773,12 +764,8 @@
     })();
   </script>
 
-  <!-- Chart.js for data visualization -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
   <!-- Interactive Elements -->
   <script src="interactive.js"></script>
-  <!-- Leading Indicators Dashboard -->
-  <script src="dashboard.js"></script>
   <!-- API Key (local only, not committed) -->
   <script src="config.js"></script>
   <!-- Personalized Analysis (Claude API) -->
