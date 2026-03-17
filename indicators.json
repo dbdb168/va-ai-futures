@@ -50,8 +50,8 @@
         {
           "signal": "Employment growth distributed across Virginia regions",
           "source": "BLS QCEW, FRED",
-          "status": "not-yet",
-          "evidence": "BLS QCEW Q3 2024 shows continued metro concentration. No evidence of distributed growth acceleration yet.",
+          "status": "emerging",
+          "evidence": "All seven Virginia regions showed unemployment rate declines from August to December 2025, indicating broad-based labor market strengthening across metro and rural areas. (Previous: BLS QCEW Q3 2024 shows continued metro concentration. No evidence of distributed growth acceleration yet.)",
           "scenario_logic": "If AI fluency is spreading broadly, economic benefits should distribute. Even growth = distributed fluency.",
           "last_updated": "2026-03-17"
         }
@@ -130,8 +130,8 @@
         {
           "signal": "Employment and wage growth diverging between metro and rural Virginia",
           "source": "BLS QCEW, FRED",
-          "status": "emerging",
-          "evidence": "BLS data shows continued employment concentration in NoVA, Richmond, and Hampton Roads MSAs. Southside and Southwest show flat to declining employment. Wage growth differential widening. Not yet attributable to AI specifically.",
+          "status": "not-yet",
+          "evidence": "Unemployment declined across all regions including rural areas (Southside -0.9pp, Southwest -0.6pp), suggesting convergence rather than divergence in labor market conditions. (Previous: BLS data shows continued employment concentration in NoVA, Richmond, and Hampton Roads MSAs. Southside and Southwest show flat to declining employment. Wage growth differential widening. Not yet attributable to AI specifically.)",
           "scenario_logic": "If AI-fluent metro firms grow faster, the employment gap widens. The differential becomes self-reinforcing as talent concentrates where AI fluency exists.",
           "last_updated": "2026-03-17"
         },
