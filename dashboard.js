@@ -1,10 +1,12 @@
 /**
  * Virginia AI Futures - Leading Indicators Dashboard
- * Renders data visualizations from chart-data.json and text indicators from indicators.json
+ * Renders data visualizations + text indicators
  */
 
 (function() {
   'use strict';
+
+  var chartCounter = 0;
 
   function init() {
     var container = document.getElementById('indicators-dashboard');
@@ -18,77 +20,91 @@
       render(container, results[0], results[1]);
     })
     .catch(function(err) {
-      container.innerHTML = '<p class="muted">Dashboard data unavailable. ' + escapeHtml(err.message) + '</p>';
+      container.innerHTML = '<p class="muted">Dashboard data unavailable. ' + esc(err.message) + '</p>';
     });
   }
 
   function render(container, chartData, indicatorData) {
     container.innerHTML = '';
 
-    // Scenario strength summary (horizontal bars)
-    renderScenarioStrength(container, chartData.scenario_strength);
+    // 1. Scenario strength bars
+    appendStrength(container, chartData.scenario_strength);
 
-    // Regional unemployment chart
-    renderLineChart(container, chartData.regional_unemployment, 'chart-unemployment');
+    // 2. Regional unemployment line chart
+    appendLineChart(container, chartData.regional_unemployment);
 
-    // Augmentation vs Automation
-    renderLineChart(container, chartData.anthropic_augmentation, 'chart-augmentation');
+    // 3. Augmentation vs automation
+    appendLineChart(container, chartData.anthropic_augmentation);
 
-    // Geographic Gini
-    renderGiniChart(container, chartData.anthropic_geographic_gini);
+    // 4. Geographic Gini
+    appendGini(container, chartData.anthropic_geographic_gini);
 
-    // Task coverage (horizontal bar)
-    renderTaskCoverage(container, chartData.anthropic_task_coverage);
+    // 5. Task coverage horizontal bars
+    appendBarChart(container, chartData.anthropic_task_coverage);
 
-    // Text indicators below charts
-    renderTextIndicators(container, indicatorData);
+    // 6. Text indicators
+    appendTextIndicators(container, indicatorData);
   }
 
-  function renderScenarioStrength(container, data) {
-    var section = document.createElement('div');
-    section.className = 'dashboard-section fade-in';
-    section.style.marginBottom = '48px';
+  // ---- Scenario strength summary ----
+  function appendStrength(container, data) {
+    var div = document.createElement('div');
+    div.style.marginBottom = '48px';
 
-    var html = '<h4 class="dashboard-chart-title">' + escapeHtml(data.title) + '</h4>';
-    html += '<p class="dashboard-chart-subtitle">' + escapeHtml(data.subtitle) + '</p>';
+    var h = '<h4 class="dashboard-chart-title">' + esc(data.title) + '</h4>';
+    h += '<p class="dashboard-chart-subtitle">' + esc(data.subtitle) + '</p>';
+    h += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:16px; margin:24px 0;">';
 
-    html += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:16px; margin:24px 0;">';
     data.scenarios.forEach(function(s) {
       var pct = Math.round(((s.active * 2 + s.emerging) / (s.total * 2)) * 100);
-      html += '<div style="border:1px solid var(--border); border-radius:8px; padding:20px;">';
-      html += '<div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:8px;">';
-      html += '<span style="font-family:Newsreader,serif; font-size:18px; font-weight:500; color:var(--dark-green);">' + escapeHtml(s.name) + '</span>';
-      html += '<span style="font-size:13px; color:var(--grey-green);">' + s.active + ' active, ' + s.emerging + ' emerging</span>';
-      html += '</div>';
-      html += '<div style="background:var(--border); border-radius:4px; height:8px; overflow:hidden;">';
-      html += '<div style="background:' + s.color + '; height:100%; width:' + pct + '%; border-radius:4px; transition:width 0.5s;"></div>';
-      html += '</div>';
-      html += '</div>';
+      h += '<div style="border:1px solid #F4F5F5; border-radius:8px; padding:20px;">';
+      h += '<div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:8px;">';
+      h += '<span style="font-family:Newsreader,serif; font-size:18px; font-weight:500; color:#1E3322;">' + esc(s.name) + '</span>';
+      h += '<span style="font-size:13px; color:#808A80;">' + s.active + ' active, ' + s.emerging + ' emerging</span>';
+      h += '</div>';
+      h += '<div style="background:#F4F5F5; border-radius:4px; height:8px; overflow:hidden;">';
+      h += '<div style="background:' + s.color + '; height:100%; width:' + pct + '%; border-radius:4px;"></div>';
+      h += '</div></div>';
     });
-    html += '</div>';
 
-    html += '<p class="dashboard-reading">' + escapeHtml(data.reading) + '</p>';
+    h += '</div>';
+    h += '<p class="dashboard-reading">' + esc(data.reading) + '</p>';
 
-    section.innerHTML = html;
-    container.appendChild(section);
+    div.innerHTML = h;
+    container.appendChild(div);
   }
 
-  function renderLineChart(container, data, canvasId) {
-    var section = document.createElement('div');
-    section.className = 'dashboard-section fade-in';
-    section.style.marginBottom = '48px';
+  // ---- Line chart ----
+  function appendLineChart(container, data) {
+    var id = 'dashboard-canvas-' + (++chartCounter);
 
-    var html = '<h4 class="dashboard-chart-title">' + escapeHtml(data.title) + '</h4>';
-    html += '<p class="dashboard-chart-subtitle">' + escapeHtml(data.subtitle) + '</p>';
-    html += '<div style="position:relative; height:320px; margin:16px 0;"><canvas id="' + canvasId + '"></canvas></div>';
-    html += '<p class="dashboard-source">Source: ' + escapeHtml(data.source) + '</p>';
-    html += '<p class="dashboard-reading">' + escapeHtml(data.scenario_reading) + '</p>';
+    var wrapper = document.createElement('div');
+    wrapper.style.marginBottom = '48px';
 
-    section.innerHTML = html;
-    container.appendChild(section);
+    var header = document.createElement('div');
+    header.innerHTML = '<h4 class="dashboard-chart-title">' + esc(data.title) + '</h4>'
+      + '<p class="dashboard-chart-subtitle">' + esc(data.subtitle) + '</p>';
+    wrapper.appendChild(header);
 
-    var ctx = document.getElementById(canvasId).getContext('2d');
-    new Chart(ctx, {
+    var chartBox = document.createElement('div');
+    chartBox.style.position = 'relative';
+    chartBox.style.height = '320px';
+    chartBox.style.margin = '16px 0';
+
+    var canvas = document.createElement('canvas');
+    canvas.id = id;
+    chartBox.appendChild(canvas);
+    wrapper.appendChild(chartBox);
+
+    var footer = document.createElement('div');
+    footer.innerHTML = '<p class="dashboard-source">Source: ' + esc(data.source) + '</p>'
+      + '<p class="dashboard-reading">' + esc(data.scenario_reading) + '</p>';
+    wrapper.appendChild(footer);
+
+    container.appendChild(wrapper);
+
+    // Now canvas is in the DOM, safe to render
+    new Chart(canvas.getContext('2d'), {
       type: 'line',
       data: {
         labels: data.labels,
@@ -112,37 +128,24 @@
         plugins: {
           legend: {
             position: 'bottom',
-            labels: {
-              font: { family: 'Inter', size: 12 },
-              color: '#6B7B6B',
-              usePointStyle: true,
-              padding: 16
-            }
+            labels: { font: { family: 'Inter', size: 12 }, color: '#6B7B6B', usePointStyle: true, padding: 16 }
           },
           tooltip: {
             backgroundColor: '#1E3322',
-            titleFont: { family: 'Inter', size: 12 },
-            bodyFont: { family: 'Inter', size: 12 },
             padding: 12,
             cornerRadius: 8,
             callbacks: {
-              label: function(context) {
-                return context.dataset.label + ': ' + context.parsed.y + data.unit;
-              }
+              label: function(ctx) { return ctx.dataset.label + ': ' + ctx.parsed.y + (data.unit || ''); }
             }
           }
         },
         scales: {
-          x: {
-            grid: { display: false },
-            ticks: { font: { family: 'Inter', size: 11 }, color: '#808A80' }
-          },
+          x: { grid: { display: false }, ticks: { font: { family: 'Inter', size: 11 }, color: '#808A80' } },
           y: {
             grid: { color: '#F4F5F5' },
             ticks: {
-              font: { family: 'Inter', size: 11 },
-              color: '#808A80',
-              callback: function(v) { return v + data.unit; }
+              font: { family: 'Inter', size: 11 }, color: '#808A80',
+              callback: function(v) { return v + (data.unit || ''); }
             }
           }
         }
@@ -150,57 +153,67 @@
     });
   }
 
-  function renderGiniChart(container, data) {
-    var section = document.createElement('div');
-    section.className = 'dashboard-section fade-in';
-    section.style.marginBottom = '48px';
+  // ---- Gini metric ----
+  function appendGini(container, data) {
+    var vals = data.datasets[0].data;
+    var change = vals[1] - vals[0];
+    var falling = change < 0;
 
-    var change = data.datasets[0].data[1] - data.datasets[0].data[0];
-    var direction = change < 0 ? 'falling' : 'rising';
-    var arrow = change < 0 ? '\u2193' : '\u2191';
+    var div = document.createElement('div');
+    div.style.marginBottom = '48px';
 
-    var html = '<h4 class="dashboard-chart-title">' + escapeHtml(data.title) + '</h4>';
-    html += '<p class="dashboard-chart-subtitle">' + escapeHtml(data.subtitle) + '</p>';
+    div.innerHTML = '<h4 class="dashboard-chart-title">' + esc(data.title) + '</h4>'
+      + '<p class="dashboard-chart-subtitle">' + esc(data.subtitle) + '</p>'
+      + '<div style="display:flex; align-items:center; gap:32px; margin:24px 0; padding:24px; background:#F5F0EB; border-radius:12px;">'
+      + '<div style="text-align:center;">'
+      + '<div style="font-family:Newsreader,serif; font-size:48px; font-weight:500; color:#2D6B3F;">' + vals[0] + '</div>'
+      + '<div style="font-size:13px; color:#808A80;">' + data.labels[0] + '</div>'
+      + '</div>'
+      + '<div style="font-size:32px; color:' + (falling ? '#2D6B3F' : '#E85D45') + ';">' + (falling ? '\u2193' : '\u2191') + '</div>'
+      + '<div style="text-align:center;">'
+      + '<div style="font-family:Newsreader,serif; font-size:48px; font-weight:500; color:#2D6B3F;">' + vals[1] + '</div>'
+      + '<div style="font-size:13px; color:#808A80;">' + data.labels[1] + '</div>'
+      + '</div>'
+      + '<div style="flex:1; font-size:15px; line-height:1.6; color:#6B7B6B;">'
+      + 'Gini ' + (falling ? 'falling' : 'rising') + ' by ' + Math.abs(change).toFixed(2) + ' in three months. '
+      + (falling ? 'AI usage is spreading geographically. At this rate, state-level parity in 2\u20135 years.' : 'AI usage is concentrating further.')
+      + '</div></div>'
+      + '<p class="dashboard-source">Source: ' + esc(data.source) + '</p>'
+      + '<p class="dashboard-reading">' + esc(data.scenario_reading) + '</p>';
 
-    html += '<div style="display:flex; align-items:center; gap:32px; margin:24px 0; padding:24px; background:var(--warm-bg); border-radius:12px;">';
-    html += '<div style="text-align:center;">';
-    html += '<div style="font-family:Newsreader,serif; font-size:48px; font-weight:500; color:var(--mid-green);">' + data.datasets[0].data[0] + '</div>';
-    html += '<div style="font-size:13px; color:var(--grey-green);">' + data.labels[0] + '</div>';
-    html += '</div>';
-    html += '<div style="font-size:32px; color:' + (change < 0 ? 'var(--mid-green)' : 'var(--red)') + ';">' + arrow + '</div>';
-    html += '<div style="text-align:center;">';
-    html += '<div style="font-family:Newsreader,serif; font-size:48px; font-weight:500; color:var(--mid-green);">' + data.datasets[0].data[1] + '</div>';
-    html += '<div style="font-size:13px; color:var(--grey-green);">' + data.labels[1] + '</div>';
-    html += '</div>';
-    html += '<div style="flex:1; font-size:15px; line-height:1.6; color:var(--muted-green);">';
-    html += 'Gini ' + direction + ' by ' + Math.abs(change).toFixed(2) + ' in three months. ';
-    html += change < 0 ? 'AI usage is spreading geographically. At this rate, state-level parity in 2-5 years.' : 'AI usage is concentrating further.';
-    html += '</div>';
-    html += '</div>';
-
-    html += '<p class="dashboard-source">Source: ' + escapeHtml(data.source) + '</p>';
-    html += '<p class="dashboard-reading">' + escapeHtml(data.scenario_reading) + '</p>';
-
-    section.innerHTML = html;
-    container.appendChild(section);
+    container.appendChild(div);
   }
 
-  function renderTaskCoverage(container, data) {
-    var section = document.createElement('div');
-    section.className = 'dashboard-section fade-in';
-    section.style.marginBottom = '48px';
+  // ---- Horizontal bar chart (task coverage) ----
+  function appendBarChart(container, data) {
+    var id = 'dashboard-canvas-' + (++chartCounter);
 
-    var html = '<h4 class="dashboard-chart-title">' + escapeHtml(data.title) + '</h4>';
-    html += '<p class="dashboard-chart-subtitle">' + escapeHtml(data.subtitle) + '</p>';
-    html += '<div style="position:relative; height:360px; margin:16px 0;"><canvas id="chart-task-coverage"></canvas></div>';
-    html += '<p class="dashboard-source">Source: ' + escapeHtml(data.source) + '</p>';
-    html += '<p class="dashboard-reading">' + escapeHtml(data.scenario_reading) + '</p>';
+    var wrapper = document.createElement('div');
+    wrapper.style.marginBottom = '48px';
 
-    section.innerHTML = html;
-    container.appendChild(section);
+    var header = document.createElement('div');
+    header.innerHTML = '<h4 class="dashboard-chart-title">' + esc(data.title) + '</h4>'
+      + '<p class="dashboard-chart-subtitle">' + esc(data.subtitle) + '</p>';
+    wrapper.appendChild(header);
 
-    var ctx = document.getElementById('chart-task-coverage').getContext('2d');
-    new Chart(ctx, {
+    var chartBox = document.createElement('div');
+    chartBox.style.position = 'relative';
+    chartBox.style.height = '360px';
+    chartBox.style.margin = '16px 0';
+
+    var canvas = document.createElement('canvas');
+    canvas.id = id;
+    chartBox.appendChild(canvas);
+    wrapper.appendChild(chartBox);
+
+    var footer = document.createElement('div');
+    footer.innerHTML = '<p class="dashboard-source">Source: ' + esc(data.source) + '</p>'
+      + '<p class="dashboard-reading">' + esc(data.scenario_reading) + '</p>';
+    wrapper.appendChild(footer);
+
+    container.appendChild(wrapper);
+
+    new Chart(canvas.getContext('2d'), {
       type: 'bar',
       data: {
         labels: data.categories.map(function(c) { return c.label; }),
@@ -226,34 +239,21 @@
         plugins: {
           legend: {
             position: 'bottom',
-            labels: {
-              font: { family: 'Inter', size: 12 },
-              color: '#6B7B6B',
-              usePointStyle: true,
-              padding: 16
-            }
+            labels: { font: { family: 'Inter', size: 12 }, color: '#6B7B6B', usePointStyle: true, padding: 16 }
           },
           tooltip: {
             backgroundColor: '#1E3322',
-            titleFont: { family: 'Inter', size: 12 },
-            bodyFont: { family: 'Inter', size: 12 },
             padding: 12,
             cornerRadius: 8,
             callbacks: {
-              label: function(context) {
-                return context.dataset.label + ': ' + context.parsed.x + '%';
-              }
+              label: function(ctx) { return ctx.dataset.label + ': ' + ctx.parsed.x + '%'; }
             }
           }
         },
         scales: {
           x: {
             grid: { color: '#F4F5F5' },
-            ticks: {
-              font: { family: 'Inter', size: 11 },
-              color: '#808A80',
-              callback: function(v) { return v + '%'; }
-            },
+            ticks: { font: { family: 'Inter', size: 11 }, color: '#808A80', callback: function(v) { return v + '%'; } },
             max: 100
           },
           y: {
@@ -265,51 +265,45 @@
     });
   }
 
-  function renderTextIndicators(container, data) {
-    var section = document.createElement('div');
-    section.className = 'dashboard-section fade-in';
-    section.style.marginTop = '48px';
+  // ---- Text indicators ----
+  function appendTextIndicators(container, data) {
+    var div = document.createElement('div');
+    div.style.marginTop = '48px';
 
-    var legend = [
-      '<div class="indicator-legend">',
-      '  <span class="indicator-legend-item"><span class="indicator-status not-yet"></span> Not yet</span>',
-      '  <span class="indicator-legend-item"><span class="indicator-status emerging"></span> Emerging</span>',
-      '  <span class="indicator-legend-item"><span class="indicator-status active"></span> Active</span>',
-      '  <span class="indicator-legend-item"><span class="indicator-status strong"></span> Strong</span>',
-      '</div>'
-    ].join('\n');
+    var h = '<h3 style="font-family:Newsreader,serif; font-size:28px; font-weight:400; color:#1E3322; margin-bottom:24px;">Detailed Indicator Assessment</h3>';
 
-    var scenarios = data.scenarios.map(function(scenario) {
-      var rows = scenario.indicators.map(function(ind) {
-        var sourceTag = ind.source ? '<span style="display:inline-block; font-size:11px; font-weight:500; letter-spacing:0.5px; text-transform:uppercase; color:var(--tan); margin-right:8px;">' + escapeHtml(ind.source) + '</span>' : '';
-        return [
-          '<div class="indicator-row">',
-          '  <span class="indicator-status ' + ind.status + '"></span>',
-          '  <div class="indicator-signal">',
-          '    ' + escapeHtml(ind.signal),
-          '    <div class="indicator-evidence">' + sourceTag + escapeHtml(ind.evidence) + '</div>',
-          '  </div>',
-          '</div>'
-        ].join('\n');
-      }).join('\n');
+    h += '<div class="indicator-legend">';
+    h += '<span class="indicator-legend-item"><span class="indicator-status not-yet"></span> Not yet</span>';
+    h += '<span class="indicator-legend-item"><span class="indicator-status emerging"></span> Emerging</span>';
+    h += '<span class="indicator-legend-item"><span class="indicator-status active"></span> Active</span>';
+    h += '<span class="indicator-legend-item"><span class="indicator-status strong"></span> Strong</span>';
+    h += '</div>';
 
-      return [
-        '<div class="indicators-scenario">',
-        '  <h4>' + escapeHtml(scenario.name) + ' <span style="font-family:Inter,sans-serif; font-size:13px; font-weight:400; color:var(--grey-green);">' + escapeHtml(scenario.subtitle) + '</span></h4>',
-        '  ' + rows,
-        '</div>'
-      ].join('\n');
-    }).join('\n');
+    data.scenarios.forEach(function(scenario) {
+      h += '<div class="indicators-scenario">';
+      h += '<h4>' + esc(scenario.name) + ' <span style="font-family:Inter,sans-serif; font-size:13px; font-weight:400; color:#808A80;">' + esc(scenario.subtitle) + '</span></h4>';
 
-    section.innerHTML = '<h3 style="font-family:Newsreader,serif; font-size:28px; font-weight:400; color:var(--dark-green); margin-bottom:24px;">Detailed Indicator Assessment</h3>' + legend + scenarios;
-    container.appendChild(section);
+      scenario.indicators.forEach(function(ind) {
+        var src = ind.source ? '<span style="display:inline-block; font-size:11px; font-weight:500; letter-spacing:0.5px; text-transform:uppercase; color:#C8C0AD; margin-right:8px;">' + esc(ind.source) + '</span>' : '';
+        h += '<div class="indicator-row">';
+        h += '<span class="indicator-status ' + ind.status + '"></span>';
+        h += '<div class="indicator-signal">' + esc(ind.signal);
+        h += '<div class="indicator-evidence">' + src + esc(ind.evidence) + '</div>';
+        h += '</div></div>';
+      });
+
+      h += '</div>';
+    });
+
+    div.innerHTML = h;
+    container.appendChild(div);
   }
 
-  function escapeHtml(str) {
+  function esc(str) {
     if (!str) return '';
-    var div = document.createElement('div');
-    div.textContent = str;
-    return div.innerHTML;
+    var d = document.createElement('div');
+    d.textContent = str;
+    return d.innerHTML;
   }
 
   if (document.readyState === 'loading') {
