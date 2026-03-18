@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard Test</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="virginia-futures.css">
+</head>
+<body style="padding:40px 80px; max-width:720px; margin:0 auto;">
+  <h2 style="font-family:Newsreader,serif;">Dashboard Test</h2>
+  <p id="status">Loading...</p>
+  <div id="indicators-dashboard" class="indicators-dashboard"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script>
+    var statusEl = document.getElementById('status');
+
+    // Test 1: Chart.js loaded?
+    if (typeof Chart === 'undefined') {
+      statusEl.textContent = 'ERROR: Chart.js not loaded';
+    } else {
+      statusEl.textContent = 'Chart.js loaded OK. Fetching data...';
+
+      // Test 2: Can we fetch the JSON?
+      Promise.all([
+        fetch('chart-data.json').then(function(r) {
+          if (!r.ok) throw new Error('chart-data.json: ' + r.status);
+          return r.json();
+        }),
+        fetch('indicators.json').then(function(r) {
+          if (!r.ok) throw new Error('indicators.json: ' + r.status);
+          return r.json();
+        })
+      ])
+      .then(function(results) {
+        statusEl.textContent = 'Data loaded. Charts: ' + Object.keys(results[0]).length + ' sections, Indicators: ' + results[1].scenarios.length + ' scenarios. Rendering...';
+
+        // Test 3: Simple chart render
+        var container = document.getElementById('indicators-dashboard');
+
+        // Render a simple test chart first
+        var testDiv = document.createElement('div');
+        testDiv.style.height = '300px';
+        testDiv.style.marginBottom = '24px';
+        testDiv.innerHTML = '<canvas id="test-chart"></canvas>';
+        container.appendChild(testDiv);
+
+        var ctx = document.getElementById('test-chart').getContext('2d');
+        var chartData = results[0];
+
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: chartData.regional_unemployment.labels,
+            datasets: chartData.regional_unemployment.datasets.map(function(ds) {
+              return {
+                label: ds.label,
+                data: ds.data,
+                borderColor: ds.color,
+                borderWidth: 2,
+                pointRadius: 3,
+                tension: 0.3,
+                fill: false
+              };
+            })
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: { position: 'bottom' }
+            }
+          }
+        });
+
+        statusEl.textContent = 'Chart rendered. If you see lines below, Chart.js is working.';
+      })
+      .catch(function(err) {
+        statusEl.textContent = 'ERROR: ' + err.message;
+        console.error(err);
+      });
+    }
+  </script>
+</body>
+</html>

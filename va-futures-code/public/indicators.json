@@ -1,0 +1,205 @@
+{
+  "last_updated": "2026-03-17",
+  "next_update": "2026-06-15",
+  "methodology": "Each indicator is assessed against data from the Anthropic Economic Index, FRED, BLS QCEW, Census BTOS, Anthropic Labor Market Impacts research, and BuildFirst field observations. Indicators move one step per update cycle. Movement requires two or more data points trending in the same direction.",
+  "legend": {
+    "not-yet": "No evidence observed",
+    "emerging": "Early signals, anecdotal or single-source",
+    "active": "Multiple data points, pattern forming",
+    "strong": "Clear, measurable, sustained trend"
+  },
+  "scenarios": [
+    {
+      "id": "build-it-yourself",
+      "name": "Build It Yourself",
+      "subtitle": "Deep & Distributed",
+      "summary": "Broad AI fluency spreads through peer networks across Virginia's geography.",
+      "indicators": [
+        {
+          "signal": "Augmentation ratio rising nationally",
+          "source": "Anthropic Economic Index",
+          "status": "emerging",
+          "evidence": "Jan 2025: 56% augmentation. Aug 2025: automation briefly overtook. Nov 2025: augmentation recovered to 52% on Claude.ai. Trend is volatile but augmentation-leaning. Not yet Virginia-specific.",
+          "scenario_logic": "Rising augmentation means people are thinking with AI, not just delegating tasks. This is the fluency signal.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Geographic Gini coefficient falling (AI usage spreading across states)",
+          "source": "Anthropic Economic Index",
+          "status": "emerging",
+          "evidence": "US state-level Gini fell from 0.37 to 0.32 (Aug-Nov 2025). At this rate, parity in 2-5 years. Suggestive of distribution, but national data only.",
+          "scenario_logic": "Falling Gini means AI usage is spreading geographically, not concentrating. Core signal for 'distributed' scenarios.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Peer-network AI sharing emerges at trade association and chamber meetings",
+          "source": "BuildFirst field observations",
+          "status": "emerging",
+          "evidence": "BuildFirst workshop participants report sharing techniques informally. Richmond and Charlottesville clusters forming. Not yet observed in Southside or Southwest.",
+          "scenario_logic": "Peer sharing is the primary diffusion mechanism in this scenario. Without it, fluency stays concentrated.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Businesses building bespoke AI tools (not just using vendor features)",
+          "source": "BuildFirst field observations, Census BTOS",
+          "status": "not-yet",
+          "evidence": "Individual cases observed in BuildFirst coaching. No population-level data yet. Census BTOS does not distinguish between vendor AI and bespoke tools.",
+          "scenario_logic": "The defining feature of this scenario: businesses encoding proprietary knowledge into AI workflows their vendors would never build.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Employment growth distributed across Virginia regions",
+          "source": "BLS QCEW, FRED",
+          "status": "emerging",
+          "evidence": "All seven Virginia regions showed unemployment rate declines from August to December 2025, indicating broad-based labor market strengthening across metro and rural areas. (Previous: BLS QCEW Q3 2024 shows continued metro concentration. No evidence of distributed growth acceleration yet.)",
+          "scenario_logic": "If AI fluency is spreading broadly, economic benefits should distribute. Even growth = distributed fluency.",
+          "last_updated": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "software-does-it-for-you",
+      "name": "Software Does It For You",
+      "subtitle": "Shallow & Distributed",
+      "summary": "Platform-delivered AI creates broad but shallow adoption. The inoculation effect.",
+      "indicators": [
+        {
+          "signal": "High reported AI 'adoption' with low fluency depth",
+          "source": "Census BTOS, Anthropic Economic Index",
+          "status": "active",
+          "evidence": "Census BTOS shows rising AI 'use' but does not distinguish passive exposure from active building. Anthropic data shows only 4% of occupations use AI for 75%+ of tasks. 36% use it for 25%+. The gap between 'using AI' and 'fluent in AI' is wide and measurable.",
+          "scenario_logic": "This is the signature of shallow adoption: everyone reports using AI, almost nobody has built anything with it.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Automation ratio rising faster than augmentation",
+          "source": "Anthropic Economic Index",
+          "status": "emerging",
+          "evidence": "Aug 2025: automation briefly overtook augmentation for the first time. Nov 2025: swung back. API usage is 75% automation. If vendor-embedded AI (API-driven) dominates, automation wins. Trend is mixed.",
+          "scenario_logic": "High automation + low augmentation = AI doing tasks for people, not people learning to think with AI. The inoculation pattern.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "SaaS platforms shipping AI features that absorb business intelligence",
+          "source": "Industry observation",
+          "status": "active",
+          "evidence": "QuickBooks, Toast, ServiceTitan, Dentrix, Procore, AppFolio all shipped embedded AI features in 2025-2026. Each learns from business data, deepening lock-in. This is happening broadly and measurably.",
+          "scenario_logic": "When AI features absorb business intelligence into vendor platforms, switching costs become existential. The floor rises but becomes a ceiling.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Policy urgency low despite adoption metrics",
+          "source": "BuildFirst field observations, Virginia policy tracking",
+          "status": "emerging",
+          "evidence": "GO Virginia has not prioritized AI fluency programming. Community colleges operating on standard 12-18 month curriculum timelines. No emergency posture despite rapid AI deployment.",
+          "scenario_logic": "When adoption metrics look strong, policymakers see no urgency. The institutional vacuum persists in substance while appearing to close in metrics.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Task coverage broad but shallow (many occupations, routine tasks only)",
+          "source": "Anthropic Economic Index",
+          "status": "emerging",
+          "evidence": "36% of occupations use AI for 25%+ of tasks, but usage concentrates in routine categories (scheduling, drafting, categorization). Deep judgment-augmentation tasks remain rare outside software development.",
+          "scenario_logic": "Broad but shallow = the platform scenario. AI is everywhere but not doing anything vendors couldn't have shipped.",
+          "last_updated": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "pockets-of-excellence",
+      "name": "Pockets of Excellence",
+      "subtitle": "Deep & Concentrated",
+      "summary": "Deep fluency forms in metro clusters while most of the state remains at platform level. Most probable scenario.",
+      "indicators": [
+        {
+          "signal": "Metro-rural gap in AI engagement widening",
+          "source": "BuildFirst field observations, BLS QCEW",
+          "status": "active",
+          "evidence": "BuildFirst client geography is 85% metro Richmond and NoVA. Richmond, NoVA, and Charlottesville have active AI programming. Southside and Southwest chambers have none. Hampton Roads is mixed. The gap is structural, not temporary.",
+          "scenario_logic": "The defining feature: deep fluency in metros, platform-level elsewhere. If this gap persists, Pockets of Excellence is materializing.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Augmentation concentrated in knowledge-worker metros",
+          "source": "Anthropic Economic Index",
+          "status": "emerging",
+          "evidence": "National data shows augmentation highest in Computer & Math (37.2% of usage), Business & Financial (5.9%). These occupations concentrate in metro areas. No Virginia-specific breakdown yet, but patent data confirms: Fairfax City has 2nd highest patenting intensity in the US (6.684 per 1,000).",
+          "scenario_logic": "If augmentation (deep AI use) concentrates in occupations that concentrate in metros, fluency becomes geographically locked.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Employment and wage growth diverging between metro and rural Virginia",
+          "source": "BLS QCEW, FRED",
+          "status": "not-yet",
+          "evidence": "Unemployment declined across all regions including rural areas (Southside -0.9pp, Southwest -0.6pp), suggesting convergence rather than divergence in labor market conditions. (Previous: BLS data shows continued employment concentration in NoVA, Richmond, and Hampton Roads MSAs. Southside and Southwest show flat to declining employment. Wage growth differential widening. Not yet attributable to AI specifically.)",
+          "scenario_logic": "If AI-fluent metro firms grow faster, the employment gap widens. The differential becomes self-reinforcing as talent concentrates where AI fluency exists.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Rural AI initiatives report thin engagement (the messenger problem)",
+          "source": "BuildFirst field observations",
+          "status": "not-yet",
+          "evidence": "Limited rural AI initiatives launched to date. Pattern not yet testable at scale. Some anecdotal reports of low engagement with externally-run programs.",
+          "scenario_logic": "When outsider-led AI programs fail in rural markets, the conclusion is 'resistance.' The real issue is the messenger, not the message.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Young worker job-finding rates declining in AI-exposed occupations",
+          "source": "Anthropic Labor Market Impacts (March 2026)",
+          "status": "emerging",
+          "evidence": "14% drop in job-finding rates for ages 22-25 in AI-exposed occupations (marginally significant). If this concentrates in metro knowledge-worker roles, it signals deep but narrow AI integration.",
+          "scenario_logic": "Young worker displacement in exposed occupations suggests AI is genuinely restructuring work, but only where it has been deeply adopted.",
+          "last_updated": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "the-widening-gap",
+      "name": "The Widening Gap",
+      "subtitle": "Shallow & Concentrated",
+      "summary": "A trust shock or recession during the critical window hardens the fluency divide.",
+      "indicators": [
+        {
+          "signal": "A vivid, local AI failure story crystallizes into community narrative",
+          "source": "News monitoring, BuildFirst field observations",
+          "status": "not-yet",
+          "evidence": "No high-profile Virginia-specific AI failure stories in business context. National stories exist (AI hallucinations in legal filings, etc.) but have not localized into Virginia community narratives.",
+          "scenario_logic": "A single vivid, local failure story can freeze adoption for 12-18 months in affected communities. The narrative matters more than the facts.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Economic contraction during the 2027-2028 critical learning window",
+          "source": "FRED, Virginia budget outlook",
+          "status": "emerging",
+          "evidence": "Virginia hiring rate at 3.4% (weak). Continued unemployment claims 24% higher year-over-year. Private estimates show Virginia employment decreased 6,900 jobs in Sept, 2,250 in Oct 2025. Federal spending contraction is a specific risk for Virginia. Not yet a recession, but the conditions are forming.",
+          "scenario_logic": "A recession during the critical window is asymmetric: fluent firms benefit (low marginal AI cost), non-fluent firms cut the investments that would close the gap. The gap hardens.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Geographic Gini coefficient rising (AI usage concentrating further)",
+          "source": "Anthropic Economic Index",
+          "status": "not-yet",
+          "evidence": "US state-level Gini actually fell from 0.37 to 0.32 (Aug-Nov 2025). Currently trending against this scenario. Would need to reverse.",
+          "scenario_logic": "Rising Gini means AI usage is concentrating, not spreading. Combined with economic contraction, this locks in the divide.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "BLS growth projections declining in AI-exposed occupations",
+          "source": "Anthropic Labor Market Impacts, BLS",
+          "status": "emerging",
+          "evidence": "For every 10 percentage point increase in observed AI coverage, BLS growth projection drops 0.6 percentage points. Modest but statistically significant. Suggests structural displacement beginning.",
+          "scenario_logic": "If growth projections decline in exposed occupations without new roles emerging, the gap between AI-fluent and non-fluent businesses becomes structural.",
+          "last_updated": "2026-03-17"
+        },
+        {
+          "signal": "Business investment in AI fluency deferred or cut",
+          "source": "BuildFirst field observations, Census BTOS",
+          "status": "not-yet",
+          "evidence": "No measurable signal yet. BuildFirst pipeline remains active. Would need recession to trigger investment freezes in the $5K-15K range that organizational fluency requires.",
+          "scenario_logic": "When businesses cut discretionary AI investment during a downturn, the window closes. The firms that were 'about to start' permanently defer.",
+          "last_updated": "2026-03-17"
+        }
+      ]
+    }
+  ]
+}

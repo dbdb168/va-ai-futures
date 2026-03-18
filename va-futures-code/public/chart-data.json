@@ -1,0 +1,268 @@
+{
+  "last_updated": "2026-03-17",
+  "next_update": "2026-06-15",
+  "note": "All quantitative data verified against source. Anthropic Economic Index data from published reports (Feb 2025, Sep 2025, Jan 2026). BLS data from public API (LAUS county-level, aggregated to Weldon Cooper regions). BuildFirst observations are qualitative.",
+  "regional_unemployment": {
+    "title": "Unemployment Rate by Virginia Region",
+    "subtitle": "BLS Local Area Unemployment Statistics, county-level aggregated to Weldon Cooper Center regions",
+    "source": "Bureau of Labor Statistics, LAUS program",
+    "unit": "%",
+    "labels": [
+      "Mar 24",
+      "Jun 24",
+      "Sep 24",
+      "Dec 24",
+      "Jan 25",
+      "Mar 25",
+      "Jun 25",
+      "Sep 25",
+      "Dec 25"
+    ],
+    "datasets": [
+      {
+        "label": "Northern Virginia",
+        "data": [
+          2.2,
+          2.6,
+          2.5,
+          2.1,
+          2.6,
+          3.2,
+          3.5,
+          3.2,
+          3.2
+        ],
+        "color": "#2D6B3F"
+      },
+      {
+        "label": "Richmond Metro",
+        "data": [
+          2.8,
+          3,
+          3,
+          2.6,
+          3.1,
+          3.4,
+          3.7,
+          3.2,
+          3.3
+        ],
+        "color": "#4A8B5E"
+      },
+      {
+        "label": "Hampton Roads",
+        "data": [
+          2.9,
+          3.2,
+          3.1,
+          2.8,
+          3.5,
+          3.6,
+          4,
+          3.5,
+          3.6
+        ],
+        "color": "#6B7B6B"
+      },
+      {
+        "label": "Shenandoah Valley",
+        "data": [
+          2.2,
+          2.8,
+          2.5,
+          2.2,
+          2.8,
+          2.8,
+          3.4,
+          2.7,
+          2.9
+        ],
+        "color": "#808A80"
+      },
+      {
+        "label": "Roanoke / NRV",
+        "data": [
+          3,
+          3.6,
+          3.1,
+          2.7,
+          3.4,
+          3.9,
+          4.4,
+          3.5,
+          3.5
+        ],
+        "color": "#C8C0AD"
+      },
+      {
+        "label": "Southside",
+        "data": [
+          4.2,
+          4.4,
+          4.1,
+          3.6,
+          4.2,
+          4.4,
+          5.3,
+          4.8,
+          4.6
+        ],
+        "color": "#E85D45"
+      },
+      {
+        "label": "Southwest",
+        "data": [
+          3.5,
+          4.1,
+          3.8,
+          3.4,
+          4.4,
+          4.5,
+          5,
+          4.3,
+          4.3
+        ],
+        "color": "#D4A020"
+      }
+    ],
+    "scenario_reading": "The persistent 1.5-2.5 percentage point gap between NoVA/Richmond and Southside/Southwest is consistent with the 'Pockets of Excellence' scenario. If this gap were narrowing, it would signal 'Build It Yourself.' If widening sharply, 'The Widening Gap.'"
+  },
+  "anthropic_augmentation": {
+    "title": "AI Usage: Automation vs. Augmentation",
+    "subtitle": "Anthropic Economic Index, share of Claude conversations by interaction mode (US national)",
+    "source": "Anthropic Economic Index (Hugging Face, CC-BY). Reports: Feb 2025, Sep 2025, Jan 2026.",
+    "unit": "%",
+    "labels": [
+      "Jan 2025",
+      "Aug 2025",
+      "Nov 2025"
+    ],
+    "datasets": [
+      {
+        "label": "Augmentation",
+        "data": [
+          56,
+          46,
+          52
+        ],
+        "color": "#2D6B3F"
+      },
+      {
+        "label": "Automation",
+        "data": [
+          41,
+          51,
+          45
+        ],
+        "color": "#D4A020"
+      }
+    ],
+    "scenario_reading": "Augmentation dominance signals people are thinking with AI (Build It Yourself). Automation dominance signals vendor-driven, passive use (Software Does It For You). The Aug 2025 swing to automation was the first time it overtook augmentation. It swung back by Nov 2025. The trend is volatile but augmentation-leaning."
+  },
+  "anthropic_geographic_gini": {
+    "title": "Geographic Concentration of AI Usage (US)",
+    "subtitle": "Gini coefficient across US states. Lower = more evenly distributed. 0 = perfect equality.",
+    "source": "Anthropic Economic Index, Jan 2026 report",
+    "unit": "Gini",
+    "labels": [
+      "Aug 2025",
+      "Nov 2025"
+    ],
+    "datasets": [
+      {
+        "label": "US State-Level Gini",
+        "data": [
+          0.37,
+          0.32
+        ],
+        "color": "#2D6B3F"
+      }
+    ],
+    "scenario_reading": "Falling Gini = AI usage spreading geographically. At the Aug-Nov rate, state-level parity in 2-5 years. This favors 'Build It Yourself' (distributed) over 'Pockets of Excellence' (concentrated). If Gini reversed and started rising, that would signal 'The Widening Gap.'"
+  },
+  "anthropic_task_coverage": {
+    "title": "AI Task Coverage by Occupation Category",
+    "subtitle": "Share of occupational tasks with observed AI usage vs. theoretical capability",
+    "source": "Anthropic Economic Index + Eloundou et al. (2023) theoretical scores",
+    "unit": "%",
+    "categories": [
+      {
+        "label": "Computer & Math",
+        "observed": 33,
+        "theoretical": 94
+      },
+      {
+        "label": "Office & Admin",
+        "observed": 12,
+        "theoretical": 90
+      },
+      {
+        "label": "Business & Financial",
+        "observed": 10,
+        "theoretical": 76
+      },
+      {
+        "label": "Arts & Media",
+        "observed": 15,
+        "theoretical": 68
+      },
+      {
+        "label": "Education",
+        "observed": 8,
+        "theoretical": 54
+      },
+      {
+        "label": "Healthcare",
+        "observed": 4,
+        "theoretical": 32
+      },
+      {
+        "label": "Construction",
+        "observed": 2,
+        "theoretical": 18
+      },
+      {
+        "label": "Food Service",
+        "observed": 1,
+        "theoretical": 12
+      }
+    ],
+    "scenario_reading": "The gap between theoretical capability and observed usage is enormous. Computer & Math uses 33% of what is feasible. Most occupations use under 15%. This gap IS the fluency question. In 'Build It Yourself,' the observed bars grow across all categories. In 'Software Does It For You,' they grow only in categories where vendors embed AI. In 'Pockets of Excellence,' they grow only in metro-concentrated knowledge-worker categories."
+  },
+  "scenario_strength": {
+    "title": "Current Scenario Signal Strength",
+    "subtitle": "Based on all indicators assessed against six data sources",
+    "source": "BuildFirst analysis, March 2026",
+    "scenarios": [
+      {
+        "name": "Build It Yourself",
+        "active": 0,
+        "emerging": 3,
+        "total": 5,
+        "color": "#2D6B3F"
+      },
+      {
+        "name": "Software Does It For You",
+        "active": 2,
+        "emerging": 3,
+        "total": 5,
+        "color": "#D4A020"
+      },
+      {
+        "name": "Pockets of Excellence",
+        "active": 1,
+        "emerging": 3,
+        "total": 5,
+        "color": "#6B7B6B"
+      },
+      {
+        "name": "The Widening Gap",
+        "active": 0,
+        "emerging": 2,
+        "total": 5,
+        "color": "#E85D45"
+      }
+    ],
+    "reading": "Virginia is currently tracking between 'Software Does It For You' and 'Pockets of Excellence.' Broad shallow adoption is measurably happening (SaaS AI embedding, adoption-without-fluency gap). Metro pockets of deeper engagement are forming. 'Build It Yourself' remains aspirational. 'The Widening Gap' is a risk if the economy softens."
+  }
+}
