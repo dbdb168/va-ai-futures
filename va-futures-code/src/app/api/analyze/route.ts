@@ -278,7 +278,7 @@ export async function POST(req: NextRequest) {
     trajectory: analysis.trajectory as string || "",
   };
 
-  // Fire webhook (non-blocking)
+  // Fire webhook (non-blocking) — includes full results for email
   fireWebhook({
     email: intake.email,
     name: intake.name,
@@ -293,6 +293,11 @@ export async function POST(req: NextRequest) {
     weakest_d: result.weakest_d,
     current_mode: result.current_mode,
     trajectory: result.trajectory,
+    intro: result.intro,
+    metaLine: result.metaLine,
+    fluencyDesc: result.fluencyDesc,
+    scenarioDesc: result.scenarioDesc,
+    actions: result.actions,
     scenario_relevance: scenarios.map((s) => ({ name: s.title, relevance: s.relevance })),
     timestamp: new Date().toISOString(),
     source: "virginia-futures-assessment",
