@@ -81,33 +81,37 @@ export default function Sidebar() {
                 {/* Hover tooltip */}
                 <div className="absolute left-[52px] top-1/2 -translate-y-1/2 pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity z-50">
                   <div
-                    className="bg-[#1F1F1F] rounded-lg w-[200px]"
-                    style={{ padding: "12px 16px" }}
+                    className="bg-[#2A2A2A] rounded-lg w-[220px] flex"
+                    style={{ overflow: "hidden" }}
                   >
-                    <div
-                      className="uppercase"
-                      style={{
-                        fontFamily: "Inter, sans-serif",
-                        fontSize: "10px",
-                        fontWeight: 600,
-                        letterSpacing: "1px",
-                        color: "#C41E3A",
-                        lineHeight: "1.4",
-                      }}
-                    >
-                      {subtitle}
-                    </div>
-                    <div
-                      style={{
-                        fontFamily: "Inter, sans-serif",
-                        fontSize: "14px",
-                        fontWeight: 500,
-                        color: "#FAFAF7",
-                        lineHeight: "1.4",
-                        marginTop: "2px",
-                      }}
-                    >
-                      {title}
+                    {/* Crimson left accent */}
+                    <div style={{ width: 3, backgroundColor: "#C41E3A", flexShrink: 0 }} />
+                    <div style={{ padding: "14px 16px" }}>
+                      <div
+                        className="uppercase"
+                        style={{
+                          fontFamily: "Inter, sans-serif",
+                          fontSize: "10px",
+                          fontWeight: 600,
+                          letterSpacing: "1px",
+                          color: "#C41E3A",
+                          lineHeight: "1.4",
+                        }}
+                      >
+                        {subtitle}
+                      </div>
+                      <div
+                        style={{
+                          fontFamily: "Inter, sans-serif",
+                          fontSize: "14px",
+                          fontWeight: 500,
+                          color: "#FAFAF7",
+                          lineHeight: "1.4",
+                          marginTop: "4px",
+                        }}
+                      >
+                        {title}
+                      </div>
                     </div>
                   </div>
                 </div>
