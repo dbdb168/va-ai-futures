@@ -6,8 +6,8 @@ export default function DashboardPage() {
   return (
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
-      <main className="flex-1 overflow-y-auto">
-        <div className="space-y-10 max-w-[1104px] mx-auto" style={{ padding: "60px 32px" }}>
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
+        <div className="space-y-10 max-w-[1104px] mx-auto px-6 py-10 md:px-8 md:py-[60px]">
 
           {/* CTA Bar */}
           <div className="flex justify-end">
@@ -25,7 +25,7 @@ export default function DashboardPage() {
               The Fluency Question
             </p>
             <h1
-              className="text-[48px] font-medium text-text-primary"
+              className="text-[32px] md:text-[48px] font-medium text-text-primary"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", letterSpacing: "-2px" }}
             >
               Where Is Virginia Tracking?
@@ -48,7 +48,7 @@ export default function DashboardPage() {
                 Virginia is tracking between &ldquo;Software Does It For You&rdquo; and &ldquo;Pockets of Excellence.&rdquo; Broad shallow adoption is measurably happening. Metro pockets of deeper engagement are forming. The distributed fluency scenario remains aspirational.
               </p>
               {/* Scenario Score Cards */}
-              <div className="flex" style={{ gap: 1 }}>
+              <div className="flex flex-col md:flex-row" style={{ gap: 1 }}>
                 {[
                   { score: "30%", name: "BUILD IT YOURSELF", type: "Deep & Distributed", highlight: false },
                   { score: "70%", name: "SOFTWARE DOES IT FOR YOU", type: "Shallow & Distributed", highlight: true },
@@ -124,7 +124,7 @@ export default function DashboardPage() {
           </div>
 
           {/* Footer */}
-          <div className="flex justify-between items-center pb-4">
+          <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-2 pb-4">
             <div className="flex gap-6">
               <Link href="/privacy" className="text-[12px] text-text-tertiary hover:text-text-secondary">Privacy</Link>
               <Link href="/legal" className="text-[12px] text-text-tertiary hover:text-text-secondary">Legal</Link>

@@ -7,11 +7,11 @@ export default function Ch3Page() {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <main className="flex-1 overflow-y-auto">
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
         {/* Dark Header */}
         <div
-          className="flex flex-col items-center justify-center text-center"
-          style={{ height: 360, backgroundColor: "#0F0F0F" }}
+          className="flex flex-col items-center justify-center text-center py-10 px-6 md:px-20 md:h-[360px]"
+          style={{ backgroundColor: "#0F0F0F" }}
         >
           <p
             className="font-semibold uppercase"
@@ -25,10 +25,9 @@ export default function Ch3Page() {
             CHAPTER 3
           </p>
           <h1
-            className="mt-4"
+            className="mt-4 text-[36px] md:text-[64px]"
             style={{
               fontFamily: "'Cormorant Garamond', Georgia, serif",
-              fontSize: 64,
               fontWeight: 500,
               color: "#FAFAF7",
             }}
@@ -36,10 +35,9 @@ export default function Ch3Page() {
             The Knowledge Network Effect
           </h1>
           <p
-            className="mt-4 text-center"
+            className="mt-4 text-center text-[14px] md:text-[16px]"
             style={{
               fontFamily: "'Inter', sans-serif",
-              fontSize: 16,
               color: "#999",
               maxWidth: 800,
             }}
@@ -49,7 +47,7 @@ export default function Ch3Page() {
         </div>
 
         {/* Content Area */}
-        <div className="space-y-10 max-w-[1104px] mx-auto" style={{ padding: "40px 32px" }}>
+        <div className="space-y-10 max-w-[1104px] mx-auto px-6 md:px-8" style={{ paddingTop: 40, paddingBottom: 40 }}>
           {/* CTA Bar */}
           <div className="flex justify-end">
             <Link
@@ -75,10 +73,9 @@ export default function Ch3Page() {
             style={{ borderTop: "1px solid #E0E0E0", borderBottom: "1px solid #E0E0E0" }}
           >
             <blockquote
-              className="italic mx-auto"
+              className="italic mx-auto text-[28px] md:text-[36px]"
               style={{
                 fontFamily: "'Cormorant Garamond', Georgia, serif",
-                fontSize: 36,
                 maxWidth: 800,
               }}
             >
@@ -131,7 +128,7 @@ export default function Ch3Page() {
           </div>
 
           {/* Footer */}
-          <div className="flex justify-between items-center pb-4">
+          <div className="flex flex-col md:flex-row gap-4 md:gap-0 justify-between items-center pb-4">
             <div className="flex gap-6">
               <Link href="/privacy" className="text-[12px] text-text-tertiary hover:text-text-secondary">Privacy</Link>
               <Link href="/legal" className="text-[12px] text-text-tertiary hover:text-text-secondary">Legal</Link>

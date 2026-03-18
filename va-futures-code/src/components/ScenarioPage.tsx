@@ -42,7 +42,7 @@ const DISCLAIMER =
 
 function NarrativeRow({ row }: { row: ScenarioNarrativeRow }) {
   return (
-    <div className="flex gap-12">
+    <div className="flex flex-col md:flex-row gap-12">
       {/* Left: main narrative */}
       <div className="flex-1 space-y-6">
         {row.paragraphs.map((p, i) => (
@@ -53,7 +53,7 @@ function NarrativeRow({ row }: { row: ScenarioNarrativeRow }) {
       </div>
 
       {/* Right: annotations with crimson left border */}
-      <div className="w-[280px] shrink-0 space-y-6">
+      <div className="w-full md:w-[280px] shrink-0 space-y-6">
         {row.annotations.map((ann, i) => (
           <div
             key={i}
@@ -78,8 +78,8 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <main className="flex-1 overflow-y-auto">
-        <div className="py-[60px] space-y-12 max-w-[1104px] mx-auto px-8">
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
+        <div className="py-10 md:py-[60px] space-y-12 max-w-[1104px] mx-auto px-6 md:px-8">
 
           {/* Top CTA bar */}
           <div className="flex justify-end">
@@ -105,7 +105,7 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
               </span>
             </div>
             <h1
-              className="text-[64px] font-medium text-text-primary leading-none"
+              className="text-[36px] md:text-[64px] font-medium text-text-primary leading-none"
               style={{
                 fontFamily: "'Cormorant Garamond', Georgia, serif",
                 letterSpacing: "-2px",
@@ -113,7 +113,7 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
             >
               {data.title}
             </h1>
-            <p className="text-text-secondary text-[18px] leading-[1.5] max-w-[850px]">
+            <p className="text-text-secondary text-[16px] md:text-[18px] leading-[1.5] md:max-w-[850px]">
               {data.subtitle}
             </p>
           </div>
@@ -144,7 +144,7 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
           </div>
 
           {/* Hero image */}
-          <div className="w-full h-[360px] rounded overflow-hidden bg-[#E0E0E0]">
+          <div className="w-full h-[200px] md:h-[360px] rounded overflow-hidden bg-[#E0E0E0]">
             {data.heroImageSrc ? (
               // eslint-disable-next-line @next/next/no-img-element
               <img
@@ -177,7 +177,7 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
             }}
           >
             <blockquote
-              className="text-[32px] italic font-medium text-text-primary text-center leading-[1.4] max-w-[900px] mx-auto"
+              className="text-[24px] md:text-[32px] italic font-medium text-text-primary text-center leading-[1.4] max-w-[900px] mx-auto"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
             >
               {data.pullQuote}
@@ -192,7 +192,7 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
             }}
           >
             <div
-              className="text-[80px] font-medium text-accent-crimson leading-none"
+              className="text-[48px] md:text-[80px] font-medium text-accent-crimson leading-none"
               style={{
                 fontFamily: "'Cormorant Garamond', Georgia, serif",
                 letterSpacing: "-2px",
@@ -226,7 +226,7 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
             <p className="text-[11px] font-medium uppercase tracking-[0.5px] text-text-tertiary">
               Explore Other Scenarios
             </p>
-            <div className="grid grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {data.otherScenarios.map((s) => (
                 <Link key={s.href} href={s.href}>
                   <div
@@ -287,7 +287,7 @@ export default function ScenarioPage({ data }: { data: ScenarioData }) {
           </div>
 
           {/* Footer */}
-          <div className="flex justify-between items-center pb-4">
+          <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-2 pb-4">
             <div className="flex gap-6">
               <Link href="/privacy" className="text-[12px] text-text-tertiary hover:text-text-secondary">Privacy</Link>
               <Link href="/legal" className="text-[12px] text-text-tertiary hover:text-text-secondary">Legal</Link>

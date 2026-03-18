@@ -87,13 +87,13 @@ export default function AssessResultsPage() {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <main className="flex-1 overflow-y-auto">
-        <div className="max-w-[700px] mx-auto px-[48px] py-[48px] space-y-0">
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
+        <div className="max-w-[700px] mx-auto px-6 py-8 md:px-[48px] md:py-[48px] space-y-0">
 
           {/* Results Header */}
           <div className="space-y-4 pb-12">
             <h1
-              className="font-serif text-[36px] font-semibold text-text-primary leading-tight"
+              className="font-serif text-[28px] md:text-[36px] font-semibold text-text-primary leading-tight"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
             >
               {result.name}, here is your AI futures analysis.
@@ -130,7 +130,7 @@ export default function AssessResultsPage() {
             </h2>
             <p className="text-text-secondary text-[14px] leading-[1.6]">{result.fluencyDesc}</p>
 
-            <div className="grid grid-cols-2 gap-6 pt-2">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-2">
               {result.scores.map((s) => (
                 <ScoreBar key={s.label} {...s} />
               ))}
@@ -153,7 +153,7 @@ export default function AssessResultsPage() {
             </h2>
             <p className="text-text-secondary text-[14px] leading-[1.7]">{result.scenarioDesc}</p>
 
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {result.scenarios.map((s) => (
                 <ScenarioCard key={s.title} {...s} />
               ))}
@@ -196,7 +196,7 @@ export default function AssessResultsPage() {
           </div>
 
           {/* CTA */}
-          <div className="bg-[#F5F5F0] rounded-xl p-10 text-center space-y-4">
+          <div className="bg-[#F5F5F0] rounded-xl p-6 md:p-10 text-center space-y-4">
             <h3
               className="font-serif text-[24px] font-semibold text-text-primary"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}

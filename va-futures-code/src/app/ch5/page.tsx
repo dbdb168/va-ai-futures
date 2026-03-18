@@ -6,11 +6,10 @@ export default function Ch5Page() {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <main className="flex-1 overflow-y-auto">
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
         {/* Dark Header */}
         <div
-          className="flex flex-col items-center justify-center text-center bg-bg-sidebar"
-          style={{ height: "360px" }}
+          className="flex flex-col items-center justify-center text-center bg-bg-sidebar py-10 px-6 md:px-20 md:h-[360px]"
         >
           <p
             className="text-[11px] font-semibold uppercase text-accent-crimson"
@@ -19,13 +18,13 @@ export default function Ch5Page() {
             CHAPTER 5
           </p>
           <h1
-            className="text-[64px] font-medium text-text-on-dark mt-4"
+            className="text-[36px] md:text-[64px] font-medium text-text-on-dark mt-4"
             style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
           >
             Implications and Qualifiers
           </h1>
           <p
-            className="text-text-tertiary text-[16px] mt-4 max-w-[800px]"
+            className="text-text-tertiary text-[14px] md:text-[16px] mt-4 max-w-[800px]"
             style={{ fontFamily: "Inter, sans-serif" }}
           >
             Who this analysis applies to, where the uncertainties lie, and what it implies for business strategy.
@@ -33,7 +32,7 @@ export default function Ch5Page() {
         </div>
 
         {/* Content Area */}
-        <div className="space-y-10 max-w-[1104px] mx-auto" style={{ padding: "40px 32px" }}>
+        <div className="space-y-10 max-w-[1104px] mx-auto px-6 md:px-8" style={{ paddingTop: 40, paddingBottom: 40 }}>
 
           {/* CTA Bar */}
           <div className="flex justify-end">
@@ -46,7 +45,7 @@ export default function Ch5Page() {
           </div>
 
           {/* Body + Margin Row */}
-          <div className="flex gap-12">
+          <div className="flex flex-col md:flex-row gap-12">
             {/* Body Column */}
             <div className="flex-1 space-y-6">
               <p className="text-text-primary text-[16px] leading-[1.7]" style={{ fontFamily: "Inter, sans-serif" }}>
@@ -63,10 +62,10 @@ export default function Ch5Page() {
             </div>
 
             {/* Right Margin */}
-            <div className="w-[280px] shrink-0">
+            <div className="w-full md:w-[280px] md:shrink-0">
               <div style={{ paddingLeft: "24px", borderLeft: "3px solid #C41E3A" }} className="space-y-3">
                 <div
-                  className="text-[72px] font-medium text-accent-crimson leading-none"
+                  className="text-[48px] md:text-[72px] font-medium text-accent-crimson leading-none"
                   style={{
                     fontFamily: "'Cormorant Garamond', Georgia, serif",
                     letterSpacing: "-2px",
@@ -82,7 +81,7 @@ export default function Ch5Page() {
           </div>
 
           {/* Three Characteristic Cards */}
-          <div style={{ display: "flex", gap: 24 }}>
+          <div className="flex flex-col md:flex-row gap-6">
             <div style={{ flex: 1, border: "1px solid #E0E0E0", padding: 32, display: "flex", flexDirection: "column", gap: 12 }}>
               <p style={{ fontFamily: "Inter, sans-serif", fontSize: 14, fontWeight: 600, color: "#0F0F0F", margin: 0 }}>
                 Professional Judgment
@@ -116,11 +115,10 @@ export default function Ch5Page() {
 
           {/* Strategic Callout */}
           <div
-            className="w-full bg-bg-sidebar text-center space-y-4"
-            style={{ padding: "56px 80px" }}
+            className="w-full bg-bg-sidebar text-center space-y-4 px-6 py-10 md:px-20 md:py-14"
           >
             <h2
-              className="text-[40px] font-medium text-text-on-dark"
+              className="text-[28px] md:text-[40px] font-medium text-text-on-dark"
               style={{
                 fontFamily: "'Cormorant Garamond', Georgia, serif",
                 letterSpacing: "-1px",
@@ -170,7 +168,7 @@ export default function Ch5Page() {
           </div>
 
           {/* Footer */}
-          <div className="flex justify-between items-center pb-4">
+          <div className="flex flex-col md:flex-row gap-4 md:gap-0 justify-between items-center pb-4">
             <div className="flex gap-6">
               <Link href="/privacy" className="text-[12px] text-text-tertiary hover:text-text-secondary">Privacy</Link>
               <Link href="/legal" className="text-[12px] text-text-tertiary hover:text-text-secondary">Legal</Link>

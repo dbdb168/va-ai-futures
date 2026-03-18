@@ -175,13 +175,13 @@ export default function AssessQuestionsPage() {
       <div className="fixed top-0 left-0 right-0 h-1 bg-accent-crimson z-50" />
 
       {/* Centered content */}
-      <div className="flex justify-center px-8 py-12">
+      <div className="flex justify-center px-4 md:px-8 py-8 md:py-12">
         <div className="w-full max-w-[700px] space-y-10">
 
           {/* Header */}
           <div className="text-center space-y-2">
             <h1
-              className="font-serif text-[36px] font-medium text-text-primary"
+              className="font-serif text-[28px] md:text-[36px] font-medium text-text-primary"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", letterSpacing: "-0.5px" }}
             >
               Your Business&apos;s AI Fluency

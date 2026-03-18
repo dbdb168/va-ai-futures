@@ -6,13 +6,13 @@ export default function LegalPage() {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <main className="flex-1 overflow-y-auto">
-        <div className="space-y-10 max-w-[960px] mx-auto" style={{ padding: "60px 32px" }}>
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
+        <div className="space-y-10 max-w-[960px] mx-auto px-6 py-10 md:px-8 md:py-[60px]">
 
           {/* Header */}
           <div className="space-y-2">
             <h1
-              className="text-[48px] font-medium text-text-primary"
+              className="text-[32px] md:text-[48px] font-medium text-text-primary"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", letterSpacing: "-2px" }}
             >
               Terms of Use
@@ -40,7 +40,7 @@ export default function LegalPage() {
           </div>
 
           {/* Footer */}
-          <div className="flex justify-between items-center pb-4">
+          <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-2 pb-4">
             <div className="flex gap-6">
               <Link href="/privacy" className="text-[12px] text-text-tertiary hover:text-text-secondary">Privacy</Link>
               <Link href="/legal" className="text-[12px] text-text-tertiary hover:text-text-secondary">Legal</Link>

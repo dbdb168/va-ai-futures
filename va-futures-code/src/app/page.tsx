@@ -6,22 +6,22 @@ export default function HomePage() {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <main className="flex-1 overflow-y-auto">
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
         {/* Top spacer — pushes content to lower portion */}
-        <div style={{ height: "30vh" }} />
+        <div className="h-[10vh] md:h-[30vh]" />
 
         {/* Content container using site specs */}
-        <div className="max-w-[1104px] mx-auto" style={{ padding: "40px 32px" }}>
+        <div className="max-w-[1104px] mx-auto px-6 py-10 md:px-8 md:py-10" style={{ }}>
 
           {/* Two-column layout */}
-          <div className="flex gap-12">
+          <div className="flex flex-col md:flex-row gap-12">
             {/* Body column */}
             <div className="flex-1 space-y-6">
               <p className="text-[12px] font-semibold uppercase text-accent-crimson" style={{ letterSpacing: "2px" }}>
                 The Fluency Question
               </p>
               <h1
-                className="text-[64px] font-semibold text-text-primary"
+                className="text-[36px] md:text-[64px] font-semibold text-text-primary"
                 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", lineHeight: 1.1 }}
               >
                 Virginia AI Futures
@@ -47,7 +47,7 @@ export default function HomePage() {
             </div>
 
             {/* Callout column */}
-            <div className="w-[280px] shrink-0" style={{ paddingTop: 140 }}>
+            <div className="w-full md:w-[280px] shrink-0 pt-0 md:pt-[140px]">
               <div
                 className="space-y-3"
                 style={{ paddingLeft: 24, borderLeft: "3px solid #C41E3A" }}
@@ -63,7 +63,7 @@ export default function HomePage() {
           </div>
 
           {/* Footer */}
-          <div className="flex justify-between items-center pb-4" style={{ paddingTop: 80 }}>
+          <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-2 pb-4 pt-10 md:pt-[80px]">
             <div className="flex gap-6">
               <Link href="/privacy" className="text-[12px] text-text-tertiary hover:text-text-secondary">Privacy</Link>
               <Link href="/legal" className="text-[12px] text-text-tertiary hover:text-text-secondary">Legal</Link>

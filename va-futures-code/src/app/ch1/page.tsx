@@ -6,14 +6,12 @@ export default function Ch1Page() {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <div className="flex-1 flex flex-col overflow-y-auto">
+      <div className="flex-1 flex flex-col overflow-y-auto pb-[72px] md:pb-0">
         {/* Dark Hero Header */}
         <header
-          className="flex flex-col items-center justify-center text-center"
+          className="flex flex-col items-center justify-center text-center py-10 px-6 md:px-20 md:h-[360px]"
           style={{
             background: "var(--bg-sidebar, #0F0F0F)",
-            height: 360,
-            padding: "60px 80px",
             gap: 16,
           }}
         >
@@ -29,9 +27,9 @@ export default function Ch1Page() {
             CHAPTER 1
           </span>
           <h1
+            className="text-[36px] md:text-[64px]"
             style={{
               fontFamily: "'Cormorant Garamond', serif",
-              fontSize: 64,
               fontWeight: 500,
               color: "var(--text-on-dark, #FAFAF7)",
               letterSpacing: "-2px",
@@ -42,9 +40,9 @@ export default function Ch1Page() {
             The General Purpose Technology Thesis
           </h1>
           <p
+            className="text-[14px] md:text-[16px]"
             style={{
               fontFamily: "Inter, sans-serif",
-              fontSize: 16,
               fontWeight: 400,
               color: "var(--text-tertiary, #999999)",
               lineHeight: 1.5,
@@ -58,9 +56,11 @@ export default function Ch1Page() {
 
         {/* Content Area */}
         <main
+          className="px-6 md:px-8"
           style={{
             background: "var(--bg-page, #FAFAF7)",
-            padding: "40px 32px",
+            paddingTop: 40,
+            paddingBottom: 40,
             maxWidth: 1104,
             marginLeft: "auto",
             marginRight: "auto",
@@ -90,7 +90,7 @@ export default function Ch1Page() {
           </div>
 
           {/* Body + Margin Row */}
-          <div style={{ display: "flex", gap: 48, alignItems: "flex-start" }}>
+          <div className="flex flex-col md:flex-row" style={{ gap: 48, alignItems: "flex-start" }}>
             <div style={{ flex: 1 }}>
               <p
                 style={{
@@ -106,8 +106,8 @@ export default function Ch1Page() {
               </p>
             </div>
             <aside
+              className="w-full md:w-[380px]"
               style={{
-                width: 380,
                 flexShrink: 0,
                 borderLeft: "3px solid var(--accent-crimson, #C41E3A)",
                 paddingLeft: 16,
@@ -176,13 +176,7 @@ export default function Ch1Page() {
               THE COMPRESSION OF IMPACT
             </span>
             <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "space-between",
-                gap: 24,
-                width: "100%",
-              }}
+              className="flex flex-col md:flex-row items-center justify-between gap-6 w-full"
             >
               <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 6 }}>
                 <span style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 56, fontWeight: 500, letterSpacing: "-1px", lineHeight: 1, color: "var(--text-tertiary, #999999)" }}>
@@ -192,7 +186,7 @@ export default function Ch1Page() {
                   STEAM ENGINE
                 </span>
               </div>
-              <span style={{ fontFamily: "Inter, sans-serif", fontSize: 20, color: "var(--text-tertiary, #999999)", flexShrink: 0 }}>→</span>
+              <span className="hidden md:block" style={{ fontFamily: "Inter, sans-serif", fontSize: 20, color: "var(--text-tertiary, #999999)", flexShrink: 0 }}>→</span>
               <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 6 }}>
                 <span style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 56, fontWeight: 500, letterSpacing: "-1px", lineHeight: 1, color: "var(--text-tertiary, #999999)" }}>
                   40 yrs
@@ -201,7 +195,7 @@ export default function Ch1Page() {
                   ELECTRICITY
                 </span>
               </div>
-              <span style={{ fontFamily: "Inter, sans-serif", fontSize: 20, color: "var(--text-tertiary, #999999)", flexShrink: 0 }}>→</span>
+              <span className="hidden md:block" style={{ fontFamily: "Inter, sans-serif", fontSize: 20, color: "var(--text-tertiary, #999999)", flexShrink: 0 }}>→</span>
               <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 6 }}>
                 <span style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 56, fontWeight: 500, letterSpacing: "-1px", lineHeight: 1, color: "var(--text-tertiary, #999999)" }}>
                   20 yrs
@@ -210,7 +204,7 @@ export default function Ch1Page() {
                   INTERNET
                 </span>
               </div>
-              <span style={{ fontFamily: "Inter, sans-serif", fontSize: 20, color: "var(--text-tertiary, #999999)", flexShrink: 0 }}>→</span>
+              <span className="hidden md:block" style={{ fontFamily: "Inter, sans-serif", fontSize: 20, color: "var(--text-tertiary, #999999)", flexShrink: 0 }}>→</span>
               <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 6 }}>
                 <span style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 56, fontWeight: 500, letterSpacing: "-1px", lineHeight: 1, color: "var(--accent-crimson, #C41E3A)" }}>
                   24 mo
@@ -237,7 +231,7 @@ export default function Ch1Page() {
           </p>
 
           {/* Structural Drivers */}
-          <div style={{ display: "flex", gap: 24 }}>
+          <div className="flex flex-col md:flex-row gap-6">
             <div style={{ flex: 1, border: "1px solid var(--border-gray, #E0E0E0)", padding: 32, display: "flex", flexDirection: "column", gap: 12 }}>
               <p style={{ fontFamily: "Inter, sans-serif", fontSize: 14, fontWeight: 600, color: "var(--text-primary, #0F0F0F)", margin: 0 }}>
                 The interface is natural language.
@@ -317,8 +311,8 @@ export default function Ch1Page() {
 
           {/* Footer */}
           <div
+            className="flex flex-col md:flex-row gap-4 md:gap-0"
             style={{
-              display: "flex",
               justifyContent: "space-between",
               alignItems: "center",
               paddingTop: 24,

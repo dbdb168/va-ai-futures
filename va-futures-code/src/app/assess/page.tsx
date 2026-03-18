@@ -60,15 +60,15 @@ export default function AssessIntakePage() {
       </aside>
 
       {/* Main */}
-      <main className="flex-1 flex items-center justify-center p-8">
+      <main className="flex-1 flex items-center justify-center p-4 md:p-8">
         <div
-          className="w-full max-w-[600px] bg-bg-page rounded-xl p-12 space-y-8"
+          className="w-full max-w-[600px] bg-bg-page rounded-xl p-6 md:p-12 space-y-8"
           style={{ border: "1px solid #E0E0E0" }}
         >
           {/* Header */}
           <div className="space-y-3">
             <h1
-              className="font-serif text-[32px] font-semibold text-text-primary leading-tight"
+              className="font-serif text-[26px] md:text-[32px] font-semibold text-text-primary leading-tight"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
             >
               Where Does Your Business Sit in Virginia&apos;s AI Future?

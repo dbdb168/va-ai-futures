@@ -6,8 +6,8 @@ export default function ContactPage() {
     <div className="flex min-h-screen bg-bg-page">
       <Sidebar />
 
-      <main className="flex-1 overflow-y-auto">
-        <div className="space-y-10 max-w-[1104px] mx-auto" style={{ padding: "60px 32px" }}>
+      <main className="flex-1 overflow-y-auto pb-[72px] md:pb-0">
+        <div className="space-y-10 max-w-[1104px] mx-auto px-6 py-10 md:px-8 md:py-[60px]">
 
           {/* Header */}
           <div className="space-y-2">
@@ -15,7 +15,7 @@ export default function ContactPage() {
               Contact
             </p>
             <h1
-              className="text-[48px] font-medium text-text-primary"
+              className="text-[32px] md:text-[48px] font-medium text-text-primary"
               style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", letterSpacing: "-2px" }}
             >
               Get in Touch
@@ -26,11 +26,11 @@ export default function ContactPage() {
           </div>
 
           {/* Two Column: Form + Right Info */}
-          <div className="flex gap-12">
+          <div className="flex flex-col md:flex-row gap-12">
             {/* Form Card */}
             <div
-              className="space-y-5 rounded-lg bg-white"
-              style={{ width: 560, padding: 32, border: "1px solid #E0E0E0" }}
+              className="space-y-5 rounded-lg bg-white w-full md:w-[560px] p-6 md:p-8"
+              style={{ border: "1px solid #E0E0E0" }}
             >
               {/* Name */}
               <div className="space-y-1.5">
@@ -106,7 +106,7 @@ export default function ContactPage() {
           </div>
 
           {/* Footer */}
-          <div className="flex justify-between items-center pb-4">
+          <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-2 pb-4">
             <div className="flex gap-6">
               <Link href="/privacy" className="text-[12px] text-text-tertiary hover:text-text-secondary">Privacy</Link>
               <Link href="/legal" className="text-[12px] text-text-tertiary hover:text-text-secondary">Legal</Link>
