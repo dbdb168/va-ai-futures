@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { saveAssessment } from "@/lib/db";
 
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || "";
 const VA_FUTURES_WEBHOOK_URL = process.env.VA_FUTURES_WEBHOOK_URL || "";
@@ -291,6 +292,37 @@ export async function POST(req: NextRequest) {
     d_scores: result.d_scores,
     primary_scenario: scenarios[0]?.title,
   }));
+
+  // Save to database (non-blocking)
+  saveAssessment({
+    email: intake.email,
+    name: intake.name,
+    website: intake.website || "",
+    industry: intake.description || "",
+    company_size: intake.size || "",
+    region: intake.region || "",
+    raw_answers: answers,
+    scores: {
+      practice: scores.practice,
+      delegation: scores.delegation,
+      description: scores.description,
+      discernment: scores.discernment,
+      diligence: scores.diligence,
+      overall: scores.overall,
+    },
+    levels: scores.d_levels,
+    strongest_d: scores.strongest_d,
+    weakest_d: scores.weakest_d,
+    current_mode: scores.current_mode,
+    primary_scenario: scenarios[0]?.title || "",
+    secondary_scenario: scenarios[1]?.title || "",
+    intro: result.intro,
+    fluency_desc: result.fluencyDesc,
+    scenario_desc: result.scenarioDesc,
+    trajectory: result.trajectory,
+    actions: result.actions,
+    meta_line: result.metaLine,
+  });
 
   // Fire webhook (non-blocking) — includes full results for email
   fireWebhook({
