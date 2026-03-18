@@ -278,6 +278,20 @@ export async function POST(req: NextRequest) {
     trajectory: analysis.trajectory as string || "",
   };
 
+  // Console log as backup capture
+  console.log("[ASSESSMENT]", JSON.stringify({
+    timestamp: new Date().toISOString(),
+    email: intake.email,
+    name: intake.name,
+    region: intake.region,
+    website: intake.website,
+    industry: intake.description,
+    size: intake.size,
+    overall_score: result.overall_score,
+    d_scores: result.d_scores,
+    primary_scenario: scenarios[0]?.title,
+  }));
+
   // Fire webhook (non-blocking) — includes full results for email
   fireWebhook({
     email: intake.email,
