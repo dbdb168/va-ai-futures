@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.svg",
   },
-  metadataBase: new URL("https://virginiafutures.org"),
+  metadataBase: new URL("https://va-ai-futures.buildfirst.io"),
   openGraph: {
     title: "Virginia Futures — AI Readiness for Virginia Businesses",
     description:
