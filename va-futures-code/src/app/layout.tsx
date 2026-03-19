@@ -9,6 +9,30 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.svg",
   },
+  metadataBase: new URL("https://virginiafutures.org"),
+  openGraph: {
+    title: "Virginia Futures — AI Readiness for Virginia Businesses",
+    description:
+      "How will AI reshape 780,000 Virginia small and mid-size businesses? Four plausible futures grounded in economic data and technology diffusion research.",
+    siteName: "Virginia AI Futures",
+    type: "website",
+    locale: "en_US",
+    images: [
+      {
+        url: "/images/scenario-build-it-yourself.jpg",
+        width: 2512,
+        height: 720,
+        alt: "Virginia AI Futures — scenario planning for AI readiness",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Virginia Futures — AI Readiness for Virginia Businesses",
+    description:
+      "How will AI reshape 780,000 Virginia small and mid-size businesses? Four plausible futures grounded in economic data and technology diffusion research.",
+    images: ["/images/scenario-build-it-yourself.jpg"],
+  },
 };
 
 export default function RootLayout({

@@ -1,4 +1,31 @@
+import type { Metadata } from "next";
 import ScenarioPage, { ScenarioData } from "@/components/ScenarioPage";
+
+export const metadata: Metadata = {
+  title: "Build It Yourself — Virginia AI Futures",
+  description:
+    "Explore how distributed AI fluency drives innovation across Virginia's businesses through peer networks and regional knowledge transfer.",
+  openGraph: {
+    title: "Build It Yourself — Deep & Distributed",
+    description:
+      "Broad fluency spreads through peer networks across Virginia's geography. Scenario 1 of 4 from the Virginia AI Futures research.",
+    images: [
+      {
+        url: "/images/scenario-build-it-yourself.jpg",
+        width: 2512,
+        height: 720,
+        alt: "Virginia mountain landscape — Shenandoah Valley",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Build It Yourself — Deep & Distributed",
+    description:
+      "Broad fluency spreads through peer networks across Virginia's geography.",
+    images: ["/images/scenario-build-it-yourself.jpg"],
+  },
+};
 
 const data: ScenarioData = {
   scenarioNumber: "SCENARIO 1 OF 4",

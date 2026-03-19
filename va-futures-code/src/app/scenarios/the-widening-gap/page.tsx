@@ -1,4 +1,31 @@
+import type { Metadata } from "next";
 import ScenarioPage, { ScenarioData } from "@/components/ScenarioPage";
+
+export const metadata: Metadata = {
+  title: "The Widening Gap — Virginia AI Futures",
+  description:
+    "How external shocks and institutional caution can freeze AI fluency development and permanently harden economic divides.",
+  openGraph: {
+    title: "The Widening Gap — Shallow & Concentrated",
+    description:
+      "A trust shock or recession during the critical window hardens the fluency divide. Scenario 4 of 4 from the Virginia AI Futures research.",
+    images: [
+      {
+        url: "/images/scenario-the-widening-gap.jpg",
+        width: 2512,
+        height: 720,
+        alt: "Empty Virginia Main Street — economic displacement",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "The Widening Gap — Shallow & Concentrated",
+    description:
+      "A trust shock or recession during the critical window hardens the fluency divide.",
+    images: ["/images/scenario-the-widening-gap.jpg"],
+  },
+};
 
 const data: ScenarioData = {
   scenarioNumber: "SCENARIO 4 OF 4",

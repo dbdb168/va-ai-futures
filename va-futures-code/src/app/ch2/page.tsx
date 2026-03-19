@@ -1,5 +1,23 @@
+import type { Metadata } from "next";
 import Sidebar from "@/components/Sidebar";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "The Fluency Variable — Virginia AI Futures",
+  description:
+    "The difference between AI adoption and AI fluency, and the four dimensions that measure genuine competitive advantage.",
+  openGraph: {
+    title: "Ch 2: The Fluency Variable",
+    description:
+      "How the four dimensions of AI fluency determine whether technology adoption becomes competitive advantage.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ch 2: The Fluency Variable",
+    description:
+      "How the four dimensions of AI fluency determine whether technology adoption becomes competitive advantage.",
+  },
+};
 
 export default function Ch2Page() {
   return (

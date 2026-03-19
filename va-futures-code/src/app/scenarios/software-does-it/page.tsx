@@ -1,4 +1,31 @@
+import type { Metadata } from "next";
 import ScenarioPage, { ScenarioData } from "@/components/ScenarioPage";
+
+export const metadata: Metadata = {
+  title: "Software Does It For You — Virginia AI Futures",
+  description:
+    "How broad platform adoption without deep fluency creates competitive blind spots and invisible fluency gaps for Virginia's SMBs.",
+  openGraph: {
+    title: "Software Does It For You — Shallow & Distributed",
+    description:
+      "Platform-delivered AI creates broad but shallow adoption. The inoculation effect. Scenario 2 of 4 from the Virginia AI Futures research.",
+    images: [
+      {
+        url: "/images/scenario-software-does-it.jpg",
+        width: 2512,
+        height: 720,
+        alt: "Aerial view of suburban Virginia office corridor",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Software Does It For You — Shallow & Distributed",
+    description:
+      "Platform-delivered AI creates broad but shallow adoption. The inoculation effect.",
+    images: ["/images/scenario-software-does-it.jpg"],
+  },
+};
 
 const data: ScenarioData = {
   scenarioNumber: "SCENARIO 2 OF 4",

@@ -1,4 +1,31 @@
+import type { Metadata } from "next";
 import ScenarioPage, { ScenarioData } from "@/components/ScenarioPage";
+
+export const metadata: Metadata = {
+  title: "Pockets of Excellence — Virginia AI Futures",
+  description:
+    "How geographic clustering creates world-class AI fluency centers in Virginia's metros while rural regions lag behind.",
+  openGraph: {
+    title: "Pockets of Excellence — Deep & Concentrated",
+    description:
+      "Deep fluency forms in metro clusters while most of the state remains at platform level. Scenario 3 of 4 from the Virginia AI Futures research.",
+    images: [
+      {
+        url: "/images/scenario-pockets-of-excellence.jpg",
+        width: 2512,
+        height: 720,
+        alt: "Nighttime satellite view of Virginia — bright metro clusters",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Pockets of Excellence — Deep & Concentrated",
+    description:
+      "Deep fluency forms in metro clusters while most of the state remains at platform level.",
+    images: ["/images/scenario-pockets-of-excellence.jpg"],
+  },
+};
 
 const data: ScenarioData = {
   scenarioNumber: "SCENARIO 3 OF 4",

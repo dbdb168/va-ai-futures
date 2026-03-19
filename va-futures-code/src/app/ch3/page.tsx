@@ -1,6 +1,24 @@
+import type { Metadata } from "next";
 import Sidebar from "@/components/Sidebar";
 import RegionalAnalysis from "@/components/RegionalAnalysis";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "The Knowledge Network Effect — Virginia AI Futures",
+  description:
+    "How geography, professional networks, and peer density determine which Virginia regions will develop AI fluency faster.",
+  openGraph: {
+    title: "Ch 3: The Knowledge Network Effect",
+    description:
+      "How peer proximity, professional density, and institutional infrastructure determine the speed and depth of AI fluency diffusion.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ch 3: The Knowledge Network Effect",
+    description:
+      "How peer proximity and professional density determine AI fluency diffusion speed.",
+  },
+};
 
 export default function Ch3Page() {
   return (

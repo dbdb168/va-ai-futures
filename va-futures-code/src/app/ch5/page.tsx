@@ -1,5 +1,23 @@
+import type { Metadata } from "next";
 import Sidebar from "@/components/Sidebar";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Implications and Qualifiers — Virginia AI Futures",
+  description:
+    "Who benefits most from AI fluency development and what business strategy questions every Virginia business owner must answer.",
+  openGraph: {
+    title: "Ch 5: Implications and Qualifiers",
+    description:
+      "Who this analysis applies to, where the uncertainties lie, and what it implies for business strategy.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ch 5: Implications and Qualifiers",
+    description:
+      "Who this analysis applies to, where the uncertainties lie, and what it implies for business strategy.",
+  },
+};
 
 export default function Ch5Page() {
   return (

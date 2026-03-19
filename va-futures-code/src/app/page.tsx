@@ -1,5 +1,23 @@
+import type { Metadata } from "next";
 import Sidebar from "@/components/Sidebar";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Virginia AI Futures — AI Readiness for Virginia Businesses",
+  description:
+    "How will AI reshape 780,000 Virginia small and mid-size businesses? Four plausible futures grounded in economic data and technology diffusion research.",
+  openGraph: {
+    title: "Virginia AI Futures",
+    description:
+      "How will AI reshape 780,000 Virginia small and mid-size businesses? Four plausible futures grounded in economic data and scenario planning.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Virginia AI Futures",
+    description:
+      "How will AI reshape 780,000 Virginia small and mid-size businesses? Four plausible futures grounded in scenario planning.",
+  },
+};
 
 export default function HomePage() {
   return (

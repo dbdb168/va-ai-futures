@@ -1,5 +1,23 @@
+import type { Metadata } from "next";
 import Sidebar from "@/components/Sidebar";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "The General Purpose Technology Thesis — Virginia AI Futures",
+  description:
+    "Why generative AI is compressing technology adoption timelines from decades into months and what that means for Virginia businesses.",
+  openGraph: {
+    title: "Ch 1: The General Purpose Technology Thesis",
+    description:
+      "Why generative AI is compressing technology adoption timelines from decades into months and what that means for Virginia businesses.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ch 1: The General Purpose Technology Thesis",
+    description:
+      "Why generative AI is compressing technology adoption timelines from decades into months.",
+  },
+};
 
 export default function Ch1Page() {
   return (
