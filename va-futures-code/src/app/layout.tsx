@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: "Virginia Futures — AI Readiness for Virginia Businesses",
   description:
     "Understand how AI fluency shapes Virginia's economic future across four scenarios.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
