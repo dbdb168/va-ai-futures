@@ -31,7 +31,7 @@ const data: ScenarioData = {
       paragraphs: [
         "Rural and smaller-metro Virginia continues at platform level. Not because the businesses lack capacity, but because they lack the peer networks that normalize building. Without a visible community of practice, there is no peer pressure to develop fluency, no easy way to learn from others\u2019 experiments, and no signal that deeper investment will pay off.",
         "The talent dynamic compounds the gap. AI-fluent workers move toward where the clusters are\u2014not just for compensation, but for the professional environment. The clusters concentrate both the infrastructure for fluency development and the people who carry it. Rural Virginia loses both.",
-        "For a Roanoke accounting firm, the calculus is not obvious. QuickBooks AI features work fine. The platform layer is sufficient for current clients. The competitive threat from Arlington is not yet visible. The investment required to build beyond the platform has no obvious short-term return. Rational actors, making local decisions with local information, produce a state-level outcome that no one chose.",
+        "For a Roanoke staffing agency, the calculus is not obvious. Bullhorn\u2019s AI matching features work fine. The platform layer is sufficient for current clients. The competitive threat from Richmond\u2019s fluent recruiters is not yet visible. The investment required to build beyond the platform has no obvious short-term return. Rational actors, making local decisions with local information, produce a state-level outcome that no one chose.",
       ],
       annotations: [
         {

@@ -29,8 +29,8 @@ const data: ScenarioData = {
     },
     {
       paragraphs: [
-        "The knowledge spreads the way all professional knowledge spreads: through trust networks, not broadcast channels. An agent in Harrisonburg sees what the Staunton group built and asks how. The Staunton agents share, not the tools themselves, but the approach: here is how we thought about it, here is what we tried, here is what failed.",
-        "By 2028, the pattern has spread beyond insurance. A dental practice in Short Pump builds a patient recall engine. A CPA in Staunton builds a client advisory prep system. But these are the exceptions. Most of the market has accepted the platform layer as sufficient.",
+        "Where deeper fluency does emerge, it follows the same trust-network pattern documented in Scenario 1\u2014but at a fraction of the scale. A handful of real estate agents in Richmond, connected through a boutique brokerage, build comparative market analysis tools that encode hyper-local knowledge: which streets flood, which school redistricting rumors are credible, which neighborhoods are turning over. They share the approach at a VAAR chapter meeting. But these clusters are rare, disconnected, and easily dismissed by the majority still operating comfortably at the platform layer.",
+        "By 2028, a few similar exceptions surface across the state. A marketing agency in Charlottesville builds a client-specific content strategy engine trained on two years of campaign performance data. A commercial electrician in Hampton Roads builds a load calculation and bid-generation tool that accounts for naval base wiring specifications no vendor database covers. But these builders remain isolated, without the peer networks that would turn individual curiosity into collective capability. Most of the market has accepted the platform layer as sufficient.",
         "The platform revenue model reinforces stasis. SaaS companies profit from broad shallow adoption. Deeper fluency means fewer platform seats, not more. The incentive structure of the software industry actively works against the fluency development of its customers.",
       ],
       annotations: [
