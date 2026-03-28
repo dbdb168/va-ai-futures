@@ -168,12 +168,16 @@ function buildChartData(regionData, existingChartData) {
   });
 
   // Preserve Anthropic data (can't auto-pull yet — update manually from Hugging Face)
+  // Only update last_updated if the data actually changed
+  const newUnemployment = { labels: labels, datasets: datasets };
+  const dataChanged = JSON.stringify(newUnemployment) !== JSON.stringify({
+    labels: existingChartData.regional_unemployment.labels,
+    datasets: existingChartData.regional_unemployment.datasets,
+  });
+
   const updated = Object.assign({}, existingChartData, {
-    last_updated: new Date().toISOString().slice(0, 10),
-    regional_unemployment: Object.assign({}, existingChartData.regional_unemployment, {
-      labels: labels,
-      datasets: datasets,
-    }),
+    last_updated: dataChanged ? new Date().toISOString().slice(0, 10) : existingChartData.last_updated,
+    regional_unemployment: Object.assign({}, existingChartData.regional_unemployment, newUnemployment),
   });
 
   log('Chart data built with ' + labels.length + ' time points.');
@@ -298,7 +302,9 @@ async function assessIndicators(regionData, existingIndicators) {
     applied++;
   });
 
-  updated.last_updated = new Date().toISOString().slice(0, 10);
+  if (applied > 0) {
+    updated.last_updated = new Date().toISOString().slice(0, 10);
+  }
   log(applied + ' indicator(s) updated.');
   return updated;
 }

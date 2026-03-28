@@ -92,6 +92,22 @@ interface IndicatorsData {
   scenarios: Scenario[];
 }
 
+interface NewsSignal {
+  title: string;
+  url: string;
+  source: string;
+  published: string;
+  region: string;
+  scenario: string;
+  signal_reading: string;
+  fetched: string;
+}
+
+interface NewsSignalsData {
+  last_updated: string;
+  signals: NewsSignal[];
+}
+
 // ─── Status badge ─────────────────────────────────────────────────────────────
 
 const STATUS_COLORS: Record<string, string> = {
@@ -319,6 +335,7 @@ function ScenarioPanel({
 export default function DashboardClient() {
   const [chartData, setChartData] = useState<ChartData | null>(null);
   const [indicators, setIndicators] = useState<IndicatorsData | null>(null);
+  const [newsSignals, setNewsSignals] = useState<NewsSignalsData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [expandedScenario, setExpandedScenario] = useState<string | null>(null);
@@ -327,10 +344,12 @@ export default function DashboardClient() {
     Promise.all([
       fetch("/chart-data.json").then((r) => r.json()),
       fetch("/indicators.json").then((r) => r.json()),
+      fetch("/news-signals.json").then((r) => r.json()).catch(() => null),
     ])
-      .then(([cd, ind]) => {
+      .then(([cd, ind, ns]) => {
         setChartData(cd);
         setIndicators(ind);
+        setNewsSignals(ns);
         setLoading(false);
         // Expand the first scenario by default
         if (ind?.scenarios?.length > 0) {
@@ -394,6 +413,75 @@ export default function DashboardClient() {
       >
         <TaskCoverageChart data={chartData.anthropic_task_coverage} />
       </ChartSection>
+
+      {/* What's Driving This — News Signals */}
+      {newsSignals && newsSignals.signals && newsSignals.signals.length > 0 && (
+        <div className="space-y-6">
+          <div className="space-y-2">
+            <h2
+              className="text-[32px] font-medium text-text-primary"
+              style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", letterSpacing: "-1px" }}
+            >
+              What&apos;s Driving This
+            </h2>
+            <p className="text-text-secondary text-[16px]" style={{ lineHeight: 1.5 }}>
+              Recent Virginia news that is shaping the scenario readings above. Each article is assessed against the scenario framework to show what it signals about Virginia&apos;s AI future.
+            </p>
+          </div>
+
+          <div className="space-y-4">
+            {newsSignals.signals.slice(0, 5).map((signal, i) => {
+              const scenarioId = signal.scenario.toLowerCase().replace(/\s+/g, '-').replace("'", '');
+              const scenarioColor = {
+                'build-it-yourself': '#2D6B3F',
+                'software-does-it-for-you': '#C41E3A',
+                'pockets-of-excellence': '#D4A020',
+                'the-widening-gap': '#666666',
+              }[scenarioId] || '#999';
+
+              return (
+                <div
+                  key={i}
+                  style={{ borderLeft: '3px solid ' + scenarioColor, padding: '16px 20px' }}
+                  className="bg-white rounded-r"
+                >
+                  <div className="space-y-2">
+                    <div className="flex items-start justify-between gap-4">
+                      <a
+                        href={signal.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-[15px] font-medium text-text-primary hover:text-accent-crimson transition-colors leading-snug"
+                      >
+                        {signal.title}
+                        <span className="inline-block ml-1 text-[11px] text-text-tertiary">&#8599;</span>
+                      </a>
+                    </div>
+                    <p className="text-text-secondary text-[13px]" style={{ lineHeight: 1.6 }}>
+                      {signal.signal_reading}
+                    </p>
+                    <div className="flex items-center gap-3 flex-wrap">
+                      <span
+                        className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-semibold uppercase tracking-[0.5px] text-white"
+                        style={{ backgroundColor: scenarioColor }}
+                      >
+                        {signal.scenario}
+                      </span>
+                      <span className="text-text-tertiary text-[11px]">{signal.region}</span>
+                      <span className="text-text-tertiary text-[11px]">{signal.source}</span>
+                      <span className="text-text-tertiary text-[11px]">{signal.published}</span>
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+
+          <p className="text-text-tertiary text-[11px] font-medium" style={{ letterSpacing: "0.5px" }}>
+            Updated {newsSignals.last_updated}. Sources: Virginia Business, Cardinal News, Virginia Mercury, WTOP, Google News. Articles assessed by Claude against the scenario framework.
+          </p>
+        </div>
+      )}
 
       {/* Scenario Signal Detail */}
       <div className="space-y-6">

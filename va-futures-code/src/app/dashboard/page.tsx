@@ -31,7 +31,7 @@ export default function DashboardPage() {
               Where Is Virginia Tracking?
             </h1>
             <p className="text-text-secondary text-[16px]" style={{ lineHeight: 1.5 }}>
-              A living dashboard tracking which AI future is materializing for Virginia&apos;s small and mid-size businesses. Updated quarterly from six data sources. Next update: June 2026.
+              A living dashboard tracking which AI future is materializing for Virginia&apos;s small and mid-size businesses. Updated twice daily from seven data sources including Virginia local news.
             </p>
           </div>
 
@@ -119,7 +119,7 @@ export default function DashboardPage() {
           <div className="space-y-4">
             <div className="w-full h-px bg-border-gray" />
             <p className="text-text-tertiary text-[12px]" style={{ lineHeight: 1.5 }}>
-              Data sources: Bureau of Labor Statistics (LAUS), U.S. Census Bureau (BTOS), Anthropic Economic Index (Hugging Face), Eloundou et al. (2023), BuildFirst field observations, industry reporting.
+              Data sources: Bureau of Labor Statistics (LAUS), U.S. Census Bureau (BTOS), Anthropic Economic Index (Hugging Face), Eloundou et al. (2023), BuildFirst field observations, industry reporting, Virginia local news (Virginia Business, Cardinal News, Virginia Mercury, WTOP).
             </p>
           </div>
 

@@ -1,9 +1,9 @@
-name: Quarterly Dashboard Update
+name: Dashboard Update
 
 on:
   schedule:
-    # Runs at 9am ET on the 15th of March, June, September, December
-    - cron: '0 13 15 3,6,9,12 *'
+    # Twice daily: 7am and 7pm ET (11:00 and 23:00 UTC)
+    - cron: '0 11,23 * * *'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 jobs:
@@ -21,7 +21,12 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run dashboard update
+      - name: Fetch news signals
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node fetch-news-signals.js
+
+      - name: Run dashboard update (BLS + indicators)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node update-dashboard.js
@@ -29,18 +34,18 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet chart-data.json indicators.json && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet chart-data.json indicators.json news-signals.json va-futures-code/public/news-signals.json 2>/dev/null && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add chart-data.json indicators.json
-          git commit -m "Quarterly dashboard update: $(date +%Y-%m-%d)
+          git add chart-data.json indicators.json news-signals.json va-futures-code/public/news-signals.json va-futures-code/public/chart-data.json va-futures-code/public/indicators.json
+          git commit -m "Dashboard update: $(date +%Y-%m-%d)
 
-          Automated update from BLS LAUS data and Claude indicator assessment.
-          See update-dashboard.js for methodology and parameters.
+          Automated update from BLS LAUS data, news signals pipeline,
+          and Claude indicator assessment.
 
           Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
           git push
