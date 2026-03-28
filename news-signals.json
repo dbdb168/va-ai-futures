@@ -9,5 +9,56 @@
     "WTOP Virginia (wtop.com)",
     "Google News RSS (Virginia + AI)"
   ],
-  "signals": []
+  "signals": [
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA to boost community-wide AI education signals intentional knowledge distribution beyond elite institutions, building peer networks that could spread deep capability across Richmond's diverse neighborhoods and demographics.",
+      "fetched": "2026-03-28"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, testing whether distributed deep learning can emerge in areas facing coal transition and broadband challenges.",
+      "fetched": "2026-03-28"
+    },
+    {
+      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-03-23",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Report showing 35% of Virginia jobs at AI risk with Southside least impacted and NoVA most exposed reveals a troubling paradox: regions with weakest AI capability face lowest disruption precisely because they lack the economic complexity that AI targets, cementing rather than bridging divides.",
+      "fetched": "2026-03-28"
+    },
+    {
+      "title": "Google says it will break ground on Botetourt data center campus in coming months",
+      "url": "https://cardinalnews.org/2026/03/27/google-says-it-will-break-ground-on-botetourt-data-center-campus-in-coming-months/",
+      "source": "Cardinal News",
+      "published": "2026-03-27",
+      "region": "Southwest",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Google's data center campus in Botetourt concentrates massive infrastructure investment outside traditional tech hubs, but physical presence of compute resources doesn't guarantee local workforce capability development—potentially creating shallow extraction rather than deep distributed adoption.",
+      "fetched": "2026-03-28"
+    },
+    {
+      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-03-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "AI trainer emphasizing workers must lead rather than follow technology signals potential for deep human-centered adoption in Roanoke region, but success depends on whether training reaches beyond corporate audiences to create genuine peer-to-peer capability networks across economic sectors.",
+      "fetched": "2026-03-28"
+    }
+  ]
 }
