@@ -110,7 +110,7 @@ export default function DashboardPage() {
                 className="inline-flex items-center rounded bg-accent-crimson text-[12px] font-medium text-white hover:bg-accent-crimson/90 transition-colors"
                 style={{ padding: "12px 24px" }}
               >
-                View the Dashboard
+                Start the Assessment
               </Link>
             </div>
           </div>
