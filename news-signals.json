@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-29",
-  "next_check": "2026-03-29",
+  "next_check": "2026-03-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,27 +17,7 @@
       "published": "2026-03-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI training focused on worker agency in Southwest Virginia signals potential for distributed deep capability if workers learn to lead rather than simply consume AI tools, directly addressing the depth dimension outside metro hubs.",
-      "fetched": "2026-03-29"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional partnership with AI Ready RVA concentrates technical education infrastructure in the capital region, deepening Richmond's capability while the 'community impact' framing suggests limited reach beyond the metro footprint.",
-      "fetched": "2026-03-29"
-    },
-    {
-      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-03-23",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "The finding that 35% of Virginia jobs face AI displacement risk—with Southside least impacted and NoVA most—paradoxically signals concentration: regions with shallow AI adoption face less disruption but also miss economic opportunity, while NoVA's exposure reflects both threat and capability concentration.",
+      "signal_reading": "AI training focused on worker agency in Southwest Virginia signals potential for distributed capability-building beyond metro hubs, though sustainability depends on whether training translates to deep fluency or remains one-off exposure.",
       "fetched": "2026-03-29"
     },
     {
@@ -47,17 +27,37 @@
       "published": "2026-02-09",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents distributed capacity-building outside traditional tech corridors, but success depends on whether training develops deep AI fluency or shallow platform adoption.",
+      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia represents grassroots capacity-building infrastructure that could enable distributed AI adoption, testing whether peer networks can overcome traditional geographic concentration patterns.",
       "fetched": "2026-03-29"
     },
     {
-      "title": "Google says it will break ground on Botetourt data center campus in coming months",
-      "url": "https://cardinalnews.org/2026/03/27/google-says-it-will-break-ground-on-botetourt-data-center-campus-in-coming-months/",
-      "source": "Cardinal News",
-      "published": "2026-03-27",
-      "region": "Southwest / Roanoke",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's institutional AI partnership concentrates educational resources and innovation capacity in Richmond Metro, potentially deepening capability in a secondary hub while leaving rural regions dependent on trickle-down knowledge transfer that may never materialize.",
+      "fetched": "2026-03-29"
+    },
+    {
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-03-29",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Google's Botetourt data center distributes AI infrastructure geographically but concentrates actual capability—local communities gain construction jobs and tax revenue while computational power flows elsewhere, exemplifying shallow distributed presence without depth.",
+      "signal_reading": "Business adoption of AI tools in Hampton Roads suggests platform-driven shallow distribution—organizations consuming AI services rather than building deep technical capabilities, which may democratize access without creating local expertise or economic resilience.",
+      "fetched": "2026-03-29"
+    },
+    {
+      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-03-23",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Report showing 35% of Virginia jobs at AI risk with Northern Virginia most exposed and Southside least reveals paradox: metro regions face disruption without guaranteed capability gains, while rural areas remain isolated from both AI's threats and opportunities, signaling potential hollow displacement across all regions.",
       "fetched": "2026-03-29"
     }
   ]
