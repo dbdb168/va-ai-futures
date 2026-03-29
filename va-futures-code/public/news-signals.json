@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28",
+  "last_updated": "2026-03-29",
   "next_check": "2026-03-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,24 +11,24 @@
   ],
   "signals": [
     {
+      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-03-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "AI training focused on worker agency in Southwest Virginia signals potential for distributed deep capability if workers learn to lead rather than simply consume AI tools, directly addressing the depth dimension outside metro hubs.",
+      "fetched": "2026-03-29"
+    },
+    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA to boost community-wide AI education signals intentional knowledge distribution beyond elite institutions, building peer networks that could spread deep capability across Richmond's diverse neighborhoods and demographics.",
-      "fetched": "2026-03-28"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, testing whether distributed deep learning can emerge in areas facing coal transition and broadband challenges.",
-      "fetched": "2026-03-28"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's institutional partnership with AI Ready RVA concentrates technical education infrastructure in the capital region, deepening Richmond's capability while the 'community impact' framing suggests limited reach beyond the metro footprint.",
+      "fetched": "2026-03-29"
     },
     {
       "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
@@ -37,28 +37,28 @@
       "published": "2026-03-23",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Report showing 35% of Virginia jobs at AI risk with Southside least impacted and NoVA most exposed reveals a troubling paradox: regions with weakest AI capability face lowest disruption precisely because they lack the economic complexity that AI targets, cementing rather than bridging divides.",
-      "fetched": "2026-03-28"
+      "signal_reading": "The finding that 35% of Virginia jobs face AI displacement risk—with Southside least impacted and NoVA most—paradoxically signals concentration: regions with shallow AI adoption face less disruption but also miss economic opportunity, while NoVA's exposure reflects both threat and capability concentration.",
+      "fetched": "2026-03-29"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents distributed capacity-building outside traditional tech corridors, but success depends on whether training develops deep AI fluency or shallow platform adoption.",
+      "fetched": "2026-03-29"
     },
     {
       "title": "Google says it will break ground on Botetourt data center campus in coming months",
       "url": "https://cardinalnews.org/2026/03/27/google-says-it-will-break-ground-on-botetourt-data-center-campus-in-coming-months/",
       "source": "Cardinal News",
       "published": "2026-03-27",
-      "region": "Southwest",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Google's data center campus in Botetourt concentrates massive infrastructure investment outside traditional tech hubs, but physical presence of compute resources doesn't guarantee local workforce capability development—potentially creating shallow extraction rather than deep distributed adoption.",
-      "fetched": "2026-03-28"
-    },
-    {
-      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-03-17",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "AI trainer emphasizing workers must lead rather than follow technology signals potential for deep human-centered adoption in Roanoke region, but success depends on whether training reaches beyond corporate audiences to create genuine peer-to-peer capability networks across economic sectors.",
-      "fetched": "2026-03-28"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Google's Botetourt data center distributes AI infrastructure geographically but concentrates actual capability—local communities gain construction jobs and tax revenue while computational power flows elsewhere, exemplifying shallow distributed presence without depth.",
+      "fetched": "2026-03-29"
     }
   ]
 }
