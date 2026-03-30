@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "next_check": "2026-03-30",
+  "next_check": "2026-03-31",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,27 +17,17 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional knowledge infrastructure building beyond NoVA, creating peer-to-peer learning networks that could distribute deep AI capability across Richmond's diverse community sectors.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-scale AI literacy infrastructure in Richmond, creating the peer networks and distributed learning capacity that could enable deep adoption beyond elite metro enclaves.",
       "fetched": "2026-03-30"
     },
     {
-      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - cardinalnews.org",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
-      "source": "cardinalnews.org",
-      "published": "2026-03-23",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "The 35% job displacement risk concentrated in NoVA while Southside faces least impact reveals a paradox: regions with AI infrastructure face disruption without guaranteed capability transfer, while rural areas remain structurally excluded from both threat and opportunity.",
-      "fetched": "2026-03-30"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - news.vt.edu",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
+      "source": "news.vt.edu",
       "published": "2026-02-09",
-      "region": "Southwest Virginia",
+      "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity building that could seed distributed AI fluency in coal transition regions, though success depends on whether training reaches deep technical skills or shallow platform adoption.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates grassroots capacity-building in historically underserved regions, potentially enabling distributed deep learning rather than platform dependency or concentration in tech hubs.",
       "fetched": "2026-03-30"
     },
     {
@@ -47,7 +37,7 @@
       "published": "2026-03-29",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads businesses embracing AI suggests platform-enabled adoption spreading beyond NoVA, but the nature of 'embracing' determines whether this creates shallow tool usage or deeper regional capability in the defense-tech corridor.",
+      "signal_reading": "Broad business adoption of AI in Hampton Roads suggests shallow platform-layer integration spreading across traditional maritime and defense sectors—distribution without depth, fitting the 'software does it for you' pattern of vendor-driven capability.",
       "fetched": "2026-03-30"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-03-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI trainer emphasizing worker leadership over passive technology adoption signals pedagogy for deep capability building in Southwest Virginia, directly countering 'software does it for you' narratives that concentrate power in platform providers.",
+      "signal_reading": "AI trainer emphasizing worker leadership over technology followership in Roanoke signals pedagogical focus on agency and deep understanding rather than passive tool use, critical for distributed deep adoption in non-metro regions.",
+      "fetched": "2026-03-30"
+    },
+    {
+      "title": "Northern Virginia Technology Council Urges Removal of Data Center Tax Repeal from State Budget - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzBuZkNvY2dsdEJXRFphNFpPdHlmWk8zeFRtenBCaWRDY2daTThpM1hwci1wTW13RG11MlRXZ3dqODJpWFJ4ODBJMWJjX1BSQVZsaVVhNndFSUxlZ1pIV2xsWlpCcElOeWRLNVlKXzk5cjJnT2VQZnRZdGRZQVJhVHhwSFFpS05VVUZNMHhmRk5TYl8zSTZnMmlRUm1fMHQzaS1VZTBBa055NHUxYmJ1cl9tMVpjQVF4cF9LT1JvU1dRalQ5QnBoZEZ4NlpmclpoTTJ6d2hUWTBuRE5INk5TU2dlcVU?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-03-10",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NoVA Technology Council's lobbying to protect data center tax incentives reinforces infrastructure concentration in the state's wealthiest corridor, deepening the capital-intensive capability gap between Northern Virginia and rural regions.",
       "fetched": "2026-03-30"
     }
   ]
