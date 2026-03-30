@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29",
+  "last_updated": "2026-03-30",
   "next_check": "2026-03-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,34 +11,34 @@
   ],
   "signals": [
     {
-      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-03-17",
-      "region": "Southwest / Roanoke",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI training focused on worker agency in Southwest Virginia signals potential for distributed capability-building beyond metro hubs, though sustainability depends on whether training translates to deep fluency or remains one-off exposure.",
-      "fetched": "2026-03-29"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional knowledge infrastructure building beyond NoVA, creating peer-to-peer learning networks that could distribute deep AI capability across Richmond's diverse community sectors.",
+      "fetched": "2026-03-30"
+    },
+    {
+      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - cardinalnews.org",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
+      "source": "cardinalnews.org",
+      "published": "2026-03-23",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "The 35% job displacement risk concentrated in NoVA while Southside faces least impact reveals a paradox: regions with AI infrastructure face disruption without guaranteed capability transfer, while rural areas remain structurally excluded from both threat and opportunity.",
+      "fetched": "2026-03-30"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-02-09",
-      "region": "Southwest / Roanoke",
+      "region": "Southwest Virginia",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia represents grassroots capacity-building infrastructure that could enable distributed AI adoption, testing whether peer networks can overcome traditional geographic concentration patterns.",
-      "fetched": "2026-03-29"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional AI partnership concentrates educational resources and innovation capacity in Richmond Metro, potentially deepening capability in a secondary hub while leaving rural regions dependent on trickle-down knowledge transfer that may never materialize.",
-      "fetched": "2026-03-29"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity building that could seed distributed AI fluency in coal transition regions, though success depends on whether training reaches deep technical skills or shallow platform adoption.",
+      "fetched": "2026-03-30"
     },
     {
       "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
@@ -47,18 +47,18 @@
       "published": "2026-03-29",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Business adoption of AI tools in Hampton Roads suggests platform-driven shallow distribution—organizations consuming AI services rather than building deep technical capabilities, which may democratize access without creating local expertise or economic resilience.",
-      "fetched": "2026-03-29"
+      "signal_reading": "Hampton Roads businesses embracing AI suggests platform-enabled adoption spreading beyond NoVA, but the nature of 'embracing' determines whether this creates shallow tool usage or deeper regional capability in the defense-tech corridor.",
+      "fetched": "2026-03-30"
     },
     {
-      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-03-23",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Report showing 35% of Virginia jobs at AI risk with Northern Virginia most exposed and Southside least reveals paradox: metro regions face disruption without guaranteed capability gains, while rural areas remain isolated from both AI's threats and opportunities, signaling potential hollow displacement across all regions.",
-      "fetched": "2026-03-29"
+      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-03-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "AI trainer emphasizing worker leadership over passive technology adoption signals pedagogy for deep capability building in Southwest Virginia, directly countering 'software does it for you' narratives that concentrate power in platform providers.",
+      "fetched": "2026-03-30"
     }
   ]
 }
