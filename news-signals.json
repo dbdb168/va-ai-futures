@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "next_check": "2026-03-31",
+  "next_check": "2026-04-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU partnering with AI Ready RVA signals distributed capacity-building through institutional anchors beyond NoVA, creating peer learning networks that could democratize deep AI fluency across Richmond's urban core and potentially surrounding counties.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals distributed capability-building through community-oriented education infrastructure, potentially creating peer learning networks beyond traditional tech hubs if the model proves replicable across Virginia regions.",
       "fetched": "2026-03-31"
     },
     {
@@ -27,17 +27,17 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents ground-up capability building in an economically transitioning region, testing whether distributed deep learning can take root in areas historically excluded from tech growth.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents bottom-up capacity development in a historically underserved region, testing whether deep skill-building can take root outside metro concentration zones through local partnership models.",
       "fetched": "2026-03-31"
     },
     {
-      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - pilotonline.com",
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
-      "source": "pilotonline.com",
+      "source": "The Virginian-Pilot",
       "published": "2026-03-29",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads businesses embracing AI suggests platform-delivered tools are enabling broad but shallow adoption in a defense-industrial economy, creating distributed usage without necessarily building indigenous development capacity.",
+      "signal_reading": "Broad business adoption of AI tools in Hampton Roads suggests platform-delivered shallow integration rather than deep capability development, indicating distributed but surface-level deployment that maintains rather than disrupts existing regional capability hierarchies.",
       "fetched": "2026-03-31"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-03-10",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA Technology Council lobbying on data center tax policy reveals how concentrated infrastructure investment deepens metro advantage through policy capture, reinforcing the capital-policy-talent feedback loop that maintains regional inequality.",
+      "signal_reading": "NoVA Tech Council's lobbying to preserve data center tax incentives reinforces infrastructure and capital concentration in Data Center Alley, deepening the metro advantage while policy choices actively channel AI-adjacent economic development away from distribution.",
       "fetched": "2026-03-31"
     },
     {
-      "title": "Prince William Co. school system establishes guidance on AI glasses",
-      "url": "https://wtop.com/prince-william-county/2026/03/prince-william-co-school-system-establishes-guidance-on-ai-glasses/",
-      "source": "WTOP Virginia",
-      "published": "2026-03-27",
-      "region": "Northern Virginia",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Prince William schools establishing AI glasses guidance indicates consumer AI tools are penetrating institutions rapidly, but policy response focuses on managing shallow deployment rather than building deep technical literacy among students or educators.",
+      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-05",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk Southern's deployment of specialized AI defect detection systems represents deep technical capability concentrated in established industrial corridors, showing how AI adoption follows existing centers of technical sophistication rather than democratizing capability.",
       "fetched": "2026-03-31"
     }
   ]
