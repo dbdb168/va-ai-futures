@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30",
+  "last_updated": "2026-03-31",
   "next_check": "2026-03-31",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,38 +17,28 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-scale AI literacy infrastructure in Richmond, creating the peer networks and distributed learning capacity that could enable deep adoption beyond elite metro enclaves.",
-      "fetched": "2026-03-30"
+      "signal_reading": "VCU partnering with AI Ready RVA signals distributed capacity-building through institutional anchors beyond NoVA, creating peer learning networks that could democratize deep AI fluency across Richmond's urban core and potentially surrounding counties.",
+      "fetched": "2026-03-31"
     },
     {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - news.vt.edu",
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "news.vt.edu",
+      "source": "Virginia Tech News",
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates grassroots capacity-building in historically underserved regions, potentially enabling distributed deep learning rather than platform dependency or concentration in tech hubs.",
-      "fetched": "2026-03-30"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents ground-up capability building in an economically transitioning region, testing whether distributed deep learning can take root in areas historically excluded from tech growth.",
+      "fetched": "2026-03-31"
     },
     {
-      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - pilotonline.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
-      "source": "The Virginian-Pilot",
+      "source": "pilotonline.com",
       "published": "2026-03-29",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Broad business adoption of AI in Hampton Roads suggests shallow platform-layer integration spreading across traditional maritime and defense sectors—distribution without depth, fitting the 'software does it for you' pattern of vendor-driven capability.",
-      "fetched": "2026-03-30"
-    },
-    {
-      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-03-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "AI trainer emphasizing worker leadership over technology followership in Roanoke signals pedagogical focus on agency and deep understanding rather than passive tool use, critical for distributed deep adoption in non-metro regions.",
-      "fetched": "2026-03-30"
+      "signal_reading": "Hampton Roads businesses embracing AI suggests platform-delivered tools are enabling broad but shallow adoption in a defense-industrial economy, creating distributed usage without necessarily building indigenous development capacity.",
+      "fetched": "2026-03-31"
     },
     {
       "title": "Northern Virginia Technology Council Urges Removal of Data Center Tax Repeal from State Budget - PR Newswire",
@@ -57,8 +47,18 @@
       "published": "2026-03-10",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA Technology Council's lobbying to protect data center tax incentives reinforces infrastructure concentration in the state's wealthiest corridor, deepening the capital-intensive capability gap between Northern Virginia and rural regions.",
-      "fetched": "2026-03-30"
+      "signal_reading": "NoVA Technology Council lobbying on data center tax policy reveals how concentrated infrastructure investment deepens metro advantage through policy capture, reinforcing the capital-policy-talent feedback loop that maintains regional inequality.",
+      "fetched": "2026-03-31"
+    },
+    {
+      "title": "Prince William Co. school system establishes guidance on AI glasses",
+      "url": "https://wtop.com/prince-william-county/2026/03/prince-william-co-school-system-establishes-guidance-on-ai-glasses/",
+      "source": "WTOP Virginia",
+      "published": "2026-03-27",
+      "region": "Northern Virginia",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Prince William schools establishing AI glasses guidance indicates consumer AI tools are penetrating institutions rapidly, but policy response focuses on managing shallow deployment rather than building deep technical literacy among students or educators.",
+      "fetched": "2026-03-31"
     }
   ]
 }
