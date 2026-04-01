@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31",
+  "last_updated": "2026-04-01",
   "next_check": "2026-04-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,48 +17,48 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals distributed capability-building through community-oriented education infrastructure, potentially creating peer learning networks beyond traditional tech hubs if the model proves replicable across Virginia regions.",
-      "fetched": "2026-03-31"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-level AI education infrastructure beyond elite tech hubs, suggesting distributed capability-building through institutional anchors that could spread deep fluency across Richmond's broader population.",
+      "fetched": "2026-04-01"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-02-09",
-      "region": "Southwest",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents bottom-up capacity development in a historically underserved region, testing whether deep skill-building can take root outside metro concentration zones through local partnership models.",
-      "fetched": "2026-03-31"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, potentially creating distributed deep skills rather than shallow platform adoption if training emphasizes technical fundamentals over tool usage.",
+      "fetched": "2026-04-01"
     },
     {
-      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-03-29",
-      "region": "Hampton Roads",
+      "title": "Tech briefs: House approves study for low earth orbit satellite broadband in Appalachia",
+      "url": "https://cardinalnews.org/2026/04/01/tech-briefs-house-approves-study-for-low-earth-orbit-satellite-broadband-in-appalachia/",
+      "source": "Cardinal News",
+      "published": "2026-04-01",
+      "region": "Southwest & Southside",
       "scenario": "Software Does It For You",
-      "signal_reading": "Broad business adoption of AI tools in Hampton Roads suggests platform-delivered shallow integration rather than deep capability development, indicating distributed but surface-level deployment that maintains rather than disrupts existing regional capability hierarchies.",
-      "fetched": "2026-03-31"
+      "signal_reading": "Low-earth orbit satellite broadband study for Appalachia addresses infrastructure prerequisites for distribution, but satellite connectivity alone enables shallow platform consumption rather than deep technical capability unless paired with skills development.",
+      "fetched": "2026-04-01"
     },
     {
-      "title": "Northern Virginia Technology Council Urges Removal of Data Center Tax Repeal from State Budget - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzBuZkNvY2dsdEJXRFphNFpPdHlmWk8zeFRtenBCaWRDY2daTThpM1hwci1wTW13RG11MlRXZ3dqODJpWFJ4ODBJMWJjX1BSQVZsaVVhNndFSUxlZ1pIV2xsWlpCcElOeWRLNVlKXzk5cjJnT2VQZnRZdGRZQVJhVHhwSFFpS05VVUZNMHhmRk5TYl8zSTZnMmlRUm1fMHQzaS1VZTBBa055NHUxYmJ1cl9tMVpjQVF4cF9LT1JvU1dRalQ5QnBoZEZ4NlpmclpoTTJ6d2hUWTBuRE5INk5TU2dlcVU?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-03-10",
+      "title": "Economic development officials: Protect Virginia’s reputation and opportunity for responsible data center investment",
+      "url": "https://cardinalnews.org/2026/04/01/economic-development-officials-protect-virginias-reputation-and-opportunity-for-responsible-data-center-investment/",
+      "source": "Cardinal News",
+      "published": "2026-04-01",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Economic development officials from underserved regions advocating for data center investment reveals the gap dynamic—these communities seek infrastructure that concentrates in metro areas while they remain on the periphery, potentially widening rather than closing capability divides.",
+      "fetched": "2026-04-01"
+    },
+    {
+      "title": "Study: Data center growth adds to &#8216;perfect storm&#8217; of risk to Potomac River drinking water supply",
+      "url": "https://wtop.com/fairfax-county/2026/03/study-data-center-growth-adds-to-perfect-storm-of-risk-to-potomac-river-drinking-water-supply/",
+      "source": "WTOP Virginia",
+      "published": "2026-03-31",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA Tech Council's lobbying to preserve data center tax incentives reinforces infrastructure and capital concentration in Data Center Alley, deepening the metro advantage while policy choices actively channel AI-adjacent economic development away from distribution.",
-      "fetched": "2026-03-31"
-    },
-    {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern's deployment of specialized AI defect detection systems represents deep technical capability concentrated in established industrial corridors, showing how AI adoption follows existing centers of technical sophistication rather than democratizing capability.",
-      "fetched": "2026-03-31"
+      "signal_reading": "Data center growth concentration along the Potomac creates environmental strain that may trigger regulatory constraints, potentially reinforcing NoVA's infrastructure advantage while limiting expansion to regions that could benefit from distributed AI capability development.",
+      "fetched": "2026-04-01"
     }
   ]
 }
