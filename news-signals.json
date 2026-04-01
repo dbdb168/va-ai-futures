@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-01",
-  "next_check": "2026-04-01",
+  "next_check": "2026-04-02",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,27 +17,17 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-level AI education infrastructure beyond elite tech hubs, suggesting distributed capability-building through institutional anchors that could spread deep fluency across Richmond's broader population.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional knowledge distribution infrastructure in Richmond, creating peer networks for AI fluency beyond just consuming platforms—a prototype for metro-anchored regional skill diffusion.",
       "fetched": "2026-04-01"
     },
     {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - news.vt.edu",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
+      "source": "news.vt.edu",
       "published": "2026-02-09",
-      "region": "Southwest / Roanoke",
+      "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, potentially creating distributed deep skills rather than shallow platform adoption if training emphasizes technical fundamentals over tool usage.",
-      "fetched": "2026-04-01"
-    },
-    {
-      "title": "Tech briefs: House approves study for low earth orbit satellite broadband in Appalachia",
-      "url": "https://cardinalnews.org/2026/04/01/tech-briefs-house-approves-study-for-low-earth-orbit-satellite-broadband-in-appalachia/",
-      "source": "Cardinal News",
-      "published": "2026-04-01",
-      "region": "Southwest & Southside",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Low-earth orbit satellite broadband study for Appalachia addresses infrastructure prerequisites for distribution, but satellite connectivity alone enables shallow platform consumption rather than deep technical capability unless paired with skills development.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capability building in a historically underserved region, testing whether deep skills can root outside traditional tech corridors when paired with place-based institutions.",
       "fetched": "2026-04-01"
     },
     {
@@ -45,19 +35,29 @@
       "url": "https://cardinalnews.org/2026/04/01/economic-development-officials-protect-virginias-reputation-and-opportunity-for-responsible-data-center-investment/",
       "source": "Cardinal News",
       "published": "2026-04-01",
-      "region": "Southwest & Southside",
+      "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Economic development officials from underserved regions advocating for data center investment reveals the gap dynamic—these communities seek infrastructure that concentrates in metro areas while they remain on the periphery, potentially widening rather than closing capability divides.",
+      "signal_reading": "Southside officials pleading not to 'pull up the ladder' before they access data center economy reveals the infrastructure-as-prerequisite trap—regions waiting for concentrated capital investment rather than building distributed AI literacy independently.",
       "fetched": "2026-04-01"
     },
     {
-      "title": "Study: Data center growth adds to &#8216;perfect storm&#8217; of risk to Potomac River drinking water supply",
-      "url": "https://wtop.com/fairfax-county/2026/03/study-data-center-growth-adds-to-perfect-storm-of-risk-to-potomac-river-drinking-water-supply/",
-      "source": "WTOP Virginia",
-      "published": "2026-03-31",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center growth concentration along the Potomac creates environmental strain that may trigger regulatory constraints, potentially reinforcing NoVA's infrastructure advantage while limiting expansion to regions that could benefit from distributed AI capability development.",
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-03-29",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Hampton Roads businesses 'embracing' AI suggests platform-mediated adoption spreading to military-adjacent economy, but without indicators of deep technical capability—classic shallow distribution through turnkey tools rather than indigenous development capacity.",
+      "fetched": "2026-04-01"
+    },
+    {
+      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-03-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "AI trainer emphasizing workers must 'lead technology, not follow it' in Roanoke signals pedagogical orientation toward deep fluency rather than passive tool consumption—critical framing for whether New River Valley builds on Virginia Tech's technical foundation or defaults to vendor dependence.",
       "fetched": "2026-04-01"
     }
   ]
