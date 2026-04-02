@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-02",
-  "next_check": "2026-04-02",
+  "next_check": "2026-04-03",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,23 @@
   ],
   "signals": [
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - news.vcu.edu",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "news.vcu.edu",
-      "published": "2025-11-18",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
       "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Workforce pressure on young workers without accompanying deep capability-building suggests AI is arriving as an external force rather than a distributed competency, signaling shallow adoption under labor market stress.",
+      "fetched": "2026-04-02"
+    },
+    {
+      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-03-17",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals deliberate community-level capability building in Richmond, attempting to create distributed AI fluency through education and local innovation rather than relying solely on external platform adoption or corporate infrastructure.",
+      "signal_reading": "Training workers to 'lead technology, not follow it' in Southwest Virginia signals intentional depth-building in a traditionally underserved region, potentially distributing genuine AI literacy beyond metro concentration.",
       "fetched": "2026-04-02"
     },
     {
@@ -27,37 +37,27 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity building in historically underserved regions, directly countering the concentration pattern by investing in deep local skills development rather than shallow platform adoption.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building infrastructure that could enable distributed deep learning rather than platform dependency or metro-only excellence.",
       "fetched": "2026-04-02"
     },
     {
-      "title": "AI trainer says workers must lead technology, not follow it - wdbj7.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
-      "source": "wdbj7.com",
-      "published": "2026-03-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "An AI trainer emphasizing worker agency over passive technology consumption in Roanoke signals potential for deep capability development outside NoVA, though limited to those who can access specialized training rather than distributed by default.",
-      "fetched": "2026-04-02"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI pressure on Richmond's young workforce without corresponding deep capability development signals shallow displacement rather than empowerment, potentially widening the gap between those with technical fluency and those merely experiencing AI's labor market effects.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU-AI Ready RVA partnership reinforces Richmond's position as a secondary hub with institutional AI capability, but partnership model suggests depth may remain concentrated in university-adjacent networks rather than broadly distributed.",
       "fetched": "2026-04-02"
     },
     {
-      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "2026-02-25",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center growth slowing in NoVA amid tax debates reveals infrastructure-driven AI concentration may be plateauing, but infrastructure itself doesn't create distributed capability—the capital and technical expertise remain concentrated even if physical expansion slows.",
+      "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclBYS1gxYjdVeFVzdWZJVnhIb2xHaDV4NW0teVhETXpadzNsNGNaOG9jTXlLY1Z2Rjc3Rmk4ZXpieWZQQmhNcWVfSGd4ZG00bzdDdGpzdVVQLUVGZGhKRWZUSWt2X3hCdWh4UDNlR3p4algxZVV1eWItS0RfWW95RlJ6b01aWFNFMHVScHd0SQ?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-04-02",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI-powered MLS search tool in Hampton Roads represents platform-delivered shallow adoption—businesses consuming AI as turnkey service rather than building internal capability, distributing access but not expertise.",
       "fetched": "2026-04-02"
     }
   ]
