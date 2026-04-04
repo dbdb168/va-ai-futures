@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03",
+  "last_updated": "2026-04-04",
   "next_check": "2026-04-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for distributed AI literacy beyond elite tech corridors, potentially seeding peer-to-peer learning networks that could spread deep capability across Richmond's diverse communities rather than concentrating it in university labs.",
-      "fetched": "2026-04-03"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals bottom-up capacity building in a traditionally underserved region, representing exactly the distributed, deep learning model that could counteract metro concentration—if it achieves genuine AI fluency rather than surface-level platform use.",
-      "fetched": "2026-04-03"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of deep capability through structured education and community impact—a model for translating metro expertise into peer-to-peer learning networks rather than pure platform dependency.",
+      "fetched": "2026-04-04"
     },
     {
       "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
@@ -37,8 +27,8 @@
       "published": "2026-03-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "An AI trainer emphasizing worker agency over passive adoption in Southwest Virginia directly addresses the deep vs. shallow question: this signals potential for Build It Yourself outcomes if workers gain foundational understanding, or risks Widening Gap if training remains theoretical without hands-on implementation infrastructure.",
-      "fetched": "2026-04-03"
+      "signal_reading": "An AI trainer emphasizing worker agency ('lead technology, not follow it') in Southwest Virginia directly signals capacity-building for deep engagement rather than passive tool consumption—critical for distributed depth in historically underserved regions.",
+      "fetched": "2026-04-04"
     },
     {
       "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
@@ -47,18 +37,28 @@
       "published": "2026-04-02",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads MLS deploying turnkey AI search tools exemplifies shallow-but-distributed adoption: real estate agents gain AI capabilities through platforms requiring minimal technical depth, spreading capability geographically while keeping the actual AI knowledge concentrated with vendors.",
-      "fetched": "2026-04-03"
+      "signal_reading": "Hampton Roads MLS deploying turnkey AI for home searches exemplifies shallow-but-distributed adoption—platform vendors deliver functionality without requiring deep technical fluency from realtors or consumers, widening access but not expertise.",
+      "fetched": "2026-04-04"
+    },
+    {
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTFl3QWdHaGNKNUpCXzU0VXV4TVlMVzVtbENzRHBjZ1F4bkRTYkNNRTN3QlRKNEhtM0tqbmZnZ0ZfcmZ2Q1pUSl85Nzdqc19wWW1PemxaNkpmVml2Y0gyVVM5NVhkVjZ3SnZLUC1TLTlRWkViZURMYlduZlk1YnNPeTZGVERnYWVEVXZqRjZBbHFwNEZVY3ctSThvTl9LdDY0TkY1Q01sMGJzaDltOXJfMWU2M21EVTBKRkJkdExmcDI5eHVOeldhSWJzQ1lIMnpL?oc=5",
+      "source": "MSN",
+      "published": "2026-03-29",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Hampton Roads businesses 'embracing' AI suggests early-adopter concentration within the metro region's defense-tech ecosystem, but without accompanying workforce development signals, this may deepen rather than distribute capability across Southside and rural areas.",
+      "fetched": "2026-04-04"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
       "source": "Axios",
       "published": "2026-04-02",
-      "region": "Richmond Metro",
+      "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Richmond's young workforce feeling AI pressure without clear pathways to capability signals the Widening Gap scenario: awareness and anxiety are distributing faster than actual skills or tools, creating demand without the institutional responses needed for either deep learning or accessible platforms.",
-      "fetched": "2026-04-03"
+      "signal_reading": "Growing AI pressure on Richmond's young workforce without corresponding access-to-training infrastructure signals anxiety without empowerment—the risk scenario where neither depth of skill nor distribution of opportunity materializes fast enough to meet demand.",
+      "fetched": "2026-04-04"
     }
   ]
 }
