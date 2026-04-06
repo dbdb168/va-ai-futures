@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05",
+  "last_updated": "2026-04-06",
   "next_check": "2026-04-06",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,34 +11,44 @@
   ],
   "signals": [
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce signals concentration of capability demands in metro areas, creating a sorting mechanism that deepens the metro-rural divide unless distributed training infrastructure emerges to democratize access.",
-      "fetched": "2026-04-05"
-    },
-    {
-      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-03-17",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "An AI trainer emphasizing worker-led technology adoption in Southwest Virginia signals potential for peer-driven skill building in non-metro regions, but success depends on whether training translates to deep fluency or remains motivational messaging.",
-      "fetched": "2026-04-05"
-    },
-    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA to boost community-wide AI education signals an intentional strategy to build distributed, deep capability beyond elite tech hubs—testing whether institutional coordination can democratize AI fluency across Richmond's broader workforce.",
+      "fetched": "2026-04-06"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, suggesting distributed skill development could emerge from place-based initiatives rather than platform deployment or metro concentration.",
+      "fetched": "2026-04-06"
+    },
+    {
+      "title": "Northern Virginia AI startups raise millions - virginiabusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FTzJCSjVUV1UxZlZkZDJxUExMRDRLWXhXcVk2QzJUMThnTnNNTTctRllqTFFjYS1kLXV6bFNLR202TlJVMlZsVmlxbnBwSlVvZFp5aWgtMVJXdW50dGJac2NlU1g1Ml92SlpkYzl1b0ZsZWg2SXc?oc=5",
+      "source": "virginiabusiness.com",
+      "published": "2025-11-02",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional AI partnership concentrates expertise and resources in Richmond Metro, creating a hub-and-spoke model that could either radiate capability outward or reinforce the capital region as an exclusive center of AI innovation.",
-      "fetched": "2026-04-05"
+      "signal_reading": "Million-dollar AI startup funding flowing exclusively to Northern Virginia reinforces the concentration of capital, talent, and deep technical capability in the NoVA corridor, widening the gap with regions lacking venture ecosystems and specialized AI expertise.",
+      "fetched": "2026-04-06"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI pressure on Richmond's young workforce without corresponding deep training infrastructure suggests shallow adoption through commercial platforms is displacing entry-level workers faster than communities can build adaptive capability—neither depth nor broad distribution materializing.",
+      "fetched": "2026-04-06"
     },
     {
       "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
@@ -47,18 +57,8 @@
       "published": "2026-04-02",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads MLS deploying an AI tool for home searches represents platform-delivered capability creating broad but shallow adoption—real estate agents gain AI functionality without developing underlying technical fluency.",
-      "fetched": "2026-04-05"
-    },
-    {
-      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTFl3QWdHaGNKNUpCXzU0VXV4TVlMVzVtbENzRHBjZ1F4bkRTYkNNRTN3QlRKNEhtM0tqbmZnZ0ZfcmZ2Q1pUSl85Nzdqc19wWW1PemxaNkpmVml2Y0gyVVM5NVhkVjZ3SnZLUC1TLTlRWkViZURMYlduZlk1YnNPeTZGVERnYWVEVXZqRjZBbHFwNEZVY3ctSThvTl9LdDY0TkY1Q01sMGJzaDltOXJfMWU2M21EVTBKRkJkdExmcDI5eHVOeldhSWJzQ1lIMnpL?oc=5",
-      "source": "MSN",
-      "published": "2026-03-29",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads businesses embracing AI signals distributed adoption through turnkey platforms rather than indigenous development, creating geographic breadth but potentially shallow implementation that leaves regions dependent on external vendors.",
-      "fetched": "2026-04-05"
+      "signal_reading": "Hampton Roads MLS deploying AI personalization tools represents platform-delivered capability enabling broad but shallow adoption—real estate agents gain AI-enhanced services without developing underlying technical fluency,典型 of vendor-driven distribution.",
+      "fetched": "2026-04-06"
     }
   ]
 }
