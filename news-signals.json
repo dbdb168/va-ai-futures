@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-08",
-  "next_check": "2026-04-08",
+  "next_check": "2026-04-09",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -15,29 +15,9 @@
       "url": "https://cardinalnews.org/2026/04/08/tech-briefs-new-ramp-cohort-members-introduce-themselves/",
       "source": "Cardinal News",
       "published": "2026-04-08",
-      "region": "Southwest / Roanoke",
+      "region": "Southwest / Southside",
       "scenario": "Build It Yourself",
-      "signal_reading": "RAMP cohort expansion and Virginia Tech library AI grants signal grassroots capability-building in historically underserved regions, suggesting distributed peer learning networks rather than metro concentration alone.",
-      "fetched": "2026-04-08"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Young workers feeling AI pressure without evidence of deep training infrastructure suggests shallow displacement rather than capability development—neither depth nor broad distribution materializing in Richmond's workforce.",
-      "fetched": "2026-04-08"
-    },
-    {
-      "title": "AI trainer says workers must lead technology, not follow it - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXJoSW83MXFNd3JEa0hORXl1RzJ4Tm9XcDRNOUNNaldjX1hiek5NSmNod0xPTTR5bGNxcUVCS3MxcnNLMU11OTJoUHkxZ2NPSWdBc0t1MEQyMDB6TGRGci0yUklRcWhsQmFqSkRXNGVSbkEzQmd5STZmQVplSU9TMkplTGFwaloxVGdxNXYxNUxIMmU2TUN30gGrAUFVX3lxTFBDRUF3VlJmMUdfM0g5cEtRRmpscWdlX1pxTXJYYVZKY1NJeEtQdEk5aGE2aXMxenhrWjA0M0tRSE9RV2pxa1gtYzBWekVtRUg4a2NUX1J5c0hLRTVVNlY2bXdSNnBKZVVzVXRzbHZhTzdBMXRKRmtfTEQ0b1RLdGRrbWtsN2NGSmxSN2tqaW1ZcmFlOUZueExoN0RodWowSjdSNktEdzFlbkVpQQ?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-03-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "AI trainer advocating worker-led technology adoption in Roanoke signals potential for deep, distributed capability if training translates to genuine fluency rather than platform dependence.",
+      "signal_reading": "RAMP cohort expansion in historically underserved regions combined with VT library AI research grants signals emerging distributed capability-building infrastructure, though depth remains to be proven through implementation outcomes.",
       "fetched": "2026-04-08"
     },
     {
@@ -47,17 +27,37 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership concentrates institutional resources and expertise in Richmond metro, deepening hub capability but success depends on whether knowledge diffuses beyond the university-nonprofit ecosystem.",
+      "signal_reading": "VCU's formalized partnership with AI Ready RVA concentrates educational resources and innovation capacity in Richmond's urban core, creating a metro hub model that may deepen the capability gap with rural Virginia unless explicitly designed for regional diffusion.",
       "fetched": "2026-04-08"
     },
     {
-      "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - pilotonline.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclBYS1gxYjdVeFVzdWZJVnhIb2xHaDV4NW0teVhETXpadzNsNGNaOG9jTXlLY1Z2Rjc3Rmk4ZXpieWZQQmhNcWVfSGd4ZG00bzdDdGpzdVVQLUVGZGhKRWZUSWt2X3hCdWh4UDNlR3p4algxZVV1eWItS0RfWW95RlJ6b01aWFNFMHVScHd0SQ?oc=5",
-      "source": "pilotonline.com",
-      "published": "2026-04-02",
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-03-29",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Real estate MLS deploying turnkey AI search tools represents platform-delivered adoption—broad accessibility across Hampton Roads realtors but shallow engagement that doesn't build underlying technical capacity.",
+      "signal_reading": "Hampton Roads businesses adopting AI tools represents platform-enabled shallow adoption—broad implementation without necessarily building deep technical capability or local AI development expertise.",
+      "fetched": "2026-04-08"
+    },
+    {
+      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-03-23",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "The 35% job displacement risk with Northern Virginia most exposed and Southside least impacted reveals a paradox: regions with deepest AI capability face greatest disruption while underserved areas remain insulated by lack of AI penetration—neither distribution nor meaningful depth materializing equitably.",
+      "fetched": "2026-04-08"
+    },
+    {
+      "title": "Fairfax ramps up efforts to address AI’s impacts on economy, future workforce - FFXnow",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUxyZ2t2RG1aVDI3YUhxNUZpdmJPcFlEUTc1OWZLMmt3anhhX1pmSGIzY0R4VnBMSjV0M3RGQ2FyY2I4aHcwZGpGQ05RczJsaXMwWG5aUHJWYzFoNGhjM2poc2ZQOGZ1YzNDalptX3FhZXJqLUFVZlY5ZXV0Mlk4X0pSVGpHQncwMUZxM3NnMThGSWp6MUVtZU1QdU96bkRteGZJREhGRUFJekFYTlJR?oc=5",
+      "source": "FFXnow",
+      "published": "2026-03-12",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Fairfax County's systematic workforce planning for AI impacts demonstrates sophisticated institutional response capacity that only well-resourced metro jurisdictions can deploy, further concentrating adaptive capability in NoVA while rural regions lack equivalent planning infrastructure.",
       "fetched": "2026-04-08"
     }
   ]
