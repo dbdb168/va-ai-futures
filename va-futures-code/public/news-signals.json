@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10",
+  "last_updated": "2026-04-11",
   "next_check": "2026-04-11",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional knowledge distribution infrastructure beyond elite tech hubs, creating peer learning networks that could spread AI fluency through Richmond's broader community rather than concentrating it in universities alone.",
-      "fetched": "2026-04-10"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distributed capacity-building through community-focused education infrastructure, potentially seeding peer learning networks that extend beyond traditional tech hubs into broader Richmond Metro populations.",
+      "fetched": "2026-04-11"
     },
     {
       "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - 13newsnow.com",
@@ -27,8 +27,8 @@
       "published": "2025-11-12",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google incubator represents deep capability building but raises the concentration question: will this create a regional center of excellence that stays within Hampton Roads institutions, or distribute AI skills across the military-maritime workforce?",
-      "fetched": "2026-04-10"
+      "signal_reading": "ODU-Google AI incubator concentrates platform and expertise in Hampton Roads but relies on corporate partnership model that may create shallow, tool-dependent adoption rather than deep indigenous capability unless accompanied by foundational skill development.",
+      "fetched": "2026-04-11"
     },
     {
       "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
@@ -37,8 +37,18 @@
       "published": "2026-03-23",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Report showing Southside least impacted by AI job displacement paradoxically signals the widening gap—not because Southside is protected, but because it lacks the AI-intensive industries that drive both disruption and opportunity, reinforcing economic divergence from NoVA.",
-      "fetched": "2026-04-10"
+      "signal_reading": "Report finding 35% of Virginia jobs at AI risk with Southside least impacted and NoVA most exposed reveals automation's uneven geography—but 'least impacted' may mean least prepared, signaling neither depth of capability nor breadth of readiness in vulnerable regions.",
+      "fetched": "2026-04-11"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia demonstrates distributed capacity-building in historically underserved coal-transition region, though success depends on whether training creates deep technical fluency or shallow credential acquisition.",
+      "fetched": "2026-04-11"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -47,18 +57,8 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests rapid platform-driven adoption without deep capability building—workers must adapt to AI tools deployed by employers rather than developing fundamental AI literacy that would enable them to shape the technology.",
-      "fetched": "2026-04-10"
-    },
-    {
-      "title": "Spanberger to consider legislation requiring state guidance on AI in schools - VPM",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXRJemljMVU0UHpyN3RBcWZvc0ZEc1BsQVhuU3A3NDFsZXRrYVpFMDM5VGVoblN3ZzRtSnpBMHlIbUV2Smo3Vi1tbWlRZVB3TFZOUmYtRzducGMwdjRhdDJ4SXJaSGJ0aVpvS2d3MXRJR2swMDlZeGRiaXV3enBMbzZYZHNzeHJUM0ptdXVIQm9XUVBqcnpPdDVrdGp5TVhIYVJLLU83cnpaVG1vQVhiSQ?oc=5",
-      "source": "VPM",
-      "published": "2026-03-25",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Governor considering state guidance on AI in schools signals potential for distributed AI fluency starting at K-12 level, but success depends on whether guidance enables deep, hands-on learning or shallow compliance with platform adoption mandates.",
-      "fetched": "2026-04-10"
+      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-delivered automation is creating shallow adoption patterns where workers must adapt to tools rather than developing deep understanding, potentially accelerating skill displacement without building resilience.",
+      "fetched": "2026-04-11"
     }
   ]
 }
