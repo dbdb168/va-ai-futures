@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-11",
-  "next_check": "2026-04-11",
+  "next_check": "2026-04-12",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,27 +17,27 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distributed capacity-building through community-focused education infrastructure, potentially seeding peer learning networks that extend beyond traditional tech hubs into broader Richmond Metro populations.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals deliberate community-level AI education infrastructure that could distribute capability beyond elite institutions, testing whether Richmond can anchor peer-to-peer fluency networks rather than just concentrate expertise.",
       "fetched": "2026-04-11"
     },
     {
-      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1BVTUxS3FwTXZtb3hzeUFVODJ0VklGVGpycF9RaVVaMWZRbVluZ3RuOVRWQzR4NG9qYm1TVTFzSFZDTnZ2QlBUSjVrR0ptcmJldXJtVTRQdm5lVFdCWVdVVXlVYzZpcEhGMFR6em9RTGhFblZVaWZDRkdGbHEtVUZhRW1oc3BDYlVSRGRSdTF0UmNzSWhzbHNnRHpuZ2VWUXdRYVk0d19wZE1PZmhEdVFHd3NCb0dLOEp0cXIwS1I1QzQ2MXE5ZUk3WFU0WDlycEhSTkc1Z1RmVWI0cEFuSVZ3MF82VUczOXpsQUgzd245VDNT?oc=5",
-      "source": "13newsnow.com",
-      "published": "2025-11-12",
-      "region": "Hampton Roads",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google AI incubator concentrates platform and expertise in Hampton Roads but relies on corporate partnership model that may create shallow, tool-dependent adoption rather than deep indigenous capability unless accompanied by foundational skill development.",
+      "signal_reading": "Richmond's young workforce feeling AI pressure indicates capability demands are concentrating in metro markets where adoption races ahead of distributed skill-building, creating urgency gaps that favor those already in tech hubs.",
       "fetched": "2026-04-11"
     },
     {
-      "title": "Report says 35% of the jobs in Virginia may be at risk to artificial intelligence. Southside the least impacted, Northern Virginia the most. - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV01JdV9yMnJyVEhqNmNwYm5OZkFfSnp6ZHQ4LXJxR0lUWXpNZ1ZaWENjaTdIYWNmX3hsaTBia3Z5VnFqc3gzVXRsV05va2paU1R3eWxIYnNya05XUjZhVl9yeDVYc1FyU2lHWlVlci1mbWJHU0RlaVBNU3BKcEJxSXMyeXFlTE9VdlNQOFowbUNsMnJjcDVaT3c3QjZtRWhseUZJZDFHS3g4dmhWZGFaUGJYMEpQbEtMam1zZUtSam03QkN5VkpLRWU1elVpVmRoVGVsNEY3U0ZnQ09VU3o4Y0xQWFp0QVkzSVhPMDgtUXZSeng1YUhrZk1VdEwzZjIweThN?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-03-23",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Report finding 35% of Virginia jobs at AI risk with Southside least impacted and NoVA most exposed reveals automation's uneven geography—but 'least impacted' may mean least prepared, signaling neither depth of capability nor breadth of readiness in vulnerable regions.",
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-03-29",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Hampton Roads businesses embracing AI through platform adoption suggests shallow but distributed deployment—organizations accessing AI capability via software tools rather than developing deep technical fluency internally.",
       "fetched": "2026-04-11"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia demonstrates distributed capacity-building in historically underserved coal-transition region, though success depends on whether training creates deep technical fluency or shallow credential acquisition.",
+      "signal_reading": "EPA-backed workforce training in Southwest Virginia creates potential for distributed skill development in a traditionally underserved region, testing whether community-driven models can bypass the concentration trap despite geographic disadvantages.",
       "fetched": "2026-04-11"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
+      "title": "Spanberger to consider legislation requiring state guidance on AI in schools - VPM",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXRJemljMVU0UHpyN3RBcWZvc0ZEc1BsQVhuU3A3NDFsZXRrYVpFMDM5VGVoblN3ZzRtSnpBMHlIbUV2Smo3Vi1tbWlRZVB3TFZOUmYtRzducGMwdjRhdDJ4SXJaSGJ0aVpvS2d3MXRJR2swMDlZeGRiaXV3enBMbzZYZHNzeHJUM0ptdXVIQm9XUVBqcnpPdDVrdGp5TVhIYVJLLU83cnpaVG1vQVhiSQ?oc=5",
+      "source": "VPM",
+      "published": "2026-03-25",
+      "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-delivered automation is creating shallow adoption patterns where workers must adapt to tools rather than developing deep understanding, potentially accelerating skill displacement without building resilience.",
+      "signal_reading": "State guidance on AI in schools would standardize platform-mediated access across Virginia regions, potentially enabling broad but shallow adoption rather than deep capability—distribution through policy rather than grassroots fluency.",
       "fetched": "2026-04-11"
     }
   ]
