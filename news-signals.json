@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11",
+  "last_updated": "2026-04-12",
   "next_check": "2026-04-12",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,18 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals deliberate community-level AI education infrastructure that could distribute capability beyond elite institutions, testing whether Richmond can anchor peer-to-peer fluency networks rather than just concentrate expertise.",
-      "fetched": "2026-04-11"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-driven AI education infrastructure in Richmond, demonstrating peer network potential beyond NoVA's corporate concentration—a test case for distributed deep capability.",
+      "fetched": "2026-04-12"
+    },
+    {
+      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1BVTUxS3FwTXZtb3hzeUFVODJ0VklGVGpycF9RaVVaMWZRbVluZ3RuOVRWQzR4NG9qYm1TVTFzSFZDTnZ2QlBUSjVrR0ptcmJldXJtVTRQdm5lVFdCWVdVVXlVYzZpcEhGMFR6em9RTGhFblZVaWZDRkdGbHEtVUZhRW1oc3BDYlVSRGRSdTF0UmNzSWhzbHNnRHpuZ2VWUXdRYVk0d19wZE1PZmhEdVFHd3NCb0dLOEp0cXIwS1I1QzQ2MXE5ZUk3WFU0WDlycEhSTkc1Z1RmVWI0cEFuSVZ3MF82VUczOXpsQUgzd245VDNT?oc=5",
+      "source": "13newsnow.com",
+      "published": "2025-11-12",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "ODU-Google AI incubator represents institutional partnership replicating NoVA's model in Hampton Roads, but concentration in university hubs risks reinforcing metro-centric excellence rather than regional distribution.",
+      "fetched": "2026-04-12"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -26,19 +36,9 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Richmond's young workforce feeling AI pressure indicates capability demands are concentrating in metro markets where adoption races ahead of distributed skill-building, creating urgency gaps that favor those already in tech hubs.",
-      "fetched": "2026-04-11"
-    },
-    {
-      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-03-29",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads businesses embracing AI through platform adoption suggests shallow but distributed deployment—organizations accessing AI capability via software tools rather than developing deep technical fluency internally.",
-      "fetched": "2026-04-11"
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI pressure on Richmond's young workforce without corresponding upskilling infrastructure signals anxiety about displacement rather than capability-building—shallow disruption without depth of preparation.",
+      "fetched": "2026-04-12"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -47,18 +47,18 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed workforce training in Southwest Virginia creates potential for distributed skill development in a traditionally underserved region, testing whether community-driven models can bypass the concentration trap despite geographic disadvantages.",
-      "fetched": "2026-04-11"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates distributed capacity-building in coal transition regions, potentially enabling peer networks that bypass traditional metro-to-rural knowledge flows.",
+      "fetched": "2026-04-12"
     },
     {
-      "title": "Spanberger to consider legislation requiring state guidance on AI in schools - VPM",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXRJemljMVU0UHpyN3RBcWZvc0ZEc1BsQVhuU3A3NDFsZXRrYVpFMDM5VGVoblN3ZzRtSnpBMHlIbUV2Smo3Vi1tbWlRZVB3TFZOUmYtRzducGMwdjRhdDJ4SXJaSGJ0aVpvS2d3MXRJR2swMDlZeGRiaXV3enBMbzZYZHNzeHJUM0ptdXVIQm9XUVBqcnpPdDVrdGp5TVhIYVJLLU83cnpaVG1vQVhiSQ?oc=5",
-      "source": "VPM",
-      "published": "2026-03-25",
-      "region": "Southwest / Roanoke",
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-03-29",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "State guidance on AI in schools would standardize platform-mediated access across Virginia regions, potentially enabling broad but shallow adoption rather than deep capability—distribution through policy rather than grassroots fluency.",
-      "fetched": "2026-04-11"
+      "signal_reading": "Hampton Roads businesses embracing AI through platform adoption indicates broad but shallow distribution—organizational use of turnkey tools rather than deep technical capability development or custom implementation.",
+      "fetched": "2026-04-12"
     }
   ]
 }
