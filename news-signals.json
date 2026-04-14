@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-14",
-  "next_check": "2026-04-14",
+  "next_check": "2026-04-15",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,33 @@
   ],
   "signals": [
     {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Young workers facing AI pressure without corresponding education infrastructure signals shallow anxiety rather than deep capability building, concentrating stress without distributing skills.",
+      "fetched": "2026-04-14"
+    },
+    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional peer-to-peer knowledge distribution infrastructure in Richmond, moving beyond platform dependence toward community-driven AI fluency building that could bridge the metro-rural divide if scaled regionally.",
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for community-scale AI education, potentially distributing deep capability through structured peer networks beyond the university walls.",
       "fetched": "2026-04-14"
     },
     {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
+      "title": "The University of Virginia College and Graduate School of Arts & Sciences and UVA Library Have Founded the AI Literacy and Action Lab | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaDVIVGlRT3pXd1B0WTJlZ2plbDlLa3B0QUhZWC0zUkwwdXQxQ2dQQmFtMU10SGNtaGdIdkp6Y1lmMGo4UXdpd3FGV29SRUxxVXdndEktOEJ6QmpzWVZKN0hxN0RoWS1tdi1qc3VhMHVSSC1Xa0tfUXp1T2FYSWJkeHptVUdwOUt6MWZYbVdDSmozQUJyTTEta1ZCU1JBQlZxX01SbVlRMDVjbmJlZGMzM3dVeWVGeHJnRV96UDhjVjNiY09OVHZGUXB2dzd4eVM3M1VOdnF4UVFCVDBteFhxN0JCUk05NUVncUduYlBsbW50S08xM1lHTtIB-AFBVV95cUxPaDVIVGlRT3pXd1B0WTJlZ2plbDlLa3B0QUhZWC0zUkwwdXQxQ2dQQmFtMU10SGNtaGdIdkp6Y1lmMGo4UXdpd3FGV29SRUxxVXdndEktOEJ6QmpzWVZKN0hxN0RoWS1tdi1qc3VhMHVSSC1Xa0tfUXp1T2FYSWJkeHptVUdwOUt6MWZYbVdDSmozQUJyTTEta1ZCU1JBQlZxX01SbVlRMDVjbmJlZGMzM3dVeWVGeHJnRV96UDhjVjNiY09OVHZGUXB2dzd4eVM3M1VOdnF4UVFCVDBteFhxN0JCUk05NUVncUduYlBsbW50S08xM1lHTg?oc=5",
+      "source": "Newswise",
+      "published": "2026-04-14",
+      "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates distributed capacity-building in an economically transitioning region, though success depends on whether training produces deep AI capability or merely shallow platform adoption.",
+      "signal_reading": "UVA's AI Literacy and Action Lab signals investment in foundational capability-building rather than just platform adoption, though statewide impact depends on whether the lab's knowledge diffuses beyond Charlottesville.",
       "fetched": "2026-04-14"
     },
     {
@@ -36,28 +46,18 @@
       "source": "Northern Virginia Magazine",
       "published": "2026-04-13",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA school systems wrestling with AI classroom integration reflects the region's proximity to cutting-edge technology adoption, but uneven policy responses across districts may fragment rather than distribute educational AI fluency even within the metro hub.",
-      "fetched": "2026-04-14"
-    },
-    {
-      "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclBYS1gxYjdVeFVzdWZJVnhIb2xHaDV4NW0teVhETXpadzNsNGNaOG9jTXlLY1Z2Rjc3Rmk4ZXpieWZQQmhNcWVfSGd4ZG00bzdDdGpzdVVQLUVGZGhKRWZUSWt2X3hCdWh4UDNlR3p4algxZVV1eWItS0RfWW95RlJ6b01aWFNFMHVScHd0SQ?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-04-02",
-      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads MLS deploying AI tools for home searches exemplifies shallow platform-delivered adoption—business efficiency gains without deep technical capability development, distributing AI consumption but not AI creation or understanding.",
+      "signal_reading": "NoVA schools grappling with AI in classrooms suggests platform-delivered tools arriving faster than pedagogical depth, risking shallow integration concentrated in wealthy districts with tech budgets.",
       "fetched": "2026-04-14"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - MSN",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPZUJCTVNYaDZaT2wtbkVUdklqY1l0QUw0UkQ3U2pTN3FadnNxdF9xRFZRbHJLTHo5bmVLbzQtZ2pzTTRaUTgwVXQ1ZWROVDhwTHMwZ21fMU5pVEM0VEJCS3FWNW1oQmNpNVVqYjBfMmhZbXRWS1dSU0YwajN0YXVDcEFueXZGMDJYVDk5Vzc3dnc0dk0zTjFCOVNSMWQ2cWpSV09NVE9GOHRsdEtHTzJRVFh0NE1XU2ZEbnF2cTZ2LTJROUhOTUZjVU1DLWRUWG1JSHNFSnFjS2ljZndIU2RNN25uS184MUtqSGdRTFJXSWl2Q254dFhHaVZRd2lFWEtxcWwzSEMzaFZvYUMwU0tVYlE0bHhEOUJfRWIzRk92QmRkRERWdjJYZVJDUXR0bDZwY1E?oc=5",
-      "source": "MSN",
-      "published": "2026-04-12",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Young workers feeling AI pressure without corresponding skill-building infrastructure signals anxiety without empowerment, indicating neither deep capability development nor broad access to meaningful AI literacy is materializing at the pace of labor market disruption.",
+      "title": "AI is here in Hampton Roads, and businesses and organizations are embracing it - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0RBdGNLVUUwZFFEUnBMTFd3ZWJQcTVHY1BuUFV3WV9oWTc5UW43bndNa1JzSjFROWxON1FzYjhvbHVNTjhva1ZPZ0xGc1VnZ2ctUFBPcWNOWUdVQXZueHV3S2l0dFNTTVQ4bXFxTXo2blBhWFJBQ0VTTEVxZXNMY2t5eldlMldqd2VEQTFBVTJGQzVRNXNQb3VYZkxZLTZYdF94amJscFk1UFd2dDdBdDQ3MFVOUFpM?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-03-29",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Business AI adoption in Hampton Roads indicates emerging capability clusters in the defense/maritime economy, but concentration among organizations with resources rather than distributed workforce fluency.",
       "fetched": "2026-04-14"
     }
   ]
