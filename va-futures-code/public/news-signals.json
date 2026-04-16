@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15",
+  "last_updated": "2026-04-16",
   "next_check": "2026-04-16",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,24 +11,24 @@
   ],
   "signals": [
     {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI-driven workforce pressure on young workers in Richmond signals demand without accompanying deep skill development infrastructure, suggesting shallow adoption that could widen capability gaps rather than building local expertise.",
+      "fetched": "2026-04-16"
+    },
+    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA to boost community-wide AI education signals intentional knowledge distribution beyond elite institutions, creating peer learning infrastructure that could spread deep capability across Richmond's broader population.",
-      "fetched": "2026-04-15"
-    },
-    {
-      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1BVTUxS3FwTXZtb3hzeUFVODJ0VklGVGpycF9RaVVaMWZRbVluZ3RuOVRWQzR4NG9qYm1TVTFzSFZDTnZ2QlBUSjVrR0ptcmJldXJtVTRQdm5lVFdCWVdVVXlVYzZpcEhGMFR6em9RTGhFblZVaWZDRkdGbHEtVUZhRW1oc3BDYlVSRGRSdTF0UmNzSWhzbHNnRHpuZ2VWUXdRYVk0d19wZE1PZmhEdVFHd3NCb0dLOEp0cXIwS1I1QzQ2MXE5ZUk3WFU0WDlycEhSTkc1Z1RmVWI0cEFuSVZ3MF82VUczOXpsQUgzd245VDNT?oc=5",
-      "source": "13newsnow.com",
-      "published": "2025-11-12",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google AI incubator concentrates deep technical capability in Hampton Roads through institutional partnership, but platform dependency on Google suggests this may build shallow adoption rather than indigenous AI expertise that can spread organically.",
-      "fetched": "2026-04-15"
+      "signal_reading": "VCU's partnership with AI Ready RVA represents deliberate institutional investment in distributed AI education and community impact, signaling potential for peer-network-driven deep capability building beyond elite tech enclaves.",
+      "fetched": "2026-04-16"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -37,8 +37,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents distributed capacity-building in a historically underserved region, potentially seeding peer networks that could enable bottom-up AI fluency beyond traditional tech corridors.",
-      "fetched": "2026-04-15"
+      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia suggests grassroots capacity building in historically underserved regions, potentially distributing foundational skills that could enable peer-to-peer AI adoption despite infrastructure challenges.",
+      "fetched": "2026-04-16"
     },
     {
       "title": "NVTC Spotlights Region's AI Trailblazers: Meet the 2026 AI50 - PR Newswire",
@@ -47,18 +47,18 @@
       "published": "2026-04-15",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NVTC's AI50 trailblazers showcase reinforces NoVA's concentration of deep AI talent and innovation, creating visibility for metro excellence while potentially widening the recognition and resource gap with regions lacking comparable institutional density.",
-      "fetched": "2026-04-15"
+      "signal_reading": "NVTC's AI50 recognition of regional trailblazers reinforces NoVA's concentration of deep AI talent and expertise, creating a recognized hub that attracts further investment while potentially intensifying the metro-rural capability divide.",
+      "fetched": "2026-04-16"
     },
     {
-      "title": "Tech Briefs: Grant money flows to 3D manufacturing in Southwest, Southside",
-      "url": "https://cardinalnews.org/2026/04/15/tech-briefs-grant-money-flows-to-3d-manufacturing-in-southwest-southside/",
-      "source": "Cardinal News",
-      "published": "2026-04-15",
-      "region": "Southwest & Southside",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Grant funding for 3D manufacturing in Southwest and Southside signals technical capability distribution to non-metro regions, building hands-on advanced manufacturing skills that could create foundation for deeper AI integration in production environments.",
-      "fetched": "2026-04-15"
+      "title": "NoVA School Systems Grapple with AI’s Role in the Classroom - Northern Virginia Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmZsU0NWODVxNDFWNjlWLTkyaGJ6SHc0LVpDeE1YSG1MZnFVbzR4U3Z1S1pnR3p3cktja1lmV1FvV04waXo3SzV3X3p4OGVFLXhRVWhvOFliNmpjVDlGNTFCVzVQcWgxTGtlYm1zaDM1OWFqUi1iSjNhdVdCT18ySlFGSzlJaHdfREVWRzNfZEw2NE0yR2hMUkhTRUVPU3B4YWhnc3JkbDg1bFVmdDlqaGZqT194MG8?oc=5",
+      "source": "Northern Virginia Magazine",
+      "published": "2026-04-13",
+      "region": "Northern Virginia",
+      "scenario": "Software Does It For You",
+      "signal_reading": "NoVA schools grappling with AI in classrooms signals platform-level tool adoption spreading through institutions, but without clarity on whether this builds deep technical fluency or merely shallow consumption of AI-powered products.",
+      "fetched": "2026-04-16"
     }
   ]
 }
