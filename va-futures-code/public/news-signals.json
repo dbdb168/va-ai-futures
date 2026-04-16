@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-16",
-  "next_check": "2026-04-16",
+  "next_check": "2026-04-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,13 @@
   ],
   "signals": [
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI-driven workforce pressure on young workers in Richmond signals demand without accompanying deep skill development infrastructure, suggesting shallow adoption that could widen capability gaps rather than building local expertise.",
-      "fetched": "2026-04-16"
-    },
-    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA represents deliberate institutional investment in distributed AI education and community impact, signaling potential for peer-network-driven deep capability building beyond elite tech enclaves.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-wide AI education infrastructure that could distribute capability beyond traditional tech elites, creating peer learning networks across Richmond's workforce.",
       "fetched": "2026-04-16"
     },
     {
@@ -37,7 +27,7 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia suggests grassroots capacity building in historically underserved regions, potentially distributing foundational skills that could enable peer-to-peer AI adoption despite infrastructure challenges.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates distributed capacity-building in an economically transitioning region, potentially creating deep AI fluency outside traditional metro hubs.",
       "fetched": "2026-04-16"
     },
     {
@@ -47,7 +37,7 @@
       "published": "2026-04-15",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NVTC's AI50 recognition of regional trailblazers reinforces NoVA's concentration of deep AI talent and expertise, creating a recognized hub that attracts further investment while potentially intensifying the metro-rural capability divide.",
+      "signal_reading": "NVTC's AI50 recognition program concentrates visibility and validation around NoVA's AI leaders, reinforcing the region's gravitational pull for talent and investment while other regions lack comparable recognition infrastructure.",
       "fetched": "2026-04-16"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-04-13",
       "region": "Northern Virginia",
       "scenario": "Software Does It For You",
-      "signal_reading": "NoVA schools grappling with AI in classrooms signals platform-level tool adoption spreading through institutions, but without clarity on whether this builds deep technical fluency or merely shallow consumption of AI-powered products.",
+      "signal_reading": "Schools grappling with AI in classrooms suggests platform-delivered tools are reaching education broadly, but the focus on policy over pedagogy signals shallow adoption without deep technical capability development.",
+      "fetched": "2026-04-16"
+    },
+    {
+      "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN2xOaEp1S3NuVk8wblI1cEZnaUYzTWt5bWhmOUh4bWVvQWJKVEJvM0pTUWI0SVUwQnQ1bFpkNnJTV0VzNnJWbFprSGFnaXVmTkJ3WnN6UWNyTHh5RzZJZ1hoNUg2bWpzTFBUeGFiUlk?oc=5",
+      "source": "WAMU",
+      "published": "2026-04-16",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia's lighter regulatory approach to AI in healthcare compared to Maryland may accelerate concentrated innovation in metro health systems while leaving rural and underserved areas without guardrails or equitable access.",
       "fetched": "2026-04-16"
     }
   ]
