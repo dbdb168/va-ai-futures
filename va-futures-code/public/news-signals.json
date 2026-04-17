@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-17",
-  "next_check": "2026-04-17",
+  "next_check": "2026-04-18",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,8 +16,18 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA concentrates AI education infrastructure in the state capital, potentially creating a second metro hub but also reinforcing the pattern of capability clustering around research universities rather than distributed community access.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA represents intentional knowledge distribution infrastructure in a mid-tier metro, potentially seeding peer-to-peer learning networks that could spread deep AI fluency beyond traditional tech hubs if community engagement scales.",
+      "fetched": "2026-04-17"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest Virginia",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity-building in an historically underserved region, testing whether distributed deep learning can emerge through local institutions rather than platform delivery or metro spillover.",
       "fetched": "2026-04-17"
     },
     {
@@ -27,17 +37,7 @@
       "published": "2026-04-15",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NVTC's AI50 recognition program formalizes NoVA's position as Virginia's AI center of gravity by celebrating concentrated trailblazers, signaling deepening expertise but also highlighting the geographic concentration of recognized AI leadership.",
-      "fetched": "2026-04-17"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents distributed capacity-building outside traditional tech hubs, signaling potential for peer-network AI skill development in economically transitioning regions if training includes technical depth.",
+      "signal_reading": "NVTC's AI50 trailblazer recognition formalizes NoVA's concentration of AI talent and innovation, creating visibility and network effects that further attract capital and expertise to the region while potentially widening the capability gap with other Virginia areas.",
       "fetched": "2026-04-17"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-04-13",
       "region": "Northern Virginia",
       "scenario": "Software Does It For You",
-      "signal_reading": "School systems grappling with AI's classroom role signals shallow, platform-delivered adoption spreading through education infrastructure—widespread access but likely limited to consumer-grade tools rather than developing technical AI fluency among students.",
+      "signal_reading": "NoVA school systems grappling with AI in classrooms signals platform-mediated adoption spreading through education infrastructure, but raises questions about whether students gain deep AI literacy or merely consume AI-enabled tools with shallow understanding.",
       "fetched": "2026-04-17"
     },
     {
-      "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN2xOaEp1S3NuVk8wblI1cEZnaUYzTWt5bWhmOUh4bWVvQWJKVEJvM0pTUWI0SVUwQnQ1bFpkNnJTV0VzNnJWbFprSGFnaXVmTkJ3WnN6UWNyTHh5RzZJZ1hoNUg2bWpzTFBUeGFiUlk?oc=5",
-      "source": "WAMU",
-      "published": "2026-04-16",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's divergent healthcare AI regulatory approach from Maryland indicates state-level policy fragmentation that may either concentrate innovation in permissive jurisdictions or create uneven AI capability distribution across healthcare systems statewide.",
+      "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclBYS1gxYjdVeFVzdWZJVnhIb2xHaDV4NW0teVhETXpadzNsNGNaOG9jTXlLY1Z2Rjc3Rmk4ZXpieWZQQmhNcWVfSGd4ZG00bzdDdGpzdVVQLUVGZGhKRWZUSWt2X3hCdWh4UDNlR3p4algxZVV1eWItS0RfWW95RlJ6b01aWFNFMHVScHd0SQ?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-04-02",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI-powered home search tools in Hampton Roads MLS demonstrate platform-delivered AI reaching non-tech sectors and mid-tier metros, enabling broad but shallow adoption where real estate professionals use AI without necessarily understanding its mechanisms or limitations.",
       "fetched": "2026-04-17"
     }
   ]
