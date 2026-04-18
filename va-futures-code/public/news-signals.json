@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17",
+  "last_updated": "2026-04-18",
   "next_check": "2026-04-18",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -16,29 +16,19 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA represents intentional knowledge distribution infrastructure in a mid-tier metro, potentially seeding peer-to-peer learning networks that could spread deep AI fluency beyond traditional tech hubs if community engagement scales.",
-      "fetched": "2026-04-17"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's formalized partnership with AI Ready RVA signals institutional concentration of AI education capacity in the Richmond metro hub, creating a regional center of excellence that could either become a distribution node or reinforce metro-concentrated capability.",
+      "fetched": "2026-04-18"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-02-09",
-      "region": "Southwest Virginia",
+      "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity-building in an historically underserved region, testing whether distributed deep learning can emerge through local institutions rather than platform delivery or metro spillover.",
-      "fetched": "2026-04-17"
-    },
-    {
-      "title": "NVTC Spotlights Region's AI Trailblazers: Meet the 2026 AI50 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnVqY0JRaTd4S3RlZzNQcEs1MVBzUUhfOW4ta3dUUjQzbDRkZXJrZU1QS2w1X2dxZ2V4UDVQQkNPVDR0dEx2ZnZRdUFHWGp4b1NuajdsbVpRc2s2cHowdGxReXI1V2NtWHVVMk5zeFJhT0o3YmhvenhzeUlXRkMtSnZpRE1PYmY5ZlRhdm9zWXBycGJSQVpJb3lXbldxWjd2NWVwcjRNSGN2Z1FxeWNfdVZJNzY?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-04-15",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NVTC's AI50 trailblazer recognition formalizes NoVA's concentration of AI talent and innovation, creating visibility and network effects that further attract capital and expertise to the region while potentially widening the capability gap with other Virginia areas.",
-      "fetched": "2026-04-17"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, signaling potential for distributed deep learning if training focuses on technical skills rather than platform adoption.",
+      "fetched": "2026-04-18"
     },
     {
       "title": "NoVA School Systems Grapple with AI’s Role in the Classroom - Northern Virginia Magazine",
@@ -47,18 +37,28 @@
       "published": "2026-04-13",
       "region": "Northern Virginia",
       "scenario": "Software Does It For You",
-      "signal_reading": "NoVA school systems grappling with AI in classrooms signals platform-mediated adoption spreading through education infrastructure, but raises questions about whether students gain deep AI literacy or merely consume AI-enabled tools with shallow understanding.",
-      "fetched": "2026-04-17"
+      "signal_reading": "NoVA schools grappling with AI in classrooms indicates early-stage platform adoption where students interact with AI tools rather than building them, suggesting shallow but broad distribution within the state's wealthiest region that could set statewide patterns.",
+      "fetched": "2026-04-18"
     },
     {
-      "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclBYS1gxYjdVeFVzdWZJVnhIb2xHaDV4NW0teVhETXpadzNsNGNaOG9jTXlLY1Z2Rjc3Rmk4ZXpieWZQQmhNcWVfSGd4ZG00bzdDdGpzdVVQLUVGZGhKRWZUSWt2X3hCdWh4UDNlR3p4algxZVV1eWItS0RfWW95RlJ6b01aWFNFMHVScHd0SQ?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-04-02",
+      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-05",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI-powered home search tools in Hampton Roads MLS demonstrate platform-delivered AI reaching non-tech sectors and mid-tier metros, enabling broad but shallow adoption where real estate professionals use AI without necessarily understanding its mechanisms or limitations.",
-      "fetched": "2026-04-17"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk Southern's deployment of specialized AI defect detection systems demonstrates deep technical capability in Hampton Roads' industrial sector, but as enterprise-level implementation rather than distributed workforce capacity, it reinforces concentrated expertise.",
+      "fetched": "2026-04-18"
+    },
+    {
+      "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN2xOaEp1S3NuVk8wblI1cEZnaUYzTWt5bWhmOUh4bWVvQWJKVEJvM0pTUWI0SVUwQnQ1bFpkNnJTV0VzNnJWbFprSGFnaXVmTkJ3WnN6UWNyTHh5RzZJZ1hoNUg2bWpzTFBUeGFiUlk?oc=5",
+      "source": "WAMU",
+      "published": "2026-04-16",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Virginia's hands-off regulatory approach to healthcare AI, contrasted with Maryland's active governance, signals policy drift that could allow capability concentration without mechanisms to ensure either depth or distribution across regions.",
+      "fetched": "2026-04-18"
     }
   ]
 }
