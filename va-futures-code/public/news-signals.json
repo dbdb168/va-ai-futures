@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-18",
-  "next_check": "2026-04-18",
+  "next_check": "2026-04-19",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,8 +16,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formalized partnership with AI Ready RVA signals institutional concentration of AI education capacity in the Richmond metro hub, creating a regional center of excellence that could either become a distribution node or reinforce metro-concentrated capability.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA demonstrates institutional commitment to building distributed AI literacy through community-embedded education infrastructure, potentially creating a replicable model for peer-driven capability building beyond traditional tech hubs.",
       "fetched": "2026-04-18"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, signaling potential for distributed deep learning if training focuses on technical skills rather than platform adoption.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity building in historically underserved regions, testing whether deep technical capability can take root through place-based initiatives rather than metro concentration.",
       "fetched": "2026-04-18"
     },
     {
@@ -36,28 +36,28 @@
       "source": "Northern Virginia Magazine",
       "published": "2026-04-13",
       "region": "Northern Virginia",
-      "scenario": "Software Does It For You",
-      "signal_reading": "NoVA schools grappling with AI in classrooms indicates early-stage platform adoption where students interact with AI tools rather than building them, suggesting shallow but broad distribution within the state's wealthiest region that could set statewide patterns.",
-      "fetched": "2026-04-18"
-    },
-    {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern's deployment of specialized AI defect detection systems demonstrates deep technical capability in Hampton Roads' industrial sector, but as enterprise-level implementation rather than distributed workforce capacity, it reinforces concentrated expertise.",
+      "signal_reading": "NoVA school systems wrestling with AI integration reveals the metro advantage in early adoption, but their struggle to define pedagogical strategy suggests even wealthy districts face the shallow-vs-deep capability choice that will shape generational outcomes.",
       "fetched": "2026-04-18"
     },
     {
-      "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN2xOaEp1S3NuVk8wblI1cEZnaUYzTWt5bWhmOUh4bWVvQWJKVEJvM0pTUWI0SVUwQnQ1bFpkNnJTV0VzNnJWbFprSGFnaXVmTkJ3WnN6UWNyTHh5RzZJZ1hoNUg2bWpzTFBUeGFiUlk?oc=5",
-      "source": "WAMU",
-      "published": "2026-04-16",
+      "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclBYS1gxYjdVeFVzdWZJVnhIb2xHaDV4NW0teVhETXpadzNsNGNaOG9jTXlLY1Z2Rjc3Rmk4ZXpieWZQQmhNcWVfSGd4ZG00bzdDdGpzdVVQLUVGZGhKRWZUSWt2X3hCdWh4UDNlR3p4algxZVV1eWItS0RfWW95RlJ6b01aWFNFMHVScHd0SQ?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-04-02",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Hampton Roads MLS deploying AI-powered home search tools exemplifies platform-delivered AI creating broad but shallow adoption—users gain capability without understanding, reinforcing the consumer model over builder literacy.",
+      "fetched": "2026-04-18"
+    },
+    {
+      "title": "New AI training program launches to develop national security leaders - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRC1vREFubjA4eG16YlZDcDhfanozOGVkSjlKNXlpY3gwM0lETWlrd2J0RV9LNktXR245SUhkOVFXcmhJaDIxRzdPenNtVlFGSzBZeEhuMFd4MW92U3dXczUwSjMxODR1eGF4a2F2ZFExMmlTUWRMMnlBZjh1eTF0NzZvUGNsSURaOE5WdEQ1Y0Q1V3NhY0t0N2RvbjU1Y2NBMUhRT0l4TFk5UQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2025-10-27",
       "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Virginia's hands-off regulatory approach to healthcare AI, contrasted with Maryland's active governance, signals policy drift that could allow capability concentration without mechanisms to ensure either depth or distribution across regions.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's national security-focused AI training program concentrates advanced capability development around defense sector needs, potentially deepening the expertise gap between regions with federal/defense connections and those without.",
       "fetched": "2026-04-18"
     }
   ]
