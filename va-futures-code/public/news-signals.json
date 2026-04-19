@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-19",
-  "next_check": "2026-04-19",
+  "next_check": "2026-04-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,18 +16,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership signals intentional concentration of AI capability in Richmond metro hub, creating structured educational pathways that could deepen expertise but currently lacks rural distribution mechanism to prevent capability clustering.",
-      "fetched": "2026-04-19"
-    },
-    {
-      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1BVTUxS3FwTXZtb3hzeUFVODJ0VklGVGpycF9RaVVaMWZRbVluZ3RuOVRWQzR4NG9qYm1TVTFzSFZDTnZ2QlBUSjVrR0ptcmJldXJtVTRQdm5lVFdCWVdVVXlVYzZpcEhGMFR6em9RTGhFblZVaWZDRkdGbHEtVUZhRW1oc3BDYlVSRGRSdTF0UmNzSWhzbHNnRHpuZ2VWUXdRYVk0d19wZE1PZmhEdVFHd3NCb0dLOEp0cXIwS1I1QzQ2MXE5ZUk3WFU0WDlycEhSTkc1Z1RmVWI0cEFuSVZ3MF82VUczOXpsQUgzd245VDNT?oc=5",
-      "source": "13newsnow.com",
-      "published": "2025-11-12",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google AI incubator establishes Hampton Roads as a third capability pole alongside NoVA and Richmond, reinforcing the three-metro concentration pattern while leaving Valley, Southside, and Southwest regions without comparable deep AI infrastructure.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional commitment to distributed AI literacy beyond elite tech workers, creating potential peer networks that could democratize capability across Richmond's diverse workforce sectors.",
       "fetched": "2026-04-19"
     },
     {
@@ -37,7 +27,17 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents rare distributed capability-building outside metro hubs, signaling potential for peer network learning models that could spread deep skills into historically underserved Appalachian communities.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents bottom-up capability building in an economically transitioning region, testing whether deep AI fluency can take root outside traditional tech corridors through localized peer networks.",
+      "fetched": "2026-04-19"
+    },
+    {
+      "title": "NVTC Spotlights Region's AI Trailblazers: Meet the 2026 AI50 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnVqY0JRaTd4S3RlZzNQcEs1MVBzUUhfOW4ta3dUUjQzbDRkZXJrZU1QS2w1X2dxZ2V4UDVQQkNPVDR0dEx2ZnZRdUFHWGp4b1NuajdsbVpRc2s2cHowdGxReXI1V2NtWHVVMk5zeFJhT0o3YmhvenhzeUlXRkMtSnZpRE1PYmY5ZlRhdm9zWXBycGJSQVpJb3lXbldxWjd2NWVwcjRNSGN2Z1FxeWNfdVZJNzY?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-04-15",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NVTC's AI50 recognition program concentrates visibility and validation around Northern Virginia's existing AI trailblazers, reinforcing the region's deep expertise cluster while offering no mechanism for knowledge transfer to other Virginia regions.",
       "fetched": "2026-04-19"
     },
     {
@@ -47,7 +47,7 @@
       "published": "2026-04-13",
       "region": "Northern Virginia",
       "scenario": "Software Does It For You",
-      "signal_reading": "NoVA schools grappling with AI classroom integration reflects shallow, platform-mediated adoption where students consume AI tools without necessarily building deep technical capability—distributed access but uncertain depth of understanding.",
+      "signal_reading": "NoVA school systems grappling with AI in classrooms suggests platform-mediated adoption by educators—shallow integration driven by commercial tools rather than deep pedagogical transformation or student AI literacy development.",
       "fetched": "2026-04-19"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-04-02",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "MLS introducing AI-powered home search exemplifies shallow distribution pattern where consumer-facing platforms deliver AI functionality broadly across Hampton Roads without requiring users to develop underlying AI literacy or technical skills.",
+      "signal_reading": "Hampton Roads MLS deploying AI personalization tools exemplifies shallow, distributed adoption—real estate agents become platform users rather than AI-capable professionals, spreading access without building transferable technical depth.",
       "fetched": "2026-04-19"
     }
   ]
