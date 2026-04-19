@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18",
+  "last_updated": "2026-04-19",
   "next_check": "2026-04-19",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -16,9 +16,19 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA demonstrates institutional commitment to building distributed AI literacy through community-embedded education infrastructure, potentially creating a replicable model for peer-driven capability building beyond traditional tech hubs.",
-      "fetched": "2026-04-18"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU-AI Ready RVA partnership signals intentional concentration of AI capability in Richmond metro hub, creating structured educational pathways that could deepen expertise but currently lacks rural distribution mechanism to prevent capability clustering.",
+      "fetched": "2026-04-19"
+    },
+    {
+      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1BVTUxS3FwTXZtb3hzeUFVODJ0VklGVGpycF9RaVVaMWZRbVluZ3RuOVRWQzR4NG9qYm1TVTFzSFZDTnZ2QlBUSjVrR0ptcmJldXJtVTRQdm5lVFdCWVdVVXlVYzZpcEhGMFR6em9RTGhFblZVaWZDRkdGbHEtVUZhRW1oc3BDYlVSRGRSdTF0UmNzSWhzbHNnRHpuZ2VWUXdRYVk0d19wZE1PZmhEdVFHd3NCb0dLOEp0cXIwS1I1QzQ2MXE5ZUk3WFU0WDlycEhSTkc1Z1RmVWI0cEFuSVZ3MF82VUczOXpsQUgzd245VDNT?oc=5",
+      "source": "13newsnow.com",
+      "published": "2025-11-12",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "ODU-Google AI incubator establishes Hampton Roads as a third capability pole alongside NoVA and Richmond, reinforcing the three-metro concentration pattern while leaving Valley, Southside, and Southwest regions without comparable deep AI infrastructure.",
+      "fetched": "2026-04-19"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,8 +37,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity building in historically underserved regions, testing whether deep technical capability can take root through place-based initiatives rather than metro concentration.",
-      "fetched": "2026-04-18"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents rare distributed capability-building outside metro hubs, signaling potential for peer network learning models that could spread deep skills into historically underserved Appalachian communities.",
+      "fetched": "2026-04-19"
     },
     {
       "title": "NoVA School Systems Grapple with AI’s Role in the Classroom - Northern Virginia Magazine",
@@ -36,9 +46,9 @@
       "source": "Northern Virginia Magazine",
       "published": "2026-04-13",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA school systems wrestling with AI integration reveals the metro advantage in early adoption, but their struggle to define pedagogical strategy suggests even wealthy districts face the shallow-vs-deep capability choice that will shape generational outcomes.",
-      "fetched": "2026-04-18"
+      "scenario": "Software Does It For You",
+      "signal_reading": "NoVA schools grappling with AI classroom integration reflects shallow, platform-mediated adoption where students consume AI tools without necessarily building deep technical capability—distributed access but uncertain depth of understanding.",
+      "fetched": "2026-04-19"
     },
     {
       "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
@@ -47,18 +57,8 @@
       "published": "2026-04-02",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads MLS deploying AI-powered home search tools exemplifies platform-delivered AI creating broad but shallow adoption—users gain capability without understanding, reinforcing the consumer model over builder literacy.",
-      "fetched": "2026-04-18"
-    },
-    {
-      "title": "New AI training program launches to develop national security leaders - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRC1vREFubjA4eG16YlZDcDhfanozOGVkSjlKNXlpY3gwM0lETWlrd2J0RV9LNktXR245SUhkOVFXcmhJaDIxRzdPenNtVlFGSzBZeEhuMFd4MW92U3dXczUwSjMxODR1eGF4a2F2ZFExMmlTUWRMMnlBZjh1eTF0NzZvUGNsSURaOE5WdEQ1Y0Q1V3NhY0t0N2RvbjU1Y2NBMUhRT0l4TFk5UQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2025-10-27",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's national security-focused AI training program concentrates advanced capability development around defense sector needs, potentially deepening the expertise gap between regions with federal/defense connections and those without.",
-      "fetched": "2026-04-18"
+      "signal_reading": "MLS introducing AI-powered home search exemplifies shallow distribution pattern where consumer-facing platforms deliver AI functionality broadly across Hampton Roads without requiring users to develop underlying AI literacy or technical skills.",
+      "fetched": "2026-04-19"
     }
   ]
 }
