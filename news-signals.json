@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19",
-  "next_check": "2026-04-20",
+  "last_updated": "2026-04-20",
+  "next_check": "2026-04-21",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional commitment to distributed AI literacy beyond elite tech workers, creating potential peer networks that could democratize capability across Richmond's diverse workforce sectors.",
-      "fetched": "2026-04-19"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional effort to build distributed AI literacy infrastructure in Richmond, creating peer networks and community-embedded learning that could seed deep capability beyond NoVA's gravitational pull.",
+      "fetched": "2026-04-20"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,8 +27,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents bottom-up capability building in an economically transitioning region, testing whether deep AI fluency can take root outside traditional tech corridors through localized peer networks.",
-      "fetched": "2026-04-19"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents ground-up capability building in an Appalachian region facing coal transition—testing whether peer-based models can distribute deep technical skills to historically underserved areas.",
+      "fetched": "2026-04-20"
     },
     {
       "title": "NVTC Spotlights Region's AI Trailblazers: Meet the 2026 AI50 - PR Newswire",
@@ -37,18 +37,8 @@
       "published": "2026-04-15",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NVTC's AI50 recognition program concentrates visibility and validation around Northern Virginia's existing AI trailblazers, reinforcing the region's deep expertise cluster while offering no mechanism for knowledge transfer to other Virginia regions.",
-      "fetched": "2026-04-19"
-    },
-    {
-      "title": "NoVA School Systems Grapple with AI’s Role in the Classroom - Northern Virginia Magazine",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmZsU0NWODVxNDFWNjlWLTkyaGJ6SHc0LVpDeE1YSG1MZnFVbzR4U3Z1S1pnR3p3cktja1lmV1FvV04waXo3SzV3X3p4OGVFLXhRVWhvOFliNmpjVDlGNTFCVzVQcWgxTGtlYm1zaDM1OWFqUi1iSjNhdVdCT18ySlFGSzlJaHdfREVWRzNfZEw2NE0yR2hMUkhTRUVPU3B4YWhnc3JkbDg1bFVmdDlqaGZqT194MG8?oc=5",
-      "source": "Northern Virginia Magazine",
-      "published": "2026-04-13",
-      "region": "Northern Virginia",
-      "scenario": "Software Does It For You",
-      "signal_reading": "NoVA school systems grappling with AI in classrooms suggests platform-mediated adoption by educators—shallow integration driven by commercial tools rather than deep pedagogical transformation or student AI literacy development.",
-      "fetched": "2026-04-19"
+      "signal_reading": "NVTC's AI50 recognition program spotlights concentrated talent and innovation density in NoVA, reinforcing the region's deep capability hub while highlighting the concentration gradient that defines Virginia's uneven AI landscape.",
+      "fetched": "2026-04-20"
     },
     {
       "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
@@ -57,8 +47,18 @@
       "published": "2026-04-02",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads MLS deploying AI personalization tools exemplifies shallow, distributed adoption—real estate agents become platform users rather than AI-capable professionals, spreading access without building transferable technical depth.",
-      "fetched": "2026-04-19"
+      "signal_reading": "Hampton Roads MLS deploying turnkey AI home search tools exemplifies shallow-but-distributed adoption—platform-delivered capability that spreads geographically but doesn't build local technical depth or peer learning networks.",
+      "fetched": "2026-04-20"
+    },
+    {
+      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-05",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk Southern's industrial AI deployment for rail defect detection shows deep technical application in Hampton Roads' maritime-industrial economy, but represents corporate-concentrated capability rather than distributed workforce fluency.",
+      "fetched": "2026-04-20"
     }
   ]
 }
