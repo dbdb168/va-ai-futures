@@ -17,7 +17,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional effort to build distributed AI literacy infrastructure in Richmond, creating peer networks and community-embedded learning that could seed deep capability beyond NoVA's gravitational pull.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional capacity-building aimed at democratizing AI literacy beyond elite tech hubs—success depends on whether training translates to peer-led knowledge distribution or remains credentials-only.",
       "fetched": "2026-04-20"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents ground-up capability building in an Appalachian region facing coal transition—testing whether peer-based models can distribute deep technical skills to historically underserved areas.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents investment in distributed capability-building in historically underserved Appalachian region—the 'community-driven' model could seed peer networks essential for deep, distributed adoption.",
       "fetched": "2026-04-20"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2026-04-15",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NVTC's AI50 recognition program spotlights concentrated talent and innovation density in NoVA, reinforcing the region's deep capability hub while highlighting the concentration gradient that defines Virginia's uneven AI landscape.",
+      "signal_reading": "NVTC's AI50 recognition program concentrates visibility and validation around NoVA's existing AI talent cluster, reinforcing the region's gravitational pull for investment and expertise while potentially widening the gap with other Virginia regions.",
       "fetched": "2026-04-20"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-04-02",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads MLS deploying turnkey AI home search tools exemplifies shallow-but-distributed adoption—platform-delivered capability that spreads geographically but doesn't build local technical depth or peer learning networks.",
+      "signal_reading": "Hampton Roads MLS deploying pre-packaged AI personalization tools exemplifies shallow, platform-delivered adoption—users gain functionality without building underlying AI fluency, pointing toward distributed but not deep capability.",
       "fetched": "2026-04-20"
     },
     {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern's industrial AI deployment for rail defect detection shows deep technical application in Hampton Roads' maritime-industrial economy, but represents corporate-concentrated capability rather than distributed workforce fluency.",
+      "signal_reading": "Growing AI pressure on Richmond's young workforce signals the metro's emergence as a secondary hub where capability concentration is accelerating—whether this remains metro-bounded or radiates outward will determine Build vs. Pockets trajectory.",
       "fetched": "2026-04-20"
     }
   ]
