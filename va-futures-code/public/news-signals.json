@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-21",
-  "next_check": "2026-04-21",
+  "next_check": "2026-04-22",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,17 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional concentration of AI education infrastructure in the state capital, creating a metropolitan capability hub that may struggle to radiate skills beyond the Richmond metro boundary without intentional distribution mechanisms.",
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional AI capacity in Richmond metro, but the partnership model signals concentrated expertise in the capital region rather than distributed capability-building across Virginia's underserved areas.",
       "fetched": "2026-04-21"
     },
     {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Southwest / Roanoke",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's adoption of ed2go's platform-based workforce training represents shallow-but-distributed AI exposure—accessible on-demand tools that democratize access but may not build deep local capability or peer learning networks in rural regions.",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-driven automation is creating shallow, compliance-oriented AI adoption rather than deep technical capability development, pushing workers toward tool consumption rather than creation.",
       "fetched": "2026-04-21"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals potential for distributed, locally-owned capability building that could create peer networks and deep skills outside traditional tech hubs if sustained beyond grant funding.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents bottom-up capacity building that could distribute AI fluency to coal-transition regions, though success depends on whether training goes beyond surface-level platform usage.",
       "fetched": "2026-04-21"
     },
     {
@@ -47,7 +47,7 @@
       "published": "2026-04-13",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA school systems wrestling with AI classroom integration reflects the concentration of early-adopter institutional capacity in wealthy suburbs, where resource advantages allow experimentation that rural districts cannot yet afford or staff.",
+      "signal_reading": "NoVA school systems grappling with AI integration reflects the region's first-mover advantage in confronting AI pedagogy challenges, deepening the knowledge gap between well-resourced districts and rural Virginia schools without similar capacity for experimentation.",
       "fetched": "2026-04-21"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-04-21",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Pittsylvania County's 2,050 at-risk data center jobs reveal the fragility of infrastructure-dependent economic development that delivers neither deep AI skills nor distributed capability—just precarious employment vulnerable to policy shifts and automation.",
+      "signal_reading": "Pittsylvania County's dependence on 2,050 data center jobs reveals infrastructure-only economic development that brings energy consumption without local AI capability development, risking both job loss and continued shallow engagement with the technology driving those facilities.",
       "fetched": "2026-04-21"
     }
   ]
