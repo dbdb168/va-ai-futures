@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20",
+  "last_updated": "2026-04-21",
   "next_check": "2026-04-21",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -16,9 +16,19 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional capacity-building aimed at democratizing AI literacy beyond elite tech hubs—success depends on whether training translates to peer-led knowledge distribution or remains credentials-only.",
-      "fetched": "2026-04-20"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional concentration of AI education infrastructure in the state capital, creating a metropolitan capability hub that may struggle to radiate skills beyond the Richmond metro boundary without intentional distribution mechanisms.",
+      "fetched": "2026-04-21"
+    },
+    {
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Roanoke College's adoption of ed2go's platform-based workforce training represents shallow-but-distributed AI exposure—accessible on-demand tools that democratize access but may not build deep local capability or peer learning networks in rural regions.",
+      "fetched": "2026-04-21"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,38 +37,28 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents investment in distributed capability-building in historically underserved Appalachian region—the 'community-driven' model could seed peer networks essential for deep, distributed adoption.",
-      "fetched": "2026-04-20"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals potential for distributed, locally-owned capability building that could create peer networks and deep skills outside traditional tech hubs if sustained beyond grant funding.",
+      "fetched": "2026-04-21"
     },
     {
-      "title": "NVTC Spotlights Region's AI Trailblazers: Meet the 2026 AI50 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnVqY0JRaTd4S3RlZzNQcEs1MVBzUUhfOW4ta3dUUjQzbDRkZXJrZU1QS2w1X2dxZ2V4UDVQQkNPVDR0dEx2ZnZRdUFHWGp4b1NuajdsbVpRc2s2cHowdGxReXI1V2NtWHVVMk5zeFJhT0o3YmhvenhzeUlXRkMtSnZpRE1PYmY5ZlRhdm9zWXBycGJSQVpJb3lXbldxWjd2NWVwcjRNSGN2Z1FxeWNfdVZJNzY?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-04-15",
+      "title": "NoVA School Systems Grapple with AI’s Role in the Classroom - Northern Virginia Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmZsU0NWODVxNDFWNjlWLTkyaGJ6SHc0LVpDeE1YSG1MZnFVbzR4U3Z1S1pnR3p3cktja1lmV1FvV04waXo3SzV3X3p4OGVFLXhRVWhvOFliNmpjVDlGNTFCVzVQcWgxTGtlYm1zaDM1OWFqUi1iSjNhdVdCT18ySlFGSzlJaHdfREVWRzNfZEw2NE0yR2hMUkhTRUVPU3B4YWhnc3JkbDg1bFVmdDlqaGZqT194MG8?oc=5",
+      "source": "Northern Virginia Magazine",
+      "published": "2026-04-13",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NVTC's AI50 recognition program concentrates visibility and validation around NoVA's existing AI talent cluster, reinforcing the region's gravitational pull for investment and expertise while potentially widening the gap with other Virginia regions.",
-      "fetched": "2026-04-20"
+      "signal_reading": "NoVA school systems wrestling with AI classroom integration reflects the concentration of early-adopter institutional capacity in wealthy suburbs, where resource advantages allow experimentation that rural districts cannot yet afford or staff.",
+      "fetched": "2026-04-21"
     },
     {
-      "title": "Hampton Roads multiple listing service introduces AI tool to personalize home searches - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclBYS1gxYjdVeFVzdWZJVnhIb2xHaDV4NW0teVhETXpadzNsNGNaOG9jTXlLY1Z2Rjc3Rmk4ZXpieWZQQmhNcWVfSGd4ZG00bzdDdGpzdVVQLUVGZGhKRWZUSWt2X3hCdWh4UDNlR3p4algxZVV1eWItS0RfWW95RlJ6b01aWFNFMHVScHd0SQ?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-04-02",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads MLS deploying pre-packaged AI personalization tools exemplifies shallow, platform-delivered adoption—users gain functionality without building underlying AI fluency, pointing toward distributed but not deep capability.",
-      "fetched": "2026-04-20"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Growing AI pressure on Richmond's young workforce signals the metro's emergence as a secondary hub where capability concentration is accelerating—whether this remains metro-bounded or radiates outward will determine Build vs. Pockets trajectory.",
-      "fetched": "2026-04-20"
+      "title": "Pittsylvania County has 2,050 jobs at risk in data center tax debate. Will a change in law cause them to disappear?",
+      "url": "https://cardinalnews.org/2026/04/21/pittsylvania-county-has-2050-jobs-at-risk-in-data-center-tax-debate-will-a-change-in-law-cause-them-to-disappear/",
+      "source": "Cardinal News",
+      "published": "2026-04-21",
+      "region": "Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Pittsylvania County's 2,050 at-risk data center jobs reveal the fragility of infrastructure-dependent economic development that delivers neither deep AI skills nor distributed capability—just precarious employment vulnerable to policy shifts and automation.",
+      "fetched": "2026-04-21"
     }
   ]
 }
