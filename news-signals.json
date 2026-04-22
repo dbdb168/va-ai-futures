@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21",
+  "last_updated": "2026-04-22",
   "next_check": "2026-04-22",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,24 +11,24 @@
   ],
   "signals": [
     {
+      "title": "An AI data center at megasite will create 2,000 permanent positions, Pittsylvania County officials promise",
+      "url": "https://cardinalnews.org/2026/04/22/an-ai-data-center-at-megasite-will-create-2000-permanent-positions-pittsylvania-county-officials-promise/",
+      "source": "Cardinal News",
+      "published": "2026-04-22",
+      "region": "Southside",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A 2,000-job AI data center in Pittsylvania County appears distributed geographically, but data center operations require specialized technical depth that concentrates in existing metro talent pools—infrastructure without capability risks becoming shallow economic extraction rather than deep regional competency building.",
+      "fetched": "2026-04-22"
+    },
+    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional AI capacity in Richmond metro, but the partnership model signals concentrated expertise in the capital region rather than distributed capability-building across Virginia's underserved areas.",
-      "fetched": "2026-04-21"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-driven automation is creating shallow, compliance-oriented AI adoption rather than deep technical capability development, pushing workers toward tool consumption rather than creation.",
-      "fetched": "2026-04-21"
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-driven capacity building beyond elite institutions, aiming for broad AI literacy and local innovation networks that could distribute deep capability if sustained beyond initial program launch.",
+      "fetched": "2026-04-22"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -37,8 +37,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents bottom-up capacity building that could distribute AI fluency to coal-transition regions, though success depends on whether training goes beyond surface-level platform usage.",
-      "fetched": "2026-04-21"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots skill development in a historically underserved region, testing whether distributed peer learning can overcome geographic and infrastructure disadvantages to build genuine AI fluency.",
+      "fetched": "2026-04-22"
     },
     {
       "title": "NoVA School Systems Grapple with AI’s Role in the Classroom - Northern Virginia Magazine",
@@ -46,19 +46,19 @@
       "source": "Northern Virginia Magazine",
       "published": "2026-04-13",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA school systems grappling with AI integration reflects the region's first-mover advantage in confronting AI pedagogy challenges, deepening the knowledge gap between well-resourced districts and rural Virginia schools without similar capacity for experimentation.",
-      "fetched": "2026-04-21"
+      "scenario": "Software Does It For You",
+      "signal_reading": "NoVA schools grappling with AI in classrooms reveals platform-delivered tools arriving faster than pedagogical strategy, risking shallow consumption patterns where students use AI without understanding it—widespread access without depth of capability.",
+      "fetched": "2026-04-22"
     },
     {
-      "title": "Pittsylvania County has 2,050 jobs at risk in data center tax debate. Will a change in law cause them to disappear?",
-      "url": "https://cardinalnews.org/2026/04/21/pittsylvania-county-has-2050-jobs-at-risk-in-data-center-tax-debate-will-a-change-in-law-cause-them-to-disappear/",
-      "source": "Cardinal News",
-      "published": "2026-04-21",
-      "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Pittsylvania County's dependence on 2,050 data center jobs reveals infrastructure-only economic development that brings energy consumption without local AI capability development, risking both job loss and continued shallow engagement with the technology driving those facilities.",
-      "fetched": "2026-04-21"
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce signals metro hubs experiencing competitive deepening of technical requirements, widening the skill gap between regions with concentrated tech employment and those without access to similar career pathways and training ecosystems.",
+      "fetched": "2026-04-22"
     }
   ]
 }
