@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-23",
-  "next_check": "2026-04-23",
+  "next_check": "2026-04-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,43 +11,13 @@
   ],
   "signals": [
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA represents intentional infrastructure for distributed AI literacy building through community education, signaling potential for peer-to-peer capability development beyond traditional tech hubs if execution reaches beyond academic boundaries.",
-      "fetched": "2026-04-23"
-    },
-    {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "RC-RV's adoption of ed2go's platform-delivered workforce training suggests shallow, distributed access to AI-adjacent skills in traditionally underserved regions, but the on-demand model risks creating credential consumers rather than capability builders.",
-      "fetched": "2026-04-23"
-    },
-    {
-      "title": "EdgeCore secures $1.5B toward Sterling data centers construction",
-      "url": "https://virginiabusiness.com/edgecore-secures-1-5b-toward-sterling-data-centers-construction/",
-      "source": "Virginia Business",
-      "published": "2026-04-22",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "EdgeCore's $1.5B investment in Sterling hyperscale data centers deepens NoVA's infrastructure moat as the physical backbone of AI computing, concentrating critical technical expertise and economic benefits while other regions remain dependent consumers of these centralized services.",
-      "fetched": "2026-04-23"
-    },
-    {
-      "title": "Virginia Tech-backed energy tech hub opens in Newport News",
-      "url": "https://virginiabusiness.com/virginia-tech-backed-energy-tech-hub-opens-in-newport-news/",
-      "source": "Virginia Business",
-      "published": "2026-04-22",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's energy tech hub opening in Newport News signals intentional capability seeding outside NoVA, but the academic-backed model still concentrates deep expertise in metro-adjacent areas rather than achieving true distributed development across rural Virginia.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's partnership with ed2go to provide on-demand workforce training suggests distributed capability-building infrastructure reaching beyond metro hubs, though depth depends on whether training cultivates genuine AI fluency or platform-level familiarity.",
       "fetched": "2026-04-23"
     },
     {
@@ -56,8 +26,38 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Axios reporting on AI pressure hitting Richmond's young workforce reveals anxiety without corresponding skill-building infrastructure, suggesting shallow awareness of AI disruption spreading faster than deep capability to respond—a classic precursor to the widening gap scenario.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure specifically targeting Richmond's young workforce signals deepening capability concentration in metro areas where employers demand AI skills, potentially widening the gap with regions where such pressure doesn't exist.",
+      "fetched": "2026-04-23"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA explicitly aims to distribute AI education and community impact beyond elite institutions, representing intentional infrastructure for broad, deep fluency rather than platform dependency.",
+      "fetched": "2026-04-23"
+    },
+    {
+      "title": "Doug Hoven on How AI Is Changing the Way Homes Are Bought and Sold in Hampton Roads - The Ritz Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlFHc0FZY0JEeG5VTE9GUjJPNGxBd0JvNTdVbkJaNHl5bmZBZGFxS3FLaUEzOFZoX3NlT2JPMm1sZlB0YWtpSG5mZF93T2NUZXBCRHNPMWhmSEIwdkVJMUhWNUtuaVkzZ2c4T3ZsQXNUR1VXQTJnTm1tdG4wSTdWY3gtYkF3NUFVUzJGRFI2ZmlFYWpnNzNzREs0NEdYRU5yajd1TnU5NjBsb1U?oc=5",
+      "source": "The Ritz Herald",
+      "published": "2026-04-23",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI integration in Hampton Roads real estate through turnkey tools signals shallow, platform-mediated adoption in traditional industries—broad distribution without deep technical capability or custom development.",
+      "fetched": "2026-04-23"
+    },
+    {
+      "title": "Q&A: Who’s responsible when AI makes mistakes? - UVA Today",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeW51MlhDVDVrQ192NWlJTk91UXZqRU44TzM0Z0hiNEpqMC1EZEktd3g1YTVFVnhrTURCYVdUN0VFWlRhMDBzU1FlM3JENnNrV2ZxdjR4Qnl1RlpTRkJUUUVUUUF6bzFiTk1rVl96UDVQcktMNThRM3pLVERaNDlYeUd3?oc=5",
+      "source": "UVA Today",
+      "published": "2026-04-22",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA's engagement with AI accountability questions positions it as a deep knowledge hub for AI governance and ethics, but concentration of such expertise in elite universities risks leaving most Virginia institutions and communities without frameworks for responsible AI deployment.",
       "fetched": "2026-04-23"
     }
   ]
