@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22",
+  "last_updated": "2026-04-23",
   "next_check": "2026-04-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,44 +11,24 @@
   ],
   "signals": [
     {
-      "title": "An AI data center at megasite will create 2,000 permanent positions, Pittsylvania County officials promise",
-      "url": "https://cardinalnews.org/2026/04/22/an-ai-data-center-at-megasite-will-create-2000-permanent-positions-pittsylvania-county-officials-promise/",
-      "source": "Cardinal News",
-      "published": "2026-04-22",
-      "region": "Southside",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A 2,000-job AI data center in historically underserved Pittsylvania County could signal distributed opportunity, but these infrastructure projects typically concentrate technical roles in metro hubs while leaving operational jobs locally—reinforcing rather than bridging the capability gap.",
-      "fetched": "2026-04-22"
-    },
-    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA to boost education and community impact represents institutional investment in broad-based AI literacy and local capability-building, creating peer networks that could enable deep, distributed adoption beyond elite tech corridors.",
-      "fetched": "2026-04-22"
+      "signal_reading": "VCU's partnership with AI Ready RVA represents intentional infrastructure for distributed AI literacy building through community education, signaling potential for peer-to-peer capability development beyond traditional tech hubs if execution reaches beyond academic boundaries.",
+      "fetched": "2026-04-23"
     },
     {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
       "source": "Roanoke College",
       "published": "2026-04-16",
-      "region": "Roanoke / New River Valley",
+      "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's on-demand workforce training partnership signals platform-delivered AI education that enables rapid, shallow adoption across non-metro regions—broad distribution without the deep technical fluency that comes from sustained institutional development.",
-      "fetched": "2026-04-22"
-    },
-    {
-      "title": "Virginia Tech-backed energy tech hub opens in Newport News",
-      "url": "https://virginiabusiness.com/virginia-tech-backed-energy-tech-hub-opens-in-newport-news/",
-      "source": "Virginia Business",
-      "published": "2026-04-22",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech extending its energy tech hub into Newport News concentrates advanced R&D capability in established institutional nodes, strengthening Hampton Roads' defense-tech cluster but following the familiar pattern of university-anchored excellence rather than grassroots distribution.",
-      "fetched": "2026-04-22"
+      "signal_reading": "RC-RV's adoption of ed2go's platform-delivered workforce training suggests shallow, distributed access to AI-adjacent skills in traditionally underserved regions, but the on-demand model risks creating credential consumers rather than capability builders.",
+      "fetched": "2026-04-23"
     },
     {
       "title": "EdgeCore secures $1.5B toward Sterling data centers construction",
@@ -57,8 +37,28 @@
       "published": "2026-04-22",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $1.5B hyperscale data center investment in Sterling deepens NoVA's infrastructure advantage and AI compute density, but physical infrastructure proximity doesn't automatically translate to local AI capability—it can attract talent away from other regions while concentrating benefits.",
-      "fetched": "2026-04-22"
+      "signal_reading": "EdgeCore's $1.5B investment in Sterling hyperscale data centers deepens NoVA's infrastructure moat as the physical backbone of AI computing, concentrating critical technical expertise and economic benefits while other regions remain dependent consumers of these centralized services.",
+      "fetched": "2026-04-23"
+    },
+    {
+      "title": "Virginia Tech-backed energy tech hub opens in Newport News",
+      "url": "https://virginiabusiness.com/virginia-tech-backed-energy-tech-hub-opens-in-newport-news/",
+      "source": "Virginia Business",
+      "published": "2026-04-22",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's energy tech hub opening in Newport News signals intentional capability seeding outside NoVA, but the academic-backed model still concentrates deep expertise in metro-adjacent areas rather than achieving true distributed development across rural Virginia.",
+      "fetched": "2026-04-23"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Axios reporting on AI pressure hitting Richmond's young workforce reveals anxiety without corresponding skill-building infrastructure, suggesting shallow awareness of AI disruption spreading faster than deep capability to respond—a classic precursor to the widening gap scenario.",
+      "fetched": "2026-04-23"
     }
   ]
 }
