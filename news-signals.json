@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-24",
-  "next_check": "2026-04-24",
+  "next_check": "2026-04-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,17 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA represents institutional commitment to distributed AI literacy beyond elite tech workers, potentially enabling peer-to-peer learning networks that could spread deep capability across Richmond's diverse communities.",
+      "signal_reading": "VCU partnering with AI Ready RVA to build community-wide AI education signals intentional knowledge distribution infrastructure in Richmond, creating potential peer learning networks that could democratize deep capability beyond traditional tech sectors.",
+      "fetched": "2026-04-24"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $50M data center infrastructure investment in Henrico adds 200 jobs but signals concentrated capital deployment in metro areas, deepening hardware capability in Richmond while other regions lack similar AI infrastructure anchors.",
       "fetched": "2026-04-24"
     },
     {
@@ -27,17 +37,17 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity-building in a historically underserved region, testing whether distributed deep learning can take root outside traditional tech corridors through local institutional anchors.",
+      "signal_reading": "EPA-funded community-driven workforce training through Virginia Tech in Southwest Virginia demonstrates distributed capacity-building in an economically transitioning region, testing whether peer networks can overcome infrastructure deficits to build deep AI fluency.",
       "fetched": "2026-04-24"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
+      "title": "6,000-acre innovation district launches in Manassas",
+      "url": "https://virginiabusiness.com/nexus234-innovation-district-launches-manassas/",
+      "source": "Virginia Business",
+      "published": "2026-04-24",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Growing AI pressure on Richmond's young workforce suggests deepening capability requirements concentrating in metro hubs, potentially widening the gap between those with access to advanced training and rural workers facing shallow platform-mediated adoption.",
+      "signal_reading": "A 6,000-acre innovation district anchored by George Mason in Manassas reinforces NoVA's structural advantages in concentrating AI talent, capital, and institutional support—widening the capability gap unless explicit knowledge transfer mechanisms reach rural regions.",
       "fetched": "2026-04-24"
     },
     {
@@ -47,17 +57,7 @@
       "published": "2026-04-23",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI integration in Hampton Roads real estate signals platform-delivered tools enabling broad but shallow adoption in traditional industries—practitioners use AI without building underlying capability, fitting the distributed-but-shallow pattern.",
-      "fetched": "2026-04-24"
-    },
-    {
-      "title": "Q&A: Who’s responsible when AI makes mistakes? - UVA Today",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeW51MlhDVDVrQ192NWlJTk91UXZqRU44TzM0Z0hiNEpqMC1EZEktd3g1YTVFVnhrTURCYVdUN0VFWlRhMDBzU1FlM3JENnNrV2ZxdjR4Qnl1RlpTRkJUUUVUUUF6bzFiTk1rVl96UDVQcktMNThRM3pLVERaNDlYeUd3?oc=5",
-      "source": "UVA Today",
-      "published": "2026-04-22",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA's focus on AI accountability and ethics research reinforces Virginia's concentration of deep technical and policy expertise in flagship institutions, but raises questions about whether this knowledge diffuses beyond academic centers to inform distributed practice.",
+      "signal_reading": "AI tools transforming real estate transactions in Hampton Roads demonstrates platform-delivered shallow adoption spreading beyond tech hubs—showing distributed reach but not necessarily building local AI development capacity or deep technical fluency.",
       "fetched": "2026-04-24"
     }
   ]
