@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23",
+  "last_updated": "2026-04-24",
   "next_check": "2026-04-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,24 @@
   ],
   "signals": [
     {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Southwest / Roanoke",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's partnership with ed2go to provide on-demand workforce training suggests distributed capability-building infrastructure reaching beyond metro hubs, though depth depends on whether training cultivates genuine AI fluency or platform-level familiarity.",
-      "fetched": "2026-04-23"
+      "signal_reading": "VCU's partnership with AI Ready RVA represents institutional commitment to distributed AI literacy beyond elite tech workers, potentially enabling peer-to-peer learning networks that could spread deep capability across Richmond's diverse communities.",
+      "fetched": "2026-04-24"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity-building in a historically underserved region, testing whether distributed deep learning can take root outside traditional tech corridors through local institutional anchors.",
+      "fetched": "2026-04-24"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -27,18 +37,8 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure specifically targeting Richmond's young workforce signals deepening capability concentration in metro areas where employers demand AI skills, potentially widening the gap with regions where such pressure doesn't exist.",
-      "fetched": "2026-04-23"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly aims to distribute AI education and community impact beyond elite institutions, representing intentional infrastructure for broad, deep fluency rather than platform dependency.",
-      "fetched": "2026-04-23"
+      "signal_reading": "Growing AI pressure on Richmond's young workforce suggests deepening capability requirements concentrating in metro hubs, potentially widening the gap between those with access to advanced training and rural workers facing shallow platform-mediated adoption.",
+      "fetched": "2026-04-24"
     },
     {
       "title": "Doug Hoven on How AI Is Changing the Way Homes Are Bought and Sold in Hampton Roads - The Ritz Herald",
@@ -47,8 +47,8 @@
       "published": "2026-04-23",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI integration in Hampton Roads real estate through turnkey tools signals shallow, platform-mediated adoption in traditional industries—broad distribution without deep technical capability or custom development.",
-      "fetched": "2026-04-23"
+      "signal_reading": "AI integration in Hampton Roads real estate signals platform-delivered tools enabling broad but shallow adoption in traditional industries—practitioners use AI without building underlying capability, fitting the distributed-but-shallow pattern.",
+      "fetched": "2026-04-24"
     },
     {
       "title": "Q&A: Who’s responsible when AI makes mistakes? - UVA Today",
@@ -57,8 +57,8 @@
       "published": "2026-04-22",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA's engagement with AI accountability questions positions it as a deep knowledge hub for AI governance and ethics, but concentration of such expertise in elite universities risks leaving most Virginia institutions and communities without frameworks for responsible AI deployment.",
-      "fetched": "2026-04-23"
+      "signal_reading": "UVA's focus on AI accountability and ethics research reinforces Virginia's concentration of deep technical and policy expertise in flagship institutions, but raises questions about whether this knowledge diffuses beyond academic centers to inform distributed practice.",
+      "fetched": "2026-04-24"
     }
   ]
 }
