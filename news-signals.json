@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24",
+  "last_updated": "2026-04-25",
   "next_check": "2026-04-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,28 +17,18 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU partnering with AI Ready RVA to build community-wide AI education signals intentional knowledge distribution infrastructure in Richmond, creating potential peer learning networks that could democratize deep capability beyond traditional tech sectors.",
-      "fetched": "2026-04-24"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional commitment to distributed AI literacy beyond elite tech workers, creating peer learning networks that could democratize capability across Richmond's diverse community sectors.",
+      "fetched": "2026-04-25"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M data center infrastructure investment in Henrico adds 200 jobs but signals concentrated capital deployment in metro areas, deepening hardware capability in Richmond while other regions lack similar AI infrastructure anchors.",
-      "fetched": "2026-04-24"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training through Virginia Tech in Southwest Virginia demonstrates distributed capacity-building in an economically transitioning region, testing whether peer networks can overcome infrastructure deficits to build deep AI fluency.",
-      "fetched": "2026-04-24"
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "On-demand workforce training through ed2go platforms suggests shallow, platform-mediated AI adoption in transitioning economies—access without depth, solving immediate skill gaps but not building indigenous AI development capacity.",
+      "fetched": "2026-04-25"
     },
     {
       "title": "6,000-acre innovation district launches in Manassas",
@@ -47,8 +37,8 @@
       "published": "2026-04-24",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A 6,000-acre innovation district anchored by George Mason in Manassas reinforces NoVA's structural advantages in concentrating AI talent, capital, and institutional support—widening the capability gap unless explicit knowledge transfer mechanisms reach rural regions.",
-      "fetched": "2026-04-24"
+      "signal_reading": "A 6,000-acre innovation district anchored by George Mason in Manassas concentrates research infrastructure, venture capital access, and talent pipelines in NoVA, reinforcing the metro hub's structural advantages over rural regions.",
+      "fetched": "2026-04-25"
     },
     {
       "title": "Doug Hoven on How AI Is Changing the Way Homes Are Bought and Sold in Hampton Roads - The Ritz Herald",
@@ -57,8 +47,18 @@
       "published": "2026-04-23",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI tools transforming real estate transactions in Hampton Roads demonstrates platform-delivered shallow adoption spreading beyond tech hubs—showing distributed reach but not necessarily building local AI development capacity or deep technical fluency.",
-      "fetched": "2026-04-24"
+      "signal_reading": "AI tools transforming real estate transactions in Hampton Roads exemplifies shallow, consumer-facing platform adoption—efficiency gains without building local AI development expertise or addressing workforce displacement risks in traditional sectors.",
+      "fetched": "2026-04-25"
+    },
+    {
+      "title": "The Pulse: AI tools show bias when users disclose autism; dentists expand screening questions; a new recovery conference comes to Roanoke",
+      "url": "https://cardinalnews.org/2026/04/23/the-pulse-ai-tools-show-bias-when-users-disclose-autism-dentists-expand-screening-questions-a-new-recovery-conference-comes-to-roanoke/",
+      "source": "Cardinal News",
+      "published": "2026-04-23",
+      "region": "Southwest / Roanoke",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Research revealing AI bias against autistic users highlights how marginalized communities in rural Virginia face compounded disadvantages—neither access to deep AI literacy nor inclusive design in the platforms reaching them.",
+      "fetched": "2026-04-25"
     }
   ]
 }
