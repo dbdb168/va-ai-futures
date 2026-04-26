@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25",
-  "next_check": "2026-04-26",
+  "last_updated": "2026-04-26",
+  "next_check": "2026-04-27",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional capacity-building infrastructure beyond just tech hubs—if successful, this community-oriented approach could distribute deep AI literacy through educational networks rather than platform dependency.",
-      "fetched": "2026-04-25"
+      "signal_reading": "VCU's partnership with AI Ready RVA to boost community AI education signals deliberate effort to build distributed, deep capability beyond elite tech corridors—directly challenging the concentration dynamic if peer learning networks activate across Richmond.",
+      "fetched": "2026-04-26"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,18 +27,18 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates institutional investment in distributed capability-building in an Appalachian transition economy, testing whether deep skills can root in historically underserved regions.",
-      "fetched": "2026-04-25"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates intentional capacity-building in historically underserved Appalachian regions, testing whether distributed deep learning can reach beyond metro hubs into coal-transition communities.",
+      "fetched": "2026-04-26"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
+      "title": "Fortreum acquires Reston-based cybersecurity firm",
+      "url": "https://virginiabusiness.com/fortreum-acquires-reston-based-cybersecurity-firm/",
+      "source": "Virginia Business",
+      "published": "2026-04-24",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ AI data center infrastructure investment in Henrico concentrates compute power and 200 jobs in metro Richmond, deepening regional hub capacity but signaling hardware-layer concentration rather than distributed AI fluency.",
-      "fetched": "2026-04-25"
+      "signal_reading": "Fortreum's acquisition of Reston AI compliance startup Kovr.ai reinforces NoVA's concentration of specialized AI expertise and capital flows, deepening the capability gap as sophisticated AI knowledge clusters in the DC-adjacent corridor.",
+      "fetched": "2026-04-26"
     },
     {
       "title": "6,000-acre innovation district launches in Manassas",
@@ -47,8 +47,8 @@
       "published": "2026-04-24",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "The 6,000-acre Manassas innovation district anchored by George Mason University reinforces NoVA's institutional gravity for deep AI capability, creating another concentrated excellence node that widens the geography of expertise unless intentionally networked outward.",
-      "fetched": "2026-04-25"
+      "signal_reading": "The 6,000-acre Manassas innovation district linking George Mason University with regional infrastructure creates institutional architecture for concentrated deep capability, potentially widening the gap unless knowledge transfer mechanisms extend beyond Prince William County.",
+      "fetched": "2026-04-26"
     },
     {
       "title": "Doug Hoven on How AI Is Changing the Way Homes Are Bought and Sold in Hampton Roads - The Ritz Herald",
@@ -57,8 +57,8 @@
       "published": "2026-04-23",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI tools entering Hampton Roads real estate through platform adoption represents shallow, sector-specific distribution—professionals using AI without building it, which spreads impact but not deep capability or local model development.",
-      "fetched": "2026-04-25"
+      "signal_reading": "AI platform adoption in Hampton Roads real estate represents shallow, tool-based distribution—users consuming AI capabilities without building underlying technical depth, signaling broad but surface-level penetration in non-tech sectors.",
+      "fetched": "2026-04-26"
     }
   ]
 }
