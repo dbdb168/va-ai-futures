@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-27",
-  "next_check": "2026-04-27",
+  "next_check": "2026-04-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of deep AI capabilities beyond NoVA through education infrastructure, creating potential peer learning networks that could spread fluency across Richmond's workforce rather than concentrating expertise.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-level capacity building in Richmond, attempting to create distributed AI fluency through education and innovation networks rather than just platform consumption.",
       "fetched": "2026-04-27"
     },
     {
@@ -27,37 +27,37 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded workforce training in Southwest Virginia demonstrates community-driven capacity building in an historically underserved region, suggesting distributed development pathways that could enable deep skills rather than platform dependency.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capability development in an underserved region, testing whether peer networks can build deep AI/tech skills outside traditional metro concentrations.",
       "fetched": "2026-04-27"
     },
     {
-      "title": "Fortreum acquires Reston-based cybersecurity firm",
-      "url": "https://virginiabusiness.com/fortreum-acquires-reston-based-cybersecurity-firm/",
-      "source": "Virginia Business",
-      "published": "2026-04-24",
-      "region": "Northern Virginia",
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Fortreum's acquisition of Reston-based AI compliance startup Kovr.ai reinforces NoVA's concentration of specialized AI capability and capital flows, deepening technical expertise in the metro hub while other regions remain acquisition-absent.",
+      "signal_reading": "A $50M+ AI data center infrastructure investment in Henrico deepens Richmond's technical capability concentration, creating high-skill jobs but signaling capital and talent gravitating to established metros rather than distributing regionally.",
       "fetched": "2026-04-27"
     },
     {
-      "title": "6,000-acre innovation district launches in Manassas",
-      "url": "https://virginiabusiness.com/nexus234-innovation-district-launches-manassas/",
-      "source": "Virginia Business",
-      "published": "2026-04-24",
+      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
+      "source": "Bloomberg Law News",
+      "published": "2026-02-25",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "The 6,000-acre Manassas innovation district partnership with George Mason represents massive infrastructure investment concentrating advanced AI and tech capabilities in the NoVA corridor, creating a gravitational pull for talent and resources away from rural regions.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Slowing data center growth in NoVA amid tax policy uncertainty suggests Virginia's flagship AI infrastructure advantage may stagnate, risking neither deep capability expansion nor geographic distribution as competitive states poach investment.",
       "fetched": "2026-04-27"
     },
     {
-      "title": "Doug Hoven on How AI Is Changing the Way Homes Are Bought and Sold in Hampton Roads - The Ritz Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlFHc0FZY0JEeG5VTE9GUjJPNGxBd0JvNTdVbkJaNHl5bmZBZGFxS3FLaUEzOFZoX3NlT2JPMm1sZlB0YWtpSG5mZF93T2NUZXBCRHNPMWhmSEIwdkVJMUhWNUtuaVkzZ2c4T3ZsQXNUR1VXQTJnTm1tdG4wSTdWY3gtYkF3NUFVUzJGRFI2ZmlFYWpnNzNzREs0NEdYRU5yajd1TnU5NjBsb1U?oc=5",
-      "source": "The Ritz Herald",
-      "published": "2026-04-23",
-      "region": "Hampton Roads",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI integration in Hampton Roads real estate signals platform-delivered automation creating broad but shallow adoption—agents using AI tools without building deep technical capability, spreading access but not expertise.",
+      "signal_reading": "AI pressure on Richmond's young workforce indicates shallow, platform-mediated adoption where workers must adapt to AI tools without necessarily developing deep technical capabilities, signaling breadth without depth in metro employment markets.",
       "fetched": "2026-04-27"
     }
   ]
