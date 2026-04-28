@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27",
+  "last_updated": "2026-04-28",
   "next_check": "2026-04-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,18 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-level capacity building in Richmond, attempting to create distributed AI fluency through education and innovation networks rather than just platform consumption.",
-      "fetched": "2026-04-27"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of deep AI literacy beyond NoVA through community-embedded education infrastructure, potentially seeding peer learning networks that could challenge geographic concentration patterns.",
+      "fetched": "2026-04-28"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-02-09",
-      "region": "Southwest",
+      "region": "Southwest Virginia",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capability development in an underserved region, testing whether peer networks can build deep AI/tech skills outside traditional metro concentrations.",
-      "fetched": "2026-04-27"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates place-based capacity building in historically underserved regions, testing whether deep technical skills can take root outside traditional tech corridors through local ownership models.",
+      "fetched": "2026-04-28"
     },
     {
       "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
@@ -37,18 +37,8 @@
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ AI data center infrastructure investment in Henrico deepens Richmond's technical capability concentration, creating high-skill jobs but signaling capital and talent gravitating to established metros rather than distributing regionally.",
-      "fetched": "2026-04-27"
-    },
-    {
-      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "2026-02-25",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Slowing data center growth in NoVA amid tax policy uncertainty suggests Virginia's flagship AI infrastructure advantage may stagnate, risking neither deep capability expansion nor geographic distribution as competitive states poach investment.",
-      "fetched": "2026-04-27"
+      "signal_reading": "A $50M AI data center infrastructure investment in Henrico concentrates deep technical capability in Richmond Metro, reinforcing the pattern where capital-intensive AI deployment clusters in established metros rather than distributing to rural regions.",
+      "fetched": "2026-04-28"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -56,9 +46,19 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI displacing entry-level tasks that build professional skills threatens to create a shallow adoption pattern where young workers use tools without developing underlying competencies, potentially hollowing out the pathway to deep expertise even in metro areas.",
+      "fetched": "2026-04-28"
+    },
+    {
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
+      "region": "Roanoke / New River Valley",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates shallow, platform-mediated adoption where workers must adapt to AI tools without necessarily developing deep technical capabilities, signaling breadth without depth in metro employment markets.",
-      "fetched": "2026-04-27"
+      "signal_reading": "Roanoke College's partnership with ed2go for on-demand workforce training suggests platform-mediated skill delivery that could achieve geographic distribution but risks shallow engagement compared to deeper community-embedded learning models like Virginia Tech's EPA grant program.",
+      "fetched": "2026-04-28"
     }
   ]
 }
