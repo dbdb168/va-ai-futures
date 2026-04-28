@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-28",
-  "next_check": "2026-04-28",
+  "next_check": "2026-04-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,18 +16,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of deep AI literacy beyond NoVA through community-embedded education infrastructure, potentially seeding peer learning networks that could challenge geographic concentration patterns.",
-      "fetched": "2026-04-28"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest Virginia",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates place-based capacity building in historically underserved regions, testing whether deep technical skills can take root outside traditional tech corridors through local ownership models.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional capacity-building in Richmond Metro, but the concentration of university-led AI education initiatives in urban centers risks leaving non-metro regions dependent on asynchronous, platform-delivered training rather than peer networks and deep learning communities.",
       "fetched": "2026-04-28"
     },
     {
@@ -37,7 +27,27 @@
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M AI data center infrastructure investment in Henrico concentrates deep technical capability in Richmond Metro, reinforcing the pattern where capital-intensive AI deployment clusters in established metros rather than distributing to rural regions.",
+      "signal_reading": "A $50M data center infrastructure investment in Henrico adds 200 jobs but signals concentrated physical AI infrastructure rather than distributed capability—capital flows to metro hubs while workforce development questions remain about whether these roles require deep AI fluency or shallow operational skills.",
+      "fetched": "2026-04-28"
+    },
+    {
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Roanoke College's partnership with ed2go for on-demand workforce training represents platform-delivered, asynchronous AI education reaching beyond metro areas—potentially enabling distributed but shallow adoption rather than peer-driven depth, fitting the 'Software Does It For You' pathway for rural/small metro regions.",
+      "fetched": "2026-04-28"
+    },
+    {
+      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career",
+      "url": "https://cardinalnews.org/2026/04/28/roanoke-college-president-virginias-future-workforce-depends-on-fixing-the-path-from-college-to-career/",
+      "source": "Cardinal News",
+      "published": "2026-04-28",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Roanoke College's president identifies AI displacing entry-level tasks that build workforce experience, threatening the college-to-career pipeline especially in regions like Southwest and Southside where alternatives to traditional credential pathways are already limited—signals risk of neither depth nor distribution materializing outside metro centers.",
       "fetched": "2026-04-28"
     },
     {
@@ -47,17 +57,7 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "The Widening Gap",
-      "signal_reading": "AI displacing entry-level tasks that build professional skills threatens to create a shallow adoption pattern where young workers use tools without developing underlying competencies, potentially hollowing out the pathway to deep expertise even in metro areas.",
-      "fetched": "2026-04-28"
-    },
-    {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's partnership with ed2go for on-demand workforce training suggests platform-mediated skill delivery that could achieve geographic distribution but risks shallow engagement compared to deeper community-embedded learning models like Virginia Tech's EPA grant program.",
+      "signal_reading": "Axios reporting on AI pressure facing Richmond's young workforce indicates displacement anxiety without corresponding signals of systematic upskilling or peer learning networks—suggests shallow platform exposure without deep capability development, even in a growing metro hub.",
       "fetched": "2026-04-28"
     }
   ]
