@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-29",
-  "next_check": "2026-04-29",
+  "next_check": "2026-04-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,13 @@
   ],
   "signals": [
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional capacity-building in Richmond Metro, but the university-centric model risks deepening metropolitan concentration rather than distributing AI fluency to surrounding regions without higher ed anchors.",
-      "fetched": "2026-04-29"
-    },
-    {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's ed2go platform partnership enables on-demand workforce training outside major metros, but reliance on third-party platforms suggests shallow, consumption-oriented adoption rather than deep capability development in underserved regions.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's partnership with ed2go to deliver on-demand workforce training signals distributed capacity-building infrastructure in a traditionally underserved region, creating pathways for peer-to-peer skill development beyond metro centers.",
       "fetched": "2026-04-29"
     },
     {
@@ -36,8 +26,18 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI pressure on Richmond's young workforce without corresponding skill-building infrastructure signals displacement risk—workers feel the impact of AI transformation but lack pathways to deep capability, creating anxiety rather than empowerment.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure specifically on Richmond's young workforce indicates the capital region is experiencing concentrated adoption dynamics where AI capability becomes a competitive requirement, potentially deepening the skills gap between metro and rural Virginia.",
+      "fetched": "2026-04-29"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's institutional partnership with AI Ready RVA represents deep, organized investment in AI education within the Richmond metro hub, building concentrated expertise rather than distributed capability across Virginia's regions.",
       "fetched": "2026-04-29"
     },
     {
@@ -46,8 +46,8 @@
       "source": "Cardinal News",
       "published": "2026-04-28",
       "region": "Southwest / Roanoke",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Roanoke College president's urgent call to fix college-to-career pathways reveals a structural gap in workforce preparation that AI acceleration will exacerbate—unless addressed, Southwest Virginia risks neither depth nor distribution of AI capability.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College president's focus on fixing the college-to-career pipeline signals awareness that distributed workforce development requires structural change, not just platform access—essential infrastructure for broad-based AI fluency outside NoVA.",
       "fetched": "2026-04-29"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-04-23",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Real estate agent adoption of AI tools in Hampton Roads demonstrates platform-driven shallow distribution—professionals use AI to enhance existing work but aren't developing deep technical capabilities, fitting the 'software does it for you' pattern in a non-metro-hub region.",
+      "signal_reading": "AI adoption in Hampton Roads real estate represents shallow, platform-delivered automation in a non-tech-hub region—widespread tool use without deep technical capability, exemplifying distributed but surface-level AI integration.",
       "fetched": "2026-04-29"
     }
   ]
