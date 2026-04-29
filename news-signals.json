@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28",
+  "last_updated": "2026-04-29",
   "next_check": "2026-04-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional capacity-building in Richmond Metro, but the concentration of university-led AI education initiatives in urban centers risks leaving non-metro regions dependent on asynchronous, platform-delivered training rather than peer networks and deep learning communities.",
-      "fetched": "2026-04-28"
-    },
-    {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M data center infrastructure investment in Henrico adds 200 jobs but signals concentrated physical AI infrastructure rather than distributed capability—capital flows to metro hubs while workforce development questions remain about whether these roles require deep AI fluency or shallow operational skills.",
-      "fetched": "2026-04-28"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals institutional capacity-building in Richmond Metro, but the university-centric model risks deepening metropolitan concentration rather than distributing AI fluency to surrounding regions without higher ed anchors.",
+      "fetched": "2026-04-29"
     },
     {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
@@ -37,18 +27,8 @@
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's partnership with ed2go for on-demand workforce training represents platform-delivered, asynchronous AI education reaching beyond metro areas—potentially enabling distributed but shallow adoption rather than peer-driven depth, fitting the 'Software Does It For You' pathway for rural/small metro regions.",
-      "fetched": "2026-04-28"
-    },
-    {
-      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career",
-      "url": "https://cardinalnews.org/2026/04/28/roanoke-college-president-virginias-future-workforce-depends-on-fixing-the-path-from-college-to-career/",
-      "source": "Cardinal News",
-      "published": "2026-04-28",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Roanoke College's president identifies AI displacing entry-level tasks that build workforce experience, threatening the college-to-career pipeline especially in regions like Southwest and Southside where alternatives to traditional credential pathways are already limited—signals risk of neither depth nor distribution materializing outside metro centers.",
-      "fetched": "2026-04-28"
+      "signal_reading": "Roanoke College's ed2go platform partnership enables on-demand workforce training outside major metros, but reliance on third-party platforms suggests shallow, consumption-oriented adoption rather than deep capability development in underserved regions.",
+      "fetched": "2026-04-29"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -57,8 +37,28 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "The Widening Gap",
-      "signal_reading": "Axios reporting on AI pressure facing Richmond's young workforce indicates displacement anxiety without corresponding signals of systematic upskilling or peer learning networks—suggests shallow platform exposure without deep capability development, even in a growing metro hub.",
-      "fetched": "2026-04-28"
+      "signal_reading": "AI pressure on Richmond's young workforce without corresponding skill-building infrastructure signals displacement risk—workers feel the impact of AI transformation but lack pathways to deep capability, creating anxiety rather than empowerment.",
+      "fetched": "2026-04-29"
+    },
+    {
+      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm5vUXBWT1ZtTW5vRUhkNGZEQlNTVXZuMXc2OTBiTjFHWExCSl9RVEdVM2pkbWU3WkVlSEY4aHpCbmFGeVIzY0ZKc0ozVG9vY0x6Tk9vcU9RZTdPRTdmUzFqQWxLd25VcEU2X1djYVBXRHgzby1WMktnanNEZnNUeFVTdEpOQWVoZXRUSDlhY3paVEZ4NUtiT2xGUjVhMkNkb28zWDZZZnFDWUtlMWpJTDBoT2oyS3RkS1Y5QndZQzRGc0RsSURRbDhpS0JoVy13THRtQzFB?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-04-28",
+      "region": "Southwest / Roanoke",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Roanoke College president's urgent call to fix college-to-career pathways reveals a structural gap in workforce preparation that AI acceleration will exacerbate—unless addressed, Southwest Virginia risks neither depth nor distribution of AI capability.",
+      "fetched": "2026-04-29"
+    },
+    {
+      "title": "Doug Hoven on How AI Is Changing the Way Homes Are Bought and Sold in Hampton Roads - The Ritz Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlFHc0FZY0JEeG5VTE9GUjJPNGxBd0JvNTdVbkJaNHl5bmZBZGFxS3FLaUEzOFZoX3NlT2JPMm1sZlB0YWtpSG5mZF93T2NUZXBCRHNPMWhmSEIwdkVJMUhWNUtuaVkzZ2c4T3ZsQXNUR1VXQTJnTm1tdG4wSTdWY3gtYkF3NUFVUzJGRFI2ZmlFYWpnNzNzREs0NEdYRU5yajd1TnU5NjBsb1U?oc=5",
+      "source": "The Ritz Herald",
+      "published": "2026-04-23",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Real estate agent adoption of AI tools in Hampton Roads demonstrates platform-driven shallow distribution—professionals use AI to enhance existing work but aren't developing deep technical capabilities, fitting the 'software does it for you' pattern in a non-metro-hub region.",
+      "fetched": "2026-04-29"
     }
   ]
 }
