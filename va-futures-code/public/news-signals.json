@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-30",
-  "next_check": "2026-04-30",
+  "next_check": "2026-05-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,27 +17,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional knowledge distribution through community-focused education, potentially building peer networks that spread AI fluency beyond the university itself into Richmond's broader workforce.",
-      "fetched": "2026-04-30"
-    },
-    {
-      "title": "Maritime leaders on automation, tariffs and the industry’s future",
-      "url": "https://virginiabusiness.com/virginia-maritime-leaders-workforce-technology-investment/",
-      "source": "Virginia Business",
-      "published": "2026-04-30",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Maritime industry's $689M automation investment concentrates deep AI capability in Hampton Roads' defense-industrial complex, but workforce development focus suggests potential for distributed upskilling if training extends beyond elite engineering roles.",
-      "fetched": "2026-04-30"
-    },
-    {
-      "title": "Data center developers seek on-site energy in Wise",
-      "url": "https://virginiabusiness.com/wise-data-center-developers-explore-hydrogen-power/",
-      "source": "Virginia Business",
-      "published": "2026-04-30",
-      "region": "Southwest",
-      "scenario": "The Widening Gap",
-      "signal_reading": "A $1B data center in Wise County represents infrastructure concentration without capability distribution—tax revenue flows but deep AI skills remain elsewhere, exemplifying the hollow promise of data center economic development for Appalachian transition economies.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-wide AI education infrastructure beyond elite institutions, creating conditions for distributed capability building if implementation reaches beyond university walls into neighborhoods and small businesses.",
       "fetched": "2026-04-30"
     },
     {
@@ -46,8 +26,18 @@
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "RC-RV's partnership with ed2go for on-demand workforce training signals platform-mediated shallow adoption—accessible but not building deep local AI capability, potentially enabling broad participation without creating homegrown expertise.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Ed2go's platform partnership with RC-RV signals shallow, vendor-delivered training rather than deep capability building—distributing access geographically but not creating the technical depth needed for innovation in transition economies.",
+      "fetched": "2026-04-30"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $50M AI data center infrastructure investment in Henrico concentrates physical AI capability in metro Richmond, creating 200 jobs but signaling capital flowing to existing hubs rather than distributing computational resources to underserved regions.",
       "fetched": "2026-04-30"
     },
     {
@@ -56,8 +46,18 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce reveals metro areas experiencing rapid skill obsolescence and adaptation demands, widening the capability gap with regions lacking similar density of knowledge work and reskilling infrastructure.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Young workers feeling 'AI pressure' without corresponding skill-building infrastructure signals anxiety without capability development—neither depth nor broad distribution materializing, just displacement concern among entry-level workforce.",
+      "fetched": "2026-04-30"
+    },
+    {
+      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm5vUXBWT1ZtTW5vRUhkNGZEQlNTVXZuMXc2OTBiTjFHWExCSl9RVEdVM2pkbWU3WkVlSEY4aHpCbmFGeVIzY0ZKc0ozVG9vY0x6Tk9vcU9RZTdPRTdmUzFqQWxLd25VcEU2X1djYVBXRHgzby1WMktnanNEZnNUeFVTdEpOQWVoZXRUSDlhY3paVEZ4NUtiT2xGUjVhMkNkb28zWDZZZnFDWUtlMWpJTDBoT2oyS3RkS1Y5QndZQzRGc0RsSURRbDhpS0JoVy13THRtQzFB?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-04-28",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College president's focus on fixing college-to-career pathways addresses the infrastructure needed for distributed deep capability, though success depends on whether solutions emphasize peer learning networks or continue relying on centralized institutional gatekeeping.",
       "fetched": "2026-04-30"
     }
   ]
