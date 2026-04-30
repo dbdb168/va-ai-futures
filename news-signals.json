@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29",
+  "last_updated": "2026-04-30",
   "next_check": "2026-04-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,44 @@
   ],
   "signals": [
     {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional knowledge distribution through community-focused education, potentially building peer networks that spread AI fluency beyond the university itself into Richmond's broader workforce.",
+      "fetched": "2026-04-30"
+    },
+    {
+      "title": "Maritime leaders on automation, tariffs and the industry’s future",
+      "url": "https://virginiabusiness.com/virginia-maritime-leaders-workforce-technology-investment/",
+      "source": "Virginia Business",
+      "published": "2026-04-30",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Maritime industry's $689M automation investment concentrates deep AI capability in Hampton Roads' defense-industrial complex, but workforce development focus suggests potential for distributed upskilling if training extends beyond elite engineering roles.",
+      "fetched": "2026-04-30"
+    },
+    {
+      "title": "Data center developers seek on-site energy in Wise",
+      "url": "https://virginiabusiness.com/wise-data-center-developers-explore-hydrogen-power/",
+      "source": "Virginia Business",
+      "published": "2026-04-30",
+      "region": "Southwest",
+      "scenario": "The Widening Gap",
+      "signal_reading": "A $1B data center in Wise County represents infrastructure concentration without capability distribution—tax revenue flows but deep AI skills remain elsewhere, exemplifying the hollow promise of data center economic development for Appalachian transition economies.",
+      "fetched": "2026-04-30"
+    },
+    {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's partnership with ed2go to deliver on-demand workforce training signals distributed capacity-building infrastructure in a traditionally underserved region, creating pathways for peer-to-peer skill development beyond metro centers.",
-      "fetched": "2026-04-29"
+      "scenario": "Software Does It For You",
+      "signal_reading": "RC-RV's partnership with ed2go for on-demand workforce training signals platform-mediated shallow adoption—accessible but not building deep local AI capability, potentially enabling broad participation without creating homegrown expertise.",
+      "fetched": "2026-04-30"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -27,38 +57,8 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure specifically on Richmond's young workforce indicates the capital region is experiencing concentrated adoption dynamics where AI capability becomes a competitive requirement, potentially deepening the skills gap between metro and rural Virginia.",
-      "fetched": "2026-04-29"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional partnership with AI Ready RVA represents deep, organized investment in AI education within the Richmond metro hub, building concentrated expertise rather than distributed capability across Virginia's regions.",
-      "fetched": "2026-04-29"
-    },
-    {
-      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm5vUXBWT1ZtTW5vRUhkNGZEQlNTVXZuMXc2OTBiTjFHWExCSl9RVEdVM2pkbWU3WkVlSEY4aHpCbmFGeVIzY0ZKc0ozVG9vY0x6Tk9vcU9RZTdPRTdmUzFqQWxLd25VcEU2X1djYVBXRHgzby1WMktnanNEZnNUeFVTdEpOQWVoZXRUSDlhY3paVEZ4NUtiT2xGUjVhMkNkb28zWDZZZnFDWUtlMWpJTDBoT2oyS3RkS1Y5QndZQzRGc0RsSURRbDhpS0JoVy13THRtQzFB?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-04-28",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College president's focus on fixing the college-to-career pipeline signals awareness that distributed workforce development requires structural change, not just platform access—essential infrastructure for broad-based AI fluency outside NoVA.",
-      "fetched": "2026-04-29"
-    },
-    {
-      "title": "Doug Hoven on How AI Is Changing the Way Homes Are Bought and Sold in Hampton Roads - The Ritz Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlFHc0FZY0JEeG5VTE9GUjJPNGxBd0JvNTdVbkJaNHl5bmZBZGFxS3FLaUEzOFZoX3NlT2JPMm1sZlB0YWtpSG5mZF93T2NUZXBCRHNPMWhmSEIwdkVJMUhWNUtuaVkzZ2c4T3ZsQXNUR1VXQTJnTm1tdG4wSTdWY3gtYkF3NUFVUzJGRFI2ZmlFYWpnNzNzREs0NEdYRU5yajd1TnU5NjBsb1U?oc=5",
-      "source": "The Ritz Herald",
-      "published": "2026-04-23",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI adoption in Hampton Roads real estate represents shallow, platform-delivered automation in a non-tech-hub region—widespread tool use without deep technical capability, exemplifying distributed but surface-level AI integration.",
-      "fetched": "2026-04-29"
+      "signal_reading": "AI pressure on Richmond's young workforce reveals metro areas experiencing rapid skill obsolescence and adaptation demands, widening the capability gap with regions lacking similar density of knowledge work and reskilling infrastructure.",
+      "fetched": "2026-04-30"
     }
   ]
 }
