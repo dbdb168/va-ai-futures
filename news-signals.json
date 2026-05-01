@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30",
+  "last_updated": "2026-05-01",
   "next_check": "2026-05-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,18 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-wide AI education infrastructure beyond elite institutions, creating conditions for distributed capability building if implementation reaches beyond university walls into neighborhoods and small businesses.",
-      "fetched": "2026-04-30"
+      "signal_reading": "VCU's AI Ready RVA partnership signals institutional investment in distributed AI education and community impact, potentially building deep local capability beyond just platform adoption if it extends beyond university boundaries into Richmond's broader workforce.",
+      "fetched": "2026-05-01"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNbjZqZG51Y1FENnV2WWZMRFY4dHZpTFZpbTNXd1M3Y212QU9pVTBLWWZuTXRWb3pidmZmUEpDaUNoY2tkZkhtMWdmS2RsNnhtZTZYVmJfYjJPaEczUEM3V3p5Q25FTThab0x4M3NCRXlUUU85N19jXzRxS2xHdFBNSUhKMEhkQ3ZHd1NJSmpFT29zZTFzRlVENVpfSXlYN20tajlPY0pBSFJRdXVZUlZzbFJlSUhUUDdwR1lBcWpiNjBCb002TkRUZFprekpQYTRNaTdPZEZiaDNNNUFsRDJLQmE3VUxFeFdSVFBCZy1lVzlzbkpJVHRDMTFaN2JZZlZCemFUbUEwRS1xR0taVGtSd1JzUXE2ME1rMXpjdk5ac0haTkl4cUxZYnVURkZFaEUwOEFxVlV6OGQ4VDlfYk1CNFdVcTJ5dHdTbkUzVmM1Z2t1dw?oc=5",
+      "source": "MSN",
+      "published": "2026-04-27",
+      "region": "Richmond Metro",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests rapid platform-driven adoption creating shallow engagement rather than deep capability development, as workers adapt to AI tools without necessarily building foundational AI literacy.",
+      "fetched": "2026-05-01"
     },
     {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
@@ -26,39 +36,29 @@
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "On-demand ed2go workforce training represents pre-packaged platform delivery to rural regions—broad access but shallow depth, signaling distribution without the peer networks or deep learning that would characterize 'Build It Yourself.'",
+      "fetched": "2026-05-01"
+    },
+    {
+      "title": "Army awards $869M contract to Leidos",
+      "url": "https://virginiabusiness.com/army-leidos-869m-pentagon-ai-contract/",
+      "source": "Virginia Business",
+      "published": "2026-04-30",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Ed2go's platform partnership with RC-RV signals shallow, vendor-delivered training rather than deep capability building—distributing access geographically but not creating the technical depth needed for innovation in transition economies.",
-      "fetched": "2026-04-30"
+      "signal_reading": "The $869M Leidos Army AI contract reinforces NoVA's concentration of deep technical capability in defense AI, pulling specialized talent and resources toward the metro hub rather than distributing knowledge across Virginia's regions.",
+      "fetched": "2026-05-01"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
+      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-05",
+      "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M AI data center infrastructure investment in Henrico concentrates physical AI capability in metro Richmond, creating 200 jobs but signaling capital flowing to existing hubs rather than distributing computational resources to underserved regions.",
-      "fetched": "2026-04-30"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Young workers feeling 'AI pressure' without corresponding skill-building infrastructure signals anxiety without capability development—neither depth nor broad distribution materializing, just displacement concern among entry-level workforce.",
-      "fetched": "2026-04-30"
-    },
-    {
-      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm5vUXBWT1ZtTW5vRUhkNGZEQlNTVXZuMXc2OTBiTjFHWExCSl9RVEdVM2pkbWU3WkVlSEY4aHpCbmFGeVIzY0ZKc0ozVG9vY0x6Tk9vcU9RZTdPRTdmUzFqQWxLd25VcEU2X1djYVBXRHgzby1WMktnanNEZnNUeFVTdEpOQWVoZXRUSDlhY3paVEZ4NUtiT2xGUjVhMkNkb28zWDZZZnFDWUtlMWpJTDBoT2oyS3RkS1Y5QndZQzRGc0RsSURRbDhpS0JoVy13THRtQzFB?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-04-28",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College president's focus on fixing college-to-career pathways addresses the infrastructure needed for distributed deep capability, though success depends on whether solutions emphasize peer learning networks or continue relying on centralized institutional gatekeeping.",
-      "fetched": "2026-04-30"
+      "signal_reading": "Norfolk Southern's AI deployment for predictive maintenance demonstrates applied AI capability in Hampton Roads' industrial base, but as corporate implementation rather than distributed workforce fluency—deep but concentrated in specific employers.",
+      "fetched": "2026-05-01"
     }
   ]
 }
