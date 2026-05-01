@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-01",
-  "next_check": "2026-05-01",
+  "next_check": "2026-05-02",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,27 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's AI Ready RVA partnership signals institutional investment in distributed AI education and community impact, potentially building deep local capability beyond just platform adoption if it extends beyond university boundaries into Richmond's broader workforce.",
+      "signal_reading": "VCU's partnership with AI Ready RVA represents intentional peer-network infrastructure for distributed AI fluency beyond elite institutions, potentially seeding community-level capability building rather than platform dependence.",
       "fetched": "2026-05-01"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNbjZqZG51Y1FENnV2WWZMRFY4dHZpTFZpbTNXd1M3Y212QU9pVTBLWWZuTXRWb3pidmZmUEpDaUNoY2tkZkhtMWdmS2RsNnhtZTZYVmJfYjJPaEczUEM3V3p5Q25FTThab0x4M3NCRXlUUU85N19jXzRxS2xHdFBNSUhKMEhkQ3ZHd1NJSmpFT29zZTFzRlVENVpfSXlYN20tajlPY0pBSFJRdXVZUlZzbFJlSUhUUDdwR1lBcWpiNjBCb002TkRUZFprekpQYTRNaTdPZEZiaDNNNUFsRDJLQmE3VUxFeFdSVFBCZy1lVzlzbkpJVHRDMTFaN2JZZlZCemFUbUEwRS1xR0taVGtSd1JzUXE2ME1rMXpjdk5ac0haTkl4cUxZYnVURkZFaEUwOEFxVlV6OGQ4VDlfYk1CNFdVcTJ5dHdTbkUzVmM1Z2t1dw?oc=5",
-      "source": "MSN",
-      "published": "2026-04-27",
+      "title": "Compass Datacenters pulls out of Digital Gateway AI data center project - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYjd5M3hzVGt1TVVQMzRzRlg0dlp0Z0JCRFNvRnNiWUVWNFFoUUE3aHMtTkRIVk5PejRNUDRhNnNGWmdFT1Y5dW5NRFlGZm5OZ0dQNEUyM25BUHpYZE9jQTJnNEd5dHFSZlAxMkxkZGVOMkh4VElmWXdiX3hFUGFMTA?oc=5",
+      "source": "qz.com",
+      "published": "2026-04-30",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Compass Datacenters withdrawing from a major AI infrastructure project signals that even NoVA's concentrated AI advantage faces sustainability questions, though the underlying capability concentration remains unchallenged.",
+      "fetched": "2026-05-01"
+    },
+    {
+      "title": "Amid AI, Quantum Tech, Chesterfield County, Va., Invests in Cyber - govtech.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmFRTm1QOVN6a25kUGVSckxxOXdxVHRrd2E5TGV1eVV6cDlieE5PTFprczMxTW1lTWR4bXEyeFYyNk13cFhhWTRmNHV1enctOU94YUI1VHpCeHRPM0hONTJOSTRQRnBCZHJOVWM4UUhJVF80MUltQXBCeU9fak9ad1JVUEhZN0dyc1pNSW5UdzBYSnRtWDMzRnZR?oc=5",
+      "source": "govtech.com",
+      "published": "2026-05-01",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests rapid platform-driven adoption creating shallow engagement rather than deep capability development, as workers adapt to AI tools without necessarily building foundational AI literacy.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Chesterfield County's cybersecurity investment amid AI/quantum developments shows Richmond metro building deep complementary capabilities, but concentration in metro counties rather than distributed adoption patterns.",
       "fetched": "2026-05-01"
     },
     {
@@ -37,27 +47,17 @@
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "On-demand ed2go workforce training represents pre-packaged platform delivery to rural regions—broad access but shallow depth, signaling distribution without the peer networks or deep learning that would characterize 'Build It Yourself.'",
+      "signal_reading": "RC-RV's partnership with ed2go for on-demand workforce training suggests platform-mediated rather than indigenous AI skill development, creating surface-level access without deep local capability building in underserved regions.",
       "fetched": "2026-05-01"
     },
     {
-      "title": "Army awards $869M contract to Leidos",
-      "url": "https://virginiabusiness.com/army-leidos-869m-pentagon-ai-contract/",
-      "source": "Virginia Business",
-      "published": "2026-04-30",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "The $869M Leidos Army AI contract reinforces NoVA's concentration of deep technical capability in defense AI, pulling specialized talent and resources toward the metro hub rather than distributing knowledge across Virginia's regions.",
-      "fetched": "2026-05-01"
-    },
-    {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern's AI deployment for predictive maintenance demonstrates applied AI capability in Hampton Roads' industrial base, but as corporate implementation rather than distributed workforce fluency—deep but concentrated in specific employers.",
+      "title": "Teaching AI by Doing, Not Studying - Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzVfYkwzNTByT0hFTVctcElFZHFQZGFyOXVkajdCaWpjN2pKMXNtSmVDNlUxaWh1ZXNBbk1ObVVVMExfbFFDeUkzTWtNdXJNQjFlU0k4ODgxNFc0dUZCN2pSQndqZ25ZaVY2Vjl2Z1ItbEVQR01EbTk1MEZ0SWlTRGxLZmRLUFoyUktLdlNtdmRnYUxReldJeWs2dFlVRmpDb0Fwb2VtektNYzF5VjRTVGp3?oc=5",
+      "source": "Inside Higher Ed",
+      "published": "2026-05-01",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Emphasis on experiential AI learning over theoretical study indicates pedagogy shift toward hands-on fluency development, which if scaled across Virginia institutions could enable distributed depth rather than concentrated expertise.",
       "fetched": "2026-05-01"
     }
   ]
