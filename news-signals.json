@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-02",
-  "next_check": "2026-05-02",
+  "next_check": "2026-05-03",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional knowledge distribution infrastructure beyond the university, creating pathways for peer-to-peer learning and community-rooted AI capability building rather than just elite institutional concentration.",
+      "signal_reading": "VCU's partnership with AI Ready RVA to boost community-wide AI education signals deliberate effort to distribute capability beyond elite institutions, creating peer networks that could enable grassroots fluency across Richmond's diverse demographics.",
       "fetched": "2026-05-02"
     },
     {
@@ -26,8 +26,18 @@
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "On-demand workforce training via ed2go platform extends AI-adjacent skills to underserved regions, but the pre-packaged delivery model suggests shallow, consumption-oriented adoption rather than deep capability development or local innovation capacity.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Platform-based workforce training via ed2go in historically underserved regions offers broad access but risks shallow adoption—learners gain certifications without deep capability, potentially widening the gap between credentialed and truly skilled workers.",
+      "fetched": "2026-05-02"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI-driven pressure on Richmond's young workforce without corresponding deep skill development signals automation anxiety replacing capability building—shallow tool adoption without structural investment in distributed expertise.",
       "fetched": "2026-05-02"
     },
     {
@@ -37,7 +47,7 @@
       "published": "2026-05-01",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Chesterfield County's investment in cybersecurity amid AI and quantum threats demonstrates deepening technical sophistication in select jurisdictions with resources, while counties lacking IT capacity fall further behind in protecting critical infrastructure.",
+      "signal_reading": "Chesterfield County's investment in cybersecurity amid AI and quantum threats demonstrates metro-area capacity to build specialized technical depth, but county-level focus reinforces concentration rather than regional distribution of advanced capability.",
       "fetched": "2026-05-02"
     },
     {
@@ -46,18 +56,8 @@
       "source": "qz.com",
       "published": "2026-04-30",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Data center investment withdrawal signals market volatility and community resistance that could slow AI infrastructure buildout, potentially creating neither the distributed access nor concentrated excellence if capital and political will fragment.",
-      "fetched": "2026-05-02"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Richmond's young workforce facing AI pressure reveals metro areas grappling with capability requirements while smaller markets lack even this pressure signal—concentration of both threat and opportunity in urban centers deepens the metro-rural divide.",
+      "signal_reading": "Data center investment pullback in NoVA signals market maturation and infrastructure constraints in the state's densest AI hub, potentially forcing capability distribution to other regions—or simply slowing concentrated development without enabling alternatives.",
       "fetched": "2026-05-02"
     }
   ]
