@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02",
+  "last_updated": "2026-05-03",
   "next_check": "2026-05-03",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA to boost community-wide AI education signals deliberate effort to distribute capability beyond elite institutions, creating peer networks that could enable grassroots fluency across Richmond's diverse demographics.",
-      "fetched": "2026-05-02"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of AI fluency through community-engaged education infrastructure, creating potential peer learning networks beyond the university campus that could spread deeper capability across the metro region.",
+      "fetched": "2026-05-03"
     },
     {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
@@ -26,9 +26,9 @@
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Platform-based workforce training via ed2go in historically underserved regions offers broad access but risks shallow adoption—learners gain certifications without deep capability, potentially widening the gap between credentialed and truly skilled workers.",
-      "fetched": "2026-05-02"
+      "scenario": "Software Does It For You",
+      "signal_reading": "On-demand workforce training through ed2go platforms represents shallow, platform-mediated AI adoption in underserved regions—providing access but not necessarily building deep local capability or sustainable AI fluency networks.",
+      "fetched": "2026-05-03"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -36,9 +36,9 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI-driven pressure on Richmond's young workforce without corresponding deep skill development signals automation anxiety replacing capability building—shallow tool adoption without structural investment in distributed expertise.",
-      "fetched": "2026-05-02"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce indicates the metro hub is experiencing concentrated adoption pressure similar to NoVA, potentially widening the capability gap with rural regions unless training infrastructure distributes effectively.",
+      "fetched": "2026-05-03"
     },
     {
       "title": "Amid AI, Quantum Tech, Chesterfield County, Va., Invests in Cyber - govtech.com",
@@ -47,18 +47,18 @@
       "published": "2026-05-01",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Chesterfield County's investment in cybersecurity amid AI and quantum threats demonstrates metro-area capacity to build specialized technical depth, but county-level focus reinforces concentration rather than regional distribution of advanced capability.",
-      "fetched": "2026-05-02"
+      "signal_reading": "Chesterfield County's investment in cybersecurity amid AI and quantum technology signals deepening technical capability in the Richmond metro area, reinforcing concentration of advanced digital infrastructure in established hubs rather than distributed development.",
+      "fetched": "2026-05-03"
     },
     {
-      "title": "Compass Datacenters pulls out of Digital Gateway AI data center project - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYjd5M3hzVGt1TVVQMzRzRlg0dlp0Z0JCRFNvRnNiWUVWNFFoUUE3aHMtTkRIVk5PejRNUDRhNnNGWmdFT1Y5dW5NRFlGZm5OZ0dQNEUyM25BUHpYZE9jQTJnNEd5dHFSZlAxMkxkZGVOMkh4VElmWXdiX3hFUGFMTA?oc=5",
-      "source": "qz.com",
-      "published": "2026-04-30",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center investment pullback in NoVA signals market maturation and infrastructure constraints in the state's densest AI hub, potentially forcing capability distribution to other regions—or simply slowing concentrated development without enabling alternatives.",
-      "fetched": "2026-05-02"
+      "title": "Norfolk arrest in deadly shooting made quickly with help of technology, officials say - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPU0FmaFJwcWtUX3B0ODhEaWRaVjFGV2FQUHZhRmNJWHNneGpYaFZnQkhJYk1LVHoxeHBBMS13YjRsOGQzSVFaVndyRWtuZHZhaDc4TFpYNktuWW9mSzVFOTliZlNmeER1TmdCOFdHRU5GbGNsMklrRGx3OEc0ZHNqVkNYSXphbmU5dmxTNWduQW4wRlJFTzVTN2Fmd2poZmpfcGRCbjZZMFZsdjV6MFRsVFVKR243RGVKVVZIdEoybDA0S2wtb051ZnpDNXdfbTd4STJCWGVPcWdpa21LYm5oZEJ3TDJvOVhfU3piVGoyUnFiVWY2VktKQnJoT0JvazVna1lQc2tXaG1NdDRmNXRMcQ?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-05-03",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk police deploying AI-assisted technology for rapid criminal investigation represents shallow, vendor-delivered capability—functional adoption without building local AI development capacity or transferable technical expertise in the Hampton Roads workforce.",
+      "fetched": "2026-05-03"
     }
   ]
 }
