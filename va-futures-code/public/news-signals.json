@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-03",
-  "next_check": "2026-05-03",
+  "next_check": "2026-05-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,17 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of AI fluency through community-engaged education infrastructure, creating potential peer learning networks beyond the university campus that could spread deeper capability across the metro region.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of deep AI capabilities through community-focused education infrastructure, potentially creating peer learning networks that spread beyond traditional academic gatekeeping.",
+      "fetched": "2026-05-03"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Young Richmond workers feeling AI pressure without corresponding upskilling infrastructure suggests anxiety without agency—neither depth of capability nor broad distribution materializing, creating displacement risk rather than opportunity.",
       "fetched": "2026-05-03"
     },
     {
@@ -27,17 +37,7 @@
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "On-demand workforce training through ed2go platforms represents shallow, platform-mediated AI adoption in underserved regions—providing access but not necessarily building deep local capability or sustainable AI fluency networks.",
-      "fetched": "2026-05-03"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates the metro hub is experiencing concentrated adoption pressure similar to NoVA, potentially widening the capability gap with rural regions unless training infrastructure distributes effectively.",
+      "signal_reading": "On-demand workforce training through ed2go platform partnerships enables shallow but distributed AI adoption in underserved regions—platform-mediated capabilities that democratize access without building deep local expertise.",
       "fetched": "2026-05-03"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-05-01",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Chesterfield County's investment in cybersecurity amid AI and quantum technology signals deepening technical capability in the Richmond metro area, reinforcing concentration of advanced digital infrastructure in established hubs rather than distributed development.",
+      "signal_reading": "Chesterfield County's strategic investment in cybersecurity and quantum capabilities alongside AI reflects concentrated public-sector technical sophistication in metro Richmond, deepening capability gaps with rural localities lacking similar institutional capacity.",
       "fetched": "2026-05-03"
     },
     {
-      "title": "Norfolk arrest in deadly shooting made quickly with help of technology, officials say - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPU0FmaFJwcWtUX3B0ODhEaWRaVjFGV2FQUHZhRmNJWHNneGpYaFZnQkhJYk1LVHoxeHBBMS13YjRsOGQzSVFaVndyRWtuZHZhaDc4TFpYNktuWW9mSzVFOTliZlNmeER1TmdCOFdHRU5GbGNsMklrRGx3OEc0ZHNqVkNYSXphbmU5dmxTNWduQW4wRlJFTzVTN2Fmd2poZmpfcGRCbjZZMFZsdjV6MFRsVFVKR243RGVKVVZIdEoybDA0S2wtb051ZnpDNXdfbTd4STJCWGVPcWdpa21LYm5oZEJ3TDJvOVhfU3piVGoyUnFiVWY2VktKQnJoT0JvazVna1lQc2tXaG1NdDRmNXRMcQ?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-05-03",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk police deploying AI-assisted technology for rapid criminal investigation represents shallow, vendor-delivered capability—functional adoption without building local AI development capacity or transferable technical expertise in the Hampton Roads workforce.",
+      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
+      "source": "Bloomberg Law News",
+      "published": "2026-02-25",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NoVA's data center slowdown doesn't redistribute AI infrastructure—it signals saturation in the existing concentration hub while no secondary centers emerge, reinforcing rather than challenging the geographic imbalance of AI capability.",
       "fetched": "2026-05-03"
     }
   ]
