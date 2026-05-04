@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-04",
-  "next_check": "2026-05-04",
+  "next_check": "2026-05-05",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,23 @@
   ],
   "signals": [
     {
-      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
-      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
-      "source": "Cardinal News",
-      "published": "2026-05-04",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Federal policy uncertainty freezing state AI legislation while threatening broadband funding creates a double barrier to distributed AI capability, particularly in regions like Southwest Virginia that depend on federal infrastructure investment to enable any meaningful AI adoption.",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "The VCU-AI Ready RVA partnership signals distributed capability-building through community-anchored education infrastructure, creating pathways for deep fluency beyond elite tech concentrations if implementation reaches diverse populations.",
+      "fetched": "2026-05-04"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents deliberate distribution strategy toward economically transitioning regions, testing whether deep capability can take root outside traditional tech hubs through place-based investment.",
       "fetched": "2026-05-04"
     },
     {
@@ -26,18 +36,18 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Young workforce facing AI displacement pressure in Richmond signals shallow adoption anxiety without corresponding depth-building infrastructure, suggesting concentration of AI capability concerns in metro areas while rural regions remain disconnected from the conversation entirely.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI pressure on Richmond's young workforce without corresponding deep training infrastructure signals shallow adoption anxiety—workers feeling displacement threats without acquiring genuine capability to shape AI deployment.",
       "fetched": "2026-05-04"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA represents intentional community-facing AI education infrastructure that could enable peer-to-peer capability building beyond elite tech circles, testing whether metro institutions can seed distributed fluency rather than hoarding expertise.",
+      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
+      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
+      "source": "Cardinal News",
+      "published": "2026-05-04",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Legislative paralysis on AI policy combined with federal broadband funding threats shows how regulatory uncertainty and infrastructure gaps in underserved regions prevent both shallow platform adoption and deep capability development from materializing.",
       "fetched": "2026-05-04"
     },
     {
@@ -46,18 +56,8 @@
       "source": "Cardinal News",
       "published": "2026-05-04",
       "region": "Southside",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Danville pursuing data center infrastructure positions the historically underserved region as AI infrastructure host rather than AI capability developer—extracting tax revenue from shallow platform deployment without building local technical depth or workforce AI fluency.",
-      "fetched": "2026-05-04"
-    },
-    {
-      "title": "Teaching AI by Doing, Not Studying - Inside Higher Ed",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzVfYkwzNTByT0hFTVctcElFZHFQZGFyOXVkajdCaWpjN2pKMXNtSmVDNlUxaWh1ZXNBbk1ObVVVMExfbFFDeUkzTWtNdXJNQjFlU0k4ODgxNFc0dUZCN2pSQndqZ25ZaVY2Vjl2Z1ItbEVQR01EbTk1MEZ0SWlTRGxLZmRLUFoyUktLdlNtdmRnYUxReldJeWs2dFlVRmpDb0Fwb2VtektNYzF5VjRTVGp3?oc=5",
-      "source": "Inside Higher Ed",
-      "published": "2026-05-01",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Pedagogy shift toward learning-by-doing rather than studying AI theory signals potential pathway to distributed deep capability if implemented across Virginia's educational institutions, though success depends on whether resources reach beyond elite universities into community colleges and rural schools.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Danville pursuing data center development represents infrastructure concentration rather than capability distribution—hosting compute power creates tax revenue but not necessarily local AI fluency unless paired with workforce development mechanisms.",
       "fetched": "2026-05-04"
     }
   ]
