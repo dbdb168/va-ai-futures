@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03",
+  "last_updated": "2026-05-04",
   "next_check": "2026-05-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,14 @@
   ],
   "signals": [
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional distribution of deep AI capabilities through community-focused education infrastructure, potentially creating peer learning networks that spread beyond traditional academic gatekeeping.",
-      "fetched": "2026-05-03"
+      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
+      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
+      "source": "Cardinal News",
+      "published": "2026-05-04",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Federal policy uncertainty freezing state AI legislation while threatening broadband funding creates a double barrier to distributed AI capability, particularly in regions like Southwest Virginia that depend on federal infrastructure investment to enable any meaningful AI adoption.",
+      "fetched": "2026-05-04"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -26,39 +26,39 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Young Richmond workers feeling AI pressure without corresponding upskilling infrastructure suggests anxiety without agency—neither depth of capability nor broad distribution materializing, creating displacement risk rather than opportunity.",
-      "fetched": "2026-05-03"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Young workforce facing AI displacement pressure in Richmond signals shallow adoption anxiety without corresponding depth-building infrastructure, suggesting concentration of AI capability concerns in metro areas while rural regions remain disconnected from the conversation entirely.",
+      "fetched": "2026-05-04"
     },
     {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "On-demand workforce training through ed2go platform partnerships enables shallow but distributed AI adoption in underserved regions—platform-mediated capabilities that democratize access without building deep local expertise.",
-      "fetched": "2026-05-03"
-    },
-    {
-      "title": "Amid AI, Quantum Tech, Chesterfield County, Va., Invests in Cyber - govtech.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmFRTm1QOVN6a25kUGVSckxxOXdxVHRrd2E5TGV1eVV6cDlieE5PTFprczMxTW1lTWR4bXEyeFYyNk13cFhhWTRmNHV1enctOU94YUI1VHpCeHRPM0hONTJOSTRQRnBCZHJOVWM4UUhJVF80MUltQXBCeU9fak9ad1JVUEhZN0dyc1pNSW5UdzBYSnRtWDMzRnZR?oc=5",
-      "source": "govtech.com",
-      "published": "2026-05-01",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Chesterfield County's strategic investment in cybersecurity and quantum capabilities alongside AI reflects concentrated public-sector technical sophistication in metro Richmond, deepening capability gaps with rural localities lacking similar institutional capacity.",
-      "fetched": "2026-05-03"
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA represents intentional community-facing AI education infrastructure that could enable peer-to-peer capability building beyond elite tech circles, testing whether metro institutions can seed distributed fluency rather than hoarding expertise.",
+      "fetched": "2026-05-04"
     },
     {
-      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "2026-02-25",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA's data center slowdown doesn't redistribute AI infrastructure—it signals saturation in the existing concentration hub while no secondary centers emerge, reinforcing rather than challenging the geographic imbalance of AI capability.",
-      "fetched": "2026-05-03"
+      "title": "Danville to consider data center tax increase, development guidelines",
+      "url": "https://cardinalnews.org/2026/05/04/danville-to-consider-data-center-tax-increase-guidelines-after-recent-inquiries-about-bringing-one-to-the-city/",
+      "source": "Cardinal News",
+      "published": "2026-05-04",
+      "region": "Southside",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Danville pursuing data center infrastructure positions the historically underserved region as AI infrastructure host rather than AI capability developer—extracting tax revenue from shallow platform deployment without building local technical depth or workforce AI fluency.",
+      "fetched": "2026-05-04"
+    },
+    {
+      "title": "Teaching AI by Doing, Not Studying - Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzVfYkwzNTByT0hFTVctcElFZHFQZGFyOXVkajdCaWpjN2pKMXNtSmVDNlUxaWh1ZXNBbk1ObVVVMExfbFFDeUkzTWtNdXJNQjFlU0k4ODgxNFc0dUZCN2pSQndqZ25ZaVY2Vjl2Z1ItbEVQR01EbTk1MEZ0SWlTRGxLZmRLUFoyUktLdlNtdmRnYUxReldJeWs2dFlVRmpDb0Fwb2VtektNYzF5VjRTVGp3?oc=5",
+      "source": "Inside Higher Ed",
+      "published": "2026-05-01",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Pedagogy shift toward learning-by-doing rather than studying AI theory signals potential pathway to distributed deep capability if implemented across Virginia's educational institutions, though success depends on whether resources reach beyond elite universities into community colleges and rural schools.",
+      "fetched": "2026-05-04"
     }
   ]
 }
