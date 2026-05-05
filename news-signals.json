@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04",
+  "last_updated": "2026-05-05",
   "next_check": "2026-05-05",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "The VCU-AI Ready RVA partnership signals distributed capability-building through community-anchored education infrastructure, creating pathways for deep fluency beyond elite tech concentrations if implementation reaches diverse populations.",
-      "fetched": "2026-05-04"
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-driven AI capability building beyond elite institutions, potentially distributing deep literacy through Richmond's civic infrastructure if sustained beyond programmatic announcement.",
+      "fetched": "2026-05-05"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,8 +27,18 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents deliberate distribution strategy toward economically transitioning regions, testing whether deep capability can take root outside traditional tech hubs through place-based investment.",
-      "fetched": "2026-05-04"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents rare distributed capacity investment in transitioning economy, testing whether peer networks can build deep AI fluency outside metro gravity wells.",
+      "fetched": "2026-05-05"
+    },
+    {
+      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
+      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
+      "source": "Cardinal News",
+      "published": "2026-05-04",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Federal pressure blocking state AI legislation prevents Virginia from building regulatory capacity or workforce frameworks, risking neither depth nor distribution as policy vacuum leaves regions dependent on federal broadband funds without local adaptation mechanisms.",
+      "fetched": "2026-05-05"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -36,29 +46,19 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI pressure on Richmond's young workforce without corresponding deep training infrastructure signals shallow adoption anxiety—workers feeling displacement threats without acquiring genuine capability to shape AI deployment.",
-      "fetched": "2026-05-04"
-    },
-    {
-      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
-      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
-      "source": "Cardinal News",
-      "published": "2026-05-04",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Legislative paralysis on AI policy combined with federal broadband funding threats shows how regulatory uncertainty and infrastructure gaps in underserved regions prevent both shallow platform adoption and deep capability development from materializing.",
-      "fetched": "2026-05-04"
-    },
-    {
-      "title": "Danville to consider data center tax increase, development guidelines",
-      "url": "https://cardinalnews.org/2026/05/04/danville-to-consider-data-center-tax-increase-guidelines-after-recent-inquiries-about-bringing-one-to-the-city/",
-      "source": "Cardinal News",
-      "published": "2026-05-04",
-      "region": "Southside",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Danville pursuing data center development represents infrastructure concentration rather than capability distribution—hosting compute power creates tax revenue but not necessarily local AI fluency unless paired with workforce development mechanisms.",
-      "fetched": "2026-05-04"
+      "signal_reading": "AI pressure on Richmond's young workforce signals concentrated capability demands in metro hub without evidence of distributed skilling infrastructure, reinforcing geographic sorting of talent toward existing centers.",
+      "fetched": "2026-05-05"
+    },
+    {
+      "title": "Why more residents are saying ‘No’ to AI data centers in their backyard - NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlpqekhvT1lpMVFQX2N1ZGFrcWg4ZmdHLXZ6ei1NQlJuZTY3Rks5X0dkUV9ZYTRfMGtHUjdLXzZ2ODRDYjkycUM0MUVTS3otNFRwRDMwaEsybUVGUDdtOXYxYnRKYUJJUW5helZwbGRsWGFUQnJwdllSbDVueGtzQS1KMi1ZWWl1WFlONXppQQ?oc=5",
+      "source": "NPR",
+      "published": "2025-07-17",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NoVA resident resistance to AI data centers reveals concentration tensions where infrastructure density creates backlash, potentially limiting even hub expansion while rural areas compete for economic development—neither distributing capability nor deepening community buy-in.",
+      "fetched": "2026-05-05"
     }
   ]
 }
