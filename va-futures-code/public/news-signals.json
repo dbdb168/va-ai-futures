@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-05",
-  "next_check": "2026-05-05",
+  "next_check": "2026-05-06",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,33 +11,33 @@
   ],
   "signals": [
     {
+      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
+      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
+      "source": "Cardinal News",
+      "published": "2026-05-04",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Federal policy threats blocking state AI regulation while also endangering broadband funding creates a dual barrier for rural Virginia—neither the infrastructure foundation nor the policy framework for distributed AI capability can develop, reinforcing concentration in already-connected metros.",
+      "fetched": "2026-05-05"
+    },
+    {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-driven AI capability building beyond elite institutions, potentially distributing deep literacy through Richmond's civic infrastructure if sustained beyond programmatic announcement.",
+      "signal_reading": "VCU's partnership with AI Ready RVA represents institutional commitment to community-scale AI education beyond elite tech workers, signaling potential for peer-driven learning networks that could distribute capability through Richmond's diverse workforce sectors.",
       "fetched": "2026-05-05"
     },
     {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents rare distributed capacity investment in transitioning economy, testing whether peer networks can build deep AI fluency outside metro gravity wells.",
-      "fetched": "2026-05-05"
-    },
-    {
-      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
-      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
-      "source": "Cardinal News",
-      "published": "2026-05-04",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Federal pressure blocking state AI legislation prevents Virginia from building regulatory capacity or workforce frameworks, risking neither depth nor distribution as policy vacuum leaves regions dependent on federal broadband funds without local adaptation mechanisms.",
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Platform-delivered workforce training via ed2go offers shallow, on-demand skill acquisition rather than deep capability building—accessible distribution without the peer networks or institutional depth needed to create lasting regional AI fluency in traditionally underserved Southwest Virginia.",
       "fetched": "2026-05-05"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce signals concentrated capability demands in metro hub without evidence of distributed skilling infrastructure, reinforcing geographic sorting of talent toward existing centers.",
+      "signal_reading": "Competitive pressure on Richmond's young workforce to adopt AI reveals metro-concentrated anxiety and adaptation cycles that don't yet extend to rural regions, indicating capability development clustering where labor markets already demand it.",
       "fetched": "2026-05-05"
     },
     {
-      "title": "Why more residents are saying ‘No’ to AI data centers in their backyard - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlpqekhvT1lpMVFQX2N1ZGFrcWg4ZmdHLXZ6ei1NQlJuZTY3Rks5X0dkUV9ZYTRfMGtHUjdLXzZ2ODRDYjkycUM0MUVTS3otNFRwRDMwaEsybUVGUDdtOXYxYnRKYUJJUW5helZwbGRsWGFUQnJwdllSbDVueGtzQS1KMi1ZWWl1WFlONXppQQ?oc=5",
-      "source": "NPR",
-      "published": "2025-07-17",
+      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
+      "source": "Bloomberg Law News",
+      "published": "2026-02-25",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA resident resistance to AI data centers reveals concentration tensions where infrastructure density creates backlash, potentially limiting even hub expansion while rural areas compete for economic development—neither distributing capability nor deepening community buy-in.",
+      "signal_reading": "NoVA's data center slowdown doesn't redistribute AI infrastructure—it consolidates what exists while halting expansion, freezing the current concentrated geography of computational power and the technical expertise required to operate it.",
       "fetched": "2026-05-05"
     }
   ]
