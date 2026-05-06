@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05",
+  "last_updated": "2026-05-06",
   "next_check": "2026-05-06",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,34 +11,14 @@
   ],
   "signals": [
     {
-      "title": "AI bills faced a logjam in the General Assembly due to a Trump executive order, but Congress is working to fill the gap",
-      "url": "https://cardinalnews.org/2026/05/04/ai-bills-faced-a-logjam-in-the-general-assembly-due-to-a-trump-executive-order-but-congress-is-working-to-fill-the-gap/",
-      "source": "Cardinal News",
-      "published": "2026-05-04",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Federal policy threats blocking state AI regulation while also endangering broadband funding creates a dual barrier for rural Virginia—neither the infrastructure foundation nor the policy framework for distributed AI capability can develop, reinforcing concentration in already-connected metros.",
-      "fetched": "2026-05-05"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA represents institutional commitment to community-scale AI education beyond elite tech workers, signaling potential for peer-driven learning networks that could distribute capability through Richmond's diverse workforce sectors.",
-      "fetched": "2026-05-05"
-    },
-    {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Southwest / Roanoke",
+      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
+      "source": "Bloomberg Law News",
+      "published": "2026-02-25",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Platform-delivered workforce training via ed2go offers shallow, on-demand skill acquisition rather than deep capability building—accessible distribution without the peer networks or institutional depth needed to create lasting regional AI fluency in traditionally underserved Southwest Virginia.",
-      "fetched": "2026-05-05"
+      "signal_reading": "Northern Virginia's AI data center boom slowing signals maturation of concentrated infrastructure advantage, but without evidence of capability distribution beyond the NoVA hub—reinforcing rather than diffusing the concentration pattern.",
+      "fetched": "2026-05-06"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -46,19 +26,39 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Competitive pressure on Richmond's young workforce to adopt AI reveals metro-concentrated anxiety and adaptation cycles that don't yet extend to rural regions, indicating capability development clustering where labor markets already demand it.",
-      "fetched": "2026-05-05"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Richmond's young workforce facing AI pressure suggests platform-delivered tools creating shallow adoption requirements across white-collar jobs—workers adapting to AI rather than building it,典型 of distributed-but-shallow engagement.",
+      "fetched": "2026-05-06"
     },
     {
-      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "2026-02-25",
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "On-demand workforce training partnerships in Southwest Virginia signal platform-mediated skill delivery reaching underserved regions, but the 'on-demand' model suggests shallow, consumptive adoption rather than deep capability building.",
+      "fetched": "2026-05-06"
+    },
+    {
+      "title": "Virginia lawmakers study AI risks and potential new regulations - WTVR.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3BoY0o5WnRLaUxkY1Z2NUlTN0JxM05QU0hiNFBOaTRxZUFjcVFuUHVsRHFqSDk3UEF1eHVPbFpUQmI3LXhsZDFhaEdSeDl3ZUhLV0VrWUxlTFo5TjFrNHBTVWZuQ0FqX2ExMDZZblF2NHZlWUJETkJOZUgxeDB3eA?oc=5",
+      "source": "WTVR.com",
+      "published": "2026-05-04",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "State lawmakers studying AI risks and regulations without parallel evidence of widespread AI capability development suggests policy attention outpacing actual distributed adoption—governance without grassroots momentum indicates widening implementation gap.",
+      "fetched": "2026-05-06"
+    },
+    {
+      "title": "Deltek Named to Northern Virginia Technology Council's Inaugural AI50 List - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlp4RnZlLUtTWC1fWmpheWhCdVpoQV9jZThmYUhkRXN0ZFhoUDg3aUdnd1Jpa3ktb01IODFGTE91WFh1czl2dkFVSDdiVG9RM2wxZUg2S0g2T1d4TDVleTd5ckg0NVBBOF9VRFdiRDJ3YkVqSDlEZ05uLUpaaFk0cjlLakFIbUZHWVJWYWhTNXUxNVoxOGdVOXRYR21wZTk2aXl0Q3Nxd1AzWFpRZFpNQUc2MFRsckczX3praklqc3pDMFlpZkZSMw?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-04-28",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA's data center slowdown doesn't redistribute AI infrastructure—it consolidates what exists while halting expansion, freezing the current concentrated geography of computational power and the technical expertise required to operate it.",
-      "fetched": "2026-05-05"
+      "signal_reading": "Northern Virginia Technology Council's AI50 recognition of firms like Deltek crystallizes the region's deep AI talent cluster, but a regional council celebrating regional companies underscores how excellence remains geographically bounded rather than distributed statewide.",
+      "fetched": "2026-05-06"
     }
   ]
 }
