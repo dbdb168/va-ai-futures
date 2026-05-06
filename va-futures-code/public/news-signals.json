@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-06",
-  "next_check": "2026-05-06",
+  "next_check": "2026-05-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "2026-02-25",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Northern Virginia's AI data center boom slowing signals maturation of concentrated infrastructure advantage, but without evidence of capability distribution beyond the NoVA hub—reinforcing rather than diffusing the concentration pattern.",
+      "title": "Virginia lawmakers study AI risks and potential new regulations - WTVR.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3BoY0o5WnRLaUxkY1Z2NUlTN0JxM05QU0hiNFBOaTRxZUFjcVFuUHVsRHFqSDk3UEF1eHVPbFpUQmI3LXhsZDFhaEdSeDl3ZUhLV0VrWUxlTFo5TjFrNHBTVWZuQ0FqX2ExMDZZblF2NHZlWUJETkJOZUgxeDB3eA?oc=5",
+      "source": "WTVR.com",
+      "published": "2026-05-04",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "State lawmakers studying AI risks and regulations suggests reactive policy posture rather than proactive capability-building, potentially creating compliance burdens without distributing AI literacy or infrastructure across regions.",
       "fetched": "2026-05-06"
     },
     {
@@ -26,8 +26,8 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Richmond's young workforce facing AI pressure suggests platform-delivered tools creating shallow adoption requirements across white-collar jobs—workers adapting to AI rather than building it,典型 of distributed-but-shallow engagement.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce indicates metro concentration of AI adoption demands, likely deepening the capability gap between urban knowledge workers and rural communities without intentional distribution strategies.",
       "fetched": "2026-05-06"
     },
     {
@@ -37,27 +37,27 @@
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "On-demand workforce training partnerships in Southwest Virginia signal platform-mediated skill delivery reaching underserved regions, but the 'on-demand' model suggests shallow, consumptive adoption rather than deep capability building.",
+      "signal_reading": "Partnership with ed2go for on-demand workforce training in Southwest Virginia signals platform-delivered, shallow AI adoption—accessible but unlikely to build deep local capability without hands-on implementation support.",
       "fetched": "2026-05-06"
     },
     {
-      "title": "Virginia lawmakers study AI risks and potential new regulations - WTVR.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3BoY0o5WnRLaUxkY1Z2NUlTN0JxM05QU0hiNFBOaTRxZUFjcVFuUHVsRHFqSDk3UEF1eHVPbFpUQmI3LXhsZDFhaEdSeDl3ZUhLV0VrWUxlTFo5TjFrNHBTVWZuQ0FqX2ExMDZZblF2NHZlWUJETkJOZUgxeDB3eA?oc=5",
-      "source": "WTVR.com",
-      "published": "2026-05-04",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "State lawmakers studying AI risks and regulations without parallel evidence of widespread AI capability development suggests policy attention outpacing actual distributed adoption—governance without grassroots momentum indicates widening implementation gap.",
-      "fetched": "2026-05-06"
-    },
-    {
-      "title": "Deltek Named to Northern Virginia Technology Council's Inaugural AI50 List - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlp4RnZlLUtTWC1fWmpheWhCdVpoQV9jZThmYUhkRXN0ZFhoUDg3aUdnd1Jpa3ktb01IODFGTE91WFh1czl2dkFVSDdiVG9RM2wxZUg2S0g2T1d4TDVleTd5ckg0NVBBOF9VRFdiRDJ3YkVqSDlEZ05uLUpaaFk0cjlLakFIbUZHWVJWYWhTNXUxNVoxOGdVOXRYR21wZTk2aXl0Q3Nxd1AzWFpRZFpNQUc2MFRsckczX3praklqc3pDMFlpZkZSMw?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-04-28",
+      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
+      "source": "Bloomberg Law News",
+      "published": "2026-02-25",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Northern Virginia Technology Council's AI50 recognition of firms like Deltek crystallizes the region's deep AI talent cluster, but a regional council celebrating regional companies underscores how excellence remains geographically bounded rather than distributed statewide.",
+      "signal_reading": "NoVA's data center growth slowing suggests potential saturation of infrastructure-layer AI concentration, but without evidence of capability diffusion to other regions, reinforces existing geographic inequality.",
+      "fetched": "2026-05-06"
+    },
+    {
+      "title": "Tech Briefs: Generative AI&#8217;s content thirst, entrepreneur center opens in Blacksburg, state to fund EV charging infrastructure",
+      "url": "https://cardinalnews.org/2026/05/06/tech-briefs-generative-ais-content-thirst-entrepreneur-center-opens-in-blacksburg-state-to-fund-ev-charging-infrastructure/",
+      "source": "Cardinal News",
+      "published": "2026-05-06",
+      "region": "Southwest & Southside",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Entrepreneur center opening in Blacksburg (Virginia Tech corridor) creates infrastructure for peer-to-peer AI learning in a non-metro region, potentially seeding distributed deep capability if it connects to broader networks beyond the university.",
       "fetched": "2026-05-06"
     }
   ]
