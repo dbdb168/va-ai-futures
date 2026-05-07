@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06",
+  "last_updated": "2026-05-07",
   "next_check": "2026-05-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,14 @@
   ],
   "signals": [
     {
-      "title": "Virginia lawmakers study AI risks and potential new regulations - WTVR.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3BoY0o5WnRLaUxkY1Z2NUlTN0JxM05QU0hiNFBOaTRxZUFjcVFuUHVsRHFqSDk3UEF1eHVPbFpUQmI3LXhsZDFhaEdSeDl3ZUhLV0VrWUxlTFo5TjFrNHBTVWZuQ0FqX2ExMDZZblF2NHZlWUJETkJOZUgxeDB3eA?oc=5",
-      "source": "WTVR.com",
-      "published": "2026-05-04",
+      "title": "Editorial: New study envisions Virginia workforce changes with AI - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzc5VlBFNFNrUWJVaWY0cUxPZTl5NlFoNnZzWkpudnBGWHVySVhnM0VGelNwM2h0bmhnNnRncW5IRlVGZ2lwRkhmaUE5MUVFSTM1ajFDQl9nY2dhWk0yNVZsRGVQR01Wc1hScnd3Q0ZLY2I4YkhUVy1qQ2NOcFVESGg5eGdDQVRHSFdnaU5tUjVCSXZiMTVuR0xzR3FKcEs0RUE?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-05-05",
       "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "State lawmakers studying AI risks and regulations suggests reactive policy posture rather than proactive capability-building, potentially creating compliance burdens without distributing AI literacy or infrastructure across regions.",
-      "fetched": "2026-05-06"
+      "scenario": "Software Does It For You",
+      "signal_reading": "A statewide workforce study examining AI's impact suggests awareness of transformation but frames workers as recipients of change rather than builders of capability, signaling toward platform-driven shallow adoption rather than grassroots technical depth.",
+      "fetched": "2026-05-07"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -27,38 +27,38 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates metro concentration of AI adoption demands, likely deepening the capability gap between urban knowledge workers and rural communities without intentional distribution strategies.",
-      "fetched": "2026-05-06"
+      "signal_reading": "Richmond's young workforce facing 'AI pressure' indicates metro hub anxiety about keeping pace with deeper technical demands, reinforcing the concentration pattern where capability expectations cluster in urban centers while leaving rural areas outside the urgency frame.",
+      "fetched": "2026-05-07"
     },
     {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Partnership with ed2go for on-demand workforce training in Southwest Virginia signals platform-delivered, shallow AI adoption—accessible but unlikely to build deep local capability without hands-on implementation support.",
-      "fetched": "2026-05-06"
-    },
-    {
-      "title": "Virginia’s AI Data Center Gravy Train Shows Signs of Slowing - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUtaZERVeno5c0ZQNS1jVnk5dS1xQmc4UjJ5VmZsVkpxWUJ0bXB4eDRGRVk2SjQ4bzdqWWxhZVBzRzVYUVBSZGwtY2M5enY2VngzV0doeDl6NzdiRDJhUFpkc2tnclR1N3J1TUJadjFLUXAyTDR2N2xSamtnSFhfMTZHYWs5bi1JLVBscDhYVllfVmV4MWNoSldTU3FraUNmR3ItVUh2LVg1QTJVdWVXSQ?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "2026-02-25",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA's data center growth slowing suggests potential saturation of infrastructure-layer AI concentration, but without evidence of capability diffusion to other regions, reinforces existing geographic inequality.",
-      "fetched": "2026-05-06"
-    },
-    {
-      "title": "Tech Briefs: Generative AI&#8217;s content thirst, entrepreneur center opens in Blacksburg, state to fund EV charging infrastructure",
-      "url": "https://cardinalnews.org/2026/05/06/tech-briefs-generative-ais-content-thirst-entrepreneur-center-opens-in-blacksburg-state-to-fund-ev-charging-infrastructure/",
-      "source": "Cardinal News",
-      "published": "2026-05-06",
-      "region": "Southwest & Southside",
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "Entrepreneur center opening in Blacksburg (Virginia Tech corridor) creates infrastructure for peer-to-peer AI learning in a non-metro region, potentially seeding distributed deep capability if it connects to broader networks beyond the university.",
-      "fetched": "2026-05-06"
+      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia represents distributed capacity-building originating from local institutions rather than platform deployment, offering a counter-signal to concentration if training includes hands-on AI/data skills rather than just awareness.",
+      "fetched": "2026-05-07"
+    },
+    {
+      "title": "Virginia lawmakers study AI risks and potential new regulations - WTVR.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3BoY0o5WnRLaUxkY1Z2NUlTN0JxM05QU0hiNFBOaTRxZUFjcVFuUHVsRHFqSDk3UEF1eHVPbFpUQmI3LXhsZDFhaEdSeDl3ZUhLV0VrWUxlTFo5TjFrNHBTVWZuQ0FqX2ExMDZZblF2NHZlWUJETkJOZUgxeDB3eA?oc=5",
+      "source": "WTVR.com",
+      "published": "2026-05-04",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Lawmakers studying AI risks and regulations without visible parallel investment in distributed literacy or training infrastructure signals governance happening above rather than alongside capability development, potentially freezing adoption through uncertainty while depth remains concentrated.",
+      "fetched": "2026-05-07"
+    },
+    {
+      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm5vUXBWT1ZtTW5vRUhkNGZEQlNTVXZuMXc2OTBiTjFHWExCSl9RVEdVM2pkbWU3WkVlSEY4aHpCbmFGeVIzY0ZKc0ozVG9vY0x6Tk9vcU9RZTdPRTdmUzFqQWxLd25VcEU2X1djYVBXRHgzby1WMktnanNEZnNUeFVTdEpOQWVoZXRUSDlhY3paVEZ4NUtiT2xGUjVhMkNkb28zWDZZZnFDWUtlMWpJTDBoT2oyS3RkS1Y5QndZQzRGc0RsSURRbDhpS0JoVy13THRtQzFB?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-04-28",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College president advocating to fix the college-to-career pathway signals institutional commitment to distributed workforce preparation in a non-metro region, suggesting potential for peer-network skill transfer if curriculum includes deep technical training rather than surface-level platform use.",
+      "fetched": "2026-05-07"
     }
   ]
 }
