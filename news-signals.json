@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-08",
-  "next_check": "2026-05-08",
+  "next_check": "2026-05-09",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,53 +11,53 @@
   ],
   "signals": [
     {
-      "title": "VSU receives $1 million for new AI and cybersecurity center",
-      "url": "https://virginiabusiness.com/vsu-receives-1-million-ai-cybersecurity-center-virginia/",
-      "source": "Virginia Business",
-      "published": "2026-05-07",
-      "region": "Southside",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VSU's $1M AI center investment in historically underserved Southside signals institutional capacity-building, but the concentration of funding in a single university hub rather than distributed community programs suggests deep capability will remain geographically isolated.",
-      "fetched": "2026-05-08"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA to boost community AI education indicates a deliberate strategy for distributed skill-building beyond elite institutions, potentially creating peer learning networks that spread deep capability through Richmond's broader workforce.",
-      "fetched": "2026-05-08"
-    },
-    {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "The Widening Gap",
-      "signal_reading": "Young Richmond workers feeling AI pressure without accompanying deep capability development suggests shallow platform adoption is creating workforce anxiety rather than empowerment, signaling neither depth nor meaningful distribution is materializing.",
+      "signal_reading": "Young workers facing AI displacement pressure without corresponding deep capability-building programs signals shallow anxiety without distributed skill depth, creating workforce vulnerability rather than adaptive capacity.",
       "fetched": "2026-05-08"
     },
     {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "On-demand workforce training through platform provider ed2go suggests broad but shallow AI adoption in underserved regions—accessible tools without deep technical capability development, fitting the 'software does it for you' model for areas beyond metro hubs.",
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in historically underserved Southwest Virginia represents distributed capacity-building with local ownership, directly countering the concentration dynamic if implementation achieves genuine skill depth.",
       "fetched": "2026-05-08"
     },
     {
-      "title": "TurbineOne Establishes Virginia Headquarters, Launches T1 Edgeworks Innovation Center - The AI Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXVBeExLYjJqSmZZdWloZUVJRTZxdkhmRWpyNXRYZ0hFR2RFM1BpTUNLWjlrUzhabDNKRE5LXzNYd0c4bVl5Nk5BWTBfcXNkR2ZMVEJDRFVxT3dvel9faDczQXFXUUgycFNrZXBqRnk2dGFwa0V6VFc0azl0YlYyeTZabXhZazdEa1NUcUhDV0NHMUJsdmlYdkx1ZURoc2pKeGpURUduTlY?oc=5",
-      "source": "The AI Journal",
-      "published": "2026-05-06",
+      "title": "Pentagon Expands Scale AI Deal to $500M and AI Defense Firm TurbineOne Moves HQ to Northern Virginia - Clearance Jobs",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLXhaRk10bjV5SzlzaUE3ZTU3ZWdGbGVDamNtbXBoY093M1M5NloxTWVnY3RXNkktcWkxeVh4bjlwOXAyd2xMNENQTDZLTjJGT014MHhyeHBMVjJZNmVxdDM2YW5iZ3NTYkpPVWIzb1ZDTlhRdHV6YjN4bUcwYXZ4MDdya2FwWUFKVmZnT3YzTVJnU2FieUR0RWExeU41TjhXbjU5NFo5LW8zc04wQmJaNFNfUno3OVdBalM1cDV3XzJmU3hDR0FvRGgydUlQTzBmR3BUMEYxMnB3dw?oc=5",
+      "source": "Clearance Jobs",
+      "published": "2026-05-08",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "TurbineOne's innovation center establishment in NoVA reinforces the region's gravitational pull for AI infrastructure and R&D investment, deepening the concentration of advanced capability in the state's already-dominant tech corridor.",
+      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies defense-AI capability concentration in the region, deepening technical expertise but reinforcing the metro hub gravity well that leaves other regions dependent rather than capable.",
+      "fetched": "2026-05-08"
+    },
+    {
+      "title": "Teaching AI by Doing, Not Studying - Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzVfYkwzNTByT0hFTVctcElFZHFQZGFyOXVkajdCaWpjN2pKMXNtSmVDNlUxaWh1ZXNBbk1ObVVVMExfbFFDeUkzTWtNdXJNQjFlU0k4ODgxNFc0dUZCN2pSQndqZ25ZaVY2Vjl2Z1ItbEVQR01EbTk1MEZ0SWlTRGxLZmRLUFoyUktLdlNtdmRnYUxReldJeWs2dFlVRmpDb0Fwb2VtektNYzF5VjRTVGp3?oc=5",
+      "source": "Inside Higher Ed",
+      "published": "2026-05-01",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Hands-on AI pedagogy focused on practical doing rather than theoretical study signals potential for deep, democratized capability development if implemented broadly across Virginia's educational institutions, not just elite tech programs.",
+      "fetched": "2026-05-08"
+    },
+    {
+      "title": "Roanoke College president: Virginia’s future workforce depends on fixing the path from college to career - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNm5vUXBWT1ZtTW5vRUhkNGZEQlNTVXZuMXc2OTBiTjFHWExCSl9RVEdVM2pkbWU3WkVlSEY4aHpCbmFGeVIzY0ZKc0ozVG9vY0x6Tk9vcU9RZTdPRTdmUzFqQWxLd25VcEU2X1djYVBXRHgzby1WMktnanNEZnNUeFVTdEpOQWVoZXRUSDlhY3paVEZ4NUtiT2xGUjVhMkNkb28zWDZZZnFDWUtlMWpJTDBoT2oyS3RkS1Y5QndZQzRGc0RsSURRbDhpS0JoVy13THRtQzFB?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-04-28",
+      "region": "Southwest",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Roanoke College president's diagnosis of a broken college-to-career pipeline reveals structural barriers preventing workforce capability distribution even where educational institutions exist, suggesting neither depth nor breadth is materializing in non-metro regions.",
       "fetched": "2026-05-08"
     }
   ]
