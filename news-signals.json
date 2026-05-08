@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07",
+  "last_updated": "2026-05-08",
   "next_check": "2026-05-08",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -15,20 +15,20 @@
       "url": "https://virginiabusiness.com/vsu-receives-1-million-ai-cybersecurity-center-virginia/",
       "source": "Virginia Business",
       "published": "2026-05-07",
-      "region": "Richmond Metro",
+      "region": "Southside",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $1M+ investment in VSU's AI center builds institutional capacity at an HBCU in metro Richmond, but the concentration of resources in established universities risks deepening the divide between regions with research institutions and those without.",
-      "fetched": "2026-05-07"
+      "signal_reading": "VSU's $1M AI center investment in historically underserved Southside signals institutional capacity-building, but the concentration of funding in a single university hub rather than distributed community programs suggests deep capability will remain geographically isolated.",
+      "fetched": "2026-05-08"
     },
     {
-      "title": "TurbineOne Establishes Virginia Headquarters, Launches T1 Edgeworks Innovation Center - The AI Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXVBeExLYjJqSmZZdWloZUVJRTZxdkhmRWpyNXRYZ0hFR2RFM1BpTUNLWjlrUzhabDNKRE5LXzNYd0c4bVl5Nk5BWTBfcXNkR2ZMVEJDRFVxT3dvel9faDczQXFXUUgycFNrZXBqRnk2dGFwa0V6VFc0azl0YlYyeTZabXhZazdEa1NUcUhDV0NHMUJsdmlYdkx1ZURoc2pKeGpURUduTlY?oc=5",
-      "source": "The AI Journal",
-      "published": "2026-05-06",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "TurbineOne establishing an innovation center headquarters in NoVA reinforces the region's gravitational pull for AI infrastructure and talent, concentrating deep technical capability in the state's already-dominant tech corridor.",
-      "fetched": "2026-05-07"
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA to boost community AI education indicates a deliberate strategy for distributed skill-building beyond elite institutions, potentially creating peer learning networks that spread deep capability through Richmond's broader workforce.",
+      "fetched": "2026-05-08"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -37,18 +37,8 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "The Widening Gap",
-      "signal_reading": "AI creating pressure on Richmond's young workforce without evidence of deep capability-building suggests shallow disruption without the distributed training infrastructure needed to move toward 'Build It Yourself' outcomes.",
-      "fetched": "2026-05-07"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia represents exactly the distributed, peer-network approach needed to spread AI fluency beyond metros, though sustainability beyond grant funding remains uncertain.",
-      "fetched": "2026-05-07"
+      "signal_reading": "Young Richmond workers feeling AI pressure without accompanying deep capability development suggests shallow platform adoption is creating workforce anxiety rather than empowerment, signaling neither depth nor meaningful distribution is materializing.",
+      "fetched": "2026-05-08"
     },
     {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
@@ -57,8 +47,18 @@
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "RC-RV partnering with ed2go for on-demand training platforms signals broad but potentially shallow AI adoption—accessible across regions but relying on pre-packaged tools rather than building deep local technical capacity.",
-      "fetched": "2026-05-07"
+      "signal_reading": "On-demand workforce training through platform provider ed2go suggests broad but shallow AI adoption in underserved regions—accessible tools without deep technical capability development, fitting the 'software does it for you' model for areas beyond metro hubs.",
+      "fetched": "2026-05-08"
+    },
+    {
+      "title": "TurbineOne Establishes Virginia Headquarters, Launches T1 Edgeworks Innovation Center - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXVBeExLYjJqSmZZdWloZUVJRTZxdkhmRWpyNXRYZ0hFR2RFM1BpTUNLWjlrUzhabDNKRE5LXzNYd0c4bVl5Nk5BWTBfcXNkR2ZMVEJDRFVxT3dvel9faDczQXFXUUgycFNrZXBqRnk2dGFwa0V6VFc0azl0YlYyeTZabXhZazdEa1NUcUhDV0NHMUJsdmlYdkx1ZURoc2pKeGpURUduTlY?oc=5",
+      "source": "The AI Journal",
+      "published": "2026-05-06",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "TurbineOne's innovation center establishment in NoVA reinforces the region's gravitational pull for AI infrastructure and R&D investment, deepening the concentration of advanced capability in the state's already-dominant tech corridor.",
+      "fetched": "2026-05-08"
     }
   ]
 }
