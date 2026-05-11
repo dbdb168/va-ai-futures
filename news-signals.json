@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10",
-  "next_check": "2026-05-11",
+  "last_updated": "2026-05-11",
+  "next_check": "2026-05-12",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,9 +16,9 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Richmond's young workforce facing AI pressure signals shallow, platform-driven adoption where workers must adapt to AI tools without necessarily building deep technical capability—classic 'software does it for you' dynamics in a secondary metro hub.",
-      "fetched": "2026-05-10"
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI pressure on young workers without corresponding depth-building infrastructure signals shallow adoption anxiety rather than capability development, potentially creating workforce displacement without retraining pathways in Virginia's secondary tech hub.",
+      "fetched": "2026-05-11"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,18 +27,18 @@
       "published": "2026-02-09",
       "region": "Southwest Virginia",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents potential distributed capacity building, though success depends on whether programs develop deep AI fluency or just surface-level platform skills in an economically transitioning region.",
-      "fetched": "2026-05-10"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents distributed capacity-building through place-based education, potentially creating deep technical skills outside traditional metro concentrations if sustained beyond grant cycles.",
+      "fetched": "2026-05-11"
     },
     {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
+      "title": "Hampton Roads taking steps to prepare for data centers - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1lWUHlLc0ZQRFdtWUlyNEdPY1BGSE9ZYVU2NVZhUGYwUzY1WXp2OTdwWU5KUUEzRmtKa0pQU1JXOG1WVHBYcVl5aHk5VG5mR3IzNXdESjcwY3J2RDIyY3k5OGJDTFZnNkJ1QjIzMXhSRkZWYjFkSDR6NWRycU8zMFUySUh4RTc5QzE2Rm9Dd21CSjJTeW5jVlhn?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-05-10",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern deploying sophisticated AI defect detection systems demonstrates deep technical implementation in Hampton Roads' industrial base, but represents enterprise-led concentration rather than distributed workforce capability development.",
-      "fetched": "2026-05-10"
+      "signal_reading": "Hampton Roads preparing for data centers signals infrastructure-led concentration rather than human capability distribution—physical AI infrastructure attracts capital but doesn't inherently build regional technical depth unless coupled with workforce development.",
+      "fetched": "2026-05-11"
     },
     {
       "title": "Pentagon Expands Scale AI Deal to $500M and AI Defense Firm TurbineOne Moves HQ to Northern Virginia - Clearance Jobs",
@@ -47,18 +47,18 @@
       "published": "2026-05-08",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Pentagon expanding Scale AI contract to $500M and TurbineOne relocating HQ to NoVA crystallizes defense-AI concentration in the region, deepening the capability gap as federal dollars and specialized talent cluster in the metro corridor.",
-      "fetched": "2026-05-10"
+      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies defense-AI capability concentration in the already-dominant corridor, widening the talent and capital gap between Northern Virginia and the rest of the Commonwealth.",
+      "fetched": "2026-05-11"
     },
     {
       "title": "Data or Water? Safety or Privacy? Roanoke Faces Tradeoffs as New Technology and Legislation Reshape Daily Life - The Roanoke Rambler",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkJmVTJYbkRpUWZaX2tRVURQQ2h0dTgwS2pqTkdPcXpINTVRb0tFYTQyM2NCZVNKSHpXUzg1ZzZmbFBZb1hLQzIyQ2paNEFMT0VjaHlzVEVyZEVQd01rbC1hdGY1M1JrNFd5OXp3d3F5aDJMd0RDRFlnbGVpZFdSY0xUcUFzUnNWSG5KQVJBS3B6eHhSTHp1RFdtSmxKNlhpcFE?oc=5",
       "source": "The Roanoke Rambler",
       "published": "2026-05-06",
-      "region": "Southwest Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Roanoke grappling with data/water tradeoffs and technology governance questions without clear pathways to AI capability development signals communities facing AI's infrastructure demands while missing opportunities for meaningful participation in the AI economy.",
-      "fetched": "2026-05-10"
+      "region": "Southwest Virginia / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Public deliberation over data center tradeoffs in Roanoke signals civic AI literacy development—communities wrestling with technology governance questions demonstrate emerging distributed fluency beyond just deployment or consumption.",
+      "fetched": "2026-05-11"
     }
   ]
 }
