@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-12",
-  "next_check": "2026-05-12",
+  "next_check": "2026-05-13",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,43 +11,23 @@
   ],
   "signals": [
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Pressure on Richmond's young workforce suggests AI adoption is creating anxiety without corresponding deep skill development or distributed capability-building infrastructure to meet the moment.",
-      "fetched": "2026-05-12"
-    },
-    {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia represents distributed capability-building from the ground up, targeting historically underserved regions with hands-on skill development rather than platform dependency.",
+      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia signals grassroots capacity-building in a historically underserved region, suggesting distributed skill development beyond traditional tech hubs if sustained through peer networks.",
       "fetched": "2026-05-12"
     },
     {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern's deployment of specialized AI for infrastructure monitoring demonstrates deep technical capability in Hampton Roads' industrial-maritime sector, but signals concentrated expertise rather than broad workforce adoption.",
-      "fetched": "2026-05-12"
-    },
-    {
-      "title": "AI could reshape thousands of jobs across DC, Maryland and Virginia - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdEZfc2I2SDRJYU52UUNNcklwbnF3b0dVdmxfcm5LZnhoaF9TT0w0QzdYWlgxM285RnpjMUZ5TVB6MzI3YWxDd29xSmpnekdfSUxPdGVUNHJ1WElQV01ZSjcwRUxUQW5oZEREbHhZeVVqQ0lLanJOeTc2SWhEeGVQTHE0Y2hEMFlONEhMa29JU19URmE4OVFHU1V0bE5IaWxZV0ExaTRmM3FuSVNWMmhQY0otR1RZbElXcEgwbFg2VHNoU0NFWVFpWlJSaHBvaER6TndHQ0dHWlNIUjBZMEhYT0pwQU1VTWZYU3BfbVhTeE11eE5LR2tLS2Q1R3lxdw?oc=5",
-      "source": "WJLA",
-      "published": "2026-05-11",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Regional job reshaping across DC-MD-VA suggests platform-delivered AI is creating broad but shallow adoption patterns where workers adapt to AI tools without necessarily developing deep technical fluency or control.",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI pressure on Richmond's young workforce without corresponding deep training infrastructure suggests shallow adoption driven by employer demands rather than systematic capability development, risking displacement over empowerment.",
       "fetched": "2026-05-12"
     },
     {
@@ -57,7 +37,27 @@
       "published": "2026-05-08",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies the concentration of elite defense AI capability in the region, deepening the metro-rural technical sophistication gap.",
+      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA concentrates advanced defense AI capabilities in the metro corridor, deepening technical expertise where federal contracting infrastructure already dominates.",
+      "fetched": "2026-05-12"
+    },
+    {
+      "title": "Hampton Roads taking steps to prepare for data centers - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1lWUHlLc0ZQRFdtWUlyNEdPY1BGSE9ZYVU2NVZhUGYwUzY1WXp2OTdwWU5KUUEzRmtKa0pQU1JXOG1WVHBYcVl5aHk5VG5mR3IzNXdESjcwY3J2RDIyY3k5OGJDTFZnNkJ1QjIzMXhSRkZWYjFkSDR6NWRycU8zMFUySUh4RTc5QzE2Rm9Dd21CSjJTeW5jVlhn?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-05-10",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Hampton Roads preparing infrastructure for data centers signals platform-dependent adoption where the region becomes service provider for compute resources rather than developer of indigenous AI capability or applications.",
+      "fetched": "2026-05-12"
+    },
+    {
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College partnership with ed2go for on-demand workforce training creates accessible learning pathways in a non-metro region, potentially enabling distributed skill acquisition if learners translate platform access into deep practice.",
       "fetched": "2026-05-12"
     }
   ]
