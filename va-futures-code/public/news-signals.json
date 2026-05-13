@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12",
+  "last_updated": "2026-05-13",
   "next_check": "2026-05-13",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia signals grassroots capacity-building in a historically underserved region, suggesting distributed skill development beyond traditional tech hubs if sustained through peer networks.",
-      "fetched": "2026-05-12"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity-building in an historically underserved region, potentially distributing AI-adjacent skills through local networks rather than centralized platforms.",
+      "fetched": "2026-05-13"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -26,9 +26,9 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI pressure on Richmond's young workforce without corresponding deep training infrastructure suggests shallow adoption driven by employer demands rather than systematic capability development, risking displacement over empowerment.",
-      "fetched": "2026-05-12"
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-delivered automation creating shallow, widespread displacement rather than deep capability development, concentrating control in tools rather than human expertise.",
+      "fetched": "2026-05-13"
     },
     {
       "title": "Pentagon Expands Scale AI Deal to $500M and AI Defense Firm TurbineOne Moves HQ to Northern Virginia - Clearance Jobs",
@@ -37,8 +37,8 @@
       "published": "2026-05-08",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA concentrates advanced defense AI capabilities in the metro corridor, deepening technical expertise where federal contracting infrastructure already dominates.",
-      "fetched": "2026-05-12"
+      "signal_reading": "Pentagon's $500M AI deal expansion and TurbineOne HQ relocation to NoVA reinforces the region's defense-AI talent concentration, deepening the capability gap between metro hubs and the rest of Virginia.",
+      "fetched": "2026-05-13"
     },
     {
       "title": "Hampton Roads taking steps to prepare for data centers - The Virginian-Pilot",
@@ -46,9 +46,9 @@
       "source": "The Virginian-Pilot",
       "published": "2026-05-10",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Hampton Roads preparing infrastructure for data centers signals platform-dependent adoption where the region becomes service provider for compute resources rather than developer of indigenous AI capability or applications.",
-      "fetched": "2026-05-12"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Hampton Roads preparing for data centers signals infrastructure-led concentration in a second metro hub, but without explicit workforce development suggests shallow platform adoption rather than distributed AI literacy.",
+      "fetched": "2026-05-13"
     },
     {
       "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
@@ -56,9 +56,9 @@
       "source": "Roanoke College",
       "published": "2026-04-16",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College partnership with ed2go for on-demand workforce training creates accessible learning pathways in a non-metro region, potentially enabling distributed skill acquisition if learners translate platform access into deep practice.",
-      "fetched": "2026-05-12"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Roanoke College's partnership with ed2go for on-demand training platforms represents outsourced, commodified skill delivery rather than locally-developed AI expertise, distributing access but not depth of capability.",
+      "fetched": "2026-05-13"
     }
   ]
 }
