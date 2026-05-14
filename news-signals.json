@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-14",
-  "next_check": "2026-05-14",
+  "next_check": "2026-05-15",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest Virginia",
+      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNRFpSc2pteHF3cllBTllLaFMzYUVsdTRZWVRyWE84QnhBYVlKN0VsWF9MZHBpRzlQUGRySm9GYXNpTGhZbFRtSkpIVjVCTDZtUXAxVDVmYWhrQ2xwa0FIdC14U2ZRTmQ0Y2dMMUtfd2VfeE5iRjRBYVZvLW9GV2EwXy0wVDN1aXB2cXkybDdJa0lLdW5FUGtKX0pRQ0FYbjlIOGNOUjVkTTdwc2ZoLWdkRlJvTi1xbi1DWnMxXzFuUHE3VkdpZHVFWDBJSHVIcHJuQUdld09fT05veWEzOGtVLTVVdTk3N3BkQ09wWThwanBxWlBYdVd0MXNWLW1GTXlVVnF6N0pRb0JaZE1xblg4WXNnNEw0VGI0S09zcnY0b0FILWRMeU1RMHo1MGh6bkZEMHlPNVhnSjc4Sk13NXM2MGRGVTBPcTgzSVR1ZW5ETktFRVNWc2JKRg?oc=5",
+      "source": "MSN",
+      "published": "2026-05-14",
+      "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals distributed capacity-building through local institutions, creating pathways for deep AI/tech skills outside traditional metro hubs if sustained beyond grant cycles.",
+      "signal_reading": "ODU's Google AI incubator represents institution-driven capability building in a non-NoVA region, signaling distributed deep learning infrastructure that could spread peer-to-peer if local talent retention succeeds beyond the incubator walls.",
       "fetched": "2026-05-14"
     },
     {
@@ -26,28 +26,28 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce without accompanying deep skills infrastructure suggests shallow adoption through workplace tools, widening the gap between platform users and capability creators as automation reshapes entry-level work.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Workforce anxiety about AI displacement in Richmond without corresponding upskilling infrastructure suggests shallow adoption pressure concentrated in established tech hubs, leaving workers vulnerable rather than empowered.",
       "fetched": "2026-05-14"
     },
     {
-      "title": "Pentagon Expands Scale AI Deal to $500M and AI Defense Firm TurbineOne Moves HQ to Northern Virginia - Clearance Jobs",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLXhaRk10bjV5SzlzaUE3ZTU3ZWdGbGVDamNtbXBoY093M1M5NloxTWVnY3RXNkktcWkxeVh4bjlwOXAyd2xMNENQTDZLTjJGT014MHhyeHBMVjJZNmVxdDM2YW5iZ3NTYkpPVWIzb1ZDTlhRdHV6YjN4bUcwYXZ4MDdya2FwWUFKVmZnT3YzTVJnU2FieUR0RWExeU41TjhXbjU5NFo5LW8zc04wQmJaNFNfUno3OVdBalM1cDV3XzJmU3hDR0FvRGgydUlQTzBmR3BUMEYxMnB3dw?oc=5",
-      "source": "Clearance Jobs",
-      "published": "2026-05-08",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA reinforces deep defense-tech AI concentration in the region, attracting specialized talent and capital that remains geographically sticky despite statewide workforce needs.",
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia indicates grassroots capacity building in historically underserved regions, testing whether distributed deep learning can emerge from local institutions rather than metro diffusion.",
       "fetched": "2026-05-14"
     },
     {
-      "title": "U.S. Navy Deploys Artificial Intelligence System to Accelerate Columbia and Virginia Submarine Production - Army Recognition",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaTlFWml2RUhwdXpBRkhGQnpvbUsxcXdFTDU5bjREX1JqRmFsbFcxVXJoeXFuSXlmRnFib1FHS1F0NXg2N1FoazZCUEdZV2xSRF9WcWhpS19GdFRxRFdXQWtLRmczaGw0ZlNWeWVfenBabV9yNzNHNU9Zek1jZTdHbXN0dV9RcERWOXdrQll4OXpkOVA5RnJwYnduVVJqd2RiSTJ2Wkl5RzJPUXJiWmdURHZQczg3TWhtSmdCSV9BY0V3WWhybkpuMzhTRTc3WEZpb3Z6eXlQN2Zpa29xeHBBWlZsWVltSGc?oc=5",
-      "source": "Army Recognition",
+      "title": "Problem-solvers by nature: How Virginia Beach Fire put AI to work - FireRescue1",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHduWFU1X1ZXYTYyNHZLekFxRGtPTWJxWU44ckpjanZLTHlBamJ0R1lrbDhZOVNNZWdtR3VaUkloc1BPcWVURjJ5YTFud2x5Um13UUVwRElSWk5WX0dnY1BjS240c3lDLUpjdWxaWDNBbUFPSnZTUGNlZFJzTjhIX2FXQmw2R2t6dWM2QlZfYVZEcVp5c3RWeEZOU0VhWXJqMXlRbmdUOW9zUEVnQ1JBeU56S0JEV2s?oc=5",
+      "source": "FireRescue1",
       "published": "2026-05-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Navy AI deployment for submarine production in Hampton Roads demonstrates deep defense-industrial AI capability, but remains concentrated in specialized military applications rather than distributing digital fluency across the regional civilian workforce.",
+      "signal_reading": "Virginia Beach Fire's operational AI deployment demonstrates deep implementation capability in Hampton Roads public sector, but isolated agency adoption without regional knowledge-sharing infrastructure reinforces concentration rather than distributed fluency.",
       "fetched": "2026-05-14"
     },
     {
@@ -55,9 +55,9 @@
       "url": "https://cardinalnews.org/2026/05/13/comcast-appalachian-power-continue-wrangling-over-broadband-expansion/",
       "source": "Cardinal News",
       "published": "2026-05-13",
-      "region": "Southwest Virginia",
+      "region": "Southwest",
       "scenario": "The Widening Gap",
-      "signal_reading": "Ongoing broadband infrastructure disputes between Comcast and Appalachian Power in Southwest Virginia reveal that foundational digital access barriers persist, preventing both shallow and deep AI adoption from reaching economically vulnerable regions.",
+      "signal_reading": "Infrastructure disputes blocking broadband expansion in Appalachian Virginia directly prevent any AI adoption pathway—neither platforms nor peer learning can scale without connectivity, crystallizing the preconditions for widening gaps.",
       "fetched": "2026-05-14"
     }
   ]
