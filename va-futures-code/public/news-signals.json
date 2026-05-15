@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14",
+  "last_updated": "2026-05-15",
   "next_check": "2026-05-15",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,28 @@
       "published": "2026-05-14",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "ODU's Google AI incubator represents institution-driven capability building in a non-NoVA region, signaling distributed deep learning infrastructure that could spread peer-to-peer if local talent retention succeeds beyond the incubator walls.",
-      "fetched": "2026-05-14"
+      "signal_reading": "ODU-Google AI incubator represents institutional capacity-building in a traditionally non-tech hub, potentially distributing deep AI fluency through structured peer learning beyond NoVA's gravity well.",
+      "fetched": "2026-05-15"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Workforce anxiety about AI displacement in Richmond without corresponding upskilling infrastructure suggests shallow adoption pressure concentrated in established tech hubs, leaving workers vulnerable rather than empowered.",
-      "fetched": "2026-05-14"
+      "title": "Healthcare providers say AI helps them focus on patients. But it also raises questions about privacy, security and the role of humans in medicine",
+      "url": "https://cardinalnews.org/2026/05/15/healthcare-providers-say-ai-helps-them-focus-on-patients-but-it-also-raises-questions-about-privacy-security-and-the-role-of-humans-in-medicine/",
+      "source": "Cardinal News",
+      "published": "2026-05-15",
+      "region": "Southwest & Southside",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Healthcare AI adoption in underserved regions shows platform-delivered tools enabling broad but shallow use—doctors consume AI for note-taking without building underlying capability, epitomizing distributed convenience over depth.",
+      "fetched": "2026-05-15"
+    },
+    {
+      "title": "Pentagon Expands Scale AI Deal to $500M and AI Defense Firm TurbineOne Moves HQ to Northern Virginia - Clearance Jobs",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLXhaRk10bjV5SzlzaUE3ZTU3ZWdGbGVDamNtbXBoY093M1M5NloxTWVnY3RXNkktcWkxeVh4bjlwOXAyd2xMNENQTDZLTjJGT014MHhyeHBMVjJZNmVxdDM2YW5iZ3NTYkpPVWIzb1ZDTlhRdHV6YjN4bUcwYXZ4MDdya2FwWUFKVmZnT3YzTVJnU2FieUR0RWExeU41TjhXbjU5NFo5LW8zc04wQmJaNFNfUno3OVdBalM1cDV3XzJmU3hDR0FvRGgydUlQTzBmR3BUMEYxMnB3dw?oc=5",
+      "source": "Clearance Jobs",
+      "published": "2026-05-08",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies defense-AI concentration where federal procurement dollars deepen expertise in metro corridors while bypassing rural workforce development.",
+      "fetched": "2026-05-15"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -37,8 +47,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia indicates grassroots capacity building in historically underserved regions, testing whether distributed deep learning can emerge from local institutions rather than metro diffusion.",
-      "fetched": "2026-05-14"
+      "signal_reading": "EPA-funded community-driven workforce training at Virginia Tech signals potential for distributed skill-building in coal-transition regions, testing whether grassroots capacity development can counter metro concentration dynamics.",
+      "fetched": "2026-05-15"
     },
     {
       "title": "Problem-solvers by nature: How Virginia Beach Fire put AI to work - FireRescue1",
@@ -46,19 +56,9 @@
       "source": "FireRescue1",
       "published": "2026-05-14",
       "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Beach Fire's operational AI deployment demonstrates deep implementation capability in Hampton Roads public sector, but isolated agency adoption without regional knowledge-sharing infrastructure reinforces concentration rather than distributed fluency.",
-      "fetched": "2026-05-14"
-    },
-    {
-      "title": "Comcast, Appalachian Power continue wrangling over broadband expansion",
-      "url": "https://cardinalnews.org/2026/05/13/comcast-appalachian-power-continue-wrangling-over-broadband-expansion/",
-      "source": "Cardinal News",
-      "published": "2026-05-13",
-      "region": "Southwest",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Infrastructure disputes blocking broadband expansion in Appalachian Virginia directly prevent any AI adoption pathway—neither platforms nor peer learning can scale without connectivity, crystallizing the preconditions for widening gaps.",
-      "fetched": "2026-05-14"
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Beach Fire's problem-solving approach to AI implementation demonstrates municipal-level technical agency outside tech hubs, suggesting distributed depth emerges when regional institutions own adaptation rather than consume platforms.",
+      "fetched": "2026-05-15"
     }
   ]
 }
