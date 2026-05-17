@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-17",
-  "next_check": "2026-05-17",
+  "next_check": "2026-05-18",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,7 @@
       "published": "2026-05-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google incubator represents concentrated institutional investment creating deep capability in Hampton Roads, but the incubator model serves select participants rather than distributing AI fluency across the region's broader workforce.",
-      "fetched": "2026-05-17"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide education and innovation, signaling intentional distribution strategy that could build peer-to-peer learning networks beyond traditional tech concentrations.",
+      "signal_reading": "ODU-Google AI incubator represents deliberate intervention to build deep capability outside NoVA, but concentrated institutional approach suggests expertise remains hub-bound rather than distributed across the region's workforce.",
       "fetched": "2026-05-17"
     },
     {
@@ -37,17 +27,17 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia represents grassroots capacity-building in a historically underserved region, testing whether deep skills can emerge through distributed local networks rather than metro hub diffusion.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals potential for distributed, locally-owned capability development in economically transitioning regions, moving beyond platform dependence toward authentic skill-building.",
       "fetched": "2026-05-17"
     },
     {
-      "title": "Healthcare providers say AI helps them focus on patients. But it also raises questions about privacy, security and the role of humans in medicine",
-      "url": "https://cardinalnews.org/2026/05/15/healthcare-providers-say-ai-helps-them-focus-on-patients-but-it-also-raises-questions-about-privacy-security-and-the-role-of-humans-in-medicine/",
-      "source": "Cardinal News",
-      "published": "2026-05-15",
-      "region": "Southwest & Southside",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "Four in five doctors using AI for note-taking and communication exemplifies shallow, platform-delivered adoption—widespread use but limited understanding of underlying systems, raising questions about dependency versus capability-building in rural healthcare settings.",
+      "signal_reading": "Young workforce feeling AI pressure suggests platform-delivered tools creating shallow adoption imperative—workers adapting to AI tools rather than building deep technical capability to shape them.",
       "fetched": "2026-05-17"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-05-08",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies the region's defense-AI cluster advantage, deepening specialized capabilities but concentrating talent and capital in already-dominant corridors.",
+      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies defense-AI concentration, reinforcing capital-talent-contract flywheel that widens capability gap with other Virginia regions.",
+      "fetched": "2026-05-17"
+    },
+    {
+      "title": "Healthcare providers say AI helps them focus on patients. But it also raises questions about privacy, security and the role of humans in medicine",
+      "url": "https://cardinalnews.org/2026/05/15/healthcare-providers-say-ai-helps-them-focus-on-patients-but-it-also-raises-questions-about-privacy-security-and-the-role-of-humans-in-medicine/",
+      "source": "Cardinal News",
+      "published": "2026-05-15",
+      "region": "Southwest & Southside",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Healthcare providers' widespread AI adoption for administrative tasks indicates shallow, platform-delivered tools achieving broad distribution even in underserved regions, but without deep technical literacy or local development capacity.",
       "fetched": "2026-05-17"
     }
   ]
