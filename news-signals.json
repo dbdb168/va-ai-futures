@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17",
-  "next_check": "2026-05-18",
+  "last_updated": "2026-05-18",
+  "next_check": "2026-05-19",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-05-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google AI incubator represents deliberate intervention to build deep capability outside NoVA, but concentrated institutional approach suggests expertise remains hub-bound rather than distributed across the region's workforce.",
-      "fetched": "2026-05-17"
+      "signal_reading": "ODU-Google incubator creates institutional AI capacity in Hampton Roads, but partnership model with tech giant signals deep capability concentrated in anchored metros rather than peer-distributed learning across smaller communities.",
+      "fetched": "2026-05-18"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,18 +27,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals potential for distributed, locally-owned capability development in economically transitioning regions, moving beyond platform dependence toward authentic skill-building.",
-      "fetched": "2026-05-17"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Young workforce feeling AI pressure suggests platform-delivered tools creating shallow adoption imperative—workers adapting to AI tools rather than building deep technical capability to shape them.",
-      "fetched": "2026-05-17"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building outside traditional tech hubs, signaling potential for distributed deep learning if local institutions can sustain capability beyond grant cycles.",
+      "fetched": "2026-05-18"
     },
     {
       "title": "Pentagon Expands Scale AI Deal to $500M and AI Defense Firm TurbineOne Moves HQ to Northern Virginia - Clearance Jobs",
@@ -47,18 +37,28 @@
       "published": "2026-05-08",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies defense-AI concentration, reinforcing capital-talent-contract flywheel that widens capability gap with other Virginia regions.",
-      "fetched": "2026-05-17"
+      "signal_reading": "Pentagon's $500M Scale AI expansion and TurbineOne HQ relocation to NoVA intensifies the concentration of defense AI expertise and capital in the region, widening the capability gap between metro defense corridor and non-defense economies statewide.",
+      "fetched": "2026-05-18"
     },
     {
-      "title": "Healthcare providers say AI helps them focus on patients. But it also raises questions about privacy, security and the role of humans in medicine",
-      "url": "https://cardinalnews.org/2026/05/15/healthcare-providers-say-ai-helps-them-focus-on-patients-but-it-also-raises-questions-about-privacy-security-and-the-role-of-humans-in-medicine/",
-      "source": "Cardinal News",
-      "published": "2026-05-15",
-      "region": "Southwest & Southside",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "Healthcare providers' widespread AI adoption for administrative tasks indicates shallow, platform-delivered tools achieving broad distribution even in underserved regions, but without deep technical literacy or local development capacity.",
-      "fetched": "2026-05-17"
+      "signal_reading": "Workforce pressure from AI in Richmond suggests platform-driven automation creating broad but shallow displacement rather than deep capability development, pushing young workers toward tool adoption without fostering technical fluency.",
+      "fetched": "2026-05-18"
+    },
+    {
+      "title": "Teaching AI by Doing, Not Studying - Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzVfYkwzNTByT0hFTVctcElFZHFQZGFyOXVkajdCaWpjN2pKMXNtSmVDNlUxaWh1ZXNBbk1ObVVVMExfbFFDeUkzTWtNdXJNQjFlU0k4ODgxNFc0dUZCN2pSQndqZ25ZaVY2Vjl2Z1ItbEVQR01EbTk1MEZ0SWlTRGxLZmRLUFoyUktLdlNtdmRnYUxReldJeWs2dFlVRmpDb0Fwb2VtektNYzF5VjRTVGp3?oc=5",
+      "source": "Inside Higher Ed",
+      "published": "2026-05-01",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Pedagogical shift toward learning-by-doing rather than studying AI theory signals potential for distributed deep capability if this approach spreads through Virginia's diverse higher education network beyond research universities.",
+      "fetched": "2026-05-18"
     }
   ]
 }
