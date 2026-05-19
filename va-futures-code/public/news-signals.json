@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18",
-  "next_check": "2026-05-19",
+  "last_updated": "2026-05-19",
+  "next_check": "2026-05-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,18 @@
       "published": "2026-05-14",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "ODU's Google-backed AI incubator represents distributed capability-building outside the NoVA corridor, with potential for deep peer-to-peer learning networks if the incubator model emphasizes skill transfer rather than just platform adoption.",
-      "fetched": "2026-05-18"
+      "signal_reading": "ODU-Google AI incubator represents distributed capability-building outside the NoVA corridor, potentially catalyzing peer networks and deep technical fluency in a defense-adjacent region with distinct economic drivers.",
+      "fetched": "2026-05-19"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's AI Ready RVA partnership signals grassroots education infrastructure that could generate broad-based fluency beyond elite institutions, distributing capability through community impact rather than concentrating in corporate hubs.",
+      "fetched": "2026-05-19"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,38 +37,28 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals bottom-up capability development in historically underserved regions, testing whether grassroots approaches can overcome the typical metro-concentration pattern.",
-      "fetched": "2026-05-18"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates distributed capacity-building in an economically transitioning region, testing whether deep technical skills can take root outside metro concentrations through place-based initiatives.",
+      "fetched": "2026-05-19"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's AI Ready RVA partnership consolidates Richmond as a secondary AI hub, but the university-anchored model risks replicating concentration dynamics rather than distributing capability to surrounding rural counties.",
-      "fetched": "2026-05-18"
-    },
-    {
-      "title": "$100B data center project proposed at Berry Hill megasite advances",
-      "url": "https://virginiabusiness.com/stack-100b-berry-hill-data-center-project/",
-      "source": "Virginia Business",
-      "published": "2026-05-18",
+      "title": "Pittsylvania data center project approved with more investment and jobs than previously announced — as long as tax breaks remain in place",
+      "url": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/",
+      "source": "Cardinal News",
+      "published": "2026-05-19",
       "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Berry Hill's $100B data center megasite brings infrastructure investment to Southside but creates jobs requiring specialized skills the region may lack, potentially widening the gap between capital deployment and local capability development.",
-      "fetched": "2026-05-18"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Pittsylvania's $100B data center represents infrastructure concentration dependent on tax incentives, creating jobs but potentially shallow local AI capability—physical presence without deep technical distribution signals widening rather than closing regional gaps.",
+      "fetched": "2026-05-19"
     },
     {
-      "title": "Virginia's Dominion and NextEra make $67B merger deal as AI drives energy demand - NBC4 Washington",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeVA2TGZyNjItd0otU1JISndzZkMxbUUxOGFFOC1IZTFRNGQ4N1ZkNnN6RjgxYlNscF9QcnA4aXA4M1luTGREQmU4cHd3RDYwcXM5UkQ0M18zZzFJdGhYTGFEN05SV0xzcFpLYTFoUldLcUktS0hfNDFYV1JVbmZRM0ZDTmliclQyd0VodDBjNjNHRUktYnFWUV91Rm1uREtUUjRTdzh3eFZONTN1ejBjT3NCM2s3WXlvamFqZlVzRVpUS1ZUeXV0X0FWbkx5eW5xandqY0tIRFVpbzZlM1ZPa2h5TWxuUmp0bzJlZ1pYX0dSaXM2dVo1WDBFalNaX0xh0gGIAkFVX3lxTFBMdkRhX0RieXNQVk11RDI4LW1xeDJUU092YUhUNTBDakh5QWNWWHYyVmR3dkZGSzhxNHRvSW5zNHByQzc0T3VrQmdjUTMwcmd0ODc3QV9yejJCa3laVUttajRkcG44RkZmTmFlaHZqRmhnZEF5ZFFQdHRVLTdWbUJ0aFVyNWUyOUI0aXpkdmhCcFlEcENucVNsdnI1OTVnMkdyV2VyQ3lIejRFUld6WVJMb2RHbjVqQkNaZVZBVmNrMmxQT1FuaEpQU2sxaGdrS1MzdkR0Y0RpUmVQejdtTktrN2JmMnliUlNsdTRLTVh1aFlRRzNBSDBIbEdMMFhROVFrWDFuSnUyVg?oc=5",
-      "source": "NBC4 Washington",
-      "published": "2026-05-18",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Dominion-NextEra's $67B merger driven by AI energy demands positions Virginia as data center infrastructure provider rather than AI capability developer, signaling shallow platform dependency across the energy-AI stack.",
-      "fetched": "2026-05-18"
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI pressure on Richmond's young workforce without corresponding skill-building infrastructure signals anxiety about displacement rather than empowerment—shallow exposure to AI tools as workplace mandate rather than deep capability development.",
+      "fetched": "2026-05-19"
     }
   ]
 }
