@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19",
+  "last_updated": "2026-05-20",
   "next_check": "2026-05-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,18 @@
       "published": "2026-05-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google AI incubator represents deep capability building in Hampton Roads, but partnership with a major tech company rather than peer-to-peer networks suggests innovation concentrating around institutional anchors rather than distributed grassroots adoption.",
-      "fetched": "2026-05-19"
+      "signal_reading": "ODU-Google AI incubator concentrates deep capability building in Hampton Roads metro hub, creating regional excellence node but raising questions about spillover to surrounding rural areas without distributed training infrastructure.",
+      "fetched": "2026-05-20"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Richmond's young workforce facing AI pressure signals shallow platform-driven displacement rather than deep reskilling—workers being automated rather than empowered to automate, pointing toward consumption not creation of AI capabilities.",
-      "fetched": "2026-05-19"
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals community-driven literacy efforts that could distribute foundational AI fluency through peer networks if scaled beyond university walls into broader Richmond workforce.",
+      "fetched": "2026-05-20"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -37,18 +37,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates distributed capability building outside traditional tech hubs, though success depends on whether training develops deep technical fluency or remains surface-level credential programs.",
-      "fetched": "2026-05-19"
-    },
-    {
-      "title": "Pittsylvania data center project approved with more investment and jobs than previously announced — as long as tax breaks remain in place",
-      "url": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/",
-      "source": "Cardinal News",
-      "published": "2026-05-19",
-      "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Pittsylvania's $100B data center represents infrastructure extraction—jobs and investment contingent on tax breaks with no guarantee of local AI capability development, risking Southside becoming energy provider to NoVA's AI economy without capturing value.",
-      "fetched": "2026-05-19"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity building in historically underserved region, testing whether distributed skill development can overcome concentrated metro advantage.",
+      "fetched": "2026-05-20"
     },
     {
       "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
@@ -57,8 +47,18 @@
       "published": "2026-05-19",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA's AI literacy courses signal elite institutional capacity building, but pilot status at flagship university highlights how deep AI education remains concentrated in credentialed environments rather than distributed through accessible community pathways.",
-      "fetched": "2026-05-19"
+      "signal_reading": "UVA's pilot AI literacy courses signal institutional capacity for deep learning in elite educational settings, but university-level access reinforces concentrated knowledge in credentialed populations rather than broad workforce distribution.",
+      "fetched": "2026-05-20"
+    },
+    {
+      "title": "Virginia's Dominion and NextEra make $67B merger deal as AI drives energy demand - NBC4 Washington",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeVA2TGZyNjItd0otU1JISndzZkMxbUUxOGFFOC1IZTFRNGQ4N1ZkNnN6RjgxYlNscF9QcnA4aXA4M1luTGREQmU4cHd3RDYwcXM5UkQ0M18zZzFJdGhYTGFEN05SV0xzcFpLYTFoUldLcUktS0hfNDFYV1JVbmZRM0ZDTmliclQyd0VodDBjNjNHRUktYnFWUV91Rm1uREtUUjRTdzh3eFZONTN1ejBjT3NCM2s3WXlvamFqZlVzRVpUS1ZUeXV0X0FWbkx5eW5xandqY0tIRFVpbzZlM1ZPa2h5TWxuUmp0bzJlZ1pYX0dSaXM2dVo1WDBFalNaX0xh0gGIAkFVX3lxTFBMdkRhX0RieXNQVk11RDI4LW1xeDJUU092YUhUNTBDakh5QWNWWHYyVmR3dkZGSzhxNHRvSW5zNHByQzc0T3VrQmdjUTMwcmd0ODc3QV9yejJCa3laVUttajRkcG44RkZmTmFlaHZqRmhnZEF5ZFFQdHRVLTdWbUJ0aFVyNWUyOUI0aXpkdmhCcFlEcENucVNsdnI1OTVnMkdyV2VyQ3lIejRFUld6WVJMb2RHbjVqQkNaZVZBVmNrMmxQT1FuaEpQU2sxaGdrS1MzdkR0Y0RpUmVQejdtTktrN2JmMnliUlNsdTRLTVh1aFlRRzNBSDBIbEdMMFhROVFrWDFuSnUyVg?oc=5",
+      "source": "NBC4 Washington",
+      "published": "2026-05-18",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Dominion-NextEra merger driven by AI energy demand positions Virginia as infrastructure provider for platform-delivered AI services, creating shallow, consumption-oriented relationship with AI rather than development capability.",
+      "fetched": "2026-05-20"
     }
   ]
 }
