@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-22",
-  "next_check": "2026-05-22",
+  "next_check": "2026-05-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,33 +11,33 @@
   ],
   "signals": [
     {
+      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORnhMN0poelhVUVI1X1F3SkZkMFBJTm9Rc1NRV3NPZFhyd2pOQUxSelJ5akpabVdmWjRYU1FJWkotZUppdC1MRzQtOWF1Z2M1ejVVOGttaGdJbkRrdXk3anhHSXRHNWVkeGpvLVpsN21Rc0JxbGxWNzNQQmlaZENnT2RZNUJHTDI1VF9ZbFFqc0YzVkROcHFPdzNqNHJKZ0V1OXlJWXlmSlVZWXl1Z3pyVEJGV3d3amtjMF9SNTc5YWxuRE9fdUhNVlJoRTZVVmdiUXBZVFNJaGJUbmc1VFdpNWpFREQxRjVKdmVmSXdKbHNBbEtRVk9rYkFlb28yMlI4QVF6MVZNM0E5R3BIWU5pdXZfZmRQYkxMcVNvUHdSZXBmbV9wYU9mTW51cF96cHBsTGNPZ1pwTkhpMnpKN3BsejUzam5kQlJtNm1WdVlySmdfeDl5RjlEaU13?oc=5",
+      "source": "MSN",
+      "published": "2026-05-14",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "ODU-Google AI incubator creates institutional infrastructure for peer-to-peer learning and regional capability building, potentially seeding deep distributed expertise if partnerships extend beyond university walls into broader Hampton Roads workforce.",
+      "fetched": "2026-05-22"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's AI Ready RVA partnership signals intentional community-wide literacy investment beyond elite technical training, distributing foundational capability across Richmond's workforce rather than concentrating in traditional tech corridors.",
+      "fetched": "2026-05-22"
+    },
+    {
       "title": "Cabinet secretary: Southside county loses two economic development prospects due to uncertainty over data center taxes",
       "url": "https://cardinalnews.org/2026/05/22/cabinet-secretary-southside-county-loses-two-economic-development-prospects-due-to-uncertainty-over-data-center-taxes/",
       "source": "Cardinal News",
       "published": "2026-05-22",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Southside losing data center projects due to tax policy uncertainty demonstrates how historically underserved regions remain vulnerable to policy volatility, unable to capture even infrastructure-level AI investment while NoVA compounds advantages.",
-      "fetched": "2026-05-22"
-    },
-    {
-      "title": "ODU and Google launch AI incubator to boost innovation in Hampton Roads - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORnhMN0poelhVUVI1X1F3SkZkMFBJTm9Rc1NRV3NPZFhyd2pOQUxSelJ5akpabVdmWjRYU1FJWkotZUppdC1MRzQtOWF1Z2M1ejVVOGttaGdJbkRrdXk3anhHSXRHNWVkeGpvLVpsN21Rc0JxbGxWNzNQQmlaZENnT2RZNUJHTDI1VF9ZbFFqc0YzVkROcHFPdzNqNHJKZ0V1OXlJWXlmSlVZWXl1Z3pyVEJGV3d3amtjMF9SNTc5YWxuRE9fdUhNVlJoRTZVVmdiUXBZVFNJaGJUbmc1VFdpNWpFREQxRjVKdmVmSXdKbHNBbEtRVk9rYkFlb28yMlI4QVF6MVZNM0E5R3BIWU5pdXZfZmRQYkxMcVNvUHdSZXBmbV9wYU9mTW51cF96cHBsTGNPZ1pwTkhpMnpKN3BsejUzam5kQlJtNm1WdVlySmdfeDl5RjlEaU13?oc=5",
-      "source": "MSN",
-      "published": "2026-05-14",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-Google AI incubator represents deep capability building in Hampton Roads, but its concentration in a single university-corporate partnership signals metro hub pattern rather than distributed regional capacity.",
-      "fetched": "2026-05-22"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates broad shallow adoption where workers must adapt to platform-delivered AI tools without necessarily developing deep technical capabilities or agency.",
+      "signal_reading": "Data center tax uncertainty blocking Greensville County economic development reveals how infrastructure-layer policy failures prevent even shallow AI deployment from reaching historically underserved regions, reinforcing existing concentration patterns.",
       "fetched": "2026-05-22"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia shows potential for distributed capacity building through local institutions, but success depends on whether training creates deep fluency or surface-level credential collection.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia demonstrates grassroots capacity-building outside traditional tech hubs, though success depends on whether training produces deep capability or merely compliance-level adoption.",
       "fetched": "2026-05-22"
     },
     {
-      "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?oc=5",
-      "source": "The Cavalier Daily",
+      "title": "When AI imagines cities, smaller communities can disappear - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9weWRGQUU4X0I4YXc1THdVdTZKeHB5a09RZzJYWG5ibk84WWQ2YmlaWS1ZaUphS3VWQ2FfVE1qSGVSUmdXYmplQXZ2Z0RQV2M2LWowbEh6eVdGS2JxV3NVWWdOcmNFQWRnMFZYY21iTVlhZ1k?oc=5",
+      "source": "Virginia Tech News",
       "published": "2026-05-19",
       "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "UVA's AI literacy courses signal institutional response to shallow-but-broad adoption needs, prioritizing consumption competency over creation capability across the student population rather than deep technical specialization.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Virginia Tech research showing AI systematically erases smaller communities from generated urban imagery serves as metaphor for actual policy risk—algorithmic systems trained on concentrated data could further marginalize rural Virginia in planning and investment decisions.",
       "fetched": "2026-05-22"
     }
   ]
