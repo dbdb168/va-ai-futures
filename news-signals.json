@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-23",
-  "next_check": "2026-05-23",
+  "next_check": "2026-05-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-22",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Policy uncertainty blocking data center investment in Greensville County demonstrates how Southside regions remain vulnerable to capital flight even when pursuing AI infrastructure, reinforcing concentration in established hubs rather than enabling distributed economic opportunity.",
+      "signal_reading": "Tax policy uncertainty blocks data center investment in Greensville County, demonstrating how historically underserved regions remain vulnerable to policy volatility that concentrates AI infrastructure opportunity in established metros with stable incentive frameworks.",
       "fetched": "2026-05-23"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals potential for deep, locally-rooted AI capability development through peer networks rather than top-down platform deployment, directly addressing coal-transition communities' need for distributed skills.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals distributed capability-building through local institutions, potentially enabling peer-to-peer skill networks outside traditional tech hubs if training depth moves beyond surface-level platform use.",
       "fetched": "2026-05-23"
     },
     {
@@ -37,27 +37,27 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional partnership with AI Ready RVA concentrates AI education infrastructure in the Richmond metro hub, likely creating deep capability among university-adjacent populations while raising questions about knowledge transfer to rural Virginia.",
+      "signal_reading": "VCU-AI Ready RVA partnership creates institutional anchor for deep AI education and innovation in Richmond, but concentration around university-led initiatives risks reinforcing metro-hub advantages unless explicit distribution mechanisms reach beyond immediate urban ecosystem.",
       "fetched": "2026-05-23"
     },
     {
-      "title": "State invests $3M to help transform Hampton Roads into hub for aircraft technology and training - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZjA1a2ZRT2xrSF9vTTRvdW5TeFI0UWp6Q3JYa1NJVktOV1F2VnZEekZfd001OXRaeEdhaFlXc0NWVWFGM1Z2czc0LVRqZllRdTg5U0FuQ0JHemx5RnNtV01pQ3Qzc0Nmb0ZGT1JiS3pNbWtqcG10WGh3SmZ1amJSM3IxOG51UnV0LUFtbFlHWHlBZUpuSTRKZHluZ3VNbWJ5VHBkaWhfRy01TTIyblBrZ296ZWRLaXo5T2ZIanRqRWd4TldONzhqUl9FZTA1ZlpPUUw3SmFUVnVnZVRKNzNUbmxRNGFGZk5POGUxbWx6eWNtc2FSQ18zTzFlX0FTeTE1V01hUVNwQVhsSDI4ajNWc24ydEVmSHJiVzg3QzhIY2pmdnVh?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-05-19",
+      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-05",
       "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "State investment transforming Hampton Roads into an aircraft technology hub deepens the region's specialized AI/defense tech capability, reinforcing Virginia's multi-nodal concentration pattern rather than broad distribution across smaller communities.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk Southern's turnkey AI deployment for wheel defect detection represents shallow-but-functional adoption through vendor solutions in industrial sectors—broad operational benefit without building internal AI expertise or regional capability depth.",
       "fetched": "2026-05-23"
     },
     {
-      "title": "When AI imagines cities, smaller communities can disappear - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9weWRGQUU4X0I4YXc1THdVdTZKeHB5a09RZzJYWG5ibk84WWQ2YmlaWS1ZaUphS3VWQ2FfVE1qSGVSUmdXYmplQXZ2Z0RQV2M2LWowbEh6eVdGS2JxV3NVWWdOcmNFQWRnMFZYY21iTVlhZ1k?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-05-19",
+      "title": "Kennedy: NextEra-Dominion’s AI future could reshape Virginia’s economy — and its energy politics",
+      "url": "https://cardinalnews.org/2026/05/22/kennedy-nextera-dominions-ai-future-could-reshape-virginias-economy-and-its-energy-politics/",
+      "source": "Cardinal News",
+      "published": "2026-05-22",
       "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Virginia Tech research showing AI-generated urban imagery erases smaller communities reflects how algorithmic systems may systematically disadvantage rural Virginia in investment, planning, and recognition—accelerating the visibility and resource gap between metros and periphery.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NextEra-Dominion deal positions AI energy infrastructure demands as statewide economic reshaping force, but energy-AI nexus concentrates planning authority and benefit capture in Northern Virginia data center corridors while distributing costs and environmental impact to rural energy production regions.",
       "fetched": "2026-05-23"
     }
   ]
