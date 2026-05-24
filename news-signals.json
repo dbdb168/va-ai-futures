@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-24",
-  "next_check": "2026-05-24",
+  "next_check": "2026-05-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-22",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Policy uncertainty blocking data center investment in Greensville County demonstrates how concentrated leverage in NoVA creates volatile conditions for rural regions attempting to diversify their economic base, perpetuating rather than bridging the capability gap.",
+      "signal_reading": "Policy uncertainty blocking data center investment in historically underserved Greensville County reinforces infrastructure concentration in NoVA while preventing even shallow economic participation in Virginia's rural regions—deepening capability and opportunity gaps.",
       "fetched": "2026-05-24"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce signals deepening capability demands in metro hubs, likely concentrating sophisticated AI skills in urban centers while creating selection pressure that draws talent away from distributed regions.",
+      "signal_reading": "Young workforce facing AI pressure in Richmond signals concentrated skill demands in metro hubs without distributed upskilling infrastructure, creating metro-centric talent gravity while potentially displacing workers without deep technical capability.",
       "fetched": "2026-05-24"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training through Virginia Tech represents ground-up capability building in Southwest Virginia, potentially creating distributed deep expertise through anchor institutions rather than platform dependencies or metro concentration.",
+      "signal_reading": "EPA-funded community-driven workforce training through Virginia Tech represents distributed, peer-based capability building in Appalachian Virginia—exactly the institutional mechanism needed to spread deep AI fluency beyond metro concentration zones.",
       "fetched": "2026-05-24"
     },
     {
@@ -46,8 +46,8 @@
       "source": "The Business Journals",
       "published": "2026-02-05",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Southern deploying turnkey AI defect detection systems exemplifies shallow-but-functional platform adoption spreading to traditional industries—distribution without requiring deep local AI development capability.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk Southern deploying proprietary AI for industrial defect detection demonstrates deep technical application concentrated in established corporate infrastructure, signaling capability clustering in metro/defense corridors rather than distributed adoption patterns.",
       "fetched": "2026-05-24"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-05-19",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA piloting AI literacy courses statewide signals institutional investment in foundational capability building across Virginia, creating preconditions for distributed depth if paired with regional access mechanisms beyond Charlottesville.",
+      "signal_reading": "UVA piloting AI literacy courses institution-wide creates potential distribution mechanism for foundational capability across Virginia's higher education network, but depth depends on whether curriculum builds critical technical skills or merely surface-level platform familiarity.",
       "fetched": "2026-05-24"
     }
   ]
