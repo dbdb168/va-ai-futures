@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23",
+  "last_updated": "2026-05-24",
   "next_check": "2026-05-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,18 @@
       "published": "2026-05-22",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Tax policy uncertainty blocks data center investment in Greensville County, demonstrating how historically underserved regions remain vulnerable to policy volatility that concentrates AI infrastructure opportunity in established metros with stable incentive frameworks.",
-      "fetched": "2026-05-23"
+      "signal_reading": "Policy uncertainty blocking data center investment in Greensville County demonstrates how concentrated leverage in NoVA creates volatile conditions for rural regions attempting to diversify their economic base, perpetuating rather than bridging the capability gap.",
+      "fetched": "2026-05-24"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce signals deepening capability demands in metro hubs, likely concentrating sophisticated AI skills in urban centers while creating selection pressure that draws talent away from distributed regions.",
+      "fetched": "2026-05-24"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -27,18 +37,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals distributed capability-building through local institutions, potentially enabling peer-to-peer skill networks outside traditional tech hubs if training depth moves beyond surface-level platform use.",
-      "fetched": "2026-05-23"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership creates institutional anchor for deep AI education and innovation in Richmond, but concentration around university-led initiatives risks reinforcing metro-hub advantages unless explicit distribution mechanisms reach beyond immediate urban ecosystem.",
-      "fetched": "2026-05-23"
+      "signal_reading": "EPA-backed community-driven workforce training through Virginia Tech represents ground-up capability building in Southwest Virginia, potentially creating distributed deep expertise through anchor institutions rather than platform dependencies or metro concentration.",
+      "fetched": "2026-05-24"
     },
     {
       "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
@@ -47,18 +47,18 @@
       "published": "2026-02-05",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Southern's turnkey AI deployment for wheel defect detection represents shallow-but-functional adoption through vendor solutions in industrial sectors—broad operational benefit without building internal AI expertise or regional capability depth.",
-      "fetched": "2026-05-23"
+      "signal_reading": "Norfolk Southern deploying turnkey AI defect detection systems exemplifies shallow-but-functional platform adoption spreading to traditional industries—distribution without requiring deep local AI development capability.",
+      "fetched": "2026-05-24"
     },
     {
-      "title": "Kennedy: NextEra-Dominion’s AI future could reshape Virginia’s economy — and its energy politics",
-      "url": "https://cardinalnews.org/2026/05/22/kennedy-nextera-dominions-ai-future-could-reshape-virginias-economy-and-its-energy-politics/",
-      "source": "Cardinal News",
-      "published": "2026-05-22",
+      "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-19",
       "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NextEra-Dominion deal positions AI energy infrastructure demands as statewide economic reshaping force, but energy-AI nexus concentrates planning authority and benefit capture in Northern Virginia data center corridors while distributing costs and environmental impact to rural energy production regions.",
-      "fetched": "2026-05-23"
+      "scenario": "Build It Yourself",
+      "signal_reading": "UVA piloting AI literacy courses statewide signals institutional investment in foundational capability building across Virginia, creating preconditions for distributed depth if paired with regional access mechanisms beyond Charlottesville.",
+      "fetched": "2026-05-24"
     }
   ]
 }
