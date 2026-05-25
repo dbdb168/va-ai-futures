@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-24",
-  "next_check": "2026-05-25",
+  "last_updated": "2026-05-25",
+  "next_check": "2026-05-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,18 +17,8 @@
       "published": "2026-05-22",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Policy uncertainty blocking data center investment in historically underserved Greensville County reinforces infrastructure concentration in NoVA while preventing even shallow economic participation in Virginia's rural regions—deepening capability and opportunity gaps.",
-      "fetched": "2026-05-24"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Young workforce facing AI pressure in Richmond signals concentrated skill demands in metro hubs without distributed upskilling infrastructure, creating metro-centric talent gravity while potentially displacing workers without deep technical capability.",
-      "fetched": "2026-05-24"
+      "signal_reading": "Tax uncertainty blocking data center investment in Greensville County demonstrates how policy instability prevents historically underserved regions from capturing AI infrastructure opportunities, reinforcing rather than bridging the metro-rural divide.",
+      "fetched": "2026-05-25"
     },
     {
       "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
@@ -37,8 +27,8 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training through Virginia Tech represents distributed, peer-based capability building in Appalachian Virginia—exactly the institutional mechanism needed to spread deep AI fluency beyond metro concentration zones.",
-      "fetched": "2026-05-24"
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals potential for distributed capacity-building through local institutions, though success depends on whether training creates deep AI fluency or shallow platform usage.",
+      "fetched": "2026-05-25"
     },
     {
       "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
@@ -47,18 +37,28 @@
       "published": "2026-02-05",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern deploying proprietary AI for industrial defect detection demonstrates deep technical application concentrated in established corporate infrastructure, signaling capability clustering in metro/defense corridors rather than distributed adoption patterns.",
-      "fetched": "2026-05-24"
+      "signal_reading": "Norfolk Southern deploying specialized AI for industrial defect detection demonstrates deep technical application in Hampton Roads' transportation sector, but remains concentrated in enterprise operations rather than distributed workforce capability.",
+      "fetched": "2026-05-25"
     },
     {
-      "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-19",
-      "region": "Statewide",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA piloting AI literacy courses institution-wide creates potential distribution mechanism for foundational capability across Virginia's higher education network, but depth depends on whether curriculum builds critical technical skills or merely surface-level platform familiarity.",
-      "fetched": "2026-05-24"
+      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets education and community impact beyond the university, creating potential peer-to-peer learning networks that could distribute AI fluency across Richmond's broader workforce rather than concentrating it in tech enclaves.",
+      "fetched": "2026-05-25"
+    },
+    {
+      "title": "Kennedy: NextEra-Dominion’s AI future could reshape Virginia’s economy — and its energy politics",
+      "url": "https://cardinalnews.org/2026/05/22/kennedy-nextera-dominions-ai-future-could-reshape-virginias-economy-and-its-energy-politics/",
+      "source": "Cardinal News",
+      "published": "2026-05-22",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NextEra-Dominion deal reshaping energy infrastructure from NoVA to Southside reveals how AI's energy demands concentrate power generation planning around metro data center hubs, potentially widening economic opportunities between regions with different infrastructure readiness.",
+      "fetched": "2026-05-25"
     }
   ]
 }
