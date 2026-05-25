@@ -17,7 +17,7 @@
       "published": "2026-05-22",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Tax uncertainty blocking data center investment in Greensville County demonstrates how policy instability prevents historically underserved regions from capturing AI infrastructure opportunities, reinforcing rather than bridging the metro-rural divide.",
+      "signal_reading": "Tax uncertainty causes Greensville County to lose data center opportunities, revealing how policy instability prevents even shallow AI infrastructure investment from reaching historically underserved regions, reinforcing concentration in established metros.",
       "fetched": "2026-05-25"
     },
     {
@@ -27,17 +27,7 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals potential for distributed capacity-building through local institutions, though success depends on whether training creates deep AI fluency or shallow platform usage.",
-      "fetched": "2026-05-25"
-    },
-    {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern deploying specialized AI for industrial defect detection demonstrates deep technical application in Hampton Roads' transportation sector, but remains concentrated in enterprise operations rather than distributed workforce capability.",
+      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia signals potential for distributed, deep capability building through local institutions, though success depends on whether training produces genuine AI fluency or credential theater.",
       "fetched": "2026-05-25"
     },
     {
@@ -46,8 +36,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets education and community impact beyond the university, creating potential peer-to-peer learning networks that could distribute AI fluency across Richmond's broader workforce rather than concentrating it in tech enclaves.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU-AI Ready RVA partnership concentrates institutional resources and expertise in Richmond metro, potentially deepening capability in a second hub but offering no mechanism for knowledge distribution to rural regions.",
       "fetched": "2026-05-25"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-05-22",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NextEra-Dominion deal reshaping energy infrastructure from NoVA to Southside reveals how AI's energy demands concentrate power generation planning around metro data center hubs, potentially widening economic opportunities between regions with different infrastructure readiness.",
+      "signal_reading": "NextEra-Dominion deal reshapes energy infrastructure 'from Northern Virginia to Wise and Halifax counties' for AI demands, but infrastructure presence doesn't equal capability distribution—likely reinforces metro concentration while exporting costs.",
+      "fetched": "2026-05-25"
+    },
+    {
+      "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-19",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "UVA's three AI literacy courses signal platform-based, shallow adoption model being institutionalized at scale—broad exposure without deep fluency, potentially creating distributed surface-level familiarity rather than technical capability.",
       "fetched": "2026-05-25"
     }
   ]
