@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26",
-  "next_check": "2026-05-27",
+  "last_updated": "2026-05-27",
+  "next_check": "2026-05-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,38 +17,18 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Data center infrastructure concentrates economic benefits in already-advantaged regions while rural areas bear environmental costs without capability-building, signaling divergence rather than distributed AI literacy or infrastructure access.",
-      "fetched": "2026-05-26"
+      "signal_reading": "Commentary directly naming the urban-rural divide around AI data centers suggests infrastructure investment is concentrating economic benefits in metros while externalizing energy costs to rural areas without distributing capability or workforce development.",
+      "fetched": "2026-05-27"
     },
     {
-      "title": "Cabinet secretary: Southside county loses two economic development prospects due to uncertainty over data center taxes",
-      "url": "https://cardinalnews.org/2026/05/22/cabinet-secretary-southside-county-loses-two-economic-development-prospects-due-to-uncertainty-over-data-center-taxes/",
-      "source": "Cardinal News",
-      "published": "2026-05-22",
-      "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Southside loses data center opportunities due to tax policy uncertainty, demonstrating how historically underserved regions face barriers to even shallow infrastructure-led participation in AI economy while metros capture investment.",
-      "fetched": "2026-05-26"
-    },
-    {
-      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-02-09",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia signals potential for distributed, locally-owned capability development through peer networks, though depth and sustainability remain uncertain without sustained institutional support.",
-      "fetched": "2026-05-26"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership concentrates deep AI education and innovation capacity in Richmond's institutional ecosystem, reinforcing metro advantage in building technical talent while distribution to surrounding regions remains unclear.",
-      "fetched": "2026-05-26"
+      "signal_reading": "A $50M+ investment adding 200 jobs in Henrico's AI data center infrastructure strengthens Richmond's position as a concentrated tech hub, but focuses on capital-intensive infrastructure rather than distributed AI literacy or peer learning networks.",
+      "fetched": "2026-05-27"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -57,8 +37,28 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests rapid platform-driven adoption creating broad but shallow engagement—workers adapting to AI tools without necessarily developing deep technical capability or literacy to shape systems.",
-      "fetched": "2026-05-26"
+      "signal_reading": "Pressure on Richmond's young workforce to adopt AI tools signals broad but potentially shallow platform-driven adoption—workers consuming AI applications rather than building deep technical capability or algorithmic fluency.",
+      "fetched": "2026-05-27"
+    },
+    {
+      "title": "EPA grant backs community-driven workforce training in Southwest Virginia - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-02-09",
+      "region": "Southwest Virginia",
+      "scenario": "Build It Yourself",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building that could enable distributed, deep skill development in an economically transitioning region—a counter-signal to concentration trends.",
+      "fetched": "2026-05-27"
+    },
+    {
+      "title": "Faculty mentorship fuels alumni impact in cybersecurity and artificial intelligence - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0lYWExuN01HUWl1ZVJPRklaNy1nM3RuY2tPUHpFaWtPMnRuTDFWS2h1dW9zQjlMSjdEQkR5WGZuU2Y1c2dRN3pWRXpEZjlxR1padDcxbXZlWV9Ga0J0dXhjZWZnVzFNQlcxMFc1M2t5ZkhTdVB3LWJqMHU1eFhVdFN6Z3dBTGIwaW5JNnl0QmM?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-05-20",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's cybersecurity and AI mentorship producing alumni impact reinforces New River Valley as a deep capability center, but the talent export pattern suggests knowledge concentration rather than regional distribution of expertise.",
+      "fetched": "2026-05-27"
     }
   ]
 }
