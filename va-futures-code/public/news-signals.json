@@ -17,27 +17,7 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Commentary directly naming the urban-rural divide around AI data centers suggests infrastructure investment is concentrating economic benefits in metros while externalizing energy costs to rural areas without distributing capability or workforce development.",
-      "fetched": "2026-05-27"
-    },
-    {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ investment adding 200 jobs in Henrico's AI data center infrastructure strengthens Richmond's position as a concentrated tech hub, but focuses on capital-intensive infrastructure rather than distributed AI literacy or peer learning networks.",
-      "fetched": "2026-05-27"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Pressure on Richmond's young workforce to adopt AI tools signals broad but potentially shallow platform-driven adoption—workers consuming AI applications rather than building deep technical capability or algorithmic fluency.",
+      "signal_reading": "Direct commentary on data centers increasing the urban-rural divide signals concentration of infrastructure benefits in Northern Virginia while rural areas bear environmental costs without capability building, reinforcing neither depth nor distribution outside metro cores.",
       "fetched": "2026-05-27"
     },
     {
@@ -45,19 +25,39 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-02-09",
-      "region": "Southwest Virginia",
+      "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building that could enable distributed, deep skill development in an economically transitioning region—a counter-signal to concentration trends.",
+      "signal_reading": "EPA-backed community-driven workforce training in Southwest Virginia signals potential for distributed capability building through local ownership and peer networks in a historically underserved region, targeting depth through participatory design rather than platform delivery.",
       "fetched": "2026-05-27"
     },
     {
-      "title": "Faculty mentorship fuels alumni impact in cybersecurity and artificial intelligence - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0lYWExuN01HUWl1ZVJPRklaNy1nM3RuY2tPUHpFaWtPMnRuTDFWS2h1dW9zQjlMSjdEQkR5WGZuU2Y1c2dRN3pWRXpEZjlxR1padDcxbXZlWV9Ga0J0dXhjZWZnVzFNQlcxMFc1M2t5ZkhTdVB3LWJqMHU1eFhVdFN6Z3dBTGIwaW5JNnl0QmM?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-05-20",
-      "region": "Statewide",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's cybersecurity and AI mentorship producing alumni impact reinforces New River Valley as a deep capability center, but the talent export pattern suggests knowledge concentration rather than regional distribution of expertise.",
+      "signal_reading": "VCU's AI Ready RVA partnership concentrates AI education infrastructure in Richmond's university ecosystem, deepening metro capability but requiring intentional distribution mechanisms to prevent this from becoming another excellence pocket isolated from rural regions.",
+      "fetched": "2026-05-27"
+    },
+    {
+      "title": "Why Darden Is Moving AI Into the Core MBA Experience - Darden Report Online",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03VW4zckZXMFZjUU55Z0ZJdkk5VmhDRzZhRzRRd3VyYk1sSndYVmYwREdPZE5MdFNYTWVLYXVJNGFaLW90SmtwTFZ0NnJWa0tSNklNYUxSU3pFeDEyZUVXeURlS3E0b1Z6T1RYNjVLdw?oc=5",
+      "source": "Darden Report Online",
+      "published": "2026-05-27",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Darden integrating AI into core MBA curriculum deepens elite business leadership capability in Charlottesville/NoVA networks, but concentrates strategic AI fluency in an already-advantaged corridor rather than distributing across Virginia's workforce.",
+      "fetched": "2026-05-27"
+    },
+    {
+      "title": "Trump EO impacts new artificial intelligence laws in Virginia - WVTF",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTJwcHV2eVBOdjNzRFk3bHNBX21TQ3k4RGtLQzBzSXBHVVdGSXlnd1hPWVFWV0hYWUFyRUxDVjJmUHM3R3ZTMzlPdGtZU203d1BEYlhxMnljYzQ2bURqMDBCSlhaeWZiYVBMcEdjbTZoZ09PNGM2eTc3YlAxaWFtQmNYN2ZYeVJjaWphMjlfUDRmbGd3Y2ZRUEdLOHdFMWs?oc=5",
+      "source": "WVTF",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Trump executive order impacting Virginia's AI laws signals top-down regulatory shifts that may favor platform-provider compliance frameworks over locally-tailored depth, pushing toward shallow, vendor-mediated adoption patterns statewide.",
       "fetched": "2026-05-27"
     }
   ]
