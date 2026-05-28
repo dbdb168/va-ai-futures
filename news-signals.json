@@ -17,7 +17,7 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly diagnosing how AI data center infrastructure concentrates economic benefits in urban corridors while rural areas bear environmental costs without capability-building, signaling structural barriers to distributed AI adoption.",
+      "signal_reading": "Explicitly identifies data centers as increasing Virginia's urban-rural divide, signaling concentration of infrastructure and economic benefits in metro areas while rural regions lack access to the wealth and capability being generated.",
       "fetched": "2026-05-28"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU-AI Ready RVA partnership creates institutional infrastructure for broad-based AI education and community engagement in Richmond, potentially seeding peer-to-peer capability development beyond elite tech hubs if implementation follows through.",
+      "signal_reading": "VCU-AI Ready RVA partnership represents institutional commitment to distributed AI education and community impact beyond elite tech corridors, potentially building deeper capabilities across Richmond's diverse population base.",
       "fetched": "2026-05-28"
     },
     {
@@ -35,9 +35,9 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHcxRTI0VjA2dVFuby1oQU5EMURZYWFDSDJSa2NrWmlIQjVZeV82ckREY0N5bmE4eU4xVWVhb28tcmxnOEtPc08tV09BWDlkVWtGWkE4WUhidWwtTUhIaERwRjNiX3NyQWlGSUtmOEZJLTNKeEZYdDVWMFc0Vzh6LXJ3UTJLUQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-02-09",
-      "region": "Southwest Virginia",
+      "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia represents grassroots capacity-building in historically underserved coal transition region, testing whether distributed deep learning can emerge from place-based economic development rather than metro overflow.",
+      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia signals grassroots capacity-building in historically underserved Appalachian region, testing whether distributed deep learning can emerge outside traditional tech hubs.",
       "fetched": "2026-05-28"
     },
     {
@@ -46,18 +46,18 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Platform AI tools creating workforce pressure on Richmond's young workers signals rapid shallow adoption through consumer/enterprise software rather than deep technical capability development, potentially widening skill gaps even as usage spreads.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests the region is experiencing capability demands from concentrated AI infrastructure, but framed as pressure rather than opportunity indicates potential shallow adoption rather than deep skill development.",
       "fetched": "2026-05-28"
     },
     {
-      "title": "Why Darden Is Moving AI Into the Core MBA Experience - Darden Report Online",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03VW4zckZXMFZjUU55Z0ZJdkk5VmhDRzZhRzRRd3VyYk1sSndYVmYwREdPZE5MdFNYTWVLYXVJNGFaLW90SmtwTFZ0NnJWa0tSNklNYUxSU3pFeDEyZUVXeURlS3E0b1Z6T1RYNjVLdw?oc=5",
-      "source": "Darden Report Online",
-      "published": "2026-05-27",
-      "region": "Statewide",
+      "title": "State invests $3M to help transform Hampton Roads into hub for aircraft technology and training - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZjA1a2ZRT2xrSF9vTTRvdW5TeFI0UWp6Q3JYa1NJVktOV1F2VnZEekZfd001OXRaeEdhaFlXc0NWVWFGM1Z2czc0LVRqZllRdTg5U0FuQ0JHemx5RnNtV01pQ3Qzc0Nmb0ZGT1JiS3pNbWtqcG10WGh3SmZ1amJSM3IxOG51UnV0LUFtbFlHWHlBZUpuSTRKZHluZ3VNbWJ5VHBkaWhfRy01TTIyblBrZ296ZWRLaXo5T2ZIanRqRWd4TldONzhqUl9FZTA1ZlpPUUw3SmFUVnVnZVRKNzNUbmxRNGFGZk5POGUxbWx6eWNtc2FSQ18zTzFlX0FTeTE1V01hUVNwQVhsSDI4ajNWc24ydEVmSHJiVzg3QzhIY2pmdnVh?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-05-19",
+      "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Darden MBA integrating AI into core curriculum deepens elite institutional capability in Charlottesville but concentration in premium business education limits accessibility, reinforcing credential-based stratification in AI fluency across Virginia's workforce.",
+      "signal_reading": "$3M state investment in Hampton Roads aircraft technology hub demonstrates intentional concentration of advanced technical capability in military-maritime region, deepening specialized expertise but not distributing broadly across Virginia.",
       "fetched": "2026-05-28"
     }
   ]
