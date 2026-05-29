@@ -17,47 +17,47 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly naming AI data centers as drivers of urban-rural divide signals structural concentration risks—infrastructure investment flowing to metro areas while rural communities face displacement pressures without capability gains.",
-      "fetched": "2026-05-29"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership creates institutional anchor for deep AI education in Richmond metro, but geography-specific model suggests replicability barriers that could reinforce hub-based concentration rather than distributed fluency.",
+      "signal_reading": "Opinion piece explicitly diagnosing how AI data center infrastructure concentrates in NoVA while exacerbating urban-rural divides—signals recognition of concentration without evidence of distributed capability-building response.",
       "fetched": "2026-05-29"
     },
     {
       "title": "Roanoke College launches online workforce training program - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDFuaTR0ejg2Qy1PSjlEV3U0NUJhVUJhb1FKOF9kVEJzT3o0Y05IWTVyb2s4T0E0dm1XQ04zcURJLWkwdS1XVXJrZ21rLWZQeFpObk95ejUzNlQ2R3lmOXFrb05QbUYtS2RCRXpKampwRkd1aDFhWjZnekFJWjRGQmNjZjJnSGttWUdMN20yNi02NWhVRzhEa29LTURsbDgtSlBiY1JHMk83a2_SAasBQVVfeXFMTzQxbmk0dHo4NkMtT0o5RFd1NDVCYVVCYW9RSjhfZFRCc096NGNOSFk1cm9rOE9BNHZtV0NOM3FESS1pMHUtV1Vya2dtay1mUHhaTm5PeXo1MzZUNkd5Zjlxa29OUG1GLUtkQkV6SmpqcEZHdWgxYVo2Z3pBSVo0RkJjY2YyZ0hrbVlHTDdtMjYtNjVoVUc4RGtvS01EbGw4LUpQYmNSRzJPN2tv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjAtd2otaC15QmRvVW5LZ3R4RU5HQVY4N1VWOVJFTjkzYTYxdVpBOEZRRV9xdUpYVGVuNTZYd2YzeGpPNVBIZ0JreFVDa2w0S0gtZFhES3RDdmdwbUwxX29SbDZyY0FrY2FKaU9BUjd4QlFTN2JidktiNTAyTnAyb1BiR2NDaHI2bk9OQ1lLaVZkcWJ0bzRn0gGrAUFVX3lxTE80MW5pNHR6ODZDLU9KOURXdTQ1QmFVQmFvUUo4X2RUQnNPejRjTkhZNXJvazhPQTR2bVdDTjNxREktaTB1LVdVcmtnbWstZlB4Wk5uT3l6NTM2VDZHeWY5cWtvTlBtRi1LZEJFekpqanBGR3VoMWFaNmd6QUlaNEZCY2NmMmdIa21ZR0w3bTI2LTY1aFVHOERrb0tNRGxsOC1KUGJjUkcyTzdrbw?oc=5",
       "source": "WDBJ7",
       "published": "2026-05-28",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Online workforce training platform from Roanoke College enables distributed access to AI-adjacent skills outside traditional tech hubs, though depth and completion rates will determine whether this enables genuine peer-to-peer fluency or remains shallow adoption.",
+      "signal_reading": "Online workforce training expanding access beyond metro centers suggests distributed capability development, though 'on-demand' platform model may indicate shallow rather than deep skill acquisition.",
       "fetched": "2026-05-29"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
+      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-05",
+      "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates capability demands concentrating in metros where AI adoption accelerates faster than skills development—a depth/pace problem within urban centers rather than distribution challenge.",
+      "signal_reading": "Norfolk Southern deploying sophisticated AI defect detection demonstrates deep technical implementation in Hampton Roads industrial sector, but concentrated in single major corporation rather than distributed ecosystem.",
       "fetched": "2026-05-29"
     },
     {
-      "title": "Why Darden Is Moving AI Into the Core MBA Experience - Darden Report Online",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03VW4zckZXMFZjUU55Z0ZJdkk5VmhDRzZhRzRRd3VyYk1sSndYVmYwREdPZE5MdFNYTWVLYXVJNGFaLW90SmtwTFZ0NnJWa0tSNklNYUxSU3pFeDEyZUVXeURlS3E0b1Z6T1RYNjVLdw?oc=5",
-      "source": "Darden Report Online",
-      "published": "2026-05-27",
+      "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-19",
       "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Darden integrating AI into core MBA curriculum signals elite institutions deepening capabilities among already-privileged cohorts, reinforcing credential-based concentration unless curriculum models diffuse to community colleges and regional universities.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "UVA piloting AI literacy courses across student population signals institutional investment in broad-based capability development, though impact depends on whether learning emphasizes conceptual depth or surface-level tool use.",
+      "fetched": "2026-05-29"
+    },
+    {
+      "title": "Mahoney and Cronkhite: The co-investing, pro-bono partnership that won millions in grants for Appalachian communities",
+      "url": "https://cardinalnews.org/2026/05/29/mahoney-and-cronkhite-the-co-investing-pro-bono-partnership-that-won-millions-in-grants-for-appalachian-communities/",
+      "source": "Cardinal News",
+      "published": "2026-05-29",
+      "region": "Southwest & Southside",
+      "scenario": "Build It Yourself",
+      "signal_reading": "UVA students providing pro-bono technical assistance to Appalachian communities for grant-writing demonstrates knowledge transfer mechanism that could distribute capability to historically underserved regions, though sustainability beyond student projects remains uncertain.",
       "fetched": "2026-05-29"
     }
   ]
