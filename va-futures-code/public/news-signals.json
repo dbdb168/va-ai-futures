@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29",
+  "last_updated": "2026-05-30",
   "next_check": "2026-05-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,34 +11,34 @@
   ],
   "signals": [
     {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-based AI education infrastructure that could seed distributed fluency beyond traditional tech hubs, creating peer learning networks across Richmond's diverse economic base.",
+      "fetched": "2026-05-30"
+    },
+    {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
       "source": "The Cavalier Daily",
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Opinion piece explicitly diagnosing how AI data center infrastructure concentrates in NoVA while exacerbating urban-rural divides—signals recognition of concentration without evidence of distributed capability-building response.",
-      "fetched": "2026-05-29"
+      "signal_reading": "Opinion piece explicitly diagnosing data center concentration in NoVA as exacerbating urban-rural divide signals awareness that infrastructure deployment without capability distribution widens inequality rather than bridging it.",
+      "fetched": "2026-05-30"
     },
     {
       "title": "Roanoke College launches online workforce training program - WDBJ7",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjAtd2otaC15QmRvVW5LZ3R4RU5HQVY4N1VWOVJFTjkzYTYxdVpBOEZRRV9xdUpYVGVuNTZYd2YzeGpPNVBIZ0JreFVDa2w0S0gtZFhES3RDdmdwbUwxX29SbDZyY0FrY2FKaU9BUjd4QlFTN2JidktiNTAyTnAyb1BiR2NDaHI2bk9OQ1lLaVZkcWJ0bzRn0gGrAUFVX3lxTE80MW5pNHR6ODZDLU9KOURXdTQ1QmFVQmFvUUo4X2RUQnNPejRjTkhZNXJvazhPQTR2bVdDTjNxREktaTB1LVdVcmtnbWstZlB4Wk5uT3l6NTM2VDZHeWY5cWtvTlBtRi1LZEJFekpqanBGR3VoMWFaNmd6QUlaNEZCY2NmMmdIa21ZR0w3bTI2LTY1aFVHOERrb0tNRGxsOC1KUGJjUkcyTzdrbw?oc=5",
       "source": "WDBJ7",
       "published": "2026-05-28",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Online workforce training expanding access beyond metro centers suggests distributed capability development, though 'on-demand' platform model may indicate shallow rather than deep skill acquisition.",
-      "fetched": "2026-05-29"
-    },
-    {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern deploying sophisticated AI defect detection demonstrates deep technical implementation in Hampton Roads industrial sector, but concentrated in single major corporation rather than distributed ecosystem.",
-      "fetched": "2026-05-29"
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Online workforce training via ed2go platform enables broad access in underserved Roanoke region, but platform-mediated delivery model suggests shallow adoption rather than deep technical capability building.",
+      "fetched": "2026-05-30"
     },
     {
       "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
@@ -47,18 +47,18 @@
       "published": "2026-05-19",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA piloting AI literacy courses across student population signals institutional investment in broad-based capability development, though impact depends on whether learning emphasizes conceptual depth or surface-level tool use.",
-      "fetched": "2026-05-29"
+      "signal_reading": "UVA piloting AI literacy courses across curriculum signals institutional commitment to democratizing foundational AI fluency statewide, potentially seeding distributed peer networks through educated alumni returning to diverse Virginia regions.",
+      "fetched": "2026-05-30"
     },
     {
-      "title": "Mahoney and Cronkhite: The co-investing, pro-bono partnership that won millions in grants for Appalachian communities",
-      "url": "https://cardinalnews.org/2026/05/29/mahoney-and-cronkhite-the-co-investing-pro-bono-partnership-that-won-millions-in-grants-for-appalachian-communities/",
-      "source": "Cardinal News",
-      "published": "2026-05-29",
-      "region": "Southwest & Southside",
-      "scenario": "Build It Yourself",
-      "signal_reading": "UVA students providing pro-bono technical assistance to Appalachian communities for grant-writing demonstrates knowledge transfer mechanism that could distribute capability to historically underserved regions, though sustainability beyond student projects remains uncertain.",
-      "fetched": "2026-05-29"
+      "title": "State invests $3M to help transform Hampton Roads into hub for aircraft technology and training - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZjA1a2ZRT2xrSF9vTTRvdW5TeFI0UWp6Q3JYa1NJVktOV1F2VnZEekZfd001OXRaeEdhaFlXc0NWVWFGM1Z2czc0LVRqZllRdTg5U0FuQ0JHemx5RnNtV01pQ3Qzc0Nmb0ZGT1JiS3pNbWtqcG10WGh3SmZ1amJSM3IxOG51UnV0LUFtbFlHWHlBZUpuSTRKZHluZ3VNbWJ5VHBkaWhfRy01TTIyblBrZ296ZWRLaXo5T2ZIanRqRWd4TldONzhqUl9FZTA1ZlpPUUw3SmFUVnVnZVRKNzNUbmxRNGFGZk5POGUxbWx6eWNtc2FSQ18zTzFlX0FTeTE1V01hUVNwQVhsSDI4ajNWc24ydEVmSHJiVzg3QzhIY2pmdnVh?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-05-19",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Targeted $3M state investment in Hampton Roads aircraft tech hub reinforces sector-specific deep capability clustering in existing metro centers, following established pattern of concentrating advanced technical capacity in urban nodes.",
+      "fetched": "2026-05-30"
     }
   ]
 }
