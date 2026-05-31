@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-31",
-  "next_check": "2026-05-31",
+  "next_check": "2026-06-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly target distributed capability-building outside traditional tech hubs, creating peer-to-peer knowledge transfer that could spread deep fluency beyond metro concentration points.",
+      "signal_reading": "Free AI workshops targeting technology gap closure in Hampton Roads signal grassroots peer learning and intentional distribution of capability beyond traditional tech hubs, directly challenging concentration dynamics.",
       "fetched": "2026-05-31"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-05-26",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly identifying how AI data center concentration in NoVA exacerbates urban-rural divide signals scenario drift toward geographic inequality in both infrastructure access and economic benefit distribution.",
+      "signal_reading": "Analysis of AI data centers increasing urban-rural divide reveals infrastructure concentration in NoVA creates economic benefits that fail to distribute, intensifying rather than bridging the capability gap statewide.",
       "fetched": "2026-05-31"
     },
     {
@@ -36,8 +36,8 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "AI adoption pressure on Richmond's workforce suggests metro-area capability deepening as employment markets demand skills, but concentration in the state capital rather than distributed rural workforce development.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-driven automation creating widespread shallow exposure without corresponding skill deepening, positioning workers as AI users rather than builders.",
       "fetched": "2026-05-31"
     },
     {
@@ -46,8 +46,8 @@
       "source": "University Business",
       "published": "2026-05-29",
       "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's partnership with ed2go for on-demand workforce training platforms signals shallow, platform-mediated skill delivery that achieves geographic distribution but lacks the depth of hands-on AI fluency development.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's workforce pathways program addressing skills mismatch through structured training represents institutional investment in distributed capability building outside traditional tech corridors, potentially seeding peer networks.",
       "fetched": "2026-05-31"
     },
     {
@@ -56,8 +56,8 @@
       "source": "The Cavalier Daily",
       "published": "2026-05-19",
       "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "UVA piloting three AI literacy courses represents institutional commitment to foundational capability-building that could distribute deep fluency if extended beyond flagship university access, though current reach remains concentrated in higher-ed populations.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA piloting AI literacy courses concentrates deep educational innovation at a flagship research institution, creating excellence that may remain localized unless deliberately designed for statewide knowledge transfer and replication.",
       "fetched": "2026-05-31"
     }
   ]
