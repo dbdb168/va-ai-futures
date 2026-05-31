@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30",
+  "last_updated": "2026-05-31",
   "next_check": "2026-05-31",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,18 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting the technology gap in Hampton Roads signals grassroots capacity-building that could enable distributed, peer-to-peer AI fluency beyond the traditional NoVA hub—a direct counter to concentration dynamics.",
-      "fetched": "2026-05-30"
+      "signal_reading": "Free AI workshops led by a Norfolk native directly target distributed capability-building outside traditional tech hubs, creating peer-to-peer knowledge transfer that could spread deep fluency beyond metro concentration points.",
+      "fetched": "2026-05-31"
     },
     {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
       "source": "The Cavalier Daily",
       "published": "2026-05-26",
-      "region": "Statewide",
+      "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly naming AI data centers as drivers of urban-rural divide reveals infrastructure concentration in NoVA that extracts resources without distributing capability, reinforcing rather than bridging geographic disparities.",
-      "fetched": "2026-05-30"
+      "signal_reading": "Commentary explicitly identifying how AI data center concentration in NoVA exacerbates urban-rural divide signals scenario drift toward geographic inequality in both infrastructure access and economic benefit distribution.",
+      "fetched": "2026-05-31"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -37,8 +37,8 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates the capital region is experiencing capability demands typical of deep adoption zones, suggesting Richmond is emerging as a secondary hub alongside NoVA rather than part of distributed growth.",
-      "fetched": "2026-05-30"
+      "signal_reading": "AI adoption pressure on Richmond's workforce suggests metro-area capability deepening as employment markets demand skills, but concentration in the state capital rather than distributed rural workforce development.",
+      "fetched": "2026-05-31"
     },
     {
       "title": "How Roanoke College’s new pathways tackle the workforce mismatch - University Business",
@@ -47,8 +47,8 @@
       "published": "2026-05-29",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's online workforce training pathways suggest platform-delivered, credential-focused AI adoption that creates broad access but risks shallow engagement—distribution without the depth of peer learning networks.",
-      "fetched": "2026-05-30"
+      "signal_reading": "Roanoke College's partnership with ed2go for on-demand workforce training platforms signals shallow, platform-mediated skill delivery that achieves geographic distribution but lacks the depth of hands-on AI fluency development.",
+      "fetched": "2026-05-31"
     },
     {
       "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
@@ -57,8 +57,8 @@
       "published": "2026-05-19",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA piloting AI literacy courses statewide signals intentional institutional effort to build foundational fluency across Virginia, potentially seeding distributed peer networks if knowledge transfers beyond Charlottesville to rural extension communities.",
-      "fetched": "2026-05-30"
+      "signal_reading": "UVA piloting three AI literacy courses represents institutional commitment to foundational capability-building that could distribute deep fluency if extended beyond flagship university access, though current reach remains concentrated in higher-ed populations.",
+      "fetched": "2026-05-31"
     }
   ]
 }
