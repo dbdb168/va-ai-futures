@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31",
-  "next_check": "2026-06-01",
+  "last_updated": "2026-06-01",
+  "next_check": "2026-06-02",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,48 +17,48 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting technology gap closure in Hampton Roads signal grassroots peer learning and intentional distribution of capability beyond traditional tech hubs, directly challenging concentration dynamics.",
-      "fetched": "2026-05-31"
+      "signal_reading": "Free AI workshops targeting Hampton Roads signal grassroots capability-building outside traditional tech hubs, distributing foundational AI literacy through community-based learning rather than platform dependence or institutional concentration.",
+      "fetched": "2026-06-01"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU-AI Ready RVA partnership creates institutional infrastructure for distributed AI education and community impact in Richmond, potentially seeding peer learning networks that could diffuse capability beyond the NoVA gravity well.",
+      "fetched": "2026-06-01"
+    },
+    {
+      "title": "Growth skyrockets for Virginia govcon startups",
+      "url": "https://virginiabusiness.com/government-contracting-northern-virginia-startups-growth-defense-tech/",
+      "source": "Virginia Business",
+      "published": "2026-06-01",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Government contracting startup growth concentrated in NoVA reinforces the region's unique positioning at the intersection of federal procurement and venture capital, deepening technical sophistication but further concentrating AI-enabled business model innovation in the DC corridor.",
+      "fetched": "2026-06-01"
+    },
+    {
+      "title": "Roanoke College launches online workforce training program - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjAtd2otaC15QmRvVW5LZ3R4RU5HQVY4N1VWOVJFTjkzYTYxdVpBOEZRRV9xdUpYVGVuNTZYd2YzeGpPNVBIZ0JreFVDa2w0S0gtZFhES3RDdmdwbUwxX29SbDZyY0FrY2FKaU9BUjd4QlFTN2JidktiNTAyTnAyb1BiR2NDaHI2bk9OQ1lLaVZkcWJ0bzRn0gGrAUFVX3lxTE80MW5pNHR6ODZDLU9KOURXdTQ1QmFVQmFvUUo4X2RUQnNPejRjTkhZNXJvazhPQTR2bVdDTjNxREktaTB1LVdVcmtnbWstZlB4Wk5uT3l6NTM2VDZHeWY5cWtvTlBtRi1LZEJFekpqanBGR3VoMWFaNmd6QUlaNEZCY2NmMmdIa21ZR0w3bTI2LTY1aFVHOERrb0tNRGxsOC1KUGJjUkcyTzdrbw?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-05-28",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Roanoke College's online workforce training via ed2go platform signals shallow, credential-focused AI adoption in underserved regions—distribution without depth, creating platform-dependent users rather than autonomous builders.",
+      "fetched": "2026-06-01"
     },
     {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
       "source": "The Cavalier Daily",
       "published": "2026-05-26",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Analysis of AI data centers increasing urban-rural divide reveals infrastructure concentration in NoVA creates economic benefits that fail to distribute, intensifying rather than bridging the capability gap statewide.",
-      "fetched": "2026-05-31"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-driven automation creating widespread shallow exposure without corresponding skill deepening, positioning workers as AI users rather than builders.",
-      "fetched": "2026-05-31"
-    },
-    {
-      "title": "How Roanoke College’s new pathways tackle the workforce mismatch - University Business",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORlUwRm9Ici00VWtMRk43akZrS1dHcFJlZG9hN2lpSGZQanRVTnJJSnNJM0JxZUNqdEtNS1BYWEFxX1NyTjY0OERKeXYtMVJtbVNFZGFrTm5oSzg2anZ1Q1htVWNKamFqdEY5TkdZVTAwdkM5ejVmeEVfdi1VaHBPUFFLNUVFeTRiRTZnRzJJcWtVZGxBSlg3QjNwUQ?oc=5",
-      "source": "University Business",
-      "published": "2026-05-29",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's workforce pathways program addressing skills mismatch through structured training represents institutional investment in distributed capability building outside traditional tech corridors, potentially seeding peer networks.",
-      "fetched": "2026-05-31"
-    },
-    {
-      "title": "U.Va. pilots three new artificial intelligence literacy courses - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0h6WlJNZTdMcnBQMXZza0l5REVLdHo5MUR6YXc1UVRyeFRmRjc2dzlTZmxXcEE4MERNTVRreVJiNFhSZGRoOWptRGJHTEJoMWk5V1VCUWU0d1ZnOGlaYjdXYlpzMnJDX3I2WTNuMHVTWHhjS0RHSDF1djdBZE9UeHJaSV9mMjJRamE4Q3NKeUhaVGgwUDNjbnNRMVFsY0wwQmw2UXY1ZGZ0dDg?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-19",
       "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA piloting AI literacy courses concentrates deep educational innovation at a flagship research institution, creating excellence that may remain localized unless deliberately designed for statewide knowledge transfer and replication.",
-      "fetched": "2026-05-31"
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI data center expansion critique highlights how infrastructure investment concentrates in NoVA's digital corridor while extracting resources (energy, water, land) from rural areas without distributing capability, crystallizing the urban-rural divide in Virginia's AI economy.",
+      "fetched": "2026-06-01"
     }
   ]
 }
