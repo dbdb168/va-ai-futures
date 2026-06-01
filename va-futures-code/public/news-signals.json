@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting Hampton Roads signal grassroots capability-building outside traditional tech hubs, distributing foundational AI literacy through community-based learning rather than platform dependence or institutional concentration.",
+      "signal_reading": "Free AI workshops led by a Norfolk native directly target the technology gap through peer-based skill transfer, signaling grassroots capacity building that could distribute deep fluency beyond traditional tech hubs if sustained and scaled.",
       "fetched": "2026-06-01"
     },
     {
@@ -27,27 +27,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU-AI Ready RVA partnership creates institutional infrastructure for distributed AI education and community impact in Richmond, potentially seeding peer learning networks that could diffuse capability beyond the NoVA gravity well.",
-      "fetched": "2026-06-01"
-    },
-    {
-      "title": "Growth skyrockets for Virginia govcon startups",
-      "url": "https://virginiabusiness.com/government-contracting-northern-virginia-startups-growth-defense-tech/",
-      "source": "Virginia Business",
-      "published": "2026-06-01",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Government contracting startup growth concentrated in NoVA reinforces the region's unique positioning at the intersection of federal procurement and venture capital, deepening technical sophistication but further concentrating AI-enabled business model innovation in the DC corridor.",
-      "fetched": "2026-06-01"
-    },
-    {
-      "title": "Roanoke College launches online workforce training program - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjAtd2otaC15QmRvVW5LZ3R4RU5HQVY4N1VWOVJFTjkzYTYxdVpBOEZRRV9xdUpYVGVuNTZYd2YzeGpPNVBIZ0JreFVDa2w0S0gtZFhES3RDdmdwbUwxX29SbDZyY0FrY2FKaU9BUjd4QlFTN2JidktiNTAyTnAyb1BiR2NDaHI2bk9OQ1lLaVZkcWJ0bzRn0gGrAUFVX3lxTE80MW5pNHR6ODZDLU9KOURXdTQ1QmFVQmFvUUo4X2RUQnNPejRjTkhZNXJvazhPQTR2bVdDTjNxREktaTB1LVdVcmtnbWstZlB4Wk5uT3l6NTM2VDZHeWY5cWtvTlBtRi1LZEJFekpqanBGR3VoMWFaNmd6QUlaNEZCY2NmMmdIa21ZR0w3bTI2LTY1aFVHOERrb0tNRGxsOC1KUGJjUkcyTzdrbw?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-05-28",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's online workforce training via ed2go platform signals shallow, credential-focused AI adoption in underserved regions—distribution without depth, creating platform-dependent users rather than autonomous builders.",
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for community-wide AI education and innovation, potentially seeding distributed deep capability through regional anchor institutions rather than concentrating expertise in NoVA alone.",
       "fetched": "2026-06-01"
     },
     {
@@ -55,9 +35,29 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
       "source": "The Cavalier Daily",
       "published": "2026-05-26",
-      "region": "Statewide",
+      "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "AI data center expansion critique highlights how infrastructure investment concentrates in NoVA's digital corridor while extracting resources (energy, water, land) from rural areas without distributing capability, crystallizing the urban-rural divide in Virginia's AI economy.",
+      "signal_reading": "Opinion piece explicitly naming data centers as drivers of urban-rural divide signals that AI infrastructure concentration in NoVA may extract resources (land, power, water) while exporting little capability, reinforcing rather than bridging geographic inequality.",
+      "fetched": "2026-06-01"
+    },
+    {
+      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
+      "source": "The Business Journals",
+      "published": "2026-02-05",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk Southern's deployment of sophisticated AI defect-detection systems demonstrates deep technical capability in Hampton Roads' rail/logistics sector, but signals enterprise-owned expertise rather than workforce-level fluency that could distribute across the region.",
+      "fetched": "2026-06-01"
+    },
+    {
+      "title": "Three-day workshop to explore use of AI in project management - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXVyOUZ5cmM5aDdyR3U4ZTdYZXk3NkpWMmo0NzVmV2lxVWsyeVJNM1JEX2VLYkx6U3RaczhnV0VLd2xKSTVGWUpDM0hiNm5WNTc5OHc2ZW11ZGtTbGVSUHVaZFdrSnJ6a25pTzlENEMtcWIxblRXM05Hd2RwUjRnS2FKR2FmRzlfTG92SWM3QQ?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-05-27",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's three-day AI workshop for project management professionals signals practical skill-building outside NoVA, potentially distributing applied AI fluency through professional networks in a historically underserved region if it moves beyond one-off events to sustained capability development.",
       "fetched": "2026-06-01"
     }
   ]
