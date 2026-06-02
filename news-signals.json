@@ -11,13 +11,23 @@
   ],
   "signals": [
     {
+      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
+      "source": "Children's National Hospital",
+      "published": "2026-06-02",
+      "region": "Northern Virginia + Southwest (Virginia Tech)",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A high-profile pediatric AI collaboration between Children's National (DC-adjacent) and Virginia Tech creates a research hub but signals deep, specialized capability concentrated in institutional partnerships rather than distributed workforce capacity across Virginia's healthcare system.",
+      "fetched": "2026-06-02"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a Norfolk native directly combat the access gap through grassroots peer learning, creating distributed capability outside traditional tech hubs—a clear signal toward broad, community-driven fluency building.",
+      "signal_reading": "Free community AI workshops led by a Norfolk native directly target distributed skill-building and technology gap closure, representing grassroots peer learning infrastructure that could enable broad fluency beyond metro concentration zones.",
       "fetched": "2026-06-02"
     },
     {
@@ -26,18 +36,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional partnership with AI Ready RVA consolidates AI education and innovation resources in Richmond's metro core, deepening regional capability but potentially reinforcing hub-and-spoke concentration rather than distributed access.",
-      "fetched": "2026-06-02"
-    },
-    {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Opinion piece explicitly naming AI data centers as drivers of urban-rural divide signals that infrastructure concentration in NoVA is increasing geographic inequality without corresponding capability distribution to rural Virginia.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA explicitly aims to democratize AI education beyond university walls into community impact, signaling intentional distribution mechanisms that could prevent Richmond from becoming an ivory tower pocket of excellence.",
       "fetched": "2026-06-02"
     },
     {
@@ -45,19 +45,19 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjAtd2otaC15QmRvVW5LZ3R4RU5HQVY4N1VWOVJFTjkzYTYxdVpBOEZRRV9xdUpYVGVuNTZYd2YzeGpPNVBIZ0JreFVDa2w0S0gtZFhES3RDdmdwbUwxX29SbDZyY0FrY2FKaU9BUjd4QlFTN2JidktiNTAyTnAyb1BiR2NDaHI2bk9OQ1lLaVZkcWJ0bzRn0gGrAUFVX3lxTE80MW5pNHR6ODZDLU9KOURXdTQ1QmFVQmFvUUo4X2RUQnNPejRjTkhZNXJvazhPQTR2bVdDTjNxREktaTB1LVdVcmtnbWstZlB4Wk5uT3l6NTM2VDZHeWY5cWtvTlBtRi1LZEJFekpqanBGR3VoMWFaNmd6QUlaNEZCY2NmMmdIa21ZR0w3bTI2LTY1aFVHOERrb0tNRGxsOC1KUGJjUkcyTzdrbw?oc=5",
       "source": "WDBJ7",
       "published": "2026-05-28",
-      "region": "Southwest / Roanoke",
+      "region": "Southwest (Roanoke)",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's partnership with ed2go for on-demand workforce training suggests platform-mediated, shallow skill delivery reaching beyond metro areas—distributed access but through turnkey tools rather than deep capability building.",
+      "signal_reading": "Roanoke College's online workforce training partnership with ed2go provides platform-delivered, on-demand learning to a traditionally underserved region, enabling shallow but broad adoption without requiring deep local AI expertise to develop or maintain.",
       "fetched": "2026-06-02"
     },
     {
-      "title": "Norfolk Southern deploys AI system to catch wheel defects before they break - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2RNTHBMbnFHTnhWSEJPbjd3NXlWVHMwd0dqTnBqQU5tbC1pdmJtZENZTFV5N0ZpZ0hmY3R6aVRLVThXWHZUdkY4YVFwdFpGMDV4NjF2blBCVGw2V1FvSmR6bi1IckZKRTBvdUdXNjF4UjdXYXczYmF1Sl9LNjhNbTl1bGR4Y2cweklWMHR4R2NXZ2NuT1Rtc2FBUG1UMV9E?oc=5",
-      "source": "The Business Journals",
-      "published": "2026-02-05",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk Southern's deployment of specialized AI for predictive maintenance demonstrates deep technical implementation in Hampton Roads' transportation sector, but signals concentration in established industrial players rather than broad workforce adoption.",
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide (concentrating in Northern Virginia)",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Opinion piece explicitly naming AI data centers as drivers of Virginia's urban-rural divide signals infrastructure concentration without corresponding capability distribution—physical AI infrastructure doesn't equal workforce readiness or shared prosperity.",
       "fetched": "2026-06-02"
     }
   ]
