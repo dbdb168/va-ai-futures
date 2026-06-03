@@ -17,7 +17,27 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a Norfolk native represent grassroots peer-to-peer knowledge transfer that could enable distributed capability building outside traditional academic and corporate channels, directly countering concentration dynamics.",
+      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots capability-building outside major tech hubs, signaling potential for peer-to-peer distributed learning that could bridge the technology gap through community-driven education rather than platform dependency.",
+      "fetched": "2026-06-03"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's formal partnership with AI Ready RVA institutionalizes deep AI capability development in the Richmond metro area, reinforcing concentration of expertise in the state capital while the 'community impact' framing suggests awareness of but not yet solution to distribution challenges.",
+      "fetched": "2026-06-03"
+    },
+    {
+      "title": "Griffith Announces $97,472 ARC Grant for AI Study in the Ninth District - Patriot Publishing LLC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUWRXR3k1amdMaXoyN1BSNkJTeXFDVlE0SG9MMGFmV21kOTR6czM4VGx1V0Vtb0ZQQWNSTUdVQmRhYzhEWV9JSlMzZXVXYTBENm9zVjBTUHBnSWRFWTVGZ3dicC11RjhJcllrd3Q5VFRvSzk4UElLQ2UtQUMtUmJ5WEhMSDNpLXptZTFMN3BNSmdRWXVtcFQ4?oc=5",
+      "source": "Patriot Publishing LLC",
+      "published": "2026-06-03",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A $97,472 ARC grant specifically targeting AI study in Virginia's Ninth District (Appalachian Southwest) signals intentional investment in distributed capability-building in the state's most economically challenged region, though modest funding suggests shallow initial penetration.",
       "fetched": "2026-06-03"
     },
     {
@@ -25,39 +45,19 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
       "source": "Children's National Hospital",
       "published": "2026-06-02",
-      "region": "Southwest / Roanoke",
+      "region": "Northern Virginia / Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech-Children's National pediatric AI hub creates deep technical capability but concentrates it in institutional partnerships, raising questions about whether research excellence diffuses to broader workforce or remains siloed in academic-medical complex.",
+      "signal_reading": "Children's National and Virginia Tech collaboration creates a specialized pediatric AI innovation hub connecting NoVA healthcare infrastructure with New River Valley academic research, deepening expertise in two metros while the narrow vertical focus limits broad workforce distribution.",
       "fetched": "2026-06-03"
     },
     {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly naming AI data centers as drivers of urban-rural divide signals that infrastructure investments in NoVA may be widening rather than bridging capability gaps, with capital concentrating where it's already abundant.",
-      "fetched": "2026-06-03"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
+      "title": "Tony Stark’s J.A.R.V.I.S., Meet Amelia, Norfolk Naval Shipyard’s IT AI Help Assistant - DVIDS",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVzJxSG5DQVpmT0hwMzM2cjFMbkdJZWN0WWtOZ0dVOXd3TTZkRFJEYjdsSXRfd3o5SEJnSnFuanBuT1BuRDFqdTBQczZES0MyX1BHc3psMnBRUQ?oc=5",
+      "source": "DVIDS",
+      "published": "2026-06-02",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Pressure on Richmond's young workforce to adopt AI suggests platform-driven shallow adoption spreading beyond NoVA into secondary metros, where workers use tools without building deep capability—distribution without depth.",
-      "fetched": "2026-06-03"
-    },
-    {
-      "title": "Trump EO impacts new artificial intelligence laws in Virginia - WVTF",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTJwcHV2eVBOdjNzRFk3bHNBX21TQ3k4RGtLQzBzSXBHVVdGSXlnd1hPWVFWV0hYWUFyRUxDVjJmUHM3R3ZTMzlPdGtZU203d1BEYlhxMnljYzQ2bURqMDBCSlhaeWZiYVBMcEdjbTZoZ09PNGM2eTc3YlAxaWFtQmNYN2ZYeVJjaWphMjlfUDRmbGd3Y2ZRUEdLOHdFMWs?oc=5",
-      "source": "WVTF",
-      "published": "2026-05-26",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Trump executive order disrupting Virginia's new AI laws before implementation suggests policy infrastructure for distributed capability may collapse before materializing, leaving concentration patterns unchecked by regulatory frameworks designed to promote equity.",
+      "signal_reading": "Norfolk Naval Shipyard deploying an AI help assistant named Amelia represents platform-delivered AI creating operational efficiency without requiring deep technical capability from end users, exemplifying shallow but functional adoption in defense-industrial contexts.",
       "fetched": "2026-06-03"
     }
   ]
