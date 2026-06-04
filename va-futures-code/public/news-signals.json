@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03",
-  "next_check": "2026-06-04",
+  "last_updated": "2026-06-04",
+  "next_check": "2026-06-05",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,18 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots capability-building outside major tech hubs, signaling potential for peer-to-peer distributed learning that could bridge the technology gap through community-driven education rather than platform dependency.",
-      "fetched": "2026-06-03"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formal partnership with AI Ready RVA institutionalizes deep AI capability development in the Richmond metro area, reinforcing concentration of expertise in the state capital while the 'community impact' framing suggests awareness of but not yet solution to distribution challenges.",
-      "fetched": "2026-06-03"
+      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots peer-to-peer capability building in a non-metro region, exactly the distributed knowledge transfer needed to avoid concentration in NoVA hubs.",
+      "fetched": "2026-06-04"
     },
     {
       "title": "Griffith Announces $97,472 ARC Grant for AI Study in the Ninth District - Patriot Publishing LLC",
@@ -36,29 +26,39 @@
       "source": "Patriot Publishing LLC",
       "published": "2026-06-03",
       "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A $97,472 ARC grant specifically targeting AI study in Virginia's Ninth District (Appalachian Southwest) signals intentional investment in distributed capability-building in the state's most economically challenged region, though modest funding suggests shallow initial penetration.",
-      "fetched": "2026-06-03"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $97K federal grant to study AI in the economically transitioning Ninth District signals exploratory attention but the modest funding scale suggests shallow engagement rather than deep capability development in Appalachian Virginia.",
+      "fetched": "2026-06-04"
     },
     {
       "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
       "source": "Children's National Hospital",
       "published": "2026-06-02",
-      "region": "Northern Virginia / Statewide",
+      "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Children's National and Virginia Tech collaboration creates a specialized pediatric AI innovation hub connecting NoVA healthcare infrastructure with New River Valley academic research, deepening expertise in two metros while the narrow vertical focus limits broad workforce distribution.",
-      "fetched": "2026-06-03"
+      "signal_reading": "Virginia Tech's pediatric AI innovation hub partnership deepens the New River Valley's research capabilities, concentrating advanced AI expertise in an existing academic center rather than distributing it broadly across rural communities.",
+      "fetched": "2026-06-04"
     },
     {
-      "title": "Tony Stark’s J.A.R.V.I.S., Meet Amelia, Norfolk Naval Shipyard’s IT AI Help Assistant - DVIDS",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVzJxSG5DQVpmT0hwMzM2cjFMbkdJZWN0WWtOZ0dVOXd3TTZkRFJEYjdsSXRfd3o5SEJnSnFuanBuT1BuRDFqdTBQczZES0MyX1BHc3psMnBRUQ?oc=5",
-      "source": "DVIDS",
-      "published": "2026-06-02",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Naval Shipyard deploying an AI help assistant named Amelia represents platform-delivered AI creating operational efficiency without requiring deep technical capability from end users, exemplifying shallow but functional adoption in defense-industrial contexts.",
-      "fetched": "2026-06-03"
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "An opinion piece explicitly naming data centers as drivers of Virginia's urban-rural divide signals that AI infrastructure investment is concentrating economic benefit in NoVA while bypassing capability-building in other regions.",
+      "fetched": "2026-06-04"
+    },
+    {
+      "title": "Tech Briefs: AI use strong in Virginia, with Montgomery County at No. 5 statewide - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczFtNTMzQ21qaXhEd3pyQU1QV255OHc0WUp2eDd1UnVoeFJoRXk5X2t1cG1OdDJZZlBFS09kMG5CeGRxekU5TmgyMUVWYlVDdEFZMFNtZkY2Mkp2WFNyR3c0LXd5SlJ2ME1IMG1FWjFiTTIwQXNSYkNJTlZRaEJuRHBDTjByLVM0ekwyM05pdzBRcEE1QXJWX1JWWmlYNUViQ1haNDRJX2puZ2psZlRRX1BJc3ZrUQ?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-06-03",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Montgomery County ranking #5 statewide in AI usage suggests distributed adoption beyond traditional tech hubs, indicating peer networks and community colleges may be enabling broader fluency in smaller Virginia localities.",
+      "fetched": "2026-06-04"
     }
   ]
 }
