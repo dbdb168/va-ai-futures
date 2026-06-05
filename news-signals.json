@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04",
-  "next_check": "2026-06-05",
+  "last_updated": "2026-06-05",
+  "next_check": "2026-06-06",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,44 +11,54 @@
   ],
   "signals": [
     {
-      "title": "Solar panel manufacturer to establish $23.78M Shenandoah County facility",
-      "url": "https://virginiabusiness.com/solar-panel-manufacturer-to-establish-23-78m-shenandoah-county-facility/",
-      "source": "Virginia Business",
-      "published": "2026-06-04",
-      "region": "Shenandoah Valley",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Manufacturing investment in Shenandoah Valley suggests platform-enabled industrial automation may distribute economic activity, but without evidence of deep AI capability development, signals shallow adoption in non-metro regions.",
-      "fetched": "2026-06-04"
-    },
-    {
-      "title": "Two trends converge on Botetourt County: Data centers and solar farms.",
-      "url": "https://cardinalnews.org/2026/06/04/two-trends-converge-on-botetourt-county-data-centers-and-solar-farms/",
-      "source": "Cardinal News",
-      "published": "2026-06-04",
-      "region": "Southwest",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center infrastructure in Botetourt County creates AI compute backbone but concentrates value capture elsewhere—local opposition reflects community exclusion from capability building, reinforcing shallow engagement even as physical infrastructure arrives.",
-      "fetched": "2026-06-04"
-    },
-    {
-      "title": "Gigawatt data center project planned for Wythe County",
-      "url": "https://cardinalnews.org/2026/06/04/gigawatt-data-center-project-planned-for-wythe-county/",
-      "source": "Cardinal News",
-      "published": "2026-06-04",
-      "region": "Southwest",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Gigawatt-scale data center in Wythe County positions Southwest Virginia as AI infrastructure provider rather than AI capability developer, extracting energy/land resources while concentrating technical expertise and economic returns in metro command centers.",
-      "fetched": "2026-06-04"
-    },
-    {
-      "title": "The Pulse: Virginia Tech researchers ID protein linked to heart recovery",
-      "url": "https://cardinalnews.org/2026/06/04/the-pulse-virginia-tech-researchers-id-protein-linked-to-heart-recovery/",
-      "source": "Cardinal News",
-      "published": "2026-06-04",
-      "region": "Roanoke / New River Valley",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech researchers deploying AI tools for medical discovery demonstrates deep capability development in New River Valley outside traditional NoVA/Richmond hubs, with Carilion partnership signaling potential for distributed AI fluency through academic-clinical networks.",
-      "fetched": "2026-06-04"
+      "signal_reading": "Free AI workshops delivered by a local Norfolk native directly enable grassroots capability building in a non-metro region, modeling the peer-to-peer knowledge distribution mechanism that could counter concentration trends.",
+      "fetched": "2026-06-05"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's formal partnership with AI Ready RVA signals institutional commitment to deep capability development, but its metro-centered structure risks reinforcing Richmond as an excellence hub rather than distributing expertise across Virginia's rural regions.",
+      "fetched": "2026-06-05"
+    },
+    {
+      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
+      "source": "Children's National Hospital",
+      "published": "2026-06-02",
+      "region": "Southwest / Roanoke",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's pediatric AI innovation hub concentrates advanced research capability in Blacksburg, deepening technical excellence in one location but creating questions about knowledge transfer pathways to clinicians and communities statewide.",
+      "fetched": "2026-06-05"
+    },
+    {
+      "title": "Tech Briefs: AI use strong in Virginia, with Montgomery County at No. 5 statewide - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczFtNTMzQ21qaXhEd3pyQU1QV255OHc0WUp2eDd1UnVoeFJoRXk5X2t1cG1OdDJZZlBFS09kMG5CeGRxekU5TmgyMUVWYlVDdEFZMFNtZkY2Mkp2WFNyR3c0LXd5SlJ2ME1IMG1FWjFiTTIwQXNSYkNJTlZRaEJuRHBDTjByLVM0ekwyM05pdzBRcEE1QXJWX1JWWmlYNUViQ1haNDRJX2puZ2psZlRRX1BJc3ZrUQ?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-06-03",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Montgomery County ranking #5 statewide in AI use suggests platform-delivered tools enable adoption even outside NoVA, but without detail on depth versus consumption, this likely reflects shallow ChatGPT-style usage rather than custom capability building.",
+      "fetched": "2026-06-05"
+    },
+    {
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Explicit acknowledgment that AI data center infrastructure concentrates economic benefits in already-advantaged NoVA corridors while imposing infrastructure costs elsewhere crystallizes the urban-rural divide that defines the Widening Gap scenario.",
+      "fetched": "2026-06-05"
     }
   ]
 }
