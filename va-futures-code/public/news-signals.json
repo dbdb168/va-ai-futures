@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a local Norfolk native directly enable grassroots capability building in a non-metro region, modeling the peer-to-peer knowledge distribution mechanism that could counter concentration trends.",
+      "signal_reading": "Free AI workshops delivered by a Norfolk native directly target capability distribution outside elite hubs, exemplifying peer-to-peer knowledge transfer that could enable broad fluency if scaled beyond individual initiative.",
       "fetched": "2026-06-05"
     },
     {
@@ -26,28 +26,18 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formal partnership with AI Ready RVA signals institutional commitment to deep capability development, but its metro-centered structure risks reinforcing Richmond as an excellence hub rather than distributing expertise across Virginia's rural regions.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA represents institutional infrastructure for distributed learning beyond NoVA, signaling potential for regional capability centers that could compete with concentration dynamics if adequately resourced.",
       "fetched": "2026-06-05"
     },
     {
-      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
-      "source": "Children's National Hospital",
-      "published": "2026-06-02",
-      "region": "Southwest / Roanoke",
+      "title": "Virginia Tech, Children’s National Spark Pediatric AI Innovation Hub to Speed Research, Care | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTnJrbXJ2VVM5eWNrU1Q0R2xUMndrLS1nV1o4MkpYYU5xTmRpYnVfMDhhVXprd0FJOHFBUDFoT1dwbkM3UEdQU2w3VzRxTktwMGlQYWQ2VldPb3JJWWt6aTFLM0w2QXBGQnRoMU5iZ2diYWdaV014R3lWMk1wT0ZWdW5PWFJFTjU5UEpoVlNzTTZoNDVUQUlZNnVKNE90eG1STVY4MnJVanB4VFItQlNCTUFmbmRPOHZvTlgtRldLMFRyQdIBwgFBVV95cUxPTnJrbXJ2VVM5eWNrU1Q0R2xUMndrLS1nV1o4MkpYYU5xTmRpYnVfMDhhVXprd0FJOHFBUDFoT1dwbkM3UEdQU2w3VzRxTktwMGlQYWQ2VldPb3JJWWt6aTFLM0w2QXBGQnRoMU5iZ2diYWdaV014R3lWMk1wT0ZWdW5PWFJFTjU5UEpoVlNzTTZoNDVUQUlZNnVKNE90eG1STVY4MnJVanB4VFItQlNCTUFmbmRPOHZvTlgtRldLMFRyQQ?oc=5",
+      "source": "Newswise",
+      "published": "2026-06-05",
+      "region": "Northern Virginia / Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's pediatric AI innovation hub concentrates advanced research capability in Blacksburg, deepening technical excellence in one location but creating questions about knowledge transfer pathways to clinicians and communities statewide.",
-      "fetched": "2026-06-05"
-    },
-    {
-      "title": "Tech Briefs: AI use strong in Virginia, with Montgomery County at No. 5 statewide - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczFtNTMzQ21qaXhEd3pyQU1QV255OHc0WUp2eDd1UnVoeFJoRXk5X2t1cG1OdDJZZlBFS09kMG5CeGRxekU5TmgyMUVWYlVDdEFZMFNtZkY2Mkp2WFNyR3c0LXd5SlJ2ME1IMG1FWjFiTTIwQXNSYkNJTlZRaEJuRHBDTjByLVM0ekwyM05pdzBRcEE1QXJWX1JWWmlYNUViQ1haNDRJX2puZ2psZlRRX1BJc3ZrUQ?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-06-03",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Montgomery County ranking #5 statewide in AI use suggests platform-delivered tools enable adoption even outside NoVA, but without detail on depth versus consumption, this likely reflects shallow ChatGPT-style usage rather than custom capability building.",
+      "signal_reading": "Virginia Tech-Children's National collaboration creates deep research capability but concentrates specialized AI-healthcare expertise in institutional nodes, reinforcing hub dominance unless deliberately designed for knowledge diffusion to rural health systems.",
       "fetched": "2026-06-05"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Explicit acknowledgment that AI data center infrastructure concentrates economic benefits in already-advantaged NoVA corridors while imposing infrastructure costs elsewhere crystallizes the urban-rural divide that defines the Widening Gap scenario.",
+      "signal_reading": "Opinion piece explicitly identifies AI data centers as accelerating urban-rural divide, signaling infrastructure investment that brings economic activity to NoVA while imposing costs (power, land use) without distributing capability or workforce development.",
+      "fetched": "2026-06-05"
+    },
+    {
+      "title": "Tech Briefs: AI use strong in Virginia, with Montgomery County at No. 5 statewide - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczFtNTMzQ21qaXhEd3pyQU1QV255OHc0WUp2eDd1UnVoeFJoRXk5X2t1cG1OdDJZZlBFS09kMG5CeGRxekU5TmgyMUVWYlVDdEFZMFNtZkY2Mkp2WFNyR3c0LXd5SlJ2ME1IMG1FWjFiTTIwQXNSYkNJTlZRaEJuRHBDTjByLVM0ekwyM05pdzBRcEE1QXJWX1JWWmlYNUViQ1haNDRJX2puZ2psZlRRX1BJc3ZrUQ?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-06-03",
+      "region": "Southwest / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Montgomery County ranking fifth statewide in AI usage suggests Virginia Tech is enabling deep distributed capability in traditionally non-metro areas, demonstrating university-anchored diffusion models that could scale across Appalachian and rural regions.",
       "fetched": "2026-06-05"
     }
   ]
