@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06",
+  "last_updated": "2026-06-07",
   "next_check": "2026-06-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a Norfolk native directly address the distribution challenge, representing grassroots peer-to-peer capability building that could enable deep understanding outside traditional tech hubs if sustained and scaled.",
-      "fetched": "2026-06-06"
-    },
-    {
-      "title": "Virginia Tech, Children’s National Spark Pediatric AI Innovation Hub to Speed Research, Care | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTnJrbXJ2VVM5eWNrU1Q0R2xUMndrLS1nV1o4MkpYYU5xTmRpYnVfMDhhVXprd0FJOHFBUDFoT1dwbkM3UEdQU2w3VzRxTktwMGlQYWQ2VldPb3JJWWt6aTFLM0w2QXBGQnRoMU5iZ2diYWdaV014R3lWMk1wT0ZWdW5PWFJFTjU5UEpoVlNzTTZoNDVUQUlZNnVKNE90eG1STVY4MnJVanB4VFItQlNCTUFmbmRPOHZvTlgtRldLMFRyQdIBwgFBVV95cUxPTnJrbXJ2VVM5eWNrU1Q0R2xUMndrLS1nV1o4MkpYYU5xTmRpYnVfMDhhVXprd0FJOHFBUDFoT1dwbkM3UEdQU2w3VzRxTktwMGlQYWQ2VldPb3JJWWt6aTFLM0w2QXBGQnRoMU5iZ2diYWdaV014R3lWMk1wT0ZWdW5PWFJFTjU5UEpoVlNzTTZoNDVUQUlZNnVKNE90eG1STVY4MnJVanB4VFItQlNCTUFmbmRPOHZvTlgtRldLMFRyQQ?oc=5",
-      "source": "Newswise",
-      "published": "2026-06-05",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's pediatric AI hub partnership consolidates research-grade AI capability in an established institution, deepening technical excellence in ways that may remain concentrated unless deliberate knowledge transfer mechanisms reach community healthcare providers statewide.",
-      "fetched": "2026-06-06"
+      "signal_reading": "Free AI workshops delivered by a Norfolk native represent grassroots knowledge distribution outside traditional tech hubs, signaling potential for peer-to-peer skill building that could deepen capabilities in military-adjacent regions.",
+      "fetched": "2026-06-07"
     },
     {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
@@ -36,19 +26,19 @@
       "source": "The Cavalier Daily",
       "published": "2026-05-26",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Opinion piece explicitly naming data center concentration in NoVA as driver of urban-rural divide signals recognition that current infrastructure deployment patterns reinforce geographic inequality without distributing AI capability benefits.",
-      "fetched": "2026-06-06"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Data center concentration in NoVA explicitly widens the urban-rural divide, reinforcing concentrated infrastructure and capital investment while rural areas lack access to the economic benefits or capability development.",
+      "fetched": "2026-06-07"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M AI infrastructure investment adding 200 jobs in Henrico strengthens Richmond's position as a secondary AI hub, but hardware deployment alone doesn't guarantee distributed capability unless workforce development reaches beyond metro boundaries.",
-      "fetched": "2026-06-06"
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-driven automation creating broad but shallow adoption, where workers must adapt to AI tools without necessarily developing deep technical capabilities.",
+      "fetched": "2026-06-07"
     },
     {
       "title": "Virginia journalist: Fired by AI - Cardinal News",
@@ -56,9 +46,19 @@
       "source": "Cardinal News",
       "published": "2026-06-03",
       "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI-driven journalism layoffs demonstrate platform automation creating broad but shallow workforce displacement rather than capability enhancement—a critical signal that distribution without depth may undermine rather than strengthen Virginia's human capital.",
-      "fetched": "2026-06-06"
+      "scenario": "The Widening Gap",
+      "signal_reading": "A Virginia journalist being replaced by AI without visible reskilling pathways or distributed capability development signals neither depth nor distribution materializing, particularly outside metro centers.",
+      "fetched": "2026-06-07"
+    },
+    {
+      "title": "Tony Stark’s J.A.R.V.I.S., Meet Amelia, Norfolk Naval Shipyard’s IT AI Help Assistant - DVIDS",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVzJxSG5DQVpmT0hwMzM2cjFMbkdJZWN0WWtOZ0dVOXd3TTZkRFJEYjdsSXRfd3o5SEJnSnFuanBuT1BuRDFqdTBQczZES0MyX1BHc3psMnBRUQ?oc=5",
+      "source": "DVIDS",
+      "published": "2026-06-02",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk Naval Shipyard deploying a sophisticated AI assistant demonstrates deep capability development, but within a concentrated federal/defense institution rather than distributed civilian workforce, reinforcing hub-based expertise.",
+      "fetched": "2026-06-07"
     }
   ]
 }
