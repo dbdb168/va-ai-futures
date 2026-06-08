@@ -11,33 +11,33 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots capacity-building in a non-metro hub, signaling potential for distributed deep learning if community-led models can scale beyond individual initiatives.",
-      "fetched": "2026-06-08"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formal partnership with AI Ready RVA creates institutional infrastructure for AI education and innovation, but concentration in the state capital raises questions about whether knowledge diffuses beyond the Richmond metro region.",
-      "fetched": "2026-06-08"
-    },
-    {
       "title": "More than 30,000 customers await broadband connections as provider struggles to complete work",
       "url": "https://cardinalnews.org/2026/06/08/more-than-30000-customers-await-broadband-connections-as-provider-struggles-to-complete-work/",
       "source": "Cardinal News",
       "published": "2026-06-08",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Over 30,000 customers in Southside and Central Virginia still awaiting basic broadband demonstrates infrastructure failure that prevents even shallow AI adoption, deepening the digital divide while metros advance.",
+      "signal_reading": "Infrastructure failure in underserved regions creates a prerequisite barrier—without broadband connectivity, 30,000+ customers in Southside cannot access even shallow AI tools, locking them out before capability development begins.",
+      "fetched": "2026-06-08"
+    },
+    {
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Free community-led AI workshops signal grassroots capacity-building outside traditional tech hubs, indicating potential for distributed deep learning if these peer networks can achieve scale and sustainability beyond individual initiative.",
+      "fetched": "2026-06-08"
+    },
+    {
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Data center concentration in NoVA creates infrastructure and economic gravity that reinforces metro advantages while physically manifesting the urban-rural divide in AI capability and opportunity access.",
       "fetched": "2026-06-08"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-02-09",
       "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "EPA-funded community-driven workforce training in Southwest Virginia suggests bottom-up capability development in an underserved region, though success depends on whether training yields deep skills or surface-level platform use.",
+      "signal_reading": "Community-driven workforce training backed by EPA grants demonstrates localized capacity-building in historically underserved Southwest Virginia, testing whether regional institutions can build deep skills outside metro areas.",
       "fetched": "2026-06-08"
     },
     {
-      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
-      "source": "Children's National Hospital",
+      "title": "Tony Stark’s J.A.R.V.I.S., Meet Amelia, Norfolk Naval Shipyard’s IT AI Help Assistant - DVIDS",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVzJxSG5DQVpmT0hwMzM2cjFMbkdJZWN0WWtOZ0dVOXd3TTZkRFJEYjdsSXRfd3o5SEJnSnFuanBuT1BuRDFqdTBQczZES0MyX1BHc3psMnBRUQ?oc=5",
+      "source": "DVIDS",
       "published": "2026-06-02",
-      "region": "Southwest / Roanoke",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Children's National and Virginia Tech pediatric AI collaboration concentrates advanced R&D capability in the New River Valley tech corridor, leveraging university assets but creating a specialized excellence pocket rather than distributed capacity.",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk Naval Shipyard deploying an AI help assistant represents shallow platform adoption within defense infrastructure—enabling immediate productivity without building deep technical capability in the workforce.",
       "fetched": "2026-06-08"
     }
   ]
