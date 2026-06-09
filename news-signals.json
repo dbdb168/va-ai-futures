@@ -17,17 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a local native signal grassroots capability-building outside traditional tech hubs, demonstrating distributed peer-to-peer knowledge transfer that could democratize AI fluency in military-adjacent regions.",
-      "fetched": "2026-06-09"
-    },
-    {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Commentary explicitly naming AI data centers as drivers of urban-rural divide reveals concentration dynamics in NoVA, where capital-intensive infrastructure reinforces rather than redistributes capability and economic benefit.",
+      "signal_reading": "Free AI workshops led by a local native represent grassroots peer-learning infrastructure that could distribute capability beyond metro concentration, signaling community-driven depth if sustained beyond initial outreach.",
       "fetched": "2026-06-09"
     },
     {
@@ -36,18 +26,18 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA to boost community AI education signals intentional knowledge distribution infrastructure in Richmond, creating pathways for deeper capability-building beyond elite tech concentrations.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU-AI Ready RVA partnership concentrates AI education infrastructure in Richmond's institutional core, deepening metro hub capability but not yet demonstrating rural distribution mechanisms.",
       "fetched": "2026-06-09"
     },
     {
-      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
-      "source": "Children's National Hospital",
-      "published": "2026-06-02",
-      "region": "Roanoke / New River Valley",
+      "title": "UMW Launches Virginia’s First Master’s Degree in AI in Business - University of Mary Washington",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHFxWGo2cHZxOU9QdVQ4cmNMZVFZOFZUY3dXOWg5NHZvZDBRbFZUMUNRTzVsMGp1TUVTX0NyZDhCOWlTQ2IzZzJGR1B4b0tsSTBXUEt5OVhVRE94N3VvZ2pHSnFTNHAxRnN2cjU4RnZiWHFnRVlOdk56SmZRMmF6cy1GNHpLbUFYbFUwbDlsQ2theGlYTUJfWUI1UUdOem8?oc=5",
+      "source": "University of Mary Washington",
+      "published": "2026-06-09",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's deepening pediatric AI collaboration with Children's National concentrates advanced research capability in established academic centers, reinforcing hub specialization rather than distributing technical capacity to underserved regions.",
+      "signal_reading": "Virginia's first AI-in-Business master's degree creates credentialed expertise but concentration at UMW (Fredericksburg corridor) reinforces metro knowledge accumulation rather than distributed workforce transformation.",
       "fetched": "2026-06-09"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-06-08",
       "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "30,000+ customers awaiting basic broadband connections in Southside reveals infrastructure failure that prevents both shallow and deep AI adoption, leaving rural regions unable to access even platform-delivered tools as metro areas advance.",
+      "signal_reading": "30,000 customers awaiting broadband as provider struggles reveals infrastructure failure that blocks both shallow platform access and deep capability development in rural regions, entrenching the gap.",
+      "fetched": "2026-06-09"
+    },
+    {
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Direct analysis of how data center concentration in NoVA exacerbates urban-rural divide signals infrastructure investment patterns that deepen geographic inequality in AI economy participation.",
       "fetched": "2026-06-09"
     }
   ]
