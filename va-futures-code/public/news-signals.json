@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09",
-  "next_check": "2026-06-10",
+  "last_updated": "2026-06-10",
+  "next_check": "2026-06-11",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a local native represent grassroots peer-learning infrastructure that could distribute capability beyond metro concentration, signaling community-driven depth if sustained beyond initial outreach.",
-      "fetched": "2026-06-09"
+      "signal_reading": "Free AI workshops delivered by a Norfolk native directly target the technology gap through grassroots peer education, representing distributed capability-building outside traditional institutional channels—a key marker of the 'Build It Yourself' pathway emerging in a non-metro hub.",
+      "fetched": "2026-06-10"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,8 +27,28 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership concentrates AI education infrastructure in Richmond's institutional core, deepening metro hub capability but not yet demonstrating rural distribution mechanisms.",
-      "fetched": "2026-06-09"
+      "signal_reading": "VCU's partnership with AI Ready RVA concentrates institutional AI education infrastructure in Richmond, creating a metro hub for innovation that risks deepening rather than bridging the capability gap with rural Virginia unless accompanied by distribution mechanisms.",
+      "fetched": "2026-06-10"
+    },
+    {
+      "title": "Tech Briefs: New bill backed by Warner would curb energy costs, demands from data centers",
+      "url": "https://cardinalnews.org/2026/06/10/tech-briefs-new-bill-backed-by-warner-would-curb-energy-costs-demands-from-data-centers/",
+      "source": "Cardinal News",
+      "published": "2026-06-10",
+      "region": "Southwest",
+      "scenario": "The Widening Gap",
+      "signal_reading": "While the ARC grant for Radford's AI workforce study signals attention to rural challenges, a study alone represents shallow engagement—the gap between researching AI's workforce impact and building actual distributed AI capability reveals the risk of analysis without implementation.",
+      "fetched": "2026-06-10"
+    },
+    {
+      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
+      "source": "Children's National Hospital",
+      "published": "2026-06-02",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Children's National and Virginia Tech's pediatric AI collaboration deepens technical expertise in Blacksburg, but the specialized, research-focused nature concentrates cutting-edge AI capability in a university setting rather than distributing practical fluency across the broader regional workforce.",
+      "fetched": "2026-06-10"
     },
     {
       "title": "UMW Launches Virginia’s First Master’s Degree in AI in Business - University of Mary Washington",
@@ -37,28 +57,8 @@
       "published": "2026-06-09",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's first AI-in-Business master's degree creates credentialed expertise but concentration at UMW (Fredericksburg corridor) reinforces metro knowledge accumulation rather than distributed workforce transformation.",
-      "fetched": "2026-06-09"
-    },
-    {
-      "title": "More than 30,000 customers await broadband connections as provider struggles to complete work",
-      "url": "https://cardinalnews.org/2026/06/08/more-than-30000-customers-await-broadband-connections-as-provider-struggles-to-complete-work/",
-      "source": "Cardinal News",
-      "published": "2026-06-08",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "30,000 customers awaiting broadband as provider struggles reveals infrastructure failure that blocks both shallow platform access and deep capability development in rural regions, entrenching the gap.",
-      "fetched": "2026-06-09"
-    },
-    {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Direct analysis of how data center concentration in NoVA exacerbates urban-rural divide signals infrastructure investment patterns that deepen geographic inequality in AI economy participation.",
-      "fetched": "2026-06-09"
+      "signal_reading": "UMW's launch of Virginia's first AI business master's degree creates formal credentialing that could concentrate advanced AI capabilities among those with access to graduate education, potentially widening the gap between credentialed professionals and workers needing just-in-time AI fluency for job adaptation.",
+      "fetched": "2026-06-10"
     }
   ]
 }
