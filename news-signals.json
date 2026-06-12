@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11",
-  "next_check": "2026-06-12",
+  "last_updated": "2026-06-12",
+  "next_check": "2026-06-13",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting technology gap closure signal peer-driven capability building outside traditional tech hubs, testing whether grassroots distribution can counteract metro concentration dynamics.",
-      "fetched": "2026-06-11"
+      "signal_reading": "Free AI workshops delivered by a local Norfolk native directly build community capacity through peer networks, demonstrating grassroots knowledge distribution outside traditional institutional channels—a key marker of distributed, deep adoption.",
+      "fetched": "2026-06-12"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,8 +27,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership deepens institutional AI capability in the state capital but remains hub-anchored, creating a secondary excellence pocket that may not diffuse to surrounding regions without intentional distribution mechanisms.",
-      "fetched": "2026-06-11"
+      "signal_reading": "VCU's partnership with AI Ready RVA concentrates academic AI infrastructure in the capital region, creating a potential hub but raising questions about whether this knowledge radiates beyond Richmond or deepens the metro capability advantage.",
+      "fetched": "2026-06-12"
     },
     {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
@@ -37,18 +37,8 @@
       "published": "2026-05-26",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Student op-ed explicitly naming data center concentration as driver of urban-rural divide signals awareness that infrastructure investment is deepening geographic inequality rather than distributing capability.",
-      "fetched": "2026-06-11"
-    },
-    {
-      "title": "Tony Stark’s J.A.R.V.I.S., meet Amelia, Norfolk Naval Shipyard’s IT AI help assistant - MilitaryNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNnhzYnFmd2YycEkxVm1JZGFqWTI1UHVxQ2NLRHh3SC15VFlLRE1pZEgwZ3gyczZiNWYtWUdJam1QMmlFNGFPbEl6bWVONkRFMVJnYnpuTFF6aWlFLXU2Wk1BbnQ2czdXQ1lTMjdEdkZQSnE0c0JXSHlteVZBX1Nod29ubHJQZXNXeGNqN2wtTkpCOUlkOWN6VU40OFBiSEl0NGhXeWF2bXdZZ0kwYVNIcW56R0RRcVlHRjRwUnVKRTBpVFZVMFBmMkZPeGZKbGw0dXBGUmtPalgwWkNqTFhUd0ZHWkZyUmhxRHFBTXQzaHFYeFdvc3RKdFZqS3BLOUR5WDhyU09VbzRQX1k?oc=5",
-      "source": "MilitaryNews.com",
-      "published": "2026-06-11",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Naval Shipyard deploying AI assistant 'Amelia' represents platform-delivered adoption in defense sector—broad utility but shallow customization, diffusing access without building indigenous development capacity.",
-      "fetched": "2026-06-11"
+      "signal_reading": "Analysis explicitly identifies AI data centers as widening Virginia's urban-rural divide, signaling that infrastructure concentration in NoVA actively creates distributional inequality rather than enabling statewide capability growth.",
+      "fetched": "2026-06-12"
     },
     {
       "title": "University of Mary Washington Adds Virginia’s First Master’s Degree in AI in Business - Northern Virginia Magazine",
@@ -57,8 +47,18 @@
       "published": "2026-06-10",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's first AI business master's degree at UMW concentrates advanced training in institutional settings, potentially creating credentialed excellence clusters while leaving non-degree pathways and rural learners underserved.",
-      "fetched": "2026-06-11"
+      "signal_reading": "Virginia's first AI business master's degree at UMW creates deep technical-business capability but its centralized academic delivery model concentrates expertise rather than distributing fluency across workforce segments or regions.",
+      "fetched": "2026-06-12"
+    },
+    {
+      "title": "Tony Stark’s J.A.R.V.I.S., meet Amelia, Norfolk Naval Shipyard’s IT AI help assistant - MilitaryNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNnhzYnFmd2YycEkxVm1JZGFqWTI1UHVxQ2NLRHh3SC15VFlLRE1pZEgwZ3gyczZiNWYtWUdJam1QMmlFNGFPbEl6bWVONkRFMVJnYnpuTFF6aWlFLXU2Wk1BbnQ2czdXQ1lTMjdEdkZQSnE0c0JXSHlteVZBX1Nod29ubHJQZXNXeGNqN2wtTkpCOUlkOWN6VU40OFBiSEl0NGhXeWF2bXdZZ0kwYVNIcW56R0RRcVlHRjRwUnVKRTBpVFZVMFBmMkZPeGZKbGw0dXBGUmtPalgwWkNqTFhUd0ZHWkZyUmhxRHFBTXQzaHFYeFdvc3RKdFZqS3BLOUR5WDhyU09VbzRQX1k?oc=5",
+      "source": "MilitaryNews.com",
+      "published": "2026-06-11",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk Naval Shipyard's deployment of 'Amelia' AI assistant represents platform-delivered shallow adoption—workers gain AI access without building underlying technical capability, fitting the shallow-but-distributed pattern if scaled beyond one facility.",
+      "fetched": "2026-06-12"
     }
   ]
 }
