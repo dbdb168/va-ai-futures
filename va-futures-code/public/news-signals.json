@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a local Norfolk native directly build community capacity through peer networks, demonstrating grassroots knowledge distribution outside traditional institutional channels—a key marker of distributed, deep adoption.",
+      "signal_reading": "Free AI workshops targeting community access in Hampton Roads signal grassroots capability-building outside traditional tech hubs, embodying peer-driven distribution that could counteract metro concentration if sustained and scaled.",
       "fetched": "2026-06-12"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA concentrates academic AI infrastructure in the capital region, creating a potential hub but raising questions about whether this knowledge radiates beyond Richmond or deepens the metro capability advantage.",
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional depth in Richmond's metro core, but without explicit rural extension mechanisms, risks reinforcing capital-region concentration rather than statewide distribution.",
       "fetched": "2026-06-12"
     },
     {
@@ -35,19 +35,19 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
       "source": "The Cavalier Daily",
       "published": "2026-05-26",
-      "region": "Northern Virginia",
+      "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Analysis explicitly identifies AI data centers as widening Virginia's urban-rural divide, signaling that infrastructure concentration in NoVA actively creates distributional inequality rather than enabling statewide capability growth.",
+      "signal_reading": "Editorial explicitly naming AI data centers as drivers of urban-rural divide signals concentration of infrastructure without corresponding capability distribution—economic activity accumulates in NoVA while rural regions face externalities without benefits.",
       "fetched": "2026-06-12"
     },
     {
-      "title": "University of Mary Washington Adds Virginia’s First Master’s Degree in AI in Business - Northern Virginia Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVU9IQ1N1N2p3UVVSclU0dWhEUmsyZHVHWi1Temt6aDJWUnJRclY4V3FtVjNwMWdWN3JQdzhBY0JZLU5SYjBIYmRJVlZfcXBWOXh3WXBKcHdvaUdSSXRvYmVmTVE3RW5TdThQV1dWUEdLTHRwYmZ2T093Z0licnE5dUtlRzZ3d2dQZkhubTd2R1E0RUJ6N2ZIb1g1QkJ6amlUdWFVT2tDNVRuaDFaZEZ6Wm5xVzNld2h3cG5aU0pJOUxDQVpiSHc3Z0gzMG5HQ3ZIeXVZR1k1QmlkcmlR?oc=5",
-      "source": "Northern Virginia Magazine",
-      "published": "2026-06-10",
+      "title": "UMW Launches Virginia’s First Master’s Degree in AI in Business - University of Mary Washington",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHFxWGo2cHZxOU9QdVQ4cmNMZVFZOFZUY3dXOWg5NHZvZDBRbFZUMUNRTzVsMGp1TUVTX0NyZDhCOWlTQ2IzZzJGR1B4b0tsSTBXUEt5OVhVRE94N3VvZ2pHSnFTNHAxRnN2cjU4RnZiWHFnRVlOdk56SmZRMmF6cy1GNHpLbUFYbFUwbDlsQ2theGlYTUJfWUI1UUdOem8?oc=5",
+      "source": "University of Mary Washington",
+      "published": "2026-06-09",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's first AI business master's degree at UMW creates deep technical-business capability but its centralized academic delivery model concentrates expertise rather than distributing fluency across workforce segments or regions.",
+      "signal_reading": "Virginia's first AI-in-Business master's program at UMW develops deep specialized talent, but degree-based credentialing typically serves already-educated populations, deepening capability in accessible metro corridors rather than distributing skills broadly.",
       "fetched": "2026-06-12"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-06-11",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Naval Shipyard's deployment of 'Amelia' AI assistant represents platform-delivered shallow adoption—workers gain AI access without building underlying technical capability, fitting the shallow-but-distributed pattern if scaled beyond one facility.",
+      "signal_reading": "Norfolk Naval Shipyard deploying an AI IT assistant represents platform-delivered productivity gains requiring minimal AI fluency from users—broad but shallow adoption that increases efficiency without building deep local capability.",
       "fetched": "2026-06-12"
     }
   ]
