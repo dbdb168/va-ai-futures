@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-13",
-  "next_check": "2026-06-13",
+  "next_check": "2026-06-14",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a local native in Hampton Roads represent grassroots capability-building outside major tech hubs, signaling potential for peer-driven distributed fluency if these efforts scale beyond one-off training events.",
+      "signal_reading": "Free AI workshops led by a Norfolk native to 'close the technology gap' signals grassroots peer-to-peer knowledge distribution in a non-metro region, potentially building deep fluency outside traditional tech hubs if sustained beyond one-off events.",
       "fetched": "2026-06-13"
     },
     {
@@ -27,17 +27,17 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formal partnership with AI Ready RVA concentrates institutional AI expertise and resources in the Richmond metro area, deepening capabilities in an existing urban center rather than distributing them across Virginia's rural regions.",
+      "signal_reading": "VCU's formal partnership with AI Ready RVA concentrates institutional AI capability in the state capital, creating a metro hub for innovation but raising questions about whether knowledge diffuses beyond Richmond or remains academically siloed.",
       "fetched": "2026-06-13"
     },
     {
-      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National Hospital",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
-      "source": "Children's National Hospital",
-      "published": "2026-06-02",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Children's National and Virginia Tech collaboration creates a deep technical partnership between established research institutions, concentrating pediatric AI innovation capacity in areas with existing university infrastructure rather than broader community access.",
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Commentary explicitly naming AI data centers as drivers of Virginia's 'urban-rural divide' signals infrastructure concentration in NoVA without corresponding capability distribution, reinforcing geographic inequality in AI economic benefits.",
       "fetched": "2026-06-13"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-06-11",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Naval Shipyard's deployment of Amelia, an AI IT help assistant, represents platform-delivered AI adoption that enables broad usage without requiring deep technical expertise from end users, creating shallow but functional AI integration in defense-adjacent workforce.",
+      "signal_reading": "Norfolk Naval Shipyard's 'Amelia' IT assistant represents platform-delivered AI for workforce efficiency—shallow adoption that automates tasks without building deep AI literacy among the shipyard's technical workforce.",
       "fetched": "2026-06-13"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
+      "title": "University of Mary Washington Adds Virginia’s First Master’s Degree in AI in Business - Northern Virginia Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVU9IQ1N1N2p3UVVSclU0dWhEUmsyZHVHWi1Temt6aDJWUnJRclY4V3FtVjNwMWdWN3JQdzhBY0JZLU5SYjBIYmRJVlZfcXBWOXh3WXBKcHdvaUdSSXRvYmVmTVE3RW5TdThQV1dWUEdLTHRwYmZ2T093Z0licnE5dUtlRzZ3d2dQZkhubTd2R1E0RUJ6N2ZIb1g1QkJ6amlUdWFVT2tDNVRuaDFaZEZ6Wm5xVzNld2h3cG5aU0pJOUxDQVpiSHc3Z0gzMG5HQ3ZIeXVZR1k1QmlkcmlR?oc=5",
+      "source": "Northern Virginia Magazine",
+      "published": "2026-06-10",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ investment in AI data center infrastructure in Henrico concentrates physical and economic AI resources in the Richmond metro corridor, reinforcing capital flows to existing tech growth areas while creating primarily operational rather than innovation-focused jobs.",
+      "signal_reading": "Virginia's first AI in Business master's degree at UMW concentrates advanced AI training capacity in the I-95 corridor, creating credentialed expertise in metro-accessible areas while other regions lack equivalent educational pathways to deep AI skills.",
       "fetched": "2026-06-13"
     }
   ]
