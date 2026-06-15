@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14",
-  "next_check": "2026-06-15",
+  "last_updated": "2026-06-15",
+  "next_check": "2026-06-16",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native signal grassroots capability-building outside traditional tech hubs, creating distributed peer learning networks that could enable broad-based fluency beyond elite institutions.",
-      "fetched": "2026-06-14"
+      "signal_reading": "Free community AI workshops led by a Norfolk native demonstrate grassroots peer-to-peer knowledge distribution outside metro hubs, directly addressing the technology gap through distributed learning rather than platform dependency.",
+      "fetched": "2026-06-15"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -26,29 +26,29 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional partnership with AI Ready RVA concentrates AI education infrastructure in Richmond's metro core, deepening capability in an existing hub rather than distributing it to underserved regions.",
-      "fetched": "2026-06-14"
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for community-wide AI education and innovation, suggesting potential for deep capability building distributed beyond just university researchers into Richmond's broader civic fabric.",
+      "fetched": "2026-06-15"
+    },
+    {
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Commentary explicitly identifies AI data centers as drivers of urban-rural divide, signaling that current infrastructure investments concentrate economic benefits in NoVA while dispersing environmental costs without distributing capability or opportunity.",
+      "fetched": "2026-06-15"
     },
     {
       "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
       "source": "Children's National",
       "published": "2026-06-02",
-      "region": "Roanoke / New River Valley",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech-Children's National collaboration creates a specialized AI research node leveraging existing university infrastructure, reinforcing the pattern of deep capability clustering around R1 institutions rather than broad distribution.",
-      "fetched": "2026-06-14"
-    },
-    {
-      "title": "University of Mary Washington Adds Virginia’s First Master’s Degree in AI in Business - Northern Virginia Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVU9IQ1N1N2p3UVVSclU0dWhEUmsyZHVHWi1Temt6aDJWUnJRclY4V3FtVjNwMWdWN3JQdzhBY0JZLU5SYjBIYmRJVlZfcXBWOXh3WXBKcHdvaUdSSXRvYmVmTVE3RW5TdThQV1dWUEdLTHRwYmZ2T093Z0licnE5dUtlRzZ3d2dQZkhubTd2R1E0RUJ6N2ZIb1g1QkJ6amlUdWFVT2tDNVRuaDFaZEZ6Wm5xVzNld2h3cG5aU0pJOUxDQVpiSHc3Z0gzMG5HQ3ZIeXVZR1k1QmlkcmlR?oc=5",
-      "source": "Northern Virginia Magazine",
-      "published": "2026-06-10",
-      "region": "Northern Virginia",
-      "scenario": "Software Does It For You",
-      "signal_reading": "UMW's business-focused AI master's degree signals platform-mediated adoption for professional contexts—training people to use AI tools rather than build them, suggesting shallow but potentially scalable diffusion through business networks.",
-      "fetched": "2026-06-14"
+      "signal_reading": "Children's National and Virginia Tech collaboration creates deep AI capability in pediatric healthcare, but partnership between DC-adjacent institution and Blacksburg hub reinforces concentration in existing research centers rather than distributing expertise regionally.",
+      "fetched": "2026-06-15"
     },
     {
       "title": "Tony Stark’s J.A.R.V.I.S., meet Amelia, Norfolk Naval Shipyard’s IT AI help assistant - MilitaryNews.com",
@@ -57,8 +57,8 @@
       "published": "2026-06-11",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Naval Shipyard deploying a pre-built IT assistant AI demonstrates shallow adoption through turnkey enterprise solutions in defense-industrial contexts, where workers interface with rather than develop AI systems.",
-      "fetched": "2026-06-14"
+      "signal_reading": "Norfolk Naval Shipyard's AI help assistant represents shallow platform-delivered adoption—workers gain efficiency through interfaces without building underlying AI capability, creating productivity gains without deep technical fluency transfer to the regional workforce.",
+      "fetched": "2026-06-15"
     }
   ]
 }
