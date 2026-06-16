@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15",
-  "next_check": "2026-06-16",
+  "last_updated": "2026-06-16",
+  "next_check": "2026-06-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,38 +17,38 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting community access in Hampton Roads represent grassroots capacity-building that could distribute deep capability through peer networks, directly countering platform-dependent shallow adoption.",
-      "fetched": "2026-06-15"
+      "signal_reading": "Free AI workshops led by a Norfolk native directly target equitable skill-building at the community level, signaling distributed deep learning through peer networks rather than platform dependency—a classic Build It Yourself indicator if sustained beyond individual initiatives.",
+      "fetched": "2026-06-16"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for distributed AI education beyond NoVA's corporate ecosystem, potentially seeding deep capability in Virginia's second-tier metro hub through community-oriented training.",
-      "fetched": "2026-06-15"
+      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
+      "source": "Children's National",
+      "published": "2026-06-02",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's pediatric AI collaboration with Children's National concentrates advanced research capability in established academic hubs, reinforcing specialized excellence in metro-adjacent institutions rather than distributing AI R&D capacity across underserved regions.",
+      "fetched": "2026-06-16"
     },
     {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Northern Virginia",
+      "title": "Data center supply chains are moving into rural areas that need jobs. This complicates the debate over taxation.",
+      "url": "https://cardinalnews.org/2026/06/16/data-center-supply-chains-are-moving-into-rural-areas-that-need-jobs-this-complicates-the-debate-over-taxation/",
+      "source": "Cardinal News",
+      "published": "2026-06-16",
+      "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Data center concentration in NoVA creates economic and infrastructural asymmetry that entrenches urban-rural divide, with AI's physical infrastructure deepening geographic inequality rather than distributing capability.",
-      "fetched": "2026-06-15"
+      "signal_reading": "While data center supply chains bring manufacturing jobs to rural areas, this creates economic dependency on infrastructure that serves concentrated AI compute elsewhere—rural regions provide power and parts but not AI capability development, deepening functional inequality.",
+      "fetched": "2026-06-16"
     },
     {
       "title": "New artificial intelligence minor launches this fall - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSktaeVlXRENPLUEyTkplRnVtUXNzeHlGQ1hNeTFoNldDcmljM2VrZVRWcHI5NXNGdlFDTEp1UnJKdW9NMzEyT2swZ09kQkxhT1k2VzlmMVBIWkQ3Qm1IVk5LQzBIbUZvRV8yQ2g0Yzg4ZEl5eHp0b3B4VW1CeDNtRkhYWWdmVUFGOEh2R21EVk4weXlXdEJOb0pJTQ?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-06-15",
-      "region": "Statewide",
+      "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's new AI minor concentrates deep technical capability in an established academic hub, but statewide reach depends on whether graduates disperse regionally or migrate to NoVA/Richmond metro corridors.",
-      "fetched": "2026-06-15"
+      "signal_reading": "Virginia Tech's new AI minor formalizes deep technical education but concentrates that knowledge-building in an established research university, creating credential pathways for those already proximate to higher ed rather than distributed fluency mechanisms.",
+      "fetched": "2026-06-16"
     },
     {
       "title": "Tony Stark’s J.A.R.V.I.S., meet Amelia, Norfolk Naval Shipyard’s IT AI help assistant - MilitaryNews.com",
@@ -57,8 +57,8 @@
       "published": "2026-06-11",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Naval Shipyard's deployment of Amelia, an AI IT assistant, represents platform-delivered shallow adoption where users consume AI tools without building underlying capability, typical of military-bureaucratic technology implementation.",
-      "fetched": "2026-06-15"
+      "signal_reading": "Norfolk Naval Shipyard's AI help assistant (Amelia) represents platform-delivered automation for workforce support—users interact with AI tools without building underlying capability, signaling shallow but functional adoption in defense-industrial contexts.",
+      "fetched": "2026-06-16"
     }
   ]
 }
