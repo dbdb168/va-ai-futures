@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly target equitable skill-building at the community level, signaling distributed deep learning through peer networks rather than platform dependency—a classic Build It Yourself indicator if sustained beyond individual initiatives.",
+      "signal_reading": "Free AI workshops by a Norfolk native closing the technology gap signals grassroots, peer-to-peer capability building in Hampton Roads—exactly the distributed, deep learning model that could spread AI fluency beyond metro elites through community networks.",
       "fetched": "2026-06-16"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-06-02",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's pediatric AI collaboration with Children's National concentrates advanced research capability in established academic hubs, reinforcing specialized excellence in metro-adjacent institutions rather than distributing AI R&D capacity across underserved regions.",
+      "signal_reading": "Children's National partnering with Virginia Tech for pediatric AI research concentrates advanced AI R&D capability in the New River Valley academic hub, deepening expertise in a specific metro pocket rather than distributing it across underserved regions.",
       "fetched": "2026-06-16"
     },
     {
@@ -36,8 +36,8 @@
       "source": "Cardinal News",
       "published": "2026-06-16",
       "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "While data center supply chains bring manufacturing jobs to rural areas, this creates economic dependency on infrastructure that serves concentrated AI compute elsewhere—rural regions provide power and parts but not AI capability development, deepening functional inequality.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Data center supply chains bringing manufacturing jobs to rural Southwest/Southside creates economic dependence on AI infrastructure without building local AI capability—these communities supply the physical layer while metro areas capture the knowledge work.",
       "fetched": "2026-06-16"
     },
     {
@@ -46,18 +46,18 @@
       "source": "Virginia Tech News",
       "published": "2026-06-15",
       "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's new AI minor formalizes deep technical education but concentrates that knowledge-building in an established research university, creating credential pathways for those already proximate to higher ed rather than distributed fluency mechanisms.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech launching an AI minor signals institutional commitment to building deep technical fluency that could distribute through alumni networks across Virginia, though impact depends on whether graduates stay distributed or concentrate in NoVA/metro hubs.",
       "fetched": "2026-06-16"
     },
     {
-      "title": "Tony Stark’s J.A.R.V.I.S., meet Amelia, Norfolk Naval Shipyard’s IT AI help assistant - MilitaryNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNnhzYnFmd2YycEkxVm1JZGFqWTI1UHVxQ2NLRHh3SC15VFlLRE1pZEgwZ3gyczZiNWYtWUdJam1QMmlFNGFPbEl6bWVONkRFMVJnYnpuTFF6aWlFLXU2Wk1BbnQ2czdXQ1lTMjdEdkZQSnE0c0JXSHlteVZBX1Nod29ubHJQZXNXeGNqN2wtTkpCOUlkOWN6VU40OFBiSEl0NGhXeWF2bXdZZ0kwYVNIcW56R0RRcVlHRjRwUnVKRTBpVFZVMFBmMkZPeGZKbGw0dXBGUmtPalgwWkNqTFhUd0ZHWkZyUmhxRHFBTXQzaHFYeFdvc3RKdFZqS3BLOUR5WDhyU09VbzRQX1k?oc=5",
-      "source": "MilitaryNews.com",
-      "published": "2026-06-11",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk Naval Shipyard's AI help assistant (Amelia) represents platform-delivered automation for workforce support—users interact with AI tools without building underlying capability, signaling shallow but functional adoption in defense-industrial contexts.",
+      "title": "Bedford County wants out of a broadband deployment project that is in danger of missing a federal deadline",
+      "url": "https://cardinalnews.org/2026/06/16/bedford-county-wants-out-of-a-broadband-deployment-project-that-is-in-danger-of-missing-a-federal-deadline/",
+      "source": "Cardinal News",
+      "published": "2026-06-16",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Bedford County's stalled broadband deployment missing federal deadlines means Southwest/Southside lack the connectivity infrastructure prerequisite for any AI adoption—neither deep capability nor shallow platform access can materialize without basic internet service.",
       "fetched": "2026-06-16"
     }
   ]
