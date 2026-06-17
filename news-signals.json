@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16",
-  "next_check": "2026-06-17",
+  "last_updated": "2026-06-17",
+  "next_check": "2026-06-18",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
+      "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum",
+      "url": "https://cardinalnews.org/2026/06/17/tech-briefs-virginia-tech-adds-an-artificial-intelligence-minor-to-its-curriculum/",
+      "source": "Cardinal News",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech launching an AI minor creates deep capability infrastructure in a non-metro region, potentially seeding distributed expertise through a major public university accessible to students across economic backgrounds.",
+      "fetched": "2026-06-17"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops by a Norfolk native closing the technology gap signals grassroots, peer-to-peer capability building in Hampton Roads—exactly the distributed, deep learning model that could spread AI fluency beyond metro elites through community networks.",
-      "fetched": "2026-06-16"
+      "signal_reading": "Free community AI workshops targeting the 'technology gap' represent grassroots capability-building outside elite institutions, signaling peer-to-peer knowledge distribution that could democratize foundational AI fluency in a historically maritime/military region.",
+      "fetched": "2026-06-17"
+    },
+    {
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Direct commentary on data centers increasing the urban-rural divide captures the structural risk that AI infrastructure concentrates economic benefits in NoVA while extracting resources (land, energy, tax breaks) from regions seeing neither workforce development nor capability gains.",
+      "fetched": "2026-06-17"
     },
     {
       "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
       "source": "Children's National",
       "published": "2026-06-02",
-      "region": "Roanoke / New River Valley",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Children's National partnering with Virginia Tech for pediatric AI research concentrates advanced AI R&D capability in the New River Valley academic hub, deepening expertise in a specific metro pocket rather than distributing it across underserved regions.",
-      "fetched": "2026-06-16"
+      "signal_reading": "Children's National-Virginia Tech partnership concentrates pediatric AI R&D capacity between two elite institutions, creating deep specialized expertise but signaling metro hub gravity rather than distributed healthcare AI capability across underserved rural Virginia communities.",
+      "fetched": "2026-06-17"
     },
     {
-      "title": "Data center supply chains are moving into rural areas that need jobs. This complicates the debate over taxation.",
-      "url": "https://cardinalnews.org/2026/06/16/data-center-supply-chains-are-moving-into-rural-areas-that-need-jobs-this-complicates-the-debate-over-taxation/",
-      "source": "Cardinal News",
-      "published": "2026-06-16",
-      "region": "Southwest & Southside",
+      "title": "Tony Stark’s J.A.R.V.I.S., meet Amelia, Norfolk Naval Shipyard’s IT AI help assistant - MilitaryNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNnhzYnFmd2YycEkxVm1JZGFqWTI1UHVxQ2NLRHh3SC15VFlLRE1pZEgwZ3gyczZiNWYtWUdJam1QMmlFNGFPbEl6bWVONkRFMVJnYnpuTFF6aWlFLXU2Wk1BbnQ2czdXQ1lTMjdEdkZQSnE0c0JXSHlteVZBX1Nod29ubHJQZXNXeGNqN2wtTkpCOUlkOWN6VU40OFBiSEl0NGhXeWF2bXdZZ0kwYVNIcW56R0RRcVlHRjRwUnVKRTBpVFZVMFBmMkZPeGZKbGw0dXBGUmtPalgwWkNqTFhUd0ZHWkZyUmhxRHFBTXQzaHFYeFdvc3RKdFZqS3BLOUR5WDhyU09VbzRQX1k?oc=5",
+      "source": "MilitaryNews.com",
+      "published": "2026-06-11",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Data center supply chains bringing manufacturing jobs to rural Southwest/Southside creates economic dependence on AI infrastructure without building local AI capability—these communities supply the physical layer while metro areas capture the knowledge work.",
-      "fetched": "2026-06-16"
-    },
-    {
-      "title": "New artificial intelligence minor launches this fall - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSktaeVlXRENPLUEyTkplRnVtUXNzeHlGQ1hNeTFoNldDcmljM2VrZVRWcHI5NXNGdlFDTEp1UnJKdW9NMzEyT2swZ09kQkxhT1k2VzlmMVBIWkQ3Qm1IVk5LQzBIbUZvRV8yQ2g0Yzg4ZEl5eHp0b3B4VW1CeDNtRkhYWWdmVUFGOEh2R21EVk4weXlXdEJOb0pJTQ?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-06-15",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech launching an AI minor signals institutional commitment to building deep technical fluency that could distribute through alumni networks across Virginia, though impact depends on whether graduates stay distributed or concentrate in NoVA/metro hubs.",
-      "fetched": "2026-06-16"
-    },
-    {
-      "title": "Bedford County wants out of a broadband deployment project that is in danger of missing a federal deadline",
-      "url": "https://cardinalnews.org/2026/06/16/bedford-county-wants-out-of-a-broadband-deployment-project-that-is-in-danger-of-missing-a-federal-deadline/",
-      "source": "Cardinal News",
-      "published": "2026-06-16",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Bedford County's stalled broadband deployment missing federal deadlines means Southwest/Southside lack the connectivity infrastructure prerequisite for any AI adoption—neither deep capability nor shallow platform access can materialize without basic internet service.",
-      "fetched": "2026-06-16"
+      "signal_reading": "Norfolk Naval Shipyard deploying an AI help assistant represents platform-driven adoption that enables task completion without building deep AI literacy among workers—shallow but functional integration that could spread across federal facilities without creating local expertise depth.",
+      "fetched": "2026-06-17"
     }
   ]
 }
