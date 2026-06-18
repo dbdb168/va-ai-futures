@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17",
-  "next_check": "2026-06-18",
+  "last_updated": "2026-06-18",
+  "next_check": "2026-06-19",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -15,10 +15,10 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in distributed AI literacy outside major metros, creating potential peer learning networks that could spread deep capability through Southwest Virginia's workforce beyond platform-level adoption.",
-      "fetched": "2026-06-17"
+      "signal_reading": "Roanoke College's WorkAI Lab represents non-metro institution building deep capability outside traditional tech hubs, creating potential for distributed AI fluency through leadership development and peer learning networks in smaller cities.",
+      "fetched": "2026-06-18"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,38 +27,38 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots capability building explicitly targeting equity gaps, offering a distributed peer-learning pathway that could build deep fluency rather than shallow platform consumption if sustained.",
-      "fetched": "2026-06-17"
-    },
-    {
-      "title": "Children’s National and Virginia Tech deepen pediatric AI collaboration to accelerate innovation for children - Children's National",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEFxMUFUZFBXeVE2MFB6ekhLRDA4RzQxX0x4RndXbVRUcnFuZzlwNE5lZmxSUGM2amtBU2tfMjhMVGJGd3oxLXdXUzVlNm51NExZR3lMWmtFSVBhYWxSYVZJdURjYVlJY25oc0IxaVdEajFzLUJVZDhKQ3lpaG8yZjFtUDY4YVlBTldlVVZPOUN5aEJqXzlSVFZNLW9Fc3VQVzJqQmRVRloyQThmLUpEWXNNa2drMHNvQzVlZ3BHdENkbGVPampYZnVBZnlvaTlocTJQY21jMnFCcWVlcnBLdnIxcHNnQWpBV1Zia2lCZw?oc=5",
-      "source": "Children's National",
-      "published": "2026-06-02",
-      "region": "Statewide (NoVA + Southwest)",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Children's National-Virginia Tech partnership concentrates specialized pediatric AI expertise between two elite institutions, deepening capability in specific nodes while the collaboration structure reinforces hub-and-spoke patterns rather than distributing know-how to community providers.",
-      "fetched": "2026-06-17"
+      "signal_reading": "Free community-led AI workshops targeting the 'technology gap' signal grassroots capability building in Hampton Roads, demonstrating distributed peer learning that could enable deep fluency beyond metro concentration zones.",
+      "fetched": "2026-06-18"
     },
     {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
       "source": "The Cavalier Daily",
       "published": "2026-05-26",
-      "region": "Statewide (policy/infrastructure)",
+      "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "This commentary explicitly names data center concentration in NoVA as infrastructure that increases urban-rural divide, signaling how AI's physical footprint may entrench advantages without generating distributed capability or economic spillover to non-metro regions.",
-      "fetched": "2026-06-17"
+      "signal_reading": "Opinion piece explicitly frames data center concentration as deepening urban-rural divide, signaling infrastructure that benefits NoVA economically while neither distributing capability nor building deep AI literacy in underserved regions.",
+      "fetched": "2026-06-18"
     },
     {
-      "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum",
-      "url": "https://cardinalnews.org/2026/06/17/tech-briefs-virginia-tech-adds-an-artificial-intelligence-minor-to-its-curriculum/",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU partnership with AI Ready RVA concentrates educational and innovation resources in the Richmond metro hub, potentially deepening capability in state capital region while question remains whether knowledge transfers beyond the metro.",
+      "fetched": "2026-06-18"
+    },
+    {
+      "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHBMZk03NWE5V3ZxR0xxUkxLR2JacF9UMFVFbkNyWWVJbUl6V1lMY2FtOE43REhVeE9jS0ZEUV9TTmF6aUFzWXhBRUhIc19pWXZUdWlDeUFzM2V2V1RZdS1NcWI1S2UxRGt4R1NvYUk3ajBVbGx1U1hPS1hWYWN6ZlI4U2M3TE0tZ0VQZVN4REJTVUxxMVVtaVlwNllfYmFmS0Nid3RsUEJpQVdrblp6MHZBNnhFdkRLY3c?oc=5",
       "source": "Cardinal News",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's new AI minor creates curriculum infrastructure for deep technical capability in the New River Valley, potentially seeding peer networks among graduates who could distribute expertise through regional employers rather than immediately migrating to NoVA.",
-      "fetched": "2026-06-17"
+      "signal_reading": "Virginia Tech adding AI minor to curriculum builds deep technical capability in non-NoVA region with strong peer network effects through university system, creating foundation for distributed expertise if graduates remain regionally dispersed.",
+      "fetched": "2026-06-18"
     }
   ]
 }
