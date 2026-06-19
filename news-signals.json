@@ -11,43 +11,23 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A WorkAI Lab at Roanoke College signals intentional capability-building in a non-metro region, creating potential for distributed deep learning if it develops peer networks beyond campus boundaries rather than remaining an isolated institutional initiative.",
-      "fetched": "2026-06-19"
-    },
-    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native directly target distribution and accessibility, potentially seeding peer-to-peer learning networks that could enable deep adoption outside traditional tech hubs if sustained beyond initial sessions.",
+      "signal_reading": "Free AI workshops led by a local Norfolk native represent grassroots peer-to-peer knowledge transfer in Hampton Roads, signaling distributed capability-building outside traditional tech hubs through community-driven education rather than platform dependence.",
       "fetched": "2026-06-19"
     },
     {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Explicit acknowledgment that data center concentration in NoVA deepens urban-rural divides signals infrastructure investment flowing to already-capable regions while economic benefits remain geographically locked, reinforcing rather than bridging the capability gap.",
-      "fetched": "2026-06-19"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests rapid platform-driven adoption creating displacement anxiety without corresponding deep skill development, pointing toward shallow engagement where workers adapt to AI tools rather than building AI capability.",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI fluency outside NoVA/Richmond metros, potentially seeding distributed capability through workforce training that could activate peer networks in underserved regions.",
       "fetched": "2026-06-19"
     },
     {
@@ -55,9 +35,29 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHBMZk03NWE5V3ZxR0xxUkxLR2JacF9UMFVFbkNyWWVJbUl6V1lMY2FtOE43REhVeE9jS0ZEUV9TTmF6aUFzWXhBRUhIc19pWXZUdWlDeUFzM2V2V1RZdS1NcWI1S2UxRGt4R1NvYUk3ajBVbGx1U1hPS1hWYWN6ZlI4U2M3TE0tZ0VQZVN4REJTVUxxMVVtaVlwNllfYmFmS0Nid3RsUEJpQVdrblp6MHZBNnhFdkRLY3c?oc=5",
       "source": "Cardinal News",
       "published": "2026-06-17",
-      "region": "Statewide",
+      "region": "Southwest / Roanoke",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's AI minor concentrates advanced curriculum development at an existing research institution, potentially deepening capability in the New River Valley hub while raising questions about whether this knowledge diffuses to community colleges and regional campuses serving underserved areas.",
+      "signal_reading": "Virginia Tech adding an AI minor concentrates deep technical capability in an existing research hub, reinforcing the 'pockets' pattern where educational infrastructure advantages compound rather than distributing AI fluency to adjacent rural communities.",
+      "fetched": "2026-06-19"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "A $50M+ data center infrastructure investment in Henrico adds 200 jobs but signals shallow AI engagement—physical infrastructure without corresponding workforce capability development, widening the gap between capital investment and distributed AI literacy.",
+      "fetched": "2026-06-19"
+    },
+    {
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Student commentary explicitly naming data centers as drivers of urban-rural divide reflects growing awareness that infrastructure concentration in NoVA/metros creates geographic capability gaps without intentional distribution mechanisms or deep local adoption.",
       "fetched": "2026-06-19"
     }
   ]
