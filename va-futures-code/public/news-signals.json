@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18",
-  "next_check": "2026-06-19",
+  "last_updated": "2026-06-19",
+  "next_check": "2026-06-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "A regional college launching an AI workforce lab signals distributed capability-building outside major metros, creating peer learning infrastructure that could spread deep AI fluency through workforce networks rather than concentrating in NoVA/Richmond hubs.",
-      "fetched": "2026-06-18"
+      "signal_reading": "A WorkAI Lab at Roanoke College signals intentional capability-building in a non-metro region, creating potential for distributed deep learning if it develops peer networks beyond campus boundaries rather than remaining an isolated institutional initiative.",
+      "fetched": "2026-06-19"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,18 +27,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops explicitly targeting the technology gap represent grassroots distribution of AI literacy outside the NoVA corridor, building local capacity through peer networks rather than platform dependency or metro concentration.",
-      "fetched": "2026-06-18"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership creates deep institutional AI capability in Richmond, but the metro-anchored model risks replicating the NoVA concentration pattern rather than distributing capability to underserved regions like Southside or Southwest.",
-      "fetched": "2026-06-18"
+      "signal_reading": "Free community AI workshops led by a Norfolk native directly target distribution and accessibility, potentially seeding peer-to-peer learning networks that could enable deep adoption outside traditional tech hubs if sustained beyond initial sessions.",
+      "fetched": "2026-06-19"
     },
     {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
@@ -47,18 +37,28 @@
       "published": "2026-05-26",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Data center infrastructure concentrating in NoVA without corresponding workforce development or regional distribution mechanisms deepens the urban-rural divide, creating physical AI infrastructure in one region while capability gaps widen elsewhere.",
-      "fetched": "2026-06-18"
+      "signal_reading": "Explicit acknowledgment that data center concentration in NoVA deepens urban-rural divides signals infrastructure investment flowing to already-capable regions while economic benefits remain geographically locked, reinforcing rather than bridging the capability gap.",
+      "fetched": "2026-06-19"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests rapid platform-driven adoption creating displacement anxiety without corresponding deep skill development, pointing toward shallow engagement where workers adapt to AI tools rather than building AI capability.",
+      "fetched": "2026-06-19"
     },
     {
       "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum - Cardinal News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHBMZk03NWE5V3ZxR0xxUkxLR2JacF9UMFVFbkNyWWVJbUl6V1lMY2FtOE43REhVeE9jS0ZEUV9TTmF6aUFzWXhBRUhIc19pWXZUdWlDeUFzM2V2V1RZdS1NcWI1S2UxRGt4R1NvYUk3ajBVbGx1U1hPS1hWYWN6ZlI4U2M3TE0tZ0VQZVN4REJTVUxxMVVtaVlwNllfYmFmS0Nid3RsUEJpQVdrblp6MHZBNnhFdkRLY3c?oc=5",
       "source": "Cardinal News",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech adding an AI minor creates deep technical capability in the New River Valley but as a traditional academic program may concentrate expertise among credentialed students rather than distributing fluency broadly through workforce and community networks.",
-      "fetched": "2026-06-18"
+      "signal_reading": "Virginia Tech's AI minor concentrates advanced curriculum development at an existing research institution, potentially deepening capability in the New River Valley hub while raising questions about whether this knowledge diffuses to community colleges and regional campuses serving underserved areas.",
+      "fetched": "2026-06-19"
     }
   ]
 }
