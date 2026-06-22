@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Virginia’s technical workforce faces uncertainty as funding runs out for middle school program",
-      "url": "https://cardinalnews.org/2026/06/22/middle-school-program-to-grow-virginias-technical-workforce-faces-uncertainty-as-funding-runs-out/",
-      "source": "Cardinal News",
-      "published": "2026-06-22",
-      "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Loss of GO TEC funding in historically underserved Southside signals failure to build foundational technical literacy in regions already behind, deepening the preconditions for concentrated rather than distributed AI capability development.",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capability-building infrastructure outside metro hubs, potentially seeding peer-to-peer learning networks that could distribute deep AI fluency beyond traditional tech corridors.",
       "fetched": "2026-06-22"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops by a Norfolk native attempting to 'close the technology gap' represents grassroots peer-to-peer knowledge distribution outside traditional institutions, though sustainability and depth remain uncertain without institutional backing.",
+      "signal_reading": "A Norfolk native returning to deliver free AI workshops signals grassroots knowledge distribution through community networks, creating pathways for deep engagement beyond platform-mediated shallow adoption in a non-metro region.",
       "fetched": "2026-06-22"
     },
     {
@@ -37,27 +37,27 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formal partnership with AI Ready RVA concentrates institutional resources and expertise in Richmond metro, potentially deepening capability in the capital region while question of knowledge diffusion to surrounding areas remains unaddressed.",
+      "signal_reading": "VCU's partnership with AI Ready RVA concentrates educational infrastructure and innovation capacity in Richmond Metro, deepening capabilities in an existing hub rather than distributing them to underserved regions.",
       "fetched": "2026-06-22"
     },
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
+      "title": "Virginia’s technical workforce faces uncertainty as funding runs out for middle school program",
+      "url": "https://cardinalnews.org/2026/06/22/middle-school-program-to-grow-virginias-technical-workforce-faces-uncertainty-as-funding-runs-out/",
+      "source": "Cardinal News",
+      "published": "2026-06-22",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "GO TEC's potential termination in Southside due to funding loss exemplifies how fragile technical workforce development remains in rural Virginia, signaling neither depth nor distribution where it's needed most for economic transition.",
+      "fetched": "2026-06-22"
+    },
+    {
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Roanoke College's WorkAI Lab launch creates institutional AI education capacity in a mid-tier region, but as a single-institution initiative signals concentrated rather than distributed capability building even within the Roanoke Valley.",
-      "fetched": "2026-06-22"
-    },
-    {
-      "title": "Va. job market faces AI challenge: high-achieving college grads 'having trouble getting jobs' - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFlZWGduX3MtdFFTdm1mYk1fanhmZzRXNFNlNXkwbmwza05mUmhFeDJBWVVrS0dZMm9aelgybms0M3lNWkoySXpIUjFUZE9kalZRRW94Rk1uYk5IVnI2VThkTEJJQnZqdlhLZm5oQ1ZJUlR1cWRiVU82R2dUWmZLSGRnUm5QUG5hY3NBZHM3dzhMNmJteVp2cV96NVhkQWs?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-06-20",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "High-achieving college graduates struggling to find jobs as AI automates entry-level work suggests shallow platform-driven AI adoption by employers focused on displacement rather than workforce augmentation or deep capability building.",
+      "signal_reading": "Commentary explicitly naming AI data centers as drivers of urban-rural divide confirms concentration dynamics, where NoVA captures infrastructure benefits while distribution mechanisms to rural regions remain absent or theoretical.",
       "fetched": "2026-06-22"
     }
   ]
