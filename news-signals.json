@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21",
-  "next_check": "2026-06-22",
+  "last_updated": "2026-06-22",
+  "next_check": "2026-06-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,14 +11,24 @@
   ],
   "signals": [
     {
+      "title": "Virginia’s technical workforce faces uncertainty as funding runs out for middle school program",
+      "url": "https://cardinalnews.org/2026/06/22/middle-school-program-to-grow-virginias-technical-workforce-faces-uncertainty-as-funding-runs-out/",
+      "source": "Cardinal News",
+      "published": "2026-06-22",
+      "region": "Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Loss of GO TEC funding in historically underserved Southside signals failure to build foundational technical literacy in regions already behind, deepening the preconditions for concentrated rather than distributed AI capability development.",
+      "fetched": "2026-06-22"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting Hampton Roads residents signal grassroots capability building outside traditional tech hubs, directly addressing the technology gap through distributed peer education rather than platform dependence.",
-      "fetched": "2026-06-21"
+      "signal_reading": "Free community AI workshops by a Norfolk native attempting to 'close the technology gap' represents grassroots peer-to-peer knowledge distribution outside traditional institutions, though sustainability and depth remain uncertain without institutional backing.",
+      "fetched": "2026-06-22"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,8 +37,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional partnership with AI Ready RVA concentrates deep AI education and innovation infrastructure in the state capital, potentially creating a secondary hub but not yet indicating rural knowledge distribution mechanisms.",
-      "fetched": "2026-06-21"
+      "signal_reading": "VCU's formal partnership with AI Ready RVA concentrates institutional resources and expertise in Richmond metro, potentially deepening capability in the capital region while question of knowledge diffusion to surrounding areas remains unaddressed.",
+      "fetched": "2026-06-22"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
@@ -36,29 +46,19 @@
       "source": "Roanoke College",
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents intentional deep capability building in a non-metro region, suggesting peer network development that could challenge the concentration pattern if sustained beyond initial launch.",
-      "fetched": "2026-06-21"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Roanoke College's WorkAI Lab launch creates institutional AI education capacity in a mid-tier region, but as a single-institution initiative signals concentrated rather than distributed capability building even within the Roanoke Valley.",
+      "fetched": "2026-06-22"
     },
     {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
+      "title": "Va. job market faces AI challenge: high-achieving college grads 'having trouble getting jobs' - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFlZWGduX3MtdFFTdm1mYk1fanhmZzRXNFNlNXkwbmwza05mUmhFeDJBWVVrS0dZMm9aelgybms0M3lNWkoySXpIUjFUZE9kalZRRW94Rk1uYk5IVnI2VThkTEJJQnZqdlhLZm5oQ1ZJUlR1cWRiVU82R2dUWmZLSGRnUm5QUG5hY3NBZHM3dzhMNmJteVp2cV96NVhkQWs?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-06-20",
       "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly naming the urban-rural divide around AI data centers reveals infrastructure benefits concentrating in NoVA while other regions lack both the economic gains and skill development pathways.",
-      "fetched": "2026-06-21"
-    },
-    {
-      "title": "Norfolk businesses are being urged not to miss out on the benefits of artificial intelligence - Rayo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaHlGem1VR2xHWVlONnYzeXpFZENKcnhiN1pKUUVsNFkxVms4WnlPMVdkYzhwa0w5eGwzRUYtZGNSM2gwWHdCRlBpRGxMTkt5bUZBR2FKYjZPbnFZOGM5SHhEQUJPQWtFbmQzaU9HOUh4bDRYRWxZUE5ubkJ4d2pwUzdJSV9OeWV2Mmp4UEJtMGpLeDJuY0kyaFd5OUVUTDEtZHV0R29fSWw5Q19GWWNBNVRRR2JhajM4VHBMbGpWejdFMml0Z2h4SUtORTFUSEpYYktZR2ZWcFhGbzRHZnJjT0ZB?oc=5",
-      "source": "Rayo",
-      "published": "2026-06-19",
-      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Urging Norfolk businesses to adopt AI without emphasis on deep skill development suggests platform-layer consumption rather than foundational capability building, risking shallow distributed adoption dependent on vendor tools.",
-      "fetched": "2026-06-21"
+      "signal_reading": "High-achieving college graduates struggling to find jobs as AI automates entry-level work suggests shallow platform-driven AI adoption by employers focused on displacement rather than workforce augmentation or deep capability building.",
+      "fetched": "2026-06-22"
     }
   ]
 }
