@@ -15,9 +15,9 @@
       "url": "https://cardinalnews.org/2026/06/22/middle-school-program-to-grow-virginias-technical-workforce-faces-uncertainty-as-funding-runs-out/",
       "source": "Cardinal News",
       "published": "2026-06-22",
-      "region": "Southside",
+      "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Loss of foundational technical education funding in historically underserved regions signals neither deep AI capability nor broad distribution—youth pipeline collapse widens the preparation gap before AI adoption can even begin.",
+      "signal_reading": "The collapse of GO TEC funding in Virginia's most underserved regions signals failure to build foundational technical capacity where it's needed most, widening the gap as metro areas advance toward AI while rural areas lose even pre-AI technical workforce programs.",
       "fetched": "2026-06-23"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A dedicated WorkAI Lab at Roanoke College suggests emerging depth in a mid-tier region, but institutional concentration at a single college signals limited distribution—building excellence without the peer networks for broader diffusion.",
+      "signal_reading": "A dedicated WorkAI Lab at Roanoke College represents institutional investment in deep AI capability, but its concentration in a single higher-ed institution signals localized expertise development rather than distributed fluency across the region's broader workforce.",
       "fetched": "2026-06-23"
     },
     {
@@ -37,27 +37,27 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops delivered by a Norfolk native represent grassroots peer-to-peer knowledge transfer aimed at broad fluency—this is distributed capacity-building outside traditional institutional gatekeepers.",
+      "signal_reading": "Free community-based AI workshops led by a Norfolk native represent grassroots peer learning networks that could build distributed, deep capability outside traditional institutional channels—a key marker of the Build It Yourself pathway emerging in a non-NoVA region.",
       "fetched": "2026-06-23"
     },
     {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Northern Virginia",
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center concentration analysis explicitly names the urban-rural divide as a consequence of AI infrastructure clustering in NoVA—the infrastructure itself reinforces geographic concentration of both capital and capability.",
+      "signal_reading": "A $50M AI data center infrastructure investment in Henrico concentrates advanced technical capability and 200 specialized jobs in the Richmond metro hub, reinforcing the capital-intensive, geographically concentrated pattern of AI development.",
       "fetched": "2026-06-23"
     },
     {
-      "title": "Arlington cyber warfare startup raises $100M, reaches unicorn status",
-      "url": "https://virginiabusiness.com/arlington-cyber-warfare-startup-raises-100m-reaches-unicorn-status/",
-      "source": "Virginia Business",
-      "published": "2026-06-22",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Arlington cyber warfare unicorn reaching $1B valuation demonstrates NoVA's deepening AI-adjacent technical sophistication and capital access—advanced capability clustering in the metro corridor while other regions pursue basic workforce training.",
+      "title": "Henry County supervisors will consider data centers, battery energy storage in zoning rules",
+      "url": "https://cardinalnews.org/2026/06/23/henry-county-board-of-supervisors-looks-at-zoning-related-to-data-centers-and-energy-storage/",
+      "source": "Cardinal News",
+      "published": "2026-06-23",
+      "region": "Southwest & Southside",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Henry County's consideration of data center zoning represents infrastructure-layer participation in AI economy rather than capability development—Southside positions as power/land provider for AI built elsewhere, signaling shallow engagement with the technology itself.",
       "fetched": "2026-06-23"
     }
   ]
