@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22",
-  "next_check": "2026-06-23",
+  "last_updated": "2026-06-23",
+  "next_check": "2026-06-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,14 +11,24 @@
   ],
   "signals": [
     {
+      "title": "Virginia’s technical workforce faces uncertainty as funding runs out for middle school program",
+      "url": "https://cardinalnews.org/2026/06/22/middle-school-program-to-grow-virginias-technical-workforce-faces-uncertainty-as-funding-runs-out/",
+      "source": "Cardinal News",
+      "published": "2026-06-22",
+      "region": "Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Loss of foundational technical education funding in historically underserved regions signals neither deep AI capability nor broad distribution—youth pipeline collapse widens the preparation gap before AI adoption can even begin.",
+      "fetched": "2026-06-23"
+    },
+    {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capability-building infrastructure outside metro hubs, potentially seeding peer-to-peer learning networks that could distribute deep AI fluency beyond traditional tech corridors.",
-      "fetched": "2026-06-22"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A dedicated WorkAI Lab at Roanoke College suggests emerging depth in a mid-tier region, but institutional concentration at a single college signals limited distribution—building excellence without the peer networks for broader diffusion.",
+      "fetched": "2026-06-23"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,28 +37,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "A Norfolk native returning to deliver free AI workshops signals grassroots knowledge distribution through community networks, creating pathways for deep engagement beyond platform-mediated shallow adoption in a non-metro region.",
-      "fetched": "2026-06-22"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA concentrates educational infrastructure and innovation capacity in Richmond Metro, deepening capabilities in an existing hub rather than distributing them to underserved regions.",
-      "fetched": "2026-06-22"
-    },
-    {
-      "title": "Virginia’s technical workforce faces uncertainty as funding runs out for middle school program",
-      "url": "https://cardinalnews.org/2026/06/22/middle-school-program-to-grow-virginias-technical-workforce-faces-uncertainty-as-funding-runs-out/",
-      "source": "Cardinal News",
-      "published": "2026-06-22",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "GO TEC's potential termination in Southside due to funding loss exemplifies how fragile technical workforce development remains in rural Virginia, signaling neither depth nor distribution where it's needed most for economic transition.",
-      "fetched": "2026-06-22"
+      "signal_reading": "Free community AI workshops delivered by a Norfolk native represent grassroots peer-to-peer knowledge transfer aimed at broad fluency—this is distributed capacity-building outside traditional institutional gatekeepers.",
+      "fetched": "2026-06-23"
     },
     {
       "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
@@ -57,8 +47,18 @@
       "published": "2026-05-26",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Commentary explicitly naming AI data centers as drivers of urban-rural divide confirms concentration dynamics, where NoVA captures infrastructure benefits while distribution mechanisms to rural regions remain absent or theoretical.",
-      "fetched": "2026-06-22"
+      "signal_reading": "Data center concentration analysis explicitly names the urban-rural divide as a consequence of AI infrastructure clustering in NoVA—the infrastructure itself reinforces geographic concentration of both capital and capability.",
+      "fetched": "2026-06-23"
+    },
+    {
+      "title": "Arlington cyber warfare startup raises $100M, reaches unicorn status",
+      "url": "https://virginiabusiness.com/arlington-cyber-warfare-startup-raises-100m-reaches-unicorn-status/",
+      "source": "Virginia Business",
+      "published": "2026-06-22",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Arlington cyber warfare unicorn reaching $1B valuation demonstrates NoVA's deepening AI-adjacent technical sophistication and capital access—advanced capability clustering in the metro corridor while other regions pursue basic workforce training.",
+      "fetched": "2026-06-23"
     }
   ]
 }
