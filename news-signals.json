@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-24",
-  "next_check": "2026-06-24",
+  "next_check": "2026-06-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting Hampton Roads residents directly counter concentration dynamics by building grassroots capability in a non-metro hub region, signaling potential for peer-to-peer knowledge distribution outside traditional tech corridors.",
+      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots capability building outside traditional tech hubs, demonstrating distributed peer-to-peer knowledge transfer that could bridge the urban-rural divide if scaled.",
       "fetched": "2026-06-24"
     },
     {
@@ -25,9 +25,9 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "A WorkAI Lab at Roanoke College in Appalachian Virginia creates institutional infrastructure for deep AI leadership development outside NoVA/Richmond, potentially catalyzing distributed capability in a historically underserved region.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy beyond NoVA, creating regional capacity for workforce transformation rather than shallow tool adoption.",
       "fetched": "2026-06-24"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Student editorial explicitly names AI data centers asDriverError of urban-rural divide, signaling that current infrastructure investment patterns are concentrating economic benefits while distributing environmental costs, deepening rather than bridging regional gaps.",
+      "signal_reading": "Student analysis explicitly identifies data center concentration in NoVA as exacerbating urban-rural divides, signaling that infrastructure investment alone doesn't distribute capability without intentional equity mechanisms.",
       "fetched": "2026-06-24"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-06-24",
       "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Defunding GO TEC technical workforce program serving 49 school divisions (many rural) while AI demand surges signals state policy failure to build distributed capability infrastructure precisely when transition support is most critical.",
+      "signal_reading": "Defunding the GO TEC technical workforce program serving 49 rural school divisions removes a key pathway for distributed AI-adjacent capability, actively pushing toward concentration rather than distribution.",
       "fetched": "2026-06-24"
     },
     {
-      "title": "Virginia job market faces AI challenge: high-achieving college grads ‘having trouble getting jobs’ - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RS3ZaT2dFUmVTS0stZ2I3dWY1b0Z4YmIzMlR2SzJxU0FtOXEzZHZvN0lIOFZ6dERYMkpmLXl5NlFTcl96SXZBY3hmdW53Wk9MM1lXWGR3dmxISmkwOHFMWnhYMWJNUXZxdWZ2bk1pbEo?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-06-20",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "High-achieving college graduates struggling to find jobs despite AI boom suggests platforms are automating entry-level work faster than creating new roles, pointing toward shallow adoption that compresses rather than expands the skills ladder.",
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $50M+ data center infrastructure investment with 200 jobs in Henrico deepens Richmond's emerging tech hub status but signals hardware/operations jobs rather than AI development capability that would indicate deep expertise.",
       "fetched": "2026-06-24"
     }
   ]
