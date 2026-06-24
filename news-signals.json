@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23",
+  "last_updated": "2026-06-24",
   "next_check": "2026-06-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
-      "title": "Virginia’s technical workforce faces uncertainty as funding runs out for middle school program",
-      "url": "https://cardinalnews.org/2026/06/22/middle-school-program-to-grow-virginias-technical-workforce-faces-uncertainty-as-funding-runs-out/",
-      "source": "Cardinal News",
-      "published": "2026-06-22",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "The collapse of GO TEC funding in Virginia's most underserved regions signals failure to build foundational technical capacity where it's needed most, widening the gap as metro areas advance toward AI while rural areas lose even pre-AI technical workforce programs.",
-      "fetched": "2026-06-23"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A dedicated WorkAI Lab at Roanoke College represents institutional investment in deep AI capability, but its concentration in a single higher-ed institution signals localized expertise development rather than distributed fluency across the region's broader workforce.",
-      "fetched": "2026-06-23"
-    },
-    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community-based AI workshops led by a Norfolk native represent grassroots peer learning networks that could build distributed, deep capability outside traditional institutional channels—a key marker of the Build It Yourself pathway emerging in a non-NoVA region.",
-      "fetched": "2026-06-23"
+      "signal_reading": "Free AI workshops targeting Hampton Roads residents directly counter concentration dynamics by building grassroots capability in a non-metro hub region, signaling potential for peer-to-peer knowledge distribution outside traditional tech corridors.",
+      "fetched": "2026-06-24"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M AI data center infrastructure investment in Henrico concentrates advanced technical capability and 200 specialized jobs in the Richmond metro hub, reinforcing the capital-intensive, geographically concentrated pattern of AI development.",
-      "fetched": "2026-06-23"
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A WorkAI Lab at Roanoke College in Appalachian Virginia creates institutional infrastructure for deep AI leadership development outside NoVA/Richmond, potentially catalyzing distributed capability in a historically underserved region.",
+      "fetched": "2026-06-24"
     },
     {
-      "title": "Henry County supervisors will consider data centers, battery energy storage in zoning rules",
-      "url": "https://cardinalnews.org/2026/06/23/henry-county-board-of-supervisors-looks-at-zoning-related-to-data-centers-and-energy-storage/",
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Student editorial explicitly names AI data centers asDriverError of urban-rural divide, signaling that current infrastructure investment patterns are concentrating economic benefits while distributing environmental costs, deepening rather than bridging regional gaps.",
+      "fetched": "2026-06-24"
+    },
+    {
+      "title": "Virginia needs more technical workers, but it&#8217;s stepping away from funding a program to develop them",
+      "url": "https://cardinalnews.org/2026/06/24/virginia-needs-more-technical-workers-but-its-stepping-away-from-funding-a-program-to-develop-them/",
       "source": "Cardinal News",
-      "published": "2026-06-23",
+      "published": "2026-06-24",
       "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Defunding GO TEC technical workforce program serving 49 school divisions (many rural) while AI demand surges signals state policy failure to build distributed capability infrastructure precisely when transition support is most critical.",
+      "fetched": "2026-06-24"
+    },
+    {
+      "title": "Virginia job market faces AI challenge: high-achieving college grads ‘having trouble getting jobs’ - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RS3ZaT2dFUmVTS0stZ2I3dWY1b0Z4YmIzMlR2SzJxU0FtOXEzZHZvN0lIOFZ6dERYMkpmLXl5NlFTcl96SXZBY3hmdW53Wk9MM1lXWGR3dmxISmkwOHFMWnhYMWJNUXZxdWZ2bk1pbEo?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-06-20",
+      "region": "Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "Henry County's consideration of data center zoning represents infrastructure-layer participation in AI economy rather than capability development—Southside positions as power/land provider for AI built elsewhere, signaling shallow engagement with the technology itself.",
-      "fetched": "2026-06-23"
+      "signal_reading": "High-achieving college graduates struggling to find jobs despite AI boom suggests platforms are automating entry-level work faster than creating new roles, pointing toward shallow adoption that compresses rather than expands the skills ladder.",
+      "fetched": "2026-06-24"
     }
   ]
 }
