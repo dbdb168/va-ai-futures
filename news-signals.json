@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-25",
-  "next_check": "2026-06-25",
+  "next_check": "2026-06-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,53 +11,53 @@
   ],
   "signals": [
     {
-      "title": "If Virginia&#8217;s &#8216;best state for business&#8217; ranking falls, data center taxation debate will get the blame",
-      "url": "https://cardinalnews.org/2026/06/25/if-virginias-best-state-for-business-ranking-falls-data-center-taxation-debate-will-get-the-blame/",
-      "source": "Cardinal News",
-      "published": "2026-06-25",
-      "region": "Northern Virginia",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab signals institutional capacity-building outside traditional tech hubs, creating potential peer learning infrastructure that could distribute deep AI fluency beyond NoVA if resources and network effects sustain.",
+      "fetched": "2026-06-25"
+    },
+    {
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Free community AI workshops in Hampton Roads represent grassroots skill distribution efforts that could bridge the technology gap through accessible peer learning, testing whether local initiative can counter metro concentration without platform dependence.",
+      "fetched": "2026-06-25"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center taxation debate signals concentrated infrastructure investment in NoVA/select regions, reinforcing deep technical capability clustering while other regions remain excluded from the AI infrastructure layer that enables advanced deployment.",
+      "signal_reading": "VCU's institutional AI partnership deepens Richmond's hub capability but risks creating another pocket of excellence rather than distribution mechanism unless AI Ready RVA actively extends beyond the metro core to surrounding communities.",
       "fetched": "2026-06-25"
     },
     {
-      "title": "Headlines from across the state: Spanberger weighs decisions on Oak Hill, utility refunds; more . . .",
-      "url": "https://cardinalnews.org/2026/06/25/headlines-from-across-the-state-spanberger-weighs-decisions-on-oak-hill-utility-refunds-more/",
-      "source": "Cardinal News",
-      "published": "2026-06-25",
-      "region": "Shenandoah Valley",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Counties implementing data center restrictions reveal infrastructure resistance in non-metro regions, potentially blocking the physical foundation needed for distributed AI capability while metro areas advance unconstrained.",
-      "fetched": "2026-06-25"
-    },
-    {
-      "title": "Boeing wins $2B Space Force contract",
-      "url": "https://virginiabusiness.com/boeing-wins-2b-space-force-contract/",
+      "title": "Digital Realty to buy Alexandria VC firm founded by Warner",
+      "url": "https://virginiabusiness.com/digital-realty-to-buy-alexandria-vc-firm-founded-by-warner/",
       "source": "Virginia Business",
-      "published": "2026-06-24",
+      "published": "2026-06-25",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $2B Space Force satellite contract to Boeing in Arlington deepens NoVA's aerospace-defense-AI integration, concentrating advanced technical expertise and defense AI applications in the metro corridor rather than distributing capability.",
+      "signal_reading": "A $775M acquisition of Alexandria-based Columbia Capital by Digital Realty reinforces NoVA's venture capital and data infrastructure dominance, concentrating both financial and technical AI capabilities in the state's wealthiest corridor.",
       "fetched": "2026-06-25"
     },
     {
-      "title": "Virginia legislators advance $205 billion budget including new tax on data centers",
-      "url": "https://virginiamercury.com/2026/06/22/virginia-legislators-advance-205-billion-budget-including-new-tax-on-data-centers/",
-      "source": "Virginia Mercury",
-      "published": "2026-06-22",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "New data center taxation in state budget acknowledges concentrated infrastructure investment but creates revenue redistribution mechanism—whether funds flow toward distributed AI workforce development or reinforce existing hubs will determine scenario trajectory.",
-      "fetched": "2026-06-25"
-    },
-    {
-      "title": "Amid statewide drought conditions, data centers face same restrictions as all water customers",
-      "url": "https://virginiamercury.com/2026/06/22/amid-statewide-drought-conditions-data-centers-face-same-restrictions-as-all-water-customers/",
-      "source": "Virginia Mercury",
-      "published": "2026-06-22",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Drought restrictions treating data centers as standard water customers reveals infrastructure constraint friction—concentrated AI infrastructure in specific regions now competes with basic community resources, potentially limiting expansion but not distribution.",
+      "title": "Controversy continues over AI device installations in Roanoke - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnR3cEhLZmo1QmxGY182eUN3amdFSFhKd19XdXBaRWdkR2JKYUxJYWdOM0wxelJuZ3RnUUNOcE15bVVSX3J3QUhwc2ZFNTM0WG9HT1l4MXljY0VQVmVzOU9Yc2ZGOUZsby16Qk1PbXJ4dVBwOTBENDJfTjJ1SXBJc3RlaWVxeWdOczZnRnAzbkxOWFVOUy1BSTRMeENIa2l3QnZ1NVlCeEw?oc=5",
+      "source": "WSLS",
+      "published": "2026-06-25",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI-powered surveillance device deployment in Roanoke demonstrates platform-delivered AI adoption that requires minimal local technical depth, signaling shallow but distributed capability through turnkey municipal technology procurement.",
       "fetched": "2026-06-25"
     }
   ]
