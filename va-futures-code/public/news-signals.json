@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24",
+  "last_updated": "2026-06-25",
   "next_check": "2026-06-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots capability building outside traditional tech hubs, demonstrating distributed peer-to-peer knowledge transfer that could bridge the urban-rural divide if scaled.",
-      "fetched": "2026-06-24"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy beyond NoVA, creating regional capacity for workforce transformation rather than shallow tool adoption.",
-      "fetched": "2026-06-24"
-    },
-    {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Student analysis explicitly identifies data center concentration in NoVA as exacerbating urban-rural divides, signaling that infrastructure investment alone doesn't distribute capability without intentional equity mechanisms.",
-      "fetched": "2026-06-24"
-    },
-    {
-      "title": "Virginia needs more technical workers, but it&#8217;s stepping away from funding a program to develop them",
-      "url": "https://cardinalnews.org/2026/06/24/virginia-needs-more-technical-workers-but-its-stepping-away-from-funding-a-program-to-develop-them/",
+      "title": "If Virginia&#8217;s &#8216;best state for business&#8217; ranking falls, data center taxation debate will get the blame",
+      "url": "https://cardinalnews.org/2026/06/25/if-virginias-best-state-for-business-ranking-falls-data-center-taxation-debate-will-get-the-blame/",
       "source": "Cardinal News",
-      "published": "2026-06-24",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Defunding the GO TEC technical workforce program serving 49 rural school divisions removes a key pathway for distributed AI-adjacent capability, actively pushing toward concentration rather than distribution.",
-      "fetched": "2026-06-24"
+      "published": "2026-06-25",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Data center taxation debate signals concentrated infrastructure investment in NoVA/select regions, reinforcing deep technical capability clustering while other regions remain excluded from the AI infrastructure layer that enables advanced deployment.",
+      "fetched": "2026-06-25"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
+      "title": "Headlines from across the state: Spanberger weighs decisions on Oak Hill, utility refunds; more . . .",
+      "url": "https://cardinalnews.org/2026/06/25/headlines-from-across-the-state-spanberger-weighs-decisions-on-oak-hill-utility-refunds-more/",
+      "source": "Cardinal News",
+      "published": "2026-06-25",
+      "region": "Shenandoah Valley",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Counties implementing data center restrictions reveal infrastructure resistance in non-metro regions, potentially blocking the physical foundation needed for distributed AI capability while metro areas advance unconstrained.",
+      "fetched": "2026-06-25"
+    },
+    {
+      "title": "Boeing wins $2B Space Force contract",
+      "url": "https://virginiabusiness.com/boeing-wins-2b-space-force-contract/",
+      "source": "Virginia Business",
+      "published": "2026-06-24",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ data center infrastructure investment with 200 jobs in Henrico deepens Richmond's emerging tech hub status but signals hardware/operations jobs rather than AI development capability that would indicate deep expertise.",
-      "fetched": "2026-06-24"
+      "signal_reading": "A $2B Space Force satellite contract to Boeing in Arlington deepens NoVA's aerospace-defense-AI integration, concentrating advanced technical expertise and defense AI applications in the metro corridor rather than distributing capability.",
+      "fetched": "2026-06-25"
+    },
+    {
+      "title": "Virginia legislators advance $205 billion budget including new tax on data centers",
+      "url": "https://virginiamercury.com/2026/06/22/virginia-legislators-advance-205-billion-budget-including-new-tax-on-data-centers/",
+      "source": "Virginia Mercury",
+      "published": "2026-06-22",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "New data center taxation in state budget acknowledges concentrated infrastructure investment but creates revenue redistribution mechanism—whether funds flow toward distributed AI workforce development or reinforce existing hubs will determine scenario trajectory.",
+      "fetched": "2026-06-25"
+    },
+    {
+      "title": "Amid statewide drought conditions, data centers face same restrictions as all water customers",
+      "url": "https://virginiamercury.com/2026/06/22/amid-statewide-drought-conditions-data-centers-face-same-restrictions-as-all-water-customers/",
+      "source": "Virginia Mercury",
+      "published": "2026-06-22",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Drought restrictions treating data centers as standard water customers reveals infrastructure constraint friction—concentrated AI infrastructure in specific regions now competes with basic community resources, potentially limiting expansion but not distribution.",
+      "fetched": "2026-06-25"
     }
   ]
 }
