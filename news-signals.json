@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-26",
-  "next_check": "2026-06-26",
+  "next_check": "2026-06-27",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,23 @@
   ],
   "signals": [
     {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capacity-building in a traditionally non-hub region, potentially distributing deep AI fluency beyond metro corridors if it achieves sustainable peer network effects beyond the initial institutional launch.",
+      "fetched": "2026-06-26"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops in Hampton Roads represent grassroots capability-building outside metro hubs, signaling potential for distributed deep learning through community-driven education rather than platform dependency.",
-      "fetched": "2026-06-26"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Roanoke College's WorkAI Lab demonstrates institutional AI investment in a mid-tier region, but its focus on leadership training rather than broad workforce development suggests concentrated expertise within educated cohorts rather than distributed capability.",
+      "signal_reading": "Free AI workshops targeting the 'technology gap' in Hampton Roads signal grassroots distribution efforts, though success depends on whether participants develop deep capability or remain in shallow tool-use—the Norfolk native's approach suggests peer-driven depth over platform dependency.",
       "fetched": "2026-06-26"
     },
     {
@@ -36,18 +36,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community impact and education infrastructure, creating conditions for distributed capability development beyond just tech sector concentration in Richmond.",
-      "fetched": "2026-06-26"
-    },
-    {
-      "title": "Digital Realty to buy Alexandria VC firm founded by Warner",
-      "url": "https://virginiabusiness.com/digital-realty-to-buy-alexandria-vc-firm-founded-by-warner/",
-      "source": "Virginia Business",
-      "published": "2026-06-25",
-      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $775 million VC acquisition in Alexandria reinforces NoVA's position as Virginia's AI capital formation center, concentrating investment decision-making power and deal flow in the metro corridor rather than distributing it statewide.",
+      "signal_reading": "VCU partnering with AI Ready RVA concentrates institutional resources and innovation capacity in Richmond's metro core, deepening the capital region's AI ecosystem while the 'community impact' framing reveals awareness that benefits may not automatically distribute to surrounding areas.",
       "fetched": "2026-06-26"
     },
     {
@@ -56,8 +46,18 @@
       "source": "WWBT",
       "published": "2026-04-09",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ AI infrastructure investment adding 200 jobs in Henrico signals Richmond's emergence as a secondary concentration node, but datacenter jobs may represent shallow operational roles rather than deep AI capability development.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "A $50M data center investment adding 200 jobs in Henrico signals infrastructure concentration rather than capability distribution—these facilities power AI elsewhere while creating local operations jobs that require shallow rather than deep AI fluency.",
+      "fetched": "2026-06-26"
+    },
+    {
+      "title": "Richmond summer program helps visually impaired students explore careers in technology and cybersecurity - WTVR.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFmZWpHdE9qdnB1aF90Ry1LWkVLREVLX2xmUEZvQkt4ejBkODliTnF6bndvRy1xMDVoZXdoTDRJeXZzZmVDN2xUUkVuNW8zeG1kUXVfQXdSbkNtZXg5Nk9qcFpzQTZlTmFrZ0Zidk5SN2pESWpvRHdydUVfQzJRdEk2V3RhT0FuSmtqS3hwTE1UUVZhU2NsZ24wUjVEMG8?oc=5",
+      "source": "WTVR.com",
+      "published": "2026-06-25",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Targeting visually impaired students for technology and cybersecurity careers demonstrates intentional equity-focused skill-building that could deepen AI capability in underrepresented groups, though its Richmond location and summer program format may limit geographic distribution.",
       "fetched": "2026-06-26"
     }
   ]
