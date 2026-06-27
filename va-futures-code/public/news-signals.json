@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "next_check": "2026-06-27",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capacity-building in a traditionally non-hub region, potentially distributing deep AI fluency beyond metro corridors if it achieves sustainable peer network effects beyond the initial institutional launch.",
-      "fetched": "2026-06-26"
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building in a traditionally non-tech region, signaling potential for distributed deep learning if the lab creates replicable peer networks beyond campus walls.",
+      "fetched": "2026-06-27"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,8 +27,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting the 'technology gap' in Hampton Roads signal grassroots distribution efforts, though success depends on whether participants develop deep capability or remain in shallow tool-use—the Norfolk native's approach suggests peer-driven depth over platform dependency.",
-      "fetched": "2026-06-26"
+      "signal_reading": "Free community AI workshops led by a Norfolk native directly address the distribution challenge through grassroots skill-building, testing whether peer-to-peer models can create depth outside capital-rich metros.",
+      "fetched": "2026-06-27"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -37,8 +37,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU partnering with AI Ready RVA concentrates institutional resources and innovation capacity in Richmond's metro core, deepening the capital region's AI ecosystem while the 'community impact' framing reveals awareness that benefits may not automatically distribute to surrounding areas.",
-      "fetched": "2026-06-26"
+      "signal_reading": "VCU's partnership with AI Ready RVA concentrates educational infrastructure in Richmond's metro core, risking a hub-and-spoke model where capability deepens regionally but doesn't distribute to Southside or Southwest.",
+      "fetched": "2026-06-27"
     },
     {
       "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
@@ -46,9 +46,9 @@
       "source": "WWBT",
       "published": "2026-04-09",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "A $50M data center investment adding 200 jobs in Henrico signals infrastructure concentration rather than capability distribution—these facilities power AI elsewhere while creating local operations jobs that require shallow rather than deep AI fluency.",
-      "fetched": "2026-06-26"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $50M data center investment adding 200 jobs in Henrico deepens Richmond's AI infrastructure layer but signals concentration—capital flows to established metros rather than distributing economic opportunity.",
+      "fetched": "2026-06-27"
     },
     {
       "title": "Richmond summer program helps visually impaired students explore careers in technology and cybersecurity - WTVR.com",
@@ -57,8 +57,8 @@
       "published": "2026-06-25",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "Targeting visually impaired students for technology and cybersecurity careers demonstrates intentional equity-focused skill-building that could deepen AI capability in underrepresented groups, though its Richmond location and summer program format may limit geographic distribution.",
-      "fetched": "2026-06-26"
+      "signal_reading": "A summer program targeting visually impaired students for tech careers demonstrates inclusive skill-building that could seed distributed capability if participants return to diverse Virginia communities with peer teaching capacity.",
+      "fetched": "2026-06-27"
     }
   ]
 }
