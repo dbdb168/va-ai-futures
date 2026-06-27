@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-27",
-  "next_check": "2026-06-27",
+  "next_check": "2026-06-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building in a traditionally non-tech region, signaling potential for distributed deep learning if the lab creates replicable peer networks beyond campus walls.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building in a non-metro region, signaling potential for distributed deep learning if the lab creates sustained peer networks beyond initial leadership training.",
       "fetched": "2026-06-27"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native directly address the distribution challenge through grassroots skill-building, testing whether peer-to-peer models can create depth outside capital-rich metros.",
+      "signal_reading": "Free community AI workshops led by a Norfolk native directly target the distribution dimension, though sustainability and depth depend on whether participants build ongoing learning communities or receive one-time exposure.",
       "fetched": "2026-06-27"
     },
     {
@@ -37,17 +37,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA concentrates educational infrastructure in Richmond's metro core, risking a hub-and-spoke model where capability deepens regionally but doesn't distribute to Southside or Southwest.",
-      "fetched": "2026-06-27"
-    },
-    {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M data center investment adding 200 jobs in Henrico deepens Richmond's AI infrastructure layer but signals concentration—capital flows to established metros rather than distributing economic opportunity.",
+      "signal_reading": "VCU's AI Ready RVA partnership concentrates institutional resources and expertise in the capital region, potentially deepening Richmond's capability hub while the community impact language suggests aspirations toward broader distribution that remain unproven.",
       "fetched": "2026-06-27"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-06-25",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "A summer program targeting visually impaired students for tech careers demonstrates inclusive skill-building that could seed distributed capability if participants return to diverse Virginia communities with peer teaching capacity.",
+      "signal_reading": "A specialized program bringing visually impaired students into tech careers demonstrates intentional inclusion work that could broaden the base of AI-capable workers, though small scale limits immediate distributional impact.",
+      "fetched": "2026-06-27"
+    },
+    {
+      "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHBMZk03NWE5V3ZxR0xxUkxLR2JacF9UMFVFbkNyWWVJbUl6V1lMY2FtOE43REhVeE9jS0ZEUV9TTmF6aUFzWXhBRUhIc19pWXZUdWlDeUFzM2V2V1RZdS1NcWI1S2UxRGt4R1NvYUk3ajBVbGx1U1hPS1hWYWN6ZlI4U2M3TE0tZ0VQZVN4REJTVUxxMVVtaVlwNllfYmFmS0Nid3RsUEJpQVdrblp6MHZBNnhFdkRLY3c?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's new AI minor adds academic depth in the New River Valley, but university-centered credentialing tends to concentrate expertise rather than distribute it unless paired with community extension programs.",
       "fetched": "2026-06-27"
     }
   ]
