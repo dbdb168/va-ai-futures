@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-06-28",
   "next_check": "2026-06-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building in a non-metro region, signaling potential for distributed deep learning if the lab creates sustained peer networks beyond initial leadership training.",
-      "fetched": "2026-06-27"
+      "signal_reading": "Roanoke College's WorkAI Lab represents distributed capacity-building outside metro corridors, creating peer learning infrastructure that could spread deeper AI fluency through leadership networks in underserved regions.",
+      "fetched": "2026-06-28"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,18 +27,18 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native directly target the distribution dimension, though sustainability and depth depend on whether participants build ongoing learning communities or receive one-time exposure.",
-      "fetched": "2026-06-27"
+      "signal_reading": "Free AI workshops by a Norfolk native directly address the distribution problem through grassroots knowledge transfer, signaling potential for peer-to-peer skill diffusion that builds depth beyond platform adoption.",
+      "fetched": "2026-06-28"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's AI Ready RVA partnership concentrates institutional resources and expertise in the capital region, potentially deepening Richmond's capability hub while the community impact language suggests aspirations toward broader distribution that remain unproven.",
-      "fetched": "2026-06-27"
+      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-05-26",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Student commentary explicitly identifying data centers as exacerbating urban-rural divides signals awareness that infrastructure concentration without capability distribution creates economic extraction rather than empowerment.",
+      "fetched": "2026-06-28"
     },
     {
       "title": "Richmond summer program helps visually impaired students explore careers in technology and cybersecurity - WTVR.com",
@@ -46,9 +46,9 @@
       "source": "WTVR.com",
       "published": "2026-06-25",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A specialized program bringing visually impaired students into tech careers demonstrates intentional inclusion work that could broaden the base of AI-capable workers, though small scale limits immediate distributional impact.",
-      "fetched": "2026-06-27"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Specialized summer program targeting visually impaired students in tech/cybersecurity demonstrates Richmond developing niche excellence in inclusive AI education, but program-based approach suggests limited scalability beyond concentrated resources.",
+      "fetched": "2026-06-28"
     },
     {
       "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum - Cardinal News",
@@ -56,9 +56,9 @@
       "source": "Cardinal News",
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's new AI minor adds academic depth in the New River Valley, but university-centered credentialing tends to concentrate expertise rather than distribute it unless paired with community extension programs.",
-      "fetched": "2026-06-27"
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech adding AI minor to curriculum creates distributed knowledge infrastructure through alumni networks radiating from New River Valley, potentially seeding deeper technical fluency across regions where graduates settle.",
+      "fetched": "2026-06-28"
     }
   ]
 }
