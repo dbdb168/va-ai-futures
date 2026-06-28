@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-28",
-  "next_check": "2026-06-28",
+  "next_check": "2026-06-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents distributed capacity-building outside metro corridors, creating peer learning infrastructure that could spread deeper AI fluency through leadership networks in underserved regions.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building in a non-metro region, creating potential for deep, distributed AI fluency beyond traditional tech hubs if it can develop sustainable peer learning networks.",
       "fetched": "2026-06-28"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops by a Norfolk native directly address the distribution problem through grassroots knowledge transfer, signaling potential for peer-to-peer skill diffusion that builds depth beyond platform adoption.",
+      "signal_reading": "Free community AI workshops by a Norfolk native directly address the distribution challenge, signaling grassroots capability-building that could spread deep fluency through peer networks rather than platform dependency.",
       "fetched": "2026-06-28"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Student commentary explicitly identifying data centers as exacerbating urban-rural divides signals awareness that infrastructure concentration without capability distribution creates economic extraction rather than empowerment.",
+      "signal_reading": "Commentary explicitly naming the urban-rural divide around data centers signals recognition that AI infrastructure concentration in NoVA may extract resources from rural areas without distributing capability or economic benefit.",
       "fetched": "2026-06-28"
     },
     {
@@ -47,7 +47,7 @@
       "published": "2026-06-25",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Specialized summer program targeting visually impaired students in tech/cybersecurity demonstrates Richmond developing niche excellence in inclusive AI education, but program-based approach suggests limited scalability beyond concentrated resources.",
+      "signal_reading": "Specialized tech/cybersecurity program for visually impaired students shows Richmond Metro developing targeted deep capability initiatives, but its specialized nature signals concentrated rather than broadly distributed skill development.",
       "fetched": "2026-06-28"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech adding AI minor to curriculum creates distributed knowledge infrastructure through alumni networks radiating from New River Valley, potentially seeding deeper technical fluency across regions where graduates settle.",
+      "signal_reading": "Virginia Tech adding an AI minor to curriculum creates foundational educational infrastructure in the New River Valley that could seed distributed deep expertise if graduates disperse regionally rather than migrating to metro hubs.",
       "fetched": "2026-06-28"
     }
   ]
