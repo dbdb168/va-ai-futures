@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28",
-  "next_check": "2026-06-29",
+  "last_updated": "2026-06-29",
+  "next_check": "2026-06-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building in a non-metro region, creating potential for deep, distributed AI fluency beyond traditional tech hubs if it can develop sustainable peer learning networks.",
-      "fetched": "2026-06-28"
+      "signal_reading": "A liberal arts college in Southwest Virginia launching a WorkAI Lab signals distributed capacity-building outside traditional tech hubs, creating peer networks for AI fluency in historically underserved regions—exactly the infrastructure needed for broad, deep adoption.",
+      "fetched": "2026-06-29"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,18 +27,18 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops by a Norfolk native directly address the distribution challenge, signaling grassroots capability-building that could spread deep fluency through peer networks rather than platform dependency.",
-      "fetched": "2026-06-28"
+      "signal_reading": "Free community AI workshops in Hampton Roads by a Norfolk native directly targets the 'technology gap' with grassroots skill-building, signaling distributed peer-to-peer knowledge transfer rather than platform dependency or concentration in established metros.",
+      "fetched": "2026-06-29"
     },
     {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly naming the urban-rural divide around data centers signals recognition that AI infrastructure concentration in NoVA may extract resources from rural areas without distributing capability or economic benefit.",
-      "fetched": "2026-06-28"
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $50M+ data center infrastructure investment in Henrico adds 200 jobs but concentrates AI-enabling infrastructure in an existing metro hub, reinforcing Richmond's position while rural areas remain infrastructure-poor—deepening rather than bridging the capability geography.",
+      "fetched": "2026-06-29"
     },
     {
       "title": "Richmond summer program helps visually impaired students explore careers in technology and cybersecurity - WTVR.com",
@@ -46,9 +46,9 @@
       "source": "WTVR.com",
       "published": "2026-06-25",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Specialized tech/cybersecurity program for visually impaired students shows Richmond Metro developing targeted deep capability initiatives, but its specialized nature signals concentrated rather than broadly distributed skill development.",
-      "fetched": "2026-06-28"
+      "scenario": "Build It Yourself",
+      "signal_reading": "A specialized summer program teaching visually impaired students cybersecurity and tech careers demonstrates targeted capacity-building for traditionally excluded populations, signaling intentional distribution of deep technical skills beyond typical access pathways.",
+      "fetched": "2026-06-29"
     },
     {
       "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum - Cardinal News",
@@ -56,9 +56,9 @@
       "source": "Cardinal News",
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech adding an AI minor to curriculum creates foundational educational infrastructure in the New River Valley that could seed distributed deep expertise if graduates disperse regionally rather than migrating to metro hubs.",
-      "fetched": "2026-06-28"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech adding an AI minor concentrates advanced curriculum development in an established research university, creating deep expertise but primarily benefiting students already in higher-ed pipelines rather than distributing AI fluency through community channels.",
+      "fetched": "2026-06-29"
     }
   ]
 }
