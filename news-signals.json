@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-30",
-  "next_check": "2026-06-30",
+  "next_check": "2026-07-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops by a Norfolk native signal grassroots peer-to-peer capability building outside traditional tech hubs, directly addressing the technology gap through distributed, accessible skill development.",
+      "title": "Stack Infrastructure says it&#8217;s moving forward with AI data center in Pittsylvania",
+      "url": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/",
+      "source": "Cardinal News",
+      "published": "2026-06-30",
+      "region": "Southside",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Data center infrastructure arriving in Pittsylvania represents concentrated capital investment but not distributed AI capability—Southside gains tax revenue and construction jobs while deep technical expertise remains concentrated in metro hubs that design and manage these facilities remotely.",
       "fetched": "2026-06-30"
     },
     {
@@ -27,7 +27,17 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI workforce preparation beyond NoVA, potentially creating regional nodes of expertise that could catalyze distributed capability if paired with peer learning networks.",
+      "signal_reading": "Roanoke College's WorkAI Lab signals intentional cultivation of deep AI literacy through educational infrastructure in a mid-sized market, creating potential for distributed capability if graduates stay regional rather than migrating to NoVA.",
+      "fetched": "2026-06-30"
+    },
+    {
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Free community AI workshops directly address the access gap in Hampton Roads, representing grassroots capability-building that could enable distributed adoption if sustained beyond individual volunteer efforts into institutional support.",
       "fetched": "2026-06-30"
     },
     {
@@ -37,7 +47,7 @@
       "published": "2026-05-26",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly naming the urban-rural divide created by AI data center concentration signals awareness that infrastructure investment alone doesn't distribute capability—economic benefits accrue to metro areas while rural regions bear costs without gaining expertise.",
+      "signal_reading": "Commentary explicitly naming the urban-rural divide created by data center concentration signals recognition that current infrastructure investments are deepening geographic inequality rather than distributing capability across Virginia's regions.",
       "fetched": "2026-06-30"
     },
     {
@@ -46,18 +56,8 @@
       "source": "WTVR.com",
       "published": "2026-06-25",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Specialized technology and cybersecurity career program for visually impaired students demonstrates Richmond's capacity for niche, deep capability development, but serving a specific population suggests concentrated rather than broadly distributed access.",
-      "fetched": "2026-06-30"
-    },
-    {
-      "title": "Tech Briefs: Virginia Tech adds an artificial intelligence minor to its curriculum - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHBMZk03NWE5V3ZxR0xxUkxLR2JacF9UMFVFbkNyWWVJbUl6V1lMY2FtOE43REhVeE9jS0ZEUV9TTmF6aUFzWXhBRUhIc19pWXZUdWlDeUFzM2V2V1RZdS1NcWI1S2UxRGt4R1NvYUk3ajBVbGx1U1hPS1hWYWN6ZlI4U2M3TE0tZ0VQZVN4REJTVUxxMVVtaVlwNllfYmFmS0Nid3RsUEJpQVdrblp6MHZBNnhFdkRLY3c?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's new AI minor creates formal pathways for deep technical skill development in the New River Valley, positioning the region to generate homegrown expertise that could distribute through alumni networks statewide.",
+      "signal_reading": "Targeted technology education for visually impaired students in Richmond demonstrates deep skill-building reaching underserved populations, signaling that distributed capability depends on inclusive access pathways, not just geographic distribution.",
       "fetched": "2026-06-30"
     }
   ]
