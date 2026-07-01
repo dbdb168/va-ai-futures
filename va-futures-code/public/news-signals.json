@@ -11,33 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Stack Infrastructure says it&#8217;s moving forward with AI data center in Pittsylvania",
-      "url": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/",
-      "source": "Cardinal News",
-      "published": "2026-06-30",
-      "region": "Southside",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Stack Infrastructure's AI data center in Pittsylvania represents capital infrastructure flowing to rural Virginia, but without corresponding workforce development or deep AI capability building, this signals shallow concentrated infrastructure rather than distributed human capacity.",
-      "fetched": "2026-07-01"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab explicitly targets leadership preparation for AI adoption across sectors, signaling potential for deep, peer-networked capability building in a mid-sized market outside traditional tech hubs.",
-      "fetched": "2026-07-01"
-    },
-    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native directly address the distribution question by building grassroots AI fluency through peer networks, representing bottom-up capability development rather than top-down platform delivery.",
+      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots knowledge distribution outside traditional tech hubs, signaling potential for peer-driven AI fluency in military-adjacent communities if sustained beyond individual initiatives.",
       "fetched": "2026-07-01"
     },
     {
@@ -46,8 +26,18 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional scaffolding for distributed AI education and community impact beyond the university, potentially seeding deep capability across Richmond's diverse neighborhoods and sectors.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's institutional partnership with AI Ready RVA concentrates advanced AI education and innovation resources in the Richmond metro hub, deepening capability in the capital region but requiring explicit distribution mechanisms to reach beyond.",
+      "fetched": "2026-07-01"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Roanoke College's WorkAI Lab focuses on preparing leaders for AI adoption rather than building technical depth, suggesting platform-layer readiness that could enable broad but shallow capability distribution in traditionally underserved regions.",
       "fetched": "2026-07-01"
     },
     {
@@ -55,9 +45,19 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFhdWtLX3Z6d3hzRE1EbXVQU0FjSnlPa1pndUcyOEhGdkZSUG01RXNOYkpWakxCNEMtNThMeUpLeUxiSTUwWER5TkRxQ3c4dVZfckJjLUg0MXRMbDgxdUJoNEVRVm9ENXRmN3BORmhRRzFSUVVMYzZBYXA5bXBra1JHLVhKUzR6a1pINkNxVUJhcXk3Sm5jZTdmNWRXaDR2UTZZemQ0eHVEMHpTTVk1U0lwZDhrR2NlbUVtRnYySkVRM1I2X0F5Vg?oc=5",
       "source": "The Roanoke Rambler",
       "published": "2026-07-01",
-      "region": "Roanoke / New River Valley",
+      "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI already embedded in Roanoke classrooms signals rapid platform-mediated adoption across K-12, but the article's focus on what stakeholders 'should know' suggests shallow understanding accompanying broad distribution—classic shallow/distributed dynamics.",
+      "signal_reading": "AI tools already deployed in Roanoke classrooms indicate consumer-grade platform adoption reaching beyond metro areas, but shallow integration focused on tool usage rather than deep technical understanding or local capability development.",
+      "fetched": "2026-07-01"
+    },
+    {
+      "title": "VT Science Corner: Designing better battery technology with X-rays and AI - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVJENEpBWDdPMGNPN3hpQW5tZGZJYUJnTG51M1dUSHlJYXdOQndlV0pKUjFOQ0xBR01lN200N1h2UlFfbGQ4dTFVZGtSVGt0MDBqMXJpRF9zdmN6c09kR194RmRhWVJBbHQ5clBxaS1wd2hwVVV3R29NaXV0T0hlampwUVpicWFjYUQ3bg?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-06-28",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech researchers applying AI to battery technology demonstrates deep technical capability emerging in New River Valley academic institutions, creating potential knowledge transfer nodes outside NoVA if commercialization and workforce pathways connect to regional industry.",
       "fetched": "2026-07-01"
     }
   ]
