@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30",
-  "next_check": "2026-07-01",
+  "last_updated": "2026-07-01",
+  "next_check": "2026-07-02",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-06-30",
       "region": "Southside",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center infrastructure arriving in Pittsylvania represents concentrated capital investment but not distributed AI capability—Southside gains tax revenue and construction jobs while deep technical expertise remains concentrated in metro hubs that design and manage these facilities remotely.",
-      "fetched": "2026-06-30"
+      "signal_reading": "Stack Infrastructure's AI data center in Pittsylvania represents capital infrastructure flowing to rural Virginia, but without corresponding workforce development or deep AI capability building, this signals shallow concentrated infrastructure rather than distributed human capacity.",
+      "fetched": "2026-07-01"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
@@ -27,8 +27,8 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab signals intentional cultivation of deep AI literacy through educational infrastructure in a mid-sized market, creating potential for distributed capability if graduates stay regional rather than migrating to NoVA.",
-      "fetched": "2026-06-30"
+      "signal_reading": "Roanoke College's WorkAI Lab explicitly targets leadership preparation for AI adoption across sectors, signaling potential for deep, peer-networked capability building in a mid-sized market outside traditional tech hubs.",
+      "fetched": "2026-07-01"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -37,28 +37,28 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops directly address the access gap in Hampton Roads, representing grassroots capability-building that could enable distributed adoption if sustained beyond individual volunteer efforts into institutional support.",
-      "fetched": "2026-06-30"
+      "signal_reading": "Free community AI workshops led by a Norfolk native directly address the distribution question by building grassroots AI fluency through peer networks, representing bottom-up capability development rather than top-down platform delivery.",
+      "fetched": "2026-07-01"
     },
     {
-      "title": "TAYLOR: AI data centers increase Virginia’s urban-rural divide - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpUbVUxaldRWFdodHpzdktCbzhIQVdIR2Fqd2hMX1FGOHFZNlZPdkxKR1lORVgtbHIwdS1vNGZNN0V3QnNYWFJGMDhCMGNDY0tlRVBmaWNDSzVfTnhZLUdBMHBSYnRDRkRqeHNCWWVqMzhLVHFFSXJWSDlvdkNubVZ5Q1dHT2ZMV3VJZTJGYnJieHRFZlhtdFViSGx3VmdjNUE?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-05-26",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Commentary explicitly naming the urban-rural divide created by data center concentration signals recognition that current infrastructure investments are deepening geographic inequality rather than distributing capability across Virginia's regions.",
-      "fetched": "2026-06-30"
-    },
-    {
-      "title": "Richmond summer program helps visually impaired students explore careers in technology and cybersecurity - WTVR.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFmZWpHdE9qdnB1aF90Ry1LWkVLREVLX2xmUEZvQkt4ejBkODliTnF6bndvRy1xMDVoZXdoTDRJeXZzZmVDN2xUUkVuNW8zeG1kUXVfQXdSbkNtZXg5Nk9qcFpzQTZlTmFrZ0Zidk5SN2pESWpvRHdydUVfQzJRdEk2V3RhT0FuSmtqS3hwTE1UUVZhU2NsZ24wUjVEMG8?oc=5",
-      "source": "WTVR.com",
-      "published": "2026-06-25",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "Targeted technology education for visually impaired students in Richmond demonstrates deep skill-building reaching underserved populations, signaling that distributed capability depends on inclusive access pathways, not just geographic distribution.",
-      "fetched": "2026-06-30"
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional scaffolding for distributed AI education and community impact beyond the university, potentially seeding deep capability across Richmond's diverse neighborhoods and sectors.",
+      "fetched": "2026-07-01"
+    },
+    {
+      "title": "AI Has Already Arrived in Roanoke’s Classrooms. Here’s What Parents, Students, and Workers Should Know. - The Roanoke Rambler",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFhdWtLX3Z6d3hzRE1EbXVQU0FjSnlPa1pndUcyOEhGdkZSUG01RXNOYkpWakxCNEMtNThMeUpLeUxiSTUwWER5TkRxQ3c4dVZfckJjLUg0MXRMbDgxdUJoNEVRVm9ENXRmN3BORmhRRzFSUVVMYzZBYXA5bXBra1JHLVhKUzR6a1pINkNxVUJhcXk3Sm5jZTdmNWRXaDR2UTZZemQ0eHVEMHpTTVk1U0lwZDhrR2NlbUVtRnYySkVRM1I2X0F5Vg?oc=5",
+      "source": "The Roanoke Rambler",
+      "published": "2026-07-01",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI already embedded in Roanoke classrooms signals rapid platform-mediated adoption across K-12, but the article's focus on what stakeholders 'should know' suggests shallow understanding accompanying broad distribution—classic shallow/distributed dynamics.",
+      "fetched": "2026-07-01"
     }
   ]
 }
