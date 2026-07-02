@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01",
-  "next_check": "2026-07-02",
+  "last_updated": "2026-07-02",
+  "next_check": "2026-07-03",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots knowledge distribution outside traditional tech hubs, signaling potential for peer-driven AI fluency in military-adjacent communities if sustained beyond individual initiatives.",
-      "fetched": "2026-07-01"
+      "signal_reading": "Free AI workshops led by a Norfolk native directly target the technology gap through peer-to-peer skill building in a non-metro region, signaling grassroots distribution of foundational AI literacy beyond traditional tech hubs.",
+      "fetched": "2026-07-02"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,8 +27,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional partnership with AI Ready RVA concentrates advanced AI education and innovation resources in the Richmond metro hub, deepening capability in the capital region but requiring explicit distribution mechanisms to reach beyond.",
-      "fetched": "2026-07-01"
+      "signal_reading": "VCU's formal partnership with AI Ready RVA concentrates institutional resources and AI education capacity in Richmond Metro, potentially deepening capabilities in the state capital while leaving rural adjacencies unserved.",
+      "fetched": "2026-07-02"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
@@ -36,19 +36,19 @@
       "source": "Roanoke College",
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's WorkAI Lab focuses on preparing leaders for AI adoption rather than building technical depth, suggesting platform-layer readiness that could enable broad but shallow capability distribution in traditionally underserved regions.",
-      "fetched": "2026-07-01"
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents distributed institutional investment in AI workforce preparation outside major metros, creating potential node for deep learning in traditionally underserved Southwest Virginia if sustained beyond initial launch.",
+      "fetched": "2026-07-02"
     },
     {
-      "title": "AI Has Already Arrived in Roanoke’s Classrooms. Here’s What Parents, Students, and Workers Should Know. - The Roanoke Rambler",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFhdWtLX3Z6d3hzRE1EbXVQU0FjSnlPa1pndUcyOEhGdkZSUG01RXNOYkpWakxCNEMtNThMeUpLeUxiSTUwWER5TkRxQ3c4dVZfckJjLUg0MXRMbDgxdUJoNEVRVm9ENXRmN3BORmhRRzFSUVVMYzZBYXA5bXBra1JHLVhKUzR6a1pINkNxVUJhcXk3Sm5jZTdmNWRXaDR2UTZZemQ0eHVEMHpTTVk1U0lwZDhrR2NlbUVtRnYySkVRM1I2X0F5Vg?oc=5",
-      "source": "The Roanoke Rambler",
+      "title": "DC and Northern Virginia: Your guide to coding and AI upskilling programs - Technical.ly",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJeEwwRG01WmVKa0NxT0taVk1mT0hYSUFnbWt5RDNZd3h6NHFpaGJoOU4yblduaGZRM2hSTG56V1JvRlAtWWdiVWRXcXpxMjRveUcyQnE0WXJpZmtGN3dVZF84WnVXQUVPa0V2UDBrclZNb3JJ?oc=5",
+      "source": "Technical.ly",
       "published": "2026-07-01",
-      "region": "Southwest / Roanoke",
+      "region": "Northern Virginia",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI tools already deployed in Roanoke classrooms indicate consumer-grade platform adoption reaching beyond metro areas, but shallow integration focused on tool usage rather than deep technical understanding or local capability development.",
-      "fetched": "2026-07-01"
+      "signal_reading": "Coding and AI upskilling programs in DC/NoVA concentrate platform-mediated training opportunities in the existing tech corridor, likely producing broad but shallow adoption that reinforces rather than redistributes existing advantages.",
+      "fetched": "2026-07-02"
     },
     {
       "title": "VT Science Corner: Designing better battery technology with X-rays and AI - Roanoke Times",
@@ -56,9 +56,9 @@
       "source": "Roanoke Times",
       "published": "2026-06-28",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech researchers applying AI to battery technology demonstrates deep technical capability emerging in New River Valley academic institutions, creating potential knowledge transfer nodes outside NoVA if commercialization and workforce pathways connect to regional industry.",
-      "fetched": "2026-07-01"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's advanced battery research using AI and X-rays demonstrates deep technical capability in New River Valley, but concentration in university research context may not translate to broader regional workforce AI fluency.",
+      "fetched": "2026-07-02"
     }
   ]
 }
