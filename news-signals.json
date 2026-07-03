@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-03",
-  "next_check": "2026-07-03",
+  "next_check": "2026-07-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,17 @@
       "published": "2026-07-02",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's workplace-focused AI training program represents distributed capacity-building outside major metros, though success depends on whether it creates deep implementation skills or surface-level AI literacy.",
+      "signal_reading": "Roanoke College's workplace AI training program represents distributed capability-building outside major metros, signaling potential for peer-to-peer learning networks that could spread deep AI fluency beyond the NoVA-Richmond corridor.",
       "fetched": "2026-07-03"
     },
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots efforts to distribute capability beyond NoVA, explicitly targeting technology gap closure through peer-to-peer knowledge transfer rather than platform dependency.",
+      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, suggesting institutional commitment to distributed depth rather than elite concentration—a potential countervailing force to the NoVA gravity well.",
       "fetched": "2026-07-03"
     },
     {
@@ -37,7 +37,17 @@
       "published": "2026-06-30",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $7.8B data center infrastructure acquisition concentrates AI compute capacity in NoVA's existing hub, reinforcing the region's structural advantages while potentially widening the physical and economic distance from rural Virginia.",
+      "signal_reading": "Digital Realty's $7.8B data center acquisition consolidates AI infrastructure investment in NoVA, reinforcing the region's computational advantage while physical infrastructure remains geographically locked, deepening metro-rural capability asymmetry.",
+      "fetched": "2026-07-03"
+    },
+    {
+      "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYlY1RWlzc3JNeFhvR3VvOXFKQ0R4RTNSLW5Id0JudWpOSVVvdkFKdk4zelFER284eTN6aEZ4eUlYVWJXc1NIYkw5MkN5R1J3VmFRc3lIa1dpUG1zckZKbFotMHN6X3UyTzF6VEZqaTJtVE40WWZVRTF6al8tUVBZMkc3aW1RNm1qVE1scmhpX0V5NlRHWUZKUlJBMjBOMTlNVV9jMU81Vi1XdnVCNXVTM0JxM3M0SmpEOF82TExzUzlYS1M1VS1POW9iSldQTzVVWmxrcDgyVWg1dDVEbkMwYVJNcEhCRllLd3VXUVZKanRaOTN4aGJyNEcyLThYekZXbnY4Y3lZYWNfZEJxalhybWcxa3dma1F1ajhmczZwaFptcGZXSmF2WDlqcEQ2S1ZmTFo3T1lkYjUzQTYyQW1ndkhUYUU5V0RZN1hWay1BMXpjYWxGZ0VYNV9FbXJqMWFrRTFxTQ?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-07-01",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "County-wide power conservation requests due to data center electricity demand reveals how AI infrastructure concentration creates resource scarcity for public institutions, potentially constraining distributed capability development through basic infrastructure limits.",
       "fetched": "2026-07-03"
     },
     {
@@ -47,17 +57,7 @@
       "published": "2026-07-01",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI's arrival in Roanoke classrooms suggests shallow, platform-mediated adoption where tools are consumed rather than deeply understood—distribution without depth unless paired with serious technical workforce development.",
-      "fetched": "2026-07-03"
-    },
-    {
-      "title": "Virginia budget clears way for $100B Berry Hill data center campus",
-      "url": "https://virginiabusiness.com/virginia-budget-stack-100b-data-center-project/",
-      "source": "Virginia Business",
-      "published": "2026-07-01",
-      "region": "Southside",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $100B Berry Hill data center campus brings infrastructure to historically underserved Southside, but without intentional workforce development programs, it risks creating concentrated physical assets without distributed human capability.",
+      "signal_reading": "AI's arrival in Roanoke classrooms through platform tools suggests shallow but distributed adoption—students gain access to AI capabilities without necessarily developing deep technical fluency or algorithmic understanding.",
       "fetched": "2026-07-03"
     }
   ]
