@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-03",
   "next_check": "2026-07-03",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
+      "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-07-02",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's workplace-focused AI training program represents distributed capacity-building outside major metros, though success depends on whether it creates deep implementation skills or surface-level AI literacy.",
+      "fetched": "2026-07-03"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly target the technology gap through peer-to-peer skill building in a non-metro region, signaling grassroots distribution of foundational AI literacy beyond traditional tech hubs.",
-      "fetched": "2026-07-02"
+      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots efforts to distribute capability beyond NoVA, explicitly targeting technology gap closure through peer-to-peer knowledge transfer rather than platform dependency.",
+      "fetched": "2026-07-03"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formal partnership with AI Ready RVA concentrates institutional resources and AI education capacity in Richmond Metro, potentially deepening capabilities in the state capital while leaving rural adjacencies unserved.",
-      "fetched": "2026-07-02"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents distributed institutional investment in AI workforce preparation outside major metros, creating potential node for deep learning in traditionally underserved Southwest Virginia if sustained beyond initial launch.",
-      "fetched": "2026-07-02"
-    },
-    {
-      "title": "DC and Northern Virginia: Your guide to coding and AI upskilling programs - Technical.ly",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJeEwwRG01WmVKa0NxT0taVk1mT0hYSUFnbWt5RDNZd3h6NHFpaGJoOU4yblduaGZRM2hSTG56V1JvRlAtWWdiVWRXcXpxMjRveUcyQnE0WXJpZmtGN3dVZF84WnVXQUVPa0V2UDBrclZNb3JJ?oc=5",
-      "source": "Technical.ly",
-      "published": "2026-07-01",
+      "title": "Digital Realty Acquires $7.8 bn Northern Virginia Data Center Portfolio from Blackstone to Expand AI Infrastructure - InfotechLead",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOajJpQmlDWVBJNk5Na3dWTkFiVF9NY0JaYlNiWlhWZG5vV21jSHJZTm9YNWJ6LTBud3djS0lYblE5NDZ3UGY0bUgxTktKbXlTVkZqSU91czlhMkpuU0NHQkQtVHNBTGhCZGxSMkFKbHNLdUtaRjhieDhrSUkzVUpXaDBuRmpDME5uTkVCNXZCZDNVQU1yUDB5QWpNN0luNHVEZGw2c1BZeVR1bmRQV1A5Rl9sMUJCT0Q5c2xKVUhIUDQxLVAzNUlBUnVJSDRQbXRudkRNb2w2NzBvcmtybjB1d2FJejJBV25EOXJLU3ZR0gH2AUFVX3lxTE9hRVhQbmJWeXZNVDQ3Y1hLTTNwUF9yaVlCZEh5Zjl3SUdkY19FaXlPeXVaM2NtV1gzdGtRN1ZKUlZ2UzdQTVBtQlFuYlJjTnZKSG5OLTNoMXd2a3VRVzgyMDBpN3RKalBfNWkxb2tQSzhnandmOU5DVlBIMWtMcUZkeGNzOU82azNwcndlMWpWUkF5dWZVQnEtVTBrNFBZck1HZnhVSWRTcmlWcWdLRWhIVkhWd0dNeHdVdlZlVFVSc3UxU3ZveUZyWjYxaUdBRjBMWnpYeE9fVTd5LW81ejdheFNpV1JYTm84UW9BVmZvUjNqa1JtZw?oc=5",
+      "source": "InfotechLead",
+      "published": "2026-06-30",
       "region": "Northern Virginia",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Coding and AI upskilling programs in DC/NoVA concentrate platform-mediated training opportunities in the existing tech corridor, likely producing broad but shallow adoption that reinforces rather than redistributes existing advantages.",
-      "fetched": "2026-07-02"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $7.8B data center infrastructure acquisition concentrates AI compute capacity in NoVA's existing hub, reinforcing the region's structural advantages while potentially widening the physical and economic distance from rural Virginia.",
+      "fetched": "2026-07-03"
     },
     {
-      "title": "VT Science Corner: Designing better battery technology with X-rays and AI - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVJENEpBWDdPMGNPN3hpQW5tZGZJYUJnTG51M1dUSHlJYXdOQndlV0pKUjFOQ0xBR01lN200N1h2UlFfbGQ4dTFVZGtSVGt0MDBqMXJpRF9zdmN6c09kR194RmRhWVJBbHQ5clBxaS1wd2hwVVV3R29NaXV0T0hlampwUVpicWFjYUQ3bg?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-06-28",
+      "title": "AI Has Already Arrived in Roanoke’s Classrooms. Here’s What Parents, Students, and Workers Should Know. - The Roanoke Rambler",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFhdWtLX3Z6d3hzRE1EbXVQU0FjSnlPa1pndUcyOEhGdkZSUG01RXNOYkpWakxCNEMtNThMeUpLeUxiSTUwWER5TkRxQ3c4dVZfckJjLUg0MXRMbDgxdUJoNEVRVm9ENXRmN3BORmhRRzFSUVVMYzZBYXA5bXBra1JHLVhKUzR6a1pINkNxVUJhcXk3Sm5jZTdmNWRXaDR2UTZZemQ0eHVEMHpTTVk1U0lwZDhrR2NlbUVtRnYySkVRM1I2X0F5Vg?oc=5",
+      "source": "The Roanoke Rambler",
+      "published": "2026-07-01",
       "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI's arrival in Roanoke classrooms suggests shallow, platform-mediated adoption where tools are consumed rather than deeply understood—distribution without depth unless paired with serious technical workforce development.",
+      "fetched": "2026-07-03"
+    },
+    {
+      "title": "Virginia budget clears way for $100B Berry Hill data center campus",
+      "url": "https://virginiabusiness.com/virginia-budget-stack-100b-data-center-project/",
+      "source": "Virginia Business",
+      "published": "2026-07-01",
+      "region": "Southside",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's advanced battery research using AI and X-rays demonstrates deep technical capability in New River Valley, but concentration in university research context may not translate to broader regional workforce AI fluency.",
-      "fetched": "2026-07-02"
+      "signal_reading": "A $100B Berry Hill data center campus brings infrastructure to historically underserved Southside, but without intentional workforce development programs, it risks creating concentrated physical assets without distributed human capability.",
+      "fetched": "2026-07-03"
     }
   ]
 }
