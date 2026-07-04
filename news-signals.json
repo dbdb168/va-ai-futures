@@ -17,7 +17,7 @@
       "published": "2026-07-02",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's workplace AI training program signals potential distributed depth-building outside metro corridors, though success depends on whether it creates sustained peer learning networks or remains institutionally contained.",
+      "signal_reading": "Roanoke College's WorkAI Lab training workplace professionals signals grassroots AI capability building outside metro centers, demonstrating peer-to-peer skill transfer that could distribute deep competency across Virginia's non-urban regions.",
       "fetched": "2026-07-04"
     },
     {
@@ -27,17 +27,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, creating infrastructure for distributed capability-building beyond traditional tech sector boundaries in Virginia's second-tier metro.",
-      "fetched": "2026-07-04"
-    },
-    {
-      "title": "AI helped a Virginia mom launch Here Now Health and expand Medicaid mental health services - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuc3VZU1V0S1RwN0VqRUltWWdtbWFIV1UxSGEza0owUHlfemx4azFsajZ2ZDNtRklSdUxKSmhhbXdrUUxvN2x3N09SN2c4OWVpaHRCQ09xaFhacmllQ3c?oc=5",
-      "source": "Межа. Новини України.",
-      "published": "2026-07-04",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "A mom using AI to launch Medicaid mental health services demonstrates platform-enabled entrepreneurship—shallow but accessible adoption that distributes opportunity without requiring deep technical fluency.",
+      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, creating institutional infrastructure for distributed learning networks that could build deep fluency beyond elite tech corridors.",
       "fetched": "2026-07-04"
     },
     {
@@ -47,7 +37,17 @@
       "published": "2026-06-30",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $7.8B data center acquisition concentrates AI infrastructure capital in NoVA's existing dominance zone, reinforcing the metro hub's structural advantage while other regions compete for spillover effects.",
+      "signal_reading": "A $7.8 billion data center acquisition consolidates NoVA's AI infrastructure dominance, deepening capital and capability concentration in the region while creating no mechanisms for knowledge distribution to underserved areas.",
+      "fetched": "2026-07-04"
+    },
+    {
+      "title": "Virginia budget clears way for $100B Berry Hill data center campus",
+      "url": "https://virginiabusiness.com/virginia-budget-stack-100b-data-center-project/",
+      "source": "Virginia Business",
+      "published": "2026-07-01",
+      "region": "Southside",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "The $100 billion Berry Hill data center represents infrastructure concentration in rural Southside, but creates shallow local impact—hardware presence without workforce capability development, reinforcing the capital-talent geography mismatch.",
       "fetched": "2026-07-04"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-07-01",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "AI-driven electricity demand forcing county-wide power conservation reveals how concentrated data center buildout creates negative externalities that strain public infrastructure without distributing economic or capability benefits to affected communities.",
+      "signal_reading": "AI-driven electricity cost increases forcing county-wide power conservation reveals how concentrated data center growth creates infrastructural burden on local institutions without delivering distributed AI capability or economic resilience to residents.",
       "fetched": "2026-07-04"
     }
   ]
