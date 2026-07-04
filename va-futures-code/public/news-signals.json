@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-04",
-  "next_check": "2026-07-04",
+  "next_check": "2026-07-05",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -12,22 +12,12 @@
   "signals": [
     {
       "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu0gG4AUFVX3lxTFAyWFpldXpteHNfTzFmVTZ1Z0VsTFpCTkViOHp3aGM4dnlVd0g2UFAtcFlsTktpalZOMjEtREp1TF9zUUlFZkJvNDVodWR6ckRIREFqbmJOQmwzSWNtaXRFclNzd3pBaFNOemZ0RDI5R2U2SzhwOEV0NlIyN2xEZHhnalFaejctdHExY3dxS0lkZld0MVBNVWdXYzRRLTNER3l1V1cyNzFFaHhzQ1F6aFV2ajAyNVRIWG4?oc=5",
       "source": "WDBJ7",
       "published": "2026-07-02",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's workplace AI training program represents distributed capacity-building outside metro hubs, creating pathways for deep fluency through peer networks in traditionally underserved regions—a classic Build It Yourself signal if it scales beyond single institutions.",
-      "fetched": "2026-07-04"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "The WorkAI Lab positions a regional college as an AI fluency hub for workplace leaders, potentially seeding distributed expertise networks across Southwest Virginia if graduates return to local organizations rather than migrating to NoVA.",
+      "signal_reading": "Roanoke College's workplace AI training program signals potential distributed depth-building outside metro corridors, though success depends on whether it creates sustained peer learning networks or remains institutionally contained.",
       "fetched": "2026-07-04"
     },
     {
@@ -36,8 +26,18 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's AI Ready RVA partnership concentrates research-grade AI capability in the capital region, reinforcing Richmond's emergence as a secondary excellence pocket but doing little to bridge the rural-metro capability divide without intentional distribution mechanisms.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, creating infrastructure for distributed capability-building beyond traditional tech sector boundaries in Virginia's second-tier metro.",
+      "fetched": "2026-07-04"
+    },
+    {
+      "title": "AI helped a Virginia mom launch Here Now Health and expand Medicaid mental health services - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuc3VZU1V0S1RwN0VqRUltWWdtbWFIV1UxSGEza0owUHlfemx4azFsajZ2ZDNtRklSdUxKSmhhbXdrUUxvN2x3N09SN2c4OWVpaHRCQ09xaFhacmllQ3c?oc=5",
+      "source": "Межа. Новини України.",
+      "published": "2026-07-04",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "A mom using AI to launch Medicaid mental health services demonstrates platform-enabled entrepreneurship—shallow but accessible adoption that distributes opportunity without requiring deep technical fluency.",
       "fetched": "2026-07-04"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-06-30",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $7.8 billion data center acquisition deepens NoVA's infrastructure dominance for AI workloads, but infrastructure concentration without workforce distribution signals Pockets of Excellence—physical compute power doesn't automatically translate to distributed human capability.",
+      "signal_reading": "A $7.8B data center acquisition concentrates AI infrastructure capital in NoVA's existing dominance zone, reinforcing the metro hub's structural advantage while other regions compete for spillover effects.",
       "fetched": "2026-07-04"
     },
     {
-      "title": "State invests $3M to help transform Hampton Roads into hub for aircraft technology and training - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZjA1a2ZRT2xrSF9vTTRvdW5TeFI0UWp6Q3JYa1NJVktOV1F2VnZEekZfd001OXRaeEdhaFlXc0NWVWFGM1Z2czc0LVRqZllRdTg5U0FuQ0JHemx5RnNtV01pQ3Qzc0Nmb0ZGT1JiS3pNbWtqcG10WGh3SmZ1amJSM3IxOG51UnV0LUFtbFlHWHlBZUpuSTRKZHluZ3VNbWJ5VHBkaWhfRy01TTIyblBrZ296ZWRLaXo5T2ZIanRqRWd4TldONzhqUl9FZTA1ZlpPUUw3SmFUVnVnZVRKNzNUbmxRNGFGZk5POGUxbWx6eWNtc2FSQ18zTzFlX0FTeTE1V01hUVNwQVhsSDI4ajNWc24ydEVmSHJiVzg3QzhIY2pmdnVh?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-05-19",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "State investment targeting Hampton Roads as an aircraft technology hub suggests intentional diversification of advanced tech capacity beyond NoVA, but the defense-industrial focus may create another excellence pocket rather than truly distributed AI fluency across workforce sectors.",
+      "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYlY1RWlzc3JNeFhvR3VvOXFKQ0R4RTNSLW5Id0JudWpOSVVvdkFKdk4zelFER284eTN6aEZ4eUlYVWJXc1NIYkw5MkN5R1J3VmFRc3lIa1dpUG1zckZKbFotMHN6X3UyTzF6VEZqaTJtVE40WWZVRTF6al8tUVBZMkc3aW1RNm1qVE1scmhpX0V5NlRHWUZKUlJBMjBOMTlNVV9jMU81Vi1XdnVCNXVTM0JxM3M0SmpEOF82TExzUzlYS1M1VS1POW9iSldQTzVVWmxrcDgyVWg1dDVEbkMwYVJNcEhCRllLd3VXUVZKanRaOTN4aGJyNEcyLThYekZXbnY4Y3lZYWNfZEJxalhybWcxa3dma1F1ajhmczZwaFptcGZXSmF2WDlqcEQ2S1ZmTFo3T1lkYjUzQTYyQW1ndkhUYUU5V0RZN1hWay1BMXpjYWxGZ0VYNV9FbXJqMWFrRTFxTQ?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-07-01",
+      "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI-driven electricity demand forcing county-wide power conservation reveals how concentrated data center buildout creates negative externalities that strain public infrastructure without distributing economic or capability benefits to affected communities.",
       "fetched": "2026-07-04"
     }
   ]
