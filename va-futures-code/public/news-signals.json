@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03",
+  "last_updated": "2026-07-04",
   "next_check": "2026-07-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,18 @@
       "published": "2026-07-02",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's workplace AI training program represents distributed capability-building outside major metros, signaling potential for peer-to-peer learning networks that could spread deep AI fluency beyond the NoVA-Richmond corridor.",
-      "fetched": "2026-07-03"
+      "signal_reading": "Roanoke College's workplace AI training program represents distributed capacity-building outside metro hubs, creating pathways for deep fluency through peer networks in traditionally underserved regions—a classic Build It Yourself signal if it scales beyond single institutions.",
+      "fetched": "2026-07-04"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "The WorkAI Lab positions a regional college as an AI fluency hub for workplace leaders, potentially seeding distributed expertise networks across Southwest Virginia if graduates return to local organizations rather than migrating to NoVA.",
+      "fetched": "2026-07-04"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -26,9 +36,9 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, suggesting institutional commitment to distributed depth rather than elite concentration—a potential countervailing force to the NoVA gravity well.",
-      "fetched": "2026-07-03"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's AI Ready RVA partnership concentrates research-grade AI capability in the capital region, reinforcing Richmond's emergence as a secondary excellence pocket but doing little to bridge the rural-metro capability divide without intentional distribution mechanisms.",
+      "fetched": "2026-07-04"
     },
     {
       "title": "Digital Realty Acquires $7.8 bn Northern Virginia Data Center Portfolio from Blackstone to Expand AI Infrastructure - InfotechLead",
@@ -37,28 +47,18 @@
       "published": "2026-06-30",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Digital Realty's $7.8B data center acquisition consolidates AI infrastructure investment in NoVA, reinforcing the region's computational advantage while physical infrastructure remains geographically locked, deepening metro-rural capability asymmetry.",
-      "fetched": "2026-07-03"
+      "signal_reading": "A $7.8 billion data center acquisition deepens NoVA's infrastructure dominance for AI workloads, but infrastructure concentration without workforce distribution signals Pockets of Excellence—physical compute power doesn't automatically translate to distributed human capability.",
+      "fetched": "2026-07-04"
     },
     {
-      "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYlY1RWlzc3JNeFhvR3VvOXFKQ0R4RTNSLW5Id0JudWpOSVVvdkFKdk4zelFER284eTN6aEZ4eUlYVWJXc1NIYkw5MkN5R1J3VmFRc3lIa1dpUG1zckZKbFotMHN6X3UyTzF6VEZqaTJtVE40WWZVRTF6al8tUVBZMkc3aW1RNm1qVE1scmhpX0V5NlRHWUZKUlJBMjBOMTlNVV9jMU81Vi1XdnVCNXVTM0JxM3M0SmpEOF82TExzUzlYS1M1VS1POW9iSldQTzVVWmxrcDgyVWg1dDVEbkMwYVJNcEhCRllLd3VXUVZKanRaOTN4aGJyNEcyLThYekZXbnY4Y3lZYWNfZEJxalhybWcxa3dma1F1ajhmczZwaFptcGZXSmF2WDlqcEQ2S1ZmTFo3T1lkYjUzQTYyQW1ndkhUYUU5V0RZN1hWay1BMXpjYWxGZ0VYNV9FbXJqMWFrRTFxTQ?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-07-01",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "County-wide power conservation requests due to data center electricity demand reveals how AI infrastructure concentration creates resource scarcity for public institutions, potentially constraining distributed capability development through basic infrastructure limits.",
-      "fetched": "2026-07-03"
-    },
-    {
-      "title": "AI Has Already Arrived in Roanoke’s Classrooms. Here’s What Parents, Students, and Workers Should Know. - The Roanoke Rambler",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFhdWtLX3Z6d3hzRE1EbXVQU0FjSnlPa1pndUcyOEhGdkZSUG01RXNOYkpWakxCNEMtNThMeUpLeUxiSTUwWER5TkRxQ3c4dVZfckJjLUg0MXRMbDgxdUJoNEVRVm9ENXRmN3BORmhRRzFSUVVMYzZBYXA5bXBra1JHLVhKUzR6a1pINkNxVUJhcXk3Sm5jZTdmNWRXaDR2UTZZemQ0eHVEMHpTTVk1U0lwZDhrR2NlbUVtRnYySkVRM1I2X0F5Vg?oc=5",
-      "source": "The Roanoke Rambler",
-      "published": "2026-07-01",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI's arrival in Roanoke classrooms through platform tools suggests shallow but distributed adoption—students gain access to AI capabilities without necessarily developing deep technical fluency or algorithmic understanding.",
-      "fetched": "2026-07-03"
+      "title": "State invests $3M to help transform Hampton Roads into hub for aircraft technology and training - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZjA1a2ZRT2xrSF9vTTRvdW5TeFI0UWp6Q3JYa1NJVktOV1F2VnZEekZfd001OXRaeEdhaFlXc0NWVWFGM1Z2czc0LVRqZllRdTg5U0FuQ0JHemx5RnNtV01pQ3Qzc0Nmb0ZGT1JiS3pNbWtqcG10WGh3SmZ1amJSM3IxOG51UnV0LUFtbFlHWHlBZUpuSTRKZHluZ3VNbWJ5VHBkaWhfRy01TTIyblBrZ296ZWRLaXo5T2ZIanRqRWd4TldONzhqUl9FZTA1ZlpPUUw3SmFUVnVnZVRKNzNUbmxRNGFGZk5POGUxbWx6eWNtc2FSQ18zTzFlX0FTeTE1V01hUVNwQVhsSDI4ajNWc24ydEVmSHJiVzg3QzhIY2pmdnVh?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-05-19",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "State investment targeting Hampton Roads as an aircraft technology hub suggests intentional diversification of advanced tech capacity beyond NoVA, but the defense-industrial focus may create another excellence pocket rather than truly distributed AI fluency across workforce sectors.",
+      "fetched": "2026-07-04"
     }
   ]
 }
