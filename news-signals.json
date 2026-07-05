@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04",
-  "next_check": "2026-07-05",
+  "last_updated": "2026-07-05",
+  "next_check": "2026-07-06",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -12,33 +12,13 @@
   "signals": [
     {
       "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu0gG4AUFVX3lxTFAyWFpldXpteHNfTzFmVTZ1Z0VsTFpCTkViOHp3aGM4dnlVd0g2UFAtcFlsTktpalZOMjEtREp1TF9zUUlFZkJvNDVodWR6ckRIREFqbmJOQmwzSWNtaXRFclNzd3pBaFNOemZ0RDI5R2U2SzhwOEV0NlIyN2xEZHhnalFaejctdHExY3dxS0lkZld0MVBNVWdXYzRRLTNER3l1V1cyNzFFaHhzQ1F6aFV2ajAyNVRIWG4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
       "source": "WDBJ7",
       "published": "2026-07-02",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab training workplace professionals signals grassroots AI capability building outside metro centers, demonstrating peer-to-peer skill transfer that could distribute deep competency across Virginia's non-urban regions.",
-      "fetched": "2026-07-04"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, creating institutional infrastructure for distributed learning networks that could build deep fluency beyond elite tech corridors.",
-      "fetched": "2026-07-04"
-    },
-    {
-      "title": "Digital Realty Acquires $7.8 bn Northern Virginia Data Center Portfolio from Blackstone to Expand AI Infrastructure - InfotechLead",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOajJpQmlDWVBJNk5Na3dWTkFiVF9NY0JaYlNiWlhWZG5vV21jSHJZTm9YNWJ6LTBud3djS0lYblE5NDZ3UGY0bUgxTktKbXlTVkZqSU91czlhMkpuU0NHQkQtVHNBTGhCZGxSMkFKbHNLdUtaRjhieDhrSUkzVUpXaDBuRmpDME5uTkVCNXZCZDNVQU1yUDB5QWpNN0luNHVEZGw2c1BZeVR1bmRQV1A5Rl9sMUJCT0Q5c2xKVUhIUDQxLVAzNUlBUnVJSDRQbXRudkRNb2w2NzBvcmtybjB1d2FJejJBV25EOXJLU3ZR0gH2AUFVX3lxTE9hRVhQbmJWeXZNVDQ3Y1hLTTNwUF9yaVlCZEh5Zjl3SUdkY19FaXlPeXVaM2NtV1gzdGtRN1ZKUlZ2UzdQTVBtQlFuYlJjTnZKSG5OLTNoMXd2a3VRVzgyMDBpN3RKalBfNWkxb2tQSzhnandmOU5DVlBIMWtMcUZkeGNzOU82azNwcndlMWpWUkF5dWZVQnEtVTBrNFBZck1HZnhVSWRTcmlWcWdLRWhIVkhWd0dNeHdVdlZlVFVSc3UxU3ZveUZyWjYxaUdBRjBMWnpYeE9fVTd5LW81ejdheFNpV1JYTm84UW9BVmZvUjNqa1JtZw?oc=5",
-      "source": "InfotechLead",
-      "published": "2026-06-30",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $7.8 billion data center acquisition consolidates NoVA's AI infrastructure dominance, deepening capital and capability concentration in the region while creating no mechanisms for knowledge distribution to underserved areas.",
-      "fetched": "2026-07-04"
+      "signal_reading": "Roanoke College's workplace AI training program signals potential for distributed capability-building in non-metro regions, testing whether peer-to-peer professional development can bridge the geographic AI literacy gap beyond traditional tech hubs.",
+      "fetched": "2026-07-05"
     },
     {
       "title": "Virginia budget clears way for $100B Berry Hill data center campus",
@@ -47,8 +27,8 @@
       "published": "2026-07-01",
       "region": "Southside",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "The $100 billion Berry Hill data center represents infrastructure concentration in rural Southside, but creates shallow local impact—hardware presence without workforce capability development, reinforcing the capital-talent geography mismatch.",
-      "fetched": "2026-07-04"
+      "signal_reading": "A $100B data center campus in Berry Hill represents infrastructure concentration without guaranteed local capability development—physical AI infrastructure presence doesn't automatically translate to distributed workforce skills or deep community adoption.",
+      "fetched": "2026-07-05"
     },
     {
       "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing - Tom's Hardware",
@@ -57,8 +37,28 @@
       "published": "2026-07-01",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "AI-driven electricity cost increases forcing county-wide power conservation reveals how concentrated data center growth creates infrastructural burden on local institutions without delivering distributed AI capability or economic resilience to residents.",
-      "fetched": "2026-07-04"
+      "signal_reading": "NoVA's power conservation mandate due to data center electricity demand reveals how AI infrastructure concentration creates resource strain for schools and public services, potentially limiting rather than enabling broad-based AI capability development in the very regions hosting the infrastructure.",
+      "fetched": "2026-07-05"
+    },
+    {
+      "title": "AI Has Already Arrived in Roanoke’s Classrooms. Here’s What Parents, Students, and Workers Should Know. - The Roanoke Rambler",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFhdWtLX3Z6d3hzRE1EbXVQU0FjSnlPa1pndUcyOEhGdkZSUG01RXNOYkpWakxCNEMtNThMeUpLeUxiSTUwWER5TkRxQ3c4dVZfckJjLUg0MXRMbDgxdUJoNEVRVm9ENXRmN3BORmhRRzFSUVVMYzZBYXA5bXBra1JHLVhKUzR6a1pINkNxVUJhcXk3Sm5jZTdmNWRXaDR2UTZZemQ0eHVEMHpTTVk1U0lwZDhrR2NlbUVtRnYySkVRM1I2X0F5Vg?oc=5",
+      "source": "The Roanoke Rambler",
+      "published": "2026-07-01",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI's arrival in Roanoke classrooms through platform tools suggests shallow but distributed adoption—students and teachers using AI without necessarily developing deep technical understanding, testing whether superficial exposure builds future capability or dependency.",
+      "fetched": "2026-07-05"
+    },
+    {
+      "title": "AI helped a Virginia mom launch Here Now Health and expand Medicaid mental health services - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuc3VZU1V0S1RwN0VqRUltWWdtbWFIV1UxSGEza0owUHlfemx4azFsajZ2ZDNtRklSdUxKSmhhbXdrUUxvN2x3N09SN2c4OWVpaHRCQ09xaFhacmllQ3c?oc=5",
+      "source": "Межа. Новини України.",
+      "published": "2026-07-04",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A Virginia mother using AI to launch and scale Medicaid mental health services demonstrates grassroots, domain-specific AI adoption that combines deep understanding of local needs with practical tool deployment—a potential model for distributed, purpose-driven capability building outside traditional tech sectors.",
+      "fetched": "2026-07-05"
     }
   ]
 }
