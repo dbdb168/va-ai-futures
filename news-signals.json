@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "next_check": "2026-07-06",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,28 @@
       "published": "2026-07-02",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's workplace AI training program signals potential for distributed capability-building in non-metro regions, testing whether peer-to-peer professional development can bridge the geographic AI literacy gap beyond traditional tech hubs.",
-      "fetched": "2026-07-05"
+      "signal_reading": "Roanoke College launching workplace AI training signals distributed capability-building outside metro hubs, creating potential peer networks for deep AI fluency in traditionally underserved regions if program reaches beyond individual credentialing.",
+      "fetched": "2026-07-06"
     },
     {
-      "title": "Virginia budget clears way for $100B Berry Hill data center campus",
-      "url": "https://virginiabusiness.com/virginia-budget-stack-100b-data-center-project/",
-      "source": "Virginia Business",
-      "published": "2026-07-01",
-      "region": "Southside",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU partnering with AI Ready RVA demonstrates institutional commitment to broad-based AI education and community impact, potentially creating distributed peer learning networks that move beyond shallow platform adoption toward genuine capability development.",
+      "fetched": "2026-07-06"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $100B data center campus in Berry Hill represents infrastructure concentration without guaranteed local capability development—physical AI infrastructure presence doesn't automatically translate to distributed workforce skills or deep community adoption.",
-      "fetched": "2026-07-05"
+      "signal_reading": "A $50M+ investment in AI data center infrastructure in Henrico concentrates physical and capital resources in Richmond metro, deepening technical capability in established hubs while rural areas face energy constraints and limited access to the same infrastructure benefits.",
+      "fetched": "2026-07-06"
     },
     {
       "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing - Tom's Hardware",
@@ -37,8 +47,8 @@
       "published": "2026-07-01",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "NoVA's power conservation mandate due to data center electricity demand reveals how AI infrastructure concentration creates resource strain for schools and public services, potentially limiting rather than enabling broad-based AI capability development in the very regions hosting the infrastructure.",
-      "fetched": "2026-07-05"
+      "signal_reading": "Northern Virginia counties imposing power conservation due to data center electricity demand reveals infrastructure strain even in wealthy tech hubs, signaling that concentration without adequate capacity planning creates constraints that prevent both depth and distribution from scaling.",
+      "fetched": "2026-07-06"
     },
     {
       "title": "AI Has Already Arrived in Roanoke’s Classrooms. Here’s What Parents, Students, and Workers Should Know. - The Roanoke Rambler",
@@ -47,18 +57,8 @@
       "published": "2026-07-01",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI's arrival in Roanoke classrooms through platform tools suggests shallow but distributed adoption—students and teachers using AI without necessarily developing deep technical understanding, testing whether superficial exposure builds future capability or dependency.",
-      "fetched": "2026-07-05"
-    },
-    {
-      "title": "AI helped a Virginia mom launch Here Now Health and expand Medicaid mental health services - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuc3VZU1V0S1RwN0VqRUltWWdtbWFIV1UxSGEza0owUHlfemx4azFsajZ2ZDNtRklSdUxKSmhhbXdrUUxvN2x3N09SN2c4OWVpaHRCQ09xaFhacmllQ3c?oc=5",
-      "source": "Межа. Новини України.",
-      "published": "2026-07-04",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A Virginia mother using AI to launch and scale Medicaid mental health services demonstrates grassroots, domain-specific AI adoption that combines deep understanding of local needs with practical tool deployment—a potential model for distributed, purpose-driven capability building outside traditional tech sectors.",
-      "fetched": "2026-07-05"
+      "signal_reading": "AI already arriving in Roanoke classrooms through platform tools suggests broad but potentially shallow adoption, where students and educators consume AI services without necessarily building deep technical capability or understanding underlying systems.",
+      "fetched": "2026-07-06"
     }
   ]
 }
