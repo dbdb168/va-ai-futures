@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-06",
-  "next_check": "2026-07-06",
+  "next_check": "2026-07-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-07-02",
-      "region": "Southwest / Roanoke",
+      "title": "Extra Credit: Roanoke College launches AI program for professionals",
+      "url": "https://cardinalnews.org/2026/07/06/extra-credit-roanoke-college-launches-ai-program-for-professionals/",
+      "source": "Cardinal News",
+      "published": "2026-07-06",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College launching workplace AI training signals distributed capability-building outside metro hubs, creating potential peer networks for deep AI fluency in traditionally underserved regions if program reaches beyond individual credentialing.",
-      "fetched": "2026-07-06"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU partnering with AI Ready RVA demonstrates institutional commitment to broad-based AI education and community impact, potentially creating distributed peer learning networks that move beyond shallow platform adoption toward genuine capability development.",
+      "signal_reading": "Roanoke College launching an AI professional education program outside traditional tech hubs signals peer-to-peer capability building in secondary markets, potentially distributing deep skills beyond NoVA if professionals apply learning locally rather than migrating to metro centers.",
       "fetched": "2026-07-06"
     },
     {
@@ -37,27 +27,37 @@
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ investment in AI data center infrastructure in Henrico concentrates physical and capital resources in Richmond metro, deepening technical capability in established hubs while rural areas face energy constraints and limited access to the same infrastructure benefits.",
+      "signal_reading": "A $50M AI data center infrastructure investment in Henrico with 200 jobs concentrates advanced technical capability in Richmond Metro, reinforcing the capital-rich hub pattern while rural areas remain disconnected from the AI value chain.",
       "fetched": "2026-07-06"
     },
     {
-      "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYlY1RWlzc3JNeFhvR3VvOXFKQ0R4RTNSLW5Id0JudWpOSVVvdkFKdk4zelFER284eTN6aEZ4eUlYVWJXc1NIYkw5MkN5R1J3VmFRc3lIa1dpUG1zckZKbFotMHN6X3UyTzF6VEZqaTJtVE40WWZVRTF6al8tUVBZMkc3aW1RNm1qVE1scmhpX0V5NlRHWUZKUlJBMjBOMTlNVV9jMU81Vi1XdnVCNXVTM0JxM3M0SmpEOF82TExzUzlYS1M1VS1POW9iSldQTzVVWmxrcDgyVWg1dDVEbkMwYVJNcEhCRllLd3VXUVZKanRaOTN4aGJyNEcyLThYekZXbnY4Y3lZYWNfZEJxalhybWcxa3dma1F1ajhmczZwaFptcGZXSmF2WDlqcEQ2S1ZmTFo3T1lkYjUzQTYyQW1ndkhUYUU5V0RZN1hWay1BMXpjYWxGZ0VYNV9FbXJqMWFrRTFxTQ?oc=5",
-      "source": "Tom's Hardware",
+      "title": "VA uses hundreds of AI systems. Veterans may not know when they’re involved. - Military Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHpjVFVqUHhvOFVkRS1TVTBDeUl3OHIxeldMV29kOUhxRmtVblZvVm82ZUdyVmpYbHp3bmNmZGpRZ0xWTy1XZkZvZHVsektueEJicExJZ1V4dUFNNm1iTE1SaGswNWxzMFlYR0xVaS1rNmFfR2x0TmN3ZjhmMXF5SmhDUDNZZUp2NFFNZTlKbV8tNkFlSllIS2t3MFBkaW5QbGt1LUFNQmxIMGhrUkdGWElKTDRVdVQ5Q1BIM08xMTNaQQ?oc=5",
+      "source": "Military Times",
+      "published": "2026-07-01",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Veterans interacting with hundreds of opaque VA AI systems without awareness or control exemplifies shallow, concentrated deployment—technology applied to populations rather than empowering them with AI literacy or agency.",
+      "fetched": "2026-07-06"
+    },
+    {
+      "title": "Virginia budget clears way for $100B Berry Hill data center campus",
+      "url": "https://virginiabusiness.com/virginia-budget-stack-100b-data-center-project/",
+      "source": "Virginia Business",
       "published": "2026-07-01",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Northern Virginia counties imposing power conservation due to data center electricity demand reveals infrastructure strain even in wealthy tech hubs, signaling that concentration without adequate capacity planning creates constraints that prevent both depth and distribution from scaling.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia's $100B Berry Hill data center campus approval reinforces NoVA's dominance as AI infrastructure capital, deepening geographic concentration of computational resources while offering little pathway for distributed skill development across other regions.",
       "fetched": "2026-07-06"
     },
     {
-      "title": "AI Has Already Arrived in Roanoke’s Classrooms. Here’s What Parents, Students, and Workers Should Know. - The Roanoke Rambler",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFhdWtLX3Z6d3hzRE1EbXVQU0FjSnlPa1pndUcyOEhGdkZSUG01RXNOYkpWakxCNEMtNThMeUpLeUxiSTUwWER5TkRxQ3c4dVZfckJjLUg0MXRMbDgxdUJoNEVRVm9ENXRmN3BORmhRRzFSUVVMYzZBYXA5bXBra1JHLVhKUzR6a1pINkNxVUJhcXk3Sm5jZTdmNWRXaDR2UTZZemQ0eHVEMHpTTVk1U0lwZDhrR2NlbUVtRnYySkVRM1I2X0F5Vg?oc=5",
-      "source": "The Roanoke Rambler",
-      "published": "2026-07-01",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI already arriving in Roanoke classrooms through platform tools suggests broad but potentially shallow adoption, where students and educators consume AI services without necessarily building deep technical capability or understanding underlying systems.",
+      "title": "Virginia's best-paying jobs are most exposed to AI, report says - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVJic3ZYRTJubDZLSVlFMGlNNXZBdHFGa1lpR3RIU0gtRW1xa0dtMUNoUFVQNEtpUFBwYi1MR3B0QjA0ZWtDX3NQakg0UTZ1NklQWXlSZnR1RWt0TFhPNjdiaFhDQUpmS2h0NGVxV3M4SUY5eVhTemJyLUtzUGRrVllIaGc3by1yQW9XZVNGUnF1cXktdzlELVBKMFhXdWcyRTBWcV9sZWpFN3hoR0lfb2VEcjNmOEdxc201TF9B?oc=5",
+      "source": "Axios",
+      "published": "2026-07-06",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "High-wage Virginia jobs facing AI exposure creates urgency for workforce reskilling—whether this triggers distributed peer learning networks or concentrates retraining in metro institutions will determine if disruption spreads capability or deepens divides.",
       "fetched": "2026-07-06"
     }
   ]
