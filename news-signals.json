@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents distributed capacity-building infrastructure outside major metros, potentially creating peer learning networks that spread deep AI fluency beyond the NoVA concentration zone.",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional ecosystem-building to distribute AI literacy beyond corporate users, creating peer networks that could spread capability through community impact rather than concentrating in enterprise hubs.",
       "fetched": "2026-07-07"
     },
     {
@@ -27,17 +27,17 @@
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ AI data center infrastructure investment in Henrico reinforces Richmond's position as a secondary hub, but signals concentration in established metro corridors rather than distribution to rural regions like Southside or Southwest.",
+      "signal_reading": "A $50M+ AI data center infrastructure investment in Henrico deepens Richmond's technical capability but signals concentration around capital-intensive facilities rather than distributed AI fluency—200 jobs likely require specialized skills unavailable to broader workforce.",
       "fetched": "2026-07-07"
     },
     {
-      "title": "VT Science Corner: Designing better battery technology with X-rays and AI - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVJENEpBWDdPMGNPN3hpQW5tZGZJYUJnTG51M1dUSHlJYXdOQndlV0pKUjFOQ0xBR01lN200N1h2UlFfbGQ4dTFVZGtSVGt0MDBqMXJpRF9zdmN6c09kR194RmRhWVJBbHQ5clBxaS1wd2hwVVV3R29NaXV0T0hlampwUVpicWFjYUQ3bg?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-06-28",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's AI-driven battery research demonstrates deep technical capability emerging in the New River Valley corridor, suggesting research institutions can seed distributed excellence if knowledge transfers to regional industry and workforce.",
+      "title": "State invests $3M to help transform Hampton Roads into hub for aircraft technology and training - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZjA1a2ZRT2xrSF9vTTRvdW5TeFI0UWp6Q3JYa1NJVktOV1F2VnZEekZfd001OXRaeEdhaFlXc0NWVWFGM1Z2czc0LVRqZllRdTg5U0FuQ0JHemx5RnNtV01pQ3Qzc0Nmb0ZGT1JiS3pNbWtqcG10WGh3SmZ1amJSM3IxOG51UnV0LUFtbFlHWHlBZUpuSTRKZHluZ3VNbWJ5VHBkaWhfRy01TTIyblBrZ296ZWRLaXo5T2ZIanRqRWd4TldONzhqUl9FZTA1ZlpPUUw3SmFUVnVnZVRKNzNUbmxRNGFGZk5POGUxbWx6eWNtc2FSQ18zTzFlX0FTeTE1V01hUVNwQVhsSDI4ajNWc24ydEVmSHJiVzg3QzhIY2pmdnVh?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-05-19",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "State investment to transform Hampton Roads into an aircraft technology hub represents concentrated capability-building in a defense-adjacent sector, but $3M scale and specialized domain suggest deep-but-narrow expertise rather than distributed AI literacy.",
       "fetched": "2026-07-07"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-07-06",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "High-paying jobs concentrated in metro areas face AI displacement risk while lacking evidence of distributed reskilling infrastructure, signaling neither depth of AI capability nor breadth of workforce adaptation across Virginia's regions.",
+      "signal_reading": "Virginia's best-paying jobs facing highest AI exposure reveals structural risk: those with resources to adapt may deepen advantages while workers in lower-wage roles lack access to reskilling, accelerating rather than closing capability divides.",
       "fetched": "2026-07-07"
     },
     {
-      "title": "AI may have limitations when illustrating smaller, rural cities - WVTF",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJNdWFfQjE3SklaZzlzRTB5ejNvZ0JyUi1tWk1LbUtpUG5KYTZZWnU4b0FnaTgyTDA3M0RPcnh4SUNlZ1FRZVFuLVJYN2pMMnVlV2xhRU9kUlVobVU3VXV4RkUzLTBZcE45eGRzcUdycFJsUVJDOHhBdEo0X0NmRDBKekZITGFvaGFCNGVteFlNNGM2aElVWHBxZkh3dnZ1?oc=5",
-      "source": "WVTF",
+      "title": "How Virginia became the world’s data center capital and how it’s going - Virginia Mercury",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXlQTUtmWEF1ZjdRVmdmZ3Q0QVpNUWQ1Yk15M0xOVUhCdjZ6SUxpRU90SW9Ga2FEWnZZSUZYVWg5Ml9IWEpzdnp5bzJnWC1tWEFEZFNndkNBS1RtUGpUbEVMZU5USU9yb211a3BBRDZWZFVYaXlvTVU0YjN2YkpWcHl4bEFYYzRobzEtU1NoOVlQQWR4YkY0U1RCNEx5T2M1SE5pX1RBdGNPek54?oc=5",
+      "source": "Virginia Mercury",
       "published": "2026-07-06",
-      "region": "Southwest / Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI's inability to accurately represent smaller rural cities reveals both training data bias and the risk that AI tools built elsewhere fail to serve Virginia's rural regions, reinforcing rather than bridging the capability divide.",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Analysis of Virginia's data center capital status crystallizes the concentration dynamic—NoVA's infrastructure dominance deepens as physical AI infrastructure follows cheap power and existing network effects rather than distributing capability geographically.",
       "fetched": "2026-07-07"
     }
   ]
