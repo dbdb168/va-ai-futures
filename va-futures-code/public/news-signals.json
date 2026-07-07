@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "next_check": "2026-07-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,24 +11,24 @@
   ],
   "signals": [
     {
-      "title": "Extra Credit: Roanoke College launches AI program for professionals",
-      "url": "https://cardinalnews.org/2026/07/06/extra-credit-roanoke-college-launches-ai-program-for-professionals/",
-      "source": "Cardinal News",
-      "published": "2026-07-06",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College launching an AI professional education program outside traditional tech hubs signals peer-to-peer capability building in secondary markets, potentially distributing deep skills beyond NoVA if professionals apply learning locally rather than migrating to metro centers.",
-      "fetched": "2026-07-06"
-    },
-    {
       "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
       "source": "WWBT",
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M AI data center infrastructure investment in Henrico with 200 jobs concentrates advanced technical capability in Richmond Metro, reinforcing the capital-rich hub pattern while rural areas remain disconnected from the AI value chain.",
-      "fetched": "2026-07-06"
+      "signal_reading": "A $50M+ investment in AI infrastructure and 200 jobs in Henrico signals Richmond's emergence as a secondary concentration hub for AI capability, but the capital-intensive data center model produces concentrated economic benefit rather than distributed AI fluency across the region.",
+      "fetched": "2026-07-07"
+    },
+    {
+      "title": "Extra Credit: Roanoke College launches AI program for professionals",
+      "url": "https://cardinalnews.org/2026/07/06/extra-credit-roanoke-college-launches-ai-program-for-professionals/",
+      "source": "Cardinal News",
+      "published": "2026-07-06",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's professional AI program represents intentional skill-building infrastructure outside traditional tech hubs, creating potential for distributed deep capability if graduates apply learning locally rather than migrate to metros.",
+      "fetched": "2026-07-07"
     },
     {
       "title": "VA uses hundreds of AI systems. Veterans may not know when they’re involved. - Military Times",
@@ -37,28 +37,28 @@
       "published": "2026-07-01",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Veterans interacting with hundreds of opaque VA AI systems without awareness or control exemplifies shallow, concentrated deployment—technology applied to populations rather than empowering them with AI literacy or agency.",
-      "fetched": "2026-07-06"
-    },
-    {
-      "title": "Virginia budget clears way for $100B Berry Hill data center campus",
-      "url": "https://virginiabusiness.com/virginia-budget-stack-100b-data-center-project/",
-      "source": "Virginia Business",
-      "published": "2026-07-01",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's $100B Berry Hill data center campus approval reinforces NoVA's dominance as AI infrastructure capital, deepening geographic concentration of computational resources while offering little pathway for distributed skill development across other regions.",
-      "fetched": "2026-07-06"
+      "signal_reading": "The VA's deployment of hundreds of opaque AI systems affecting veterans without their knowledge signals shallow, non-participatory adoption that neither builds user capability nor distributes AI literacy—a pattern that could replicate across public services statewide.",
+      "fetched": "2026-07-07"
     },
     {
       "title": "Virginia's best-paying jobs are most exposed to AI, report says - Axios",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVJic3ZYRTJubDZLSVlFMGlNNXZBdHFGa1lpR3RIU0gtRW1xa0dtMUNoUFVQNEtpUFBwYi1MR3B0QjA0ZWtDX3NQakg0UTZ1NklQWXlSZnR1RWt0TFhPNjdiaFhDQUpmS2h0NGVxV3M4SUY5eVhTemJyLUtzUGRrVllIaGc3by1yQW9XZVNGUnF1cXktdzlELVBKMFhXdWcyRTBWcV9sZWpFN3hoR0lfb2VEcjNmOEdxc201TF9B?oc=5",
       "source": "Axios",
       "published": "2026-07-06",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "High-wage jobs facing greatest AI exposure concentrates both opportunity and risk in already-advantaged metro corridors, where workers have resources to adapt, while lower-wage regions lack both exposure to AI transformation and resources to prepare for it.",
+      "fetched": "2026-07-07"
+    },
+    {
+      "title": "Virginia ranks fifth in workplace AI adoption, new report finds - WVIR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE1rWWZkNGg2VEJGTjBwOFdxTlF5Wm5oa04weDVBZjhQVG1mXzBreU93eVVydkVHa3BCTUlyODBDQ19zTVFBY3FUWXAyeVItUFlrZGFsSTZwVGlpUXVKRWktQkRqbldKbDdHMzNjNE9JVFJ3NzlvTW5uZ0QwbVlSR0JtWFZRMEoyLTJNTDVxVTZuY0dibUFmd0dR0gGuAUFVX3lxTE85VE12NDBZX2RJVWR2Z1doR0NudnBTMmZKMmdvcGJzUFZFRlJ2WDZrUWItYVh2N2ZLbVplcTdESlltSmhMcnptT2VKYk9lelNOS09EdWdqUWtwanVhamoxcmJHMUlWbUE2NDdaV2UxdzlQcGcxQWRJNnkyYVNXcmdvSU1VUFFFZVBEd2l5amN1QlVycm9YYTlUb3U3NUswQ0RBTEt3V3RSLWpJdXBoQQ?oc=5",
+      "source": "WVIR",
+      "published": "2026-07-06",
       "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "High-wage Virginia jobs facing AI exposure creates urgency for workforce reskilling—whether this triggers distributed peer learning networks or concentrates retraining in metro institutions will determine if disruption spreads capability or deepens divides.",
-      "fetched": "2026-07-06"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Virginia's fifth-place workplace AI adoption ranking likely reflects platform-layer tool usage distributed across sectors rather than deep technical capability, signaling broad but shallow engagement that doesn't fundamentally shift the state's innovation capacity.",
+      "fetched": "2026-07-07"
     }
   ]
 }
