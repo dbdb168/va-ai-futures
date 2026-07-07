@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-07",
-  "next_check": "2026-07-07",
+  "next_check": "2026-07-08",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,33 +11,33 @@
   ],
   "signals": [
     {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents distributed capacity-building infrastructure outside major metros, potentially creating peer learning networks that spread deep AI fluency beyond the NoVA concentration zone.",
+      "fetched": "2026-07-07"
+    },
+    {
       "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
       "source": "WWBT",
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ investment in AI infrastructure and 200 jobs in Henrico signals Richmond's emergence as a secondary concentration hub for AI capability, but the capital-intensive data center model produces concentrated economic benefit rather than distributed AI fluency across the region.",
+      "signal_reading": "A $50M+ AI data center infrastructure investment in Henrico reinforces Richmond's position as a secondary hub, but signals concentration in established metro corridors rather than distribution to rural regions like Southside or Southwest.",
       "fetched": "2026-07-07"
     },
     {
-      "title": "Extra Credit: Roanoke College launches AI program for professionals",
-      "url": "https://cardinalnews.org/2026/07/06/extra-credit-roanoke-college-launches-ai-program-for-professionals/",
-      "source": "Cardinal News",
-      "published": "2026-07-06",
+      "title": "VT Science Corner: Designing better battery technology with X-rays and AI - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVJENEpBWDdPMGNPN3hpQW5tZGZJYUJnTG51M1dUSHlJYXdOQndlV0pKUjFOQ0xBR01lN200N1h2UlFfbGQ4dTFVZGtSVGt0MDBqMXJpRF9zdmN6c09kR194RmRhWVJBbHQ5clBxaS1wd2hwVVV3R29NaXV0T0hlampwUVpicWFjYUQ3bg?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-06-28",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's professional AI program represents intentional skill-building infrastructure outside traditional tech hubs, creating potential for distributed deep capability if graduates apply learning locally rather than migrate to metros.",
-      "fetched": "2026-07-07"
-    },
-    {
-      "title": "VA uses hundreds of AI systems. Veterans may not know when they’re involved. - Military Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHpjVFVqUHhvOFVkRS1TVTBDeUl3OHIxeldMV29kOUhxRmtVblZvVm82ZUdyVmpYbHp3bmNmZGpRZ0xWTy1XZkZvZHVsektueEJicExJZ1V4dUFNNm1iTE1SaGswNWxzMFlYR0xVaS1rNmFfR2x0TmN3ZjhmMXF5SmhDUDNZZUp2NFFNZTlKbV8tNkFlSllIS2t3MFBkaW5QbGt1LUFNQmxIMGhrUkdGWElKTDRVdVQ5Q1BIM08xMTNaQQ?oc=5",
-      "source": "Military Times",
-      "published": "2026-07-01",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "The VA's deployment of hundreds of opaque AI systems affecting veterans without their knowledge signals shallow, non-participatory adoption that neither builds user capability nor distributes AI literacy—a pattern that could replicate across public services statewide.",
+      "signal_reading": "Virginia Tech's AI-driven battery research demonstrates deep technical capability emerging in the New River Valley corridor, suggesting research institutions can seed distributed excellence if knowledge transfers to regional industry and workforce.",
       "fetched": "2026-07-07"
     },
     {
@@ -45,19 +45,19 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVJic3ZYRTJubDZLSVlFMGlNNXZBdHFGa1lpR3RIU0gtRW1xa0dtMUNoUFVQNEtpUFBwYi1MR3B0QjA0ZWtDX3NQakg0UTZ1NklQWXlSZnR1RWt0TFhPNjdiaFhDQUpmS2h0NGVxV3M4SUY5eVhTemJyLUtzUGRrVllIaGc3by1yQW9XZVNGUnF1cXktdzlELVBKMFhXdWcyRTBWcV9sZWpFN3hoR0lfb2VEcjNmOEdxc201TF9B?oc=5",
       "source": "Axios",
       "published": "2026-07-06",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "High-wage jobs facing greatest AI exposure concentrates both opportunity and risk in already-advantaged metro corridors, where workers have resources to adapt, while lower-wage regions lack both exposure to AI transformation and resources to prepare for it.",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "High-paying jobs concentrated in metro areas face AI displacement risk while lacking evidence of distributed reskilling infrastructure, signaling neither depth of AI capability nor breadth of workforce adaptation across Virginia's regions.",
       "fetched": "2026-07-07"
     },
     {
-      "title": "Virginia ranks fifth in workplace AI adoption, new report finds - WVIR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE1rWWZkNGg2VEJGTjBwOFdxTlF5Wm5oa04weDVBZjhQVG1mXzBreU93eVVydkVHa3BCTUlyODBDQ19zTVFBY3FUWXAyeVItUFlrZGFsSTZwVGlpUXVKRWktQkRqbldKbDdHMzNjNE9JVFJ3NzlvTW5uZ0QwbVlSR0JtWFZRMEoyLTJNTDVxVTZuY0dibUFmd0dR0gGuAUFVX3lxTE85VE12NDBZX2RJVWR2Z1doR0NudnBTMmZKMmdvcGJzUFZFRlJ2WDZrUWItYVh2N2ZLbVplcTdESlltSmhMcnptT2VKYk9lelNOS09EdWdqUWtwanVhamoxcmJHMUlWbUE2NDdaV2UxdzlQcGcxQWRJNnkyYVNXcmdvSU1VUFFFZVBEd2l5amN1QlVycm9YYTlUb3U3NUswQ0RBTEt3V3RSLWpJdXBoQQ?oc=5",
-      "source": "WVIR",
+      "title": "AI may have limitations when illustrating smaller, rural cities - WVTF",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJNdWFfQjE3SklaZzlzRTB5ejNvZ0JyUi1tWk1LbUtpUG5KYTZZWnU4b0FnaTgyTDA3M0RPcnh4SUNlZ1FRZVFuLVJYN2pMMnVlV2xhRU9kUlVobVU3VXV4RkUzLTBZcE45eGRzcUdycFJsUVJDOHhBdEo0X0NmRDBKekZITGFvaGFCNGVteFlNNGM2aElVWHBxZkh3dnZ1?oc=5",
+      "source": "WVTF",
       "published": "2026-07-06",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Virginia's fifth-place workplace AI adoption ranking likely reflects platform-layer tool usage distributed across sectors rather than deep technical capability, signaling broad but shallow engagement that doesn't fundamentally shift the state's innovation capacity.",
+      "region": "Southwest / Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI's inability to accurately represent smaller rural cities reveals both training data bias and the risk that AI tools built elsewhere fail to serve Virginia's rural regions, reinforcing rather than bridging the capability divide.",
       "fetched": "2026-07-07"
     }
   ]
