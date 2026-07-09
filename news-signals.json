@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-09",
   "next_check": "2026-07-09",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,34 +11,24 @@
   ],
   "signals": [
     {
-      "title": "Column: For rural Virginia, data centers are more than technology - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0gzSkxMcVM3QXlobk9oeFJ1VE5lMmFCV0x5UGZEaFVSOXBjdXY5V05jU0F4eHZKQ1V3MUNKV1Nhb0dzR1JvMHJ5akNwUURuWlI4eEQySzI5LW1ZdWVWZkdwMVYzd3lQUmc4UWNzTmV0TmJQeFZyNFpWcHgzTml0bXR6RXp6OFVFaWkxcTdlX2E5aDBoTzBhZWhqZ1dyOHh2Q05RX0ZR?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-06-22",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ AI data center infrastructure investment in Henrico with 200 jobs signals deepening technical capacity concentration in Richmond Metro, creating middle-skill opportunities but requiring specialized expertise that may not distribute beyond the metro corridor.",
-      "fetched": "2026-07-08"
-    },
-    {
-      "title": "Prince William Co. supervisors deny 2,000-acre Dulles South data center plans",
-      "url": "https://wtop.com/prince-william-county/2026/07/prince-william-co-supervisors-deny-2000-acre-dulles-south-data-center-plans/",
-      "source": "WTOP Virginia",
-      "published": "2026-07-08",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Prince William County's rejection of 2,000-acre data center plans suggests political resistance to infrastructure expansion even in NoVA, potentially constraining the physical foundation for distributed AI capability while concentrating it further in existing Loudoun/Fairfax sites.",
-      "fetched": "2026-07-08"
-    },
-    {
-      "title": "Virginia's best-paying jobs are most exposed to AI, report says - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVJic3ZYRTJubDZLSVlFMGlNNXZBdHFGa1lpR3RIU0gtRW1xa0dtMUNoUFVQNEtpUFBwYi1MR3B0QjA0ZWtDX3NQakg0UTZ1NklQWXlSZnR1RWt0TFhPNjdiaFhDQUpmS2h0NGVxV3M4SUY5eVhTemJyLUtzUGRrVllIaGc3by1yQW9XZVNGUnF1cXktdzlELVBKMFhXdWcyRTBWcV9sZWpFN3hoR0lfb2VEcjNmOEdxc201TF9B?oc=5",
-      "source": "Axios",
+      "title": "Virginia ranks fifth in workplace AI adoption, new report finds - WVIR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE1rWWZkNGg2VEJGTjBwOFdxTlF5Wm5oa04weDVBZjhQVG1mXzBreU93eVVydkVHa3BCTUlyODBDQ19zTVFBY3FUWXAyeVItUFlrZGFsSTZwVGlpUXVKRWktQkRqbldKbDdHMzNjNE9JVFJ3NzlvTW5uZ0QwbVlSR0JtWFZRMEoyLTJNTDVxVTZuY0dibUFmd0dR0gGuAUFVX3lxTE85VE12NDBZX2RJVWR2Z1doR0NudnBTMmZKMmdvcGJzUFZFRlJ2WDZrUWItYVh2N2ZLbVplcTdESlltSmhMcnptT2VKYk9lelNOS09EdWdqUWtwanVhamoxcmJHMUlWbUE2NDdaV2UxdzlQcGcxQWRJNnkyYVNXcmdvSU1VUFFFZVBEd2l5amN1QlVycm9YYTlUb3U3NUswQ0RBTEt3V3RSLWpJdXBoQQ?oc=5",
+      "source": "WVIR",
       "published": "2026-07-06",
       "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Virginia ranking fifth nationally in workplace AI adoption suggests broad but likely platform-mediated usage across sectors, signaling shallow-but-distributed adoption rather than deep technical capability building at the organizational level.",
+      "fetched": "2026-07-09"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Report showing Virginia's highest-paying jobs face greatest AI exposure reveals a concentration risk: metro knowledge workers have resources to adapt while rural workers in lower-paying roles lack access to AI upskilling, accelerating the capability divide.",
-      "fetched": "2026-07-08"
+      "signal_reading": "A $50M+ AI infrastructure investment adding 200 jobs in Henrico reinforces Richmond's emergence as a secondary hub, but the concentration of capital-intensive data center jobs risks creating capability islands rather than distributed AI fluency across the region.",
+      "fetched": "2026-07-09"
     },
     {
       "title": "Mountain Empire Community College closing workforce center, relocating programs to campus",
@@ -47,18 +37,28 @@
       "published": "2026-07-08",
       "region": "Southwest",
       "scenario": "The Widening Gap",
-      "signal_reading": "Mountain Empire Community College closing its workforce center during AI transition consolidates training capacity on main campus, reducing distributed access points precisely when Southwest Virginia needs expanded tech workforce development infrastructure.",
-      "fetched": "2026-07-08"
+      "signal_reading": "Mountain Empire Community College closing its workforce center during the AI transition signals resource constraints in Appalachian Virginia precisely when distributed reskilling infrastructure is most needed, deepening the metro-rural divide.",
+      "fetched": "2026-07-09"
+    },
+    {
+      "title": "Virginia's best-paying jobs are most exposed to AI, report says - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVJic3ZYRTJubDZLSVlFMGlNNXZBdHFGa1lpR3RIU0gtRW1xa0dtMUNoUFVQNEtpUFBwYi1MR3B0QjA0ZWtDX3NQakg0UTZ1NklQWXlSZnR1RWt0TFhPNjdiaFhDQUpmS2h0NGVxV3M4SUY5eVhTemJyLUtzUGRrVllIaGc3by1yQW9XZVNGUnF1cXktdzlELVBKMFhXdWcyRTBWcV9sZWpFN3hoR0lfb2VEcjNmOEdxc201TF9B?oc=5",
+      "source": "Axios",
+      "published": "2026-07-06",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "High-wage jobs being most exposed to AI creates a bifurcated risk profile: metro professionals may adapt through deep reskilling while workers in regions without robust training ecosystems face displacement without capability-building pathways.",
+      "fetched": "2026-07-09"
     },
     {
       "title": "To defend your software, first teach AI to break it - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblI2NEFSb0lsWm5GTFNfTXJaUmJhWHVqRlRlbTBMTVY5WUozSDlOcGFodzJFbWJRR3FYd3ZEdUM3cWJRX0ZqTFpUbmN5MVE4elJsdWNtSDA0S05zTjg3QVYwM3UzUEFNa2hBNzZxb1M3ek8wZWZVQzBTektUa0ZXQTRlQThvcGFWeDlUdW9GWXdRaDhWZUNPNA?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-07-07",
-      "region": "Statewide",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech research teaching AI to break software demonstrates deep technical capability development in New River Valley that could distribute through the university system's extension network, though currently concentrated in academic research settings.",
-      "fetched": "2026-07-08"
+      "signal_reading": "Virginia Tech researchers developing AI security techniques demonstrates deep technical capability generation in New River Valley, creating potential knowledge spillover if academic-to-workforce pipelines can distribute these skills beyond the university ecosystem.",
+      "fetched": "2026-07-09"
     }
   ]
 }
