@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-07-10",
   "next_check": "2026-07-10",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building outside metro hubs, creating peer networks for AI fluency in a traditionally non-tech region—exactly the distributed deep learning infrastructure that enables Build It Yourself scenarios.",
-      "fetched": "2026-07-09"
+      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate institutional capacity-building outside major metros, signaling potential for distributed deep capability if the lab produces genuine fluency rather than surface-level familiarity.",
+      "fetched": "2026-07-10"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -26,19 +26,19 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA concentrates educational resources and innovation capacity in Richmond's metro core, deepening existing regional advantages while leaving the distribution question unresolved—will this knowledge radiate outward or accumulate inward?",
-      "fetched": "2026-07-09"
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's AI Ready RVA partnership embedding AI education across community institutions could catalyze peer-learning networks beyond traditional tech hubs, testing whether regional anchor institutions can distribute deep capability.",
+      "fetched": "2026-07-10"
     },
     {
-      "title": "VT Science Corner: Designing better battery technology with X-rays and AI - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVJENEpBWDdPMGNPN3hpQW5tZGZJYUJnTG51M1dUSHlJYXdOQndlV0pKUjFOQ0xBR01lN200N1h2UlFfbGQ4dTFVZGtSVGt0MDBqMXJpRF9zdmN6c09kR194RmRhWVJBbHQ5clBxaS1wd2hwVVV3R29NaXV0T0hlampwUVpicWFjYUQ3bg?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-06-28",
-      "region": "Roanoke / New River Valley",
+      "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5",
+      "source": "Axios",
+      "published": "2026-07-06",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's AI-driven battery research demonstrates deep technical capability anchored to institutional presence, but specialized research excellence doesn't automatically translate to broad workforce capability across the region—classic concentrated depth pattern.",
-      "fetched": "2026-07-09"
+      "signal_reading": "Meta and Google investing in skilled worker training specifically for Virginia data centers signals deepening technical capability, but concentrated in infrastructure-rich regions where hyperscalers locate—reinforcing geographic clustering of expertise.",
+      "fetched": "2026-07-10"
     },
     {
       "title": "How are AI use and policy changing in schools? New VCU research identifies key gaps - VCU News",
@@ -47,18 +47,18 @@
       "published": "2026-07-08",
       "region": "Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "VCU research identifying gaps in school AI policy reveals shallow, reactive adoption patterns across Virginia schools—institutions are using AI tools without developing deep understanding or coherent frameworks, signaling broad but superficial distribution.",
-      "fetched": "2026-07-09"
+      "signal_reading": "VCU research identifying gaps in school AI policy suggests emerging statewide adoption but reveals shallow implementation—schools consuming AI tools without developing institutional fluency or strategic frameworks for capability-building.",
+      "fetched": "2026-07-10"
     },
     {
-      "title": "By water use, Google&#8217;s Botetourt site would be its 8th largest data center complex in the world",
-      "url": "https://cardinalnews.org/2026/07/09/by-water-use-googles-botetourt-site-would-be-its-8th-largest-data-center-complex-in-the-world/",
-      "source": "Cardinal News",
-      "published": "2026-07-09",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Google's massive data center in Botetourt extracts regional resources (water, power, tax incentives) while providing primarily infrastructure jobs rather than AI capability development—economic presence without knowledge transfer widens rather than bridges capability gaps.",
-      "fetched": "2026-07-09"
+      "title": "To defend your software, first teach AI to break it - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblI2NEFSb0lsWm5GTFNfTXJaUmJhWHVqRlRlbTBMTVY5WUozSDlOcGFodzJFbWJRR3FYd3ZEdUM3cWJRX0ZqTFpUbmN5MVE4elJsdWNtSDA0S05zTjg3QVYwM3UzUEFNa2hBNzZxb1M3ek8wZWZVQzBTektUa0ZXQTRlQThvcGFWeDlUdW9GWXdRaDhWZUNPNA?oc=5",
+      "source": "Virginia Tech News",
+      "published": "2026-07-07",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech research on AI-driven software security represents deep technical capability generation, but concentrated in R1 university settings—advancing frontier knowledge that may not transfer to broader workforce without intentional distribution mechanisms.",
+      "fetched": "2026-07-10"
     }
   ]
 }
