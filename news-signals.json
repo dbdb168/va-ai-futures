@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-10",
-  "next_check": "2026-07-10",
+  "next_check": "2026-07-11",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,53 +11,53 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
+      "title": "By water use, Google&#8217;s Botetourt site would be its 8th largest data center complex in the world",
+      "url": "https://cardinalnews.org/2026/07/09/by-water-use-googles-botetourt-site-would-be-its-8th-largest-data-center-complex-in-the-world/",
+      "source": "Cardinal News",
+      "published": "2026-07-09",
       "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate institutional capacity-building outside major metros, signaling potential for distributed deep capability if the lab produces genuine fluency rather than surface-level familiarity.",
-      "fetched": "2026-07-10"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's AI Ready RVA partnership embedding AI education across community institutions could catalyze peer-learning networks beyond traditional tech hubs, testing whether regional anchor institutions can distribute deep capability.",
-      "fetched": "2026-07-10"
-    },
-    {
-      "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5",
-      "source": "Axios",
-      "published": "2026-07-06",
-      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Meta and Google investing in skilled worker training specifically for Virginia data centers signals deepening technical capability, but concentrated in infrastructure-rich regions where hyperscalers locate—reinforcing geographic clustering of expertise.",
+      "signal_reading": "Google's massive Botetourt data center signals concentrated AI infrastructure investment in a mid-tier region, but water-intensive operations suggest capital-heavy deployment rather than distributed local capability building or workforce development.",
       "fetched": "2026-07-10"
     },
     {
-      "title": "How are AI use and policy changing in schools? New VCU research identifies key gaps - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xRjdmZ3I5V3F5NWtRcTBONTVldjd3YzBkeWs3bzV6VGJMWmpkamdtc182X0JGempIc2kzcU9fUlJSVEt6TkVWdGtkN21CUlZlallETUtpMEc2X2tIYktBdg?oc=5",
-      "source": "VCU News",
+      "title": "Stafford Co. defers data center project on property with historic cemetery",
+      "url": "https://wtop.com/stafford-county/2026/07/stafford-co-defers-data-center-project-on-property-with-historic-cemetery/",
+      "source": "WTOP Virginia",
+      "published": "2026-07-10",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Stafford County's data center deferral reflects community pushback against infrastructure concentration in NoVA, potentially slowing but not reversing the geographic concentration of AI-enabling cloud infrastructure in the region.",
+      "fetched": "2026-07-10"
+    },
+    {
+      "title": "Testing service acquisition expands Virginia’s workforce credentialing and policy plans",
+      "url": "https://virginiamercury.com/briefs/testing-service-acquisition-expands-virginias-workforce-credentialing-and-policy-plans/",
+      "source": "Virginia Mercury",
+      "published": "2026-07-07",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia's acquisition of workforce credentialing testing services signals state-level investment in distributed skills validation infrastructure that could enable broader AI fluency measurement and certification across all regions.",
+      "fetched": "2026-07-10"
+    },
+    {
+      "title": "Fed&#8217;s Warsh taps broad group of Fed outsiders to oversee review",
+      "url": "https://virginiabusiness.com/feds-warsh-taps-broad-group-of-fed-outsiders-to-oversee-review/",
+      "source": "Virginia Business",
+      "published": "2026-07-09",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Federal Reserve's AI impact review task force, likely drawing heavily on NoVA's concentration of financial tech expertise and federal contractors, reinforces deep capability clustering in metro DC-adjacent corridors rather than distributed knowledge.",
+      "fetched": "2026-07-10"
+    },
+    {
+      "title": "Remote work has its perks, but U.Va. study also finds mental health downsides",
+      "url": "https://wtop.com/health-fitness/2026/07/working-from-home-has-its-pluses-but-a-study-also-finds-some-minuses/",
+      "source": "WTOP Virginia",
       "published": "2026-07-08",
       "region": "Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "VCU research identifying gaps in school AI policy suggests emerging statewide adoption but reveals shallow implementation—schools consuming AI tools without developing institutional fluency or strategic frameworks for capability-building.",
-      "fetched": "2026-07-10"
-    },
-    {
-      "title": "To defend your software, first teach AI to break it - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblI2NEFSb0lsWm5GTFNfTXJaUmJhWHVqRlRlbTBMTVY5WUozSDlOcGFodzJFbWJRR3FYd3ZEdUM3cWJRX0ZqTFpUbmN5MVE4elJsdWNtSDA0S05zTjg3QVYwM3UzUEFNa2hBNzZxb1M3ek8wZWZVQzBTektUa0ZXQTRlQThvcGFWeDlUdW9GWXdRaDhWZUNPNA?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-07-07",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech research on AI-driven software security represents deep technical capability generation, but concentrated in R1 university settings—advancing frontier knowledge that may not transfer to broader workforce without intentional distribution mechanisms.",
+      "signal_reading": "UVA research on remote work mental health signals the shallow adoption layer of platform-mediated work tools spreading broadly, but focuses on usage effects rather than capability depth or economic opportunity distribution.",
       "fetched": "2026-07-10"
     }
   ]
