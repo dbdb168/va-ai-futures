@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-11",
   "next_check": "2026-07-11",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,14 @@
   ],
   "signals": [
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional community-wide AI education infrastructure in Richmond, creating potential for distributed deep capability beyond elite tech workers if execution reaches broad populations.",
-      "fetched": "2026-07-10"
+      "signal_reading": "Free AI workshops targeting technology gap closure in Hampton Roads signals grassroots capability-building and distributed access, though sustainability depends on whether these spark peer learning networks or remain isolated interventions.",
+      "fetched": "2026-07-11"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
@@ -26,9 +26,19 @@
       "source": "Roanoke College",
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab in Southwest Virginia represents institutional investment in deep AI literacy outside metro hubs, testing whether regional anchor institutions can distribute capability beyond NoVA's gravitational pull.",
+      "fetched": "2026-07-11"
+    },
+    {
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional AI capability building in a traditionally non-tech region, but an academic lab focused on 'preparing leaders' suggests concentrated expertise rather than broad workforce distribution.",
-      "fetched": "2026-07-10"
+      "signal_reading": "VCU-AI Ready RVA partnership signals Richmond Metro's attempt to build concentrated AI expertise and innovation capacity, potentially creating a secondary hub but not yet demonstrating mechanisms for broader statewide distribution.",
+      "fetched": "2026-07-11"
     },
     {
       "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
@@ -36,9 +46,9 @@
       "source": "Axios",
       "published": "2026-07-06",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Meta and Google investing in skilled worker training for data center operations concentrates workforce development around infrastructure hubs, creating narrow technical capability rather than broad AI fluency across the state.",
-      "fetched": "2026-07-10"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Meta and Google investing in skilled worker training for data center operations suggests platform companies enabling shallow, task-specific AI adoption—workers trained to maintain infrastructure rather than develop deep AI capability.",
+      "fetched": "2026-07-11"
     },
     {
       "title": "Column: AI can help dyslexic learners build career readiness - The Virginian-Pilot",
@@ -47,18 +57,8 @@
       "published": "2026-07-09",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI tools supporting dyslexic learners exemplifies shallow, platform-delivered AI adoption—using existing tools for accessibility rather than building indigenous AI capability or deep technical understanding in the region.",
-      "fetched": "2026-07-10"
-    },
-    {
-      "title": "Column: For rural Virginia, data centers are more than technology - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0gzSkxMcVM3QXlobk9oeFJ1VE5lMmFCV0x5UGZEaFVSOXBjdXY5V05jU0F4eHZKQ1V3MUNKV1Nhb0dzR1JvMHJ5akNwUURuWlI4eEQySzI5LW1ZdWVWZkdwMVYzd3lQUmc4UWNzTmV0TmJQeFZyNFpWcHgzTml0bXR6RXp6OFVFaWkxcTdlX2E5aDBoTzBhZWhqZ1dyOHh2Q05RX0ZR?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-06-22",
-      "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Opinion piece positioning data centers as economic lifeline for rural Virginia reveals infrastructure without capability transfer—physical presence of AI infrastructure doesn't equal distributed AI skills or deep local engagement with the technology.",
-      "fetched": "2026-07-10"
+      "signal_reading": "AI tools for dyslexic learners exemplify platform-delivered accessibility solutions that broaden access through ready-made applications, creating wide but shallow adoption without requiring deep technical fluency from end users.",
+      "fetched": "2026-07-11"
     }
   ]
 }
