@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-12",
-  "next_check": "2026-07-12",
+  "next_check": "2026-07-13",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly address the technology gap through grassroots peer learning, signaling potential for distributed AI fluency outside traditional tech hubs if this community-driven model scales.",
+      "signal_reading": "Free AI workshops led by a local native in Hampton Roads signal grassroots knowledge distribution outside major tech hubs, suggesting peer-to-peer learning networks could enable deep capability in non-metro regions if sustained beyond individual initiatives.",
       "fetched": "2026-07-12"
     },
     {
@@ -27,17 +27,17 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI capability development in a non-metro region, potentially creating a distributed node of expertise if graduates stay local rather than migrate to NoVA.",
+      "signal_reading": "Roanoke College's WorkAI Lab launch in Southwest Virginia demonstrates institutional commitment to building deep AI literacy in a traditionally underserved region, potentially creating a distributed node of capability if it reaches beyond campus into surrounding communities.",
       "fetched": "2026-07-12"
     },
     {
-      "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5",
-      "source": "Axios",
-      "published": "2026-07-06",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Meta and Google's data center workforce training initiatives suggest platform-led skill development that may create broad but shallow AI adoption—workers trained for operations rather than development, reinforcing concentrated innovation elsewhere.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's partnership with AI Ready RVA concentrates institutional resources and expertise in Richmond's urban core, deepening metro capability but success depends on whether 'community impact' extends beyond the city limits into rural Central Virginia.",
       "fetched": "2026-07-12"
     },
     {
@@ -47,7 +47,7 @@
       "published": "2026-07-09",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI-powered waste sorting represents turnkey platform deployment requiring minimal local AI expertise—a signal of shallow, automated adoption that doesn't build regional capability to develop AI solutions independently.",
+      "signal_reading": "AI-powered trash sorting systems represent shallow, platform-delivered automation that requires minimal local AI fluency—technology adoption without capability building, signaling distribution of AI tools but not AI understanding or development skills.",
       "fetched": "2026-07-12"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-07-08",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Failed data center projects in NoVA amid rising competition signal that even in Virginia's deepest AI infrastructure hub, concentrated advantage faces pressure—though rejection also shows communities gaining agency over extractive vs. generative tech development.",
+      "signal_reading": "Data center project failures in NoVA despite its infrastructure advantages reveal that even concentrated tech regions face limits, while continuing data center focus reinforces NoVA's infrastructure concentration without necessarily building distributed AI workforce capability statewide.",
       "fetched": "2026-07-12"
     }
   ]
