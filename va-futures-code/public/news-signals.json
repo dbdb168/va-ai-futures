@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12",
-  "next_check": "2026-07-13",
+  "last_updated": "2026-07-13",
+  "next_check": "2026-07-14",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,14 +11,24 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a local native in Hampton Roads signal grassroots knowledge distribution outside major tech hubs, suggesting peer-to-peer learning networks could enable deep capability in non-metro regions if sustained beyond individual initiatives.",
-      "fetched": "2026-07-12"
+      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them",
+      "url": "https://cardinalnews.org/2026/07/13/left-hand-right-hand-virginia-cools-on-data-centers-even-as-state-policy-promotes-the-ai-that-requires-them/",
+      "source": "Cardinal News",
+      "published": "2026-07-13",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Virginia's policy incoherence—promoting AI statewide while blocking the data center infrastructure AI requires—risks leaving underserved regions unable to build either the physical or educational infrastructure for deep AI capability, widening existing divides.",
+      "fetched": "2026-07-13"
+    },
+    {
+      "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5",
+      "source": "Axios",
+      "published": "2026-07-06",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Meta and Google investing in skilled worker training specifically to build Richmond-area data centers signals deep capability concentration in metro hubs with existing infrastructure advantages, rather than distributed workforce development across rural Virginia.",
+      "fetched": "2026-07-13"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
@@ -27,38 +37,28 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab launch in Southwest Virginia demonstrates institutional commitment to building deep AI literacy in a traditionally underserved region, potentially creating a distributed node of capability if it reaches beyond campus into surrounding communities.",
-      "fetched": "2026-07-12"
+      "signal_reading": "Roanoke College launching a WorkAI Lab represents institutional investment in deep AI literacy outside traditional tech corridors, potentially creating peer networks that could distribute capability beyond NoVA if sustained and replicated regionally.",
+      "fetched": "2026-07-13"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA concentrates institutional resources and expertise in Richmond's urban core, deepening metro capability but success depends on whether 'community impact' extends beyond the city limits into rural Central Virginia.",
-      "fetched": "2026-07-12"
-    },
-    {
-      "title": "Inside the AI-powered system sorting Hampton Roads' trash - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGktbk1Gb1Z5OVN0WHE3S2dOSXZyS0k0VVJrY1R4ODYwaUlQUGJVOHRiTVhyV3lGcnZxYV9RUHBFQVZBTGxhVW5ZSFc2RWE2Y3g5ZFFfdUlILTk4SlU3UXEzX3lfNTJuZ09tbUJla2FHdmFkdVY0Q1BMbVBrZ3pWTkN1OWpqRWw5dDFQZkZ0ZkJidlUyMEZZVXJrVExOTVhnU3lEbmFYRUVRVFRTUFFyc1lScTd6U0FPUVRMVmFLc01fSU5IdDFBbTlRbDhSNDg?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-07-09",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI-powered trash sorting systems represent shallow, platform-delivered automation that requires minimal local AI fluency—technology adoption without capability building, signaling distribution of AI tools but not AI understanding or development skills.",
-      "fetched": "2026-07-12"
+      "scenario": "Build It Yourself",
+      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots efforts to build distributed AI fluency through peer learning networks, though success depends on whether shallow exposure deepens into sustained capability-building beyond initial training.",
+      "fetched": "2026-07-13"
     },
     {
-      "title": "Second Major Virginia Data Center Project Dies, Raising AI Site Selection Stakes - Data Center Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjYtVTRqWFpoTUgwcGpwOHJMbVkwcl8yRDZHVTVHZFJ0S0tIRTdGa2RQcHJNTGtaSlFsSE1hRzZXVXg4aGhfM0FTYlV2TEpqYmNpSktBVEFBMUZnWkxhd2pJNlFGVFBaQ3VnRFY4aGdsejVmeHpJbnhabDFsRlpwWGNiTkNzdXg1MVJuUWFvWS1NS0REQ1hjWW5kT09vM1FhVFBqSzJnSmRfWi1vWE9haHBPQXBncU9mOE8zMTBUbl9QSWdhdW1MTGtQNm92SFZOTDlUUHpZWTE1Zw?oc=5",
-      "source": "Data Center Knowledge",
-      "published": "2026-07-08",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center project failures in NoVA despite its infrastructure advantages reveal that even concentrated tech regions face limits, while continuing data center focus reinforces NoVA's infrastructure concentration without necessarily building distributed AI workforce capability statewide.",
-      "fetched": "2026-07-12"
+      "title": "Danville Field Notes: BWXT employees earn data science certifications through Danville workforce development program",
+      "url": "https://cardinalnews.org/2026/07/13/danville-field-notes-bwxt-employees-earn-data-science-certifications-through-danville-workforce-development-program/",
+      "source": "Cardinal News",
+      "published": "2026-07-13",
+      "region": "Southwest & Southside",
+      "scenario": "Build It Yourself",
+      "signal_reading": "BWXT employees in Danville earning data science certifications through local workforce programs demonstrates that deep AI/data capability can emerge in historically underserved regions when anchored by existing industrial employers investing in worker upskilling.",
+      "fetched": "2026-07-13"
     }
   ]
 }
