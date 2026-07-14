@@ -11,33 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them",
-      "url": "https://cardinalnews.org/2026/07/13/left-hand-right-hand-virginia-cools-on-data-centers-even-as-state-policy-promotes-the-ai-that-requires-them/",
-      "source": "Cardinal News",
-      "published": "2026-07-13",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Virginia's state AI policy requires data center infrastructure that communities are rejecting, creating a coordination failure where neither the enabling infrastructure nor the distributed capability materializes in underserved regions.",
-      "fetched": "2026-07-14"
-    },
-    {
-      "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5",
-      "source": "Axios",
-      "published": "2026-07-06",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Meta and Google investing in skilled worker training specifically to build their own data centers signals shallow, employment-focused training tied to concentrated infrastructure rather than distributed deep AI capability across communities.",
-      "fetched": "2026-07-14"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in leadership-level AI fluency outside major metros, potentially seeding peer networks that could distribute deep capability through the Roanoke Valley region.",
+      "signal_reading": "Free AI workshops targeting community access in Hampton Roads signal grassroots capability-building outside traditional tech hubs, directly countering concentration by creating peer-learning networks that could enable distributed deep literacy.",
       "fetched": "2026-07-14"
     },
     {
@@ -47,17 +27,37 @@
       "published": "2026-07-13",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech researchers applying AI to manufacturing water needs demonstrates concentrated technical expertise solving specific industrial problems, but deployment remains research-driven rather than distributed through manufacturing communities statewide.",
+      "signal_reading": "Virginia Tech researchers developing specialized AI for manufacturing water needs demonstrates deep technical capability concentrated in academic research centers, but unclear pathways for distributing this expertise to manufacturers across rural regions who would benefit.",
       "fetched": "2026-07-14"
     },
     {
-      "title": "Unprecedented growth shapes Pittsylvania County&#8217;s long-range planning efforts",
-      "url": "https://cardinalnews.org/2026/07/14/data-center-other-growth-prompts-pittsylvania-county-to-make-strategy-decisions/",
-      "source": "Cardinal News",
-      "published": "2026-07-14",
-      "region": "Southwest & Southside",
+      "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5",
+      "source": "Axios",
+      "published": "2026-07-06",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "Pittsylvania County updating comprehensive plans to accommodate data centers, solar, and battery storage shows infrastructure-led adoption where AI arrives as platform services embedded in development projects rather than through local capability building.",
+      "signal_reading": "Meta and Google funding worker training for data center operations suggests platform companies are creating shallow, operationally-focused AI adoption rather than deep capability development—workers learn to maintain infrastructure, not build or customize AI systems.",
+      "fetched": "2026-07-14"
+    },
+    {
+      "title": "How AI is changing what happens to Hampton Roads' trash - The Suffolk News-Herald",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTVFVVhmUWtiWmZQWV9kUV9Ga05jbjFCcWltdkI5QTFqa1hld2w2MXRWaUhFMHFBSnpBUkd6UkdhOTBOQlRHU1liSDBaR2NJemxRUHVLRTNJWVp6RVhIRHZSQmxqUEExN3dYNWh6S0NBTXRFQXQ2MUJxaUxEam1KQXdxVzJrYTZMOF81Y2g1S2xlR085a1c0YktNandIR2JFYl93eA?oc=5",
+      "source": "The Suffolk News-Herald",
+      "published": "2026-07-14",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI deployed in municipal waste management represents turnkey platform adoption that spreads geographically but remains shallow—cities consume vendor solutions without developing internal AI development capacity or transferable skills.",
+      "fetched": "2026-07-14"
+    },
+    {
+      "title": "Virginia Tech's AI Model Aims to Ease Drought Water Conflicts - AGDAILY",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjR6Tml2V2RLb010ejZReU5PVmptUDkwMVRBS0lQTS1kVjhFRFlmNVJQREpiQjNfSDNrazJleGFzUFo4akpUdjJRNGZuOXQzUjIxczh5eXNLeWNUMGlvNUxSc0ljTmEyekp4ZTUwOHVEUzl3SzNpTGxwOEJmMUxfTkVQcUo?oc=5",
+      "source": "AGDAILY",
+      "published": "2026-07-14",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's AI drought model addresses critical agricultural needs across the state, but the capability remains concentrated in Blacksburg researchers rather than distributed to farmers or regional extension networks who could adapt and apply the technology locally.",
       "fetched": "2026-07-14"
     }
   ]
