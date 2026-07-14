@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13",
-  "next_check": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "next_check": "2026-07-15",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-07-13",
       "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Virginia's policy incoherence—promoting AI statewide while blocking the data center infrastructure AI requires—risks leaving underserved regions unable to build either the physical or educational infrastructure for deep AI capability, widening existing divides.",
-      "fetched": "2026-07-13"
+      "signal_reading": "Virginia's state AI policy requires data center infrastructure that communities are rejecting, creating a coordination failure where neither the enabling infrastructure nor the distributed capability materializes in underserved regions.",
+      "fetched": "2026-07-14"
     },
     {
       "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
@@ -27,38 +27,38 @@
       "published": "2026-07-06",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Meta and Google investing in skilled worker training specifically to build Richmond-area data centers signals deep capability concentration in metro hubs with existing infrastructure advantages, rather than distributed workforce development across rural Virginia.",
-      "fetched": "2026-07-13"
+      "signal_reading": "Meta and Google investing in skilled worker training specifically to build their own data centers signals shallow, employment-focused training tied to concentrated infrastructure rather than distributed deep AI capability across communities.",
+      "fetched": "2026-07-14"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College launching a WorkAI Lab represents institutional investment in deep AI literacy outside traditional tech corridors, potentially creating peer networks that could distribute capability beyond NoVA if sustained and replicated regionally.",
-      "fetched": "2026-07-13"
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in leadership-level AI fluency outside major metros, potentially seeding peer networks that could distribute deep capability through the Roanoke Valley region.",
+      "fetched": "2026-07-14"
     },
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots efforts to build distributed AI fluency through peer learning networks, though success depends on whether shallow exposure deepens into sustained capability-building beyond initial training.",
-      "fetched": "2026-07-13"
-    },
-    {
-      "title": "Danville Field Notes: BWXT employees earn data science certifications through Danville workforce development program",
-      "url": "https://cardinalnews.org/2026/07/13/danville-field-notes-bwxt-employees-earn-data-science-certifications-through-danville-workforce-development-program/",
-      "source": "Cardinal News",
+      "title": "Virginia Tech Researchers Use AI to Gauge Manufacturing Water Needs - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5nNmVoVmJ5NDZlZm5hQ0pZSnllNXBEZUhhWWZIY0lwUzFoQnIwa3puZW1leUlocEZYemZpWUZKWk5BdllvNjFwSmZGSHc4OEJNYkRXWGw2Mlh4UlN5N3hFWGJyZTU3TWlwdW1zeGhRVHRub2lKZlJsTHZhTVpfa0RtY2VGNzJXak1aWW9EQi1wMUxuYkdHczlXOW5qV216M1U0ODRoNWZyUkN6MEQtaA?oc=5",
+      "source": "GovTech",
       "published": "2026-07-13",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech researchers applying AI to manufacturing water needs demonstrates concentrated technical expertise solving specific industrial problems, but deployment remains research-driven rather than distributed through manufacturing communities statewide.",
+      "fetched": "2026-07-14"
+    },
+    {
+      "title": "Unprecedented growth shapes Pittsylvania County&#8217;s long-range planning efforts",
+      "url": "https://cardinalnews.org/2026/07/14/data-center-other-growth-prompts-pittsylvania-county-to-make-strategy-decisions/",
+      "source": "Cardinal News",
+      "published": "2026-07-14",
       "region": "Southwest & Southside",
-      "scenario": "Build It Yourself",
-      "signal_reading": "BWXT employees in Danville earning data science certifications through local workforce programs demonstrates that deep AI/data capability can emerge in historically underserved regions when anchored by existing industrial employers investing in worker upskilling.",
-      "fetched": "2026-07-13"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Pittsylvania County updating comprehensive plans to accommodate data centers, solar, and battery storage shows infrastructure-led adoption where AI arrives as platform services embedded in development projects rather than through local capability building.",
+      "fetched": "2026-07-14"
     }
   ]
 }
