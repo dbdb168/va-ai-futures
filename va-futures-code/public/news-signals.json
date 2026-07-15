@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Virginia Tech Researchers Use AI to Gauge Manufacturing Water Needs - GovTech",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5nNmVoVmJ5NDZlZm5hQ0pZSnllNXBEZUhhWWZIY0lwUzFoQnIwa3puZW1leUlocEZYemZpWUZKWk5BdllvNjFwSmZGSHc4OEJNYkRXWGw2Mlh4UlN5N3hFWGJyZTU3TWlwdW1zeGhRVHRub2lKZlJsTHZhTVpfa0RtY2VGNzJXak1aWW9EQi1wMUxuYkdHczlXOW5qV216M1U0ODRoNWZyUkN6MEQtaA?oc=5",
-      "source": "GovTech",
-      "published": "2026-07-13",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's AI research on manufacturing water needs demonstrates deep technical capability concentrated in the New River Valley academic hub, but signals remain research-focused rather than distributed implementation across Virginia's manufacturing base.",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Free AI workshops led by a local native represent grassroots knowledge distribution beyond traditional tech hubs, testing whether peer-to-peer learning can spread AI fluency in military-adjacent metros without requiring elite institutional infrastructure.",
       "fetched": "2026-07-15"
     },
     {
@@ -26,8 +26,28 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's formalized partnership with AI Ready RVA concentrates educational resources and innovation capacity in the state capital, potentially deepening Richmond's AI capabilities while the model's transferability to rural regions remains untested.",
+      "fetched": "2026-07-15"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-level AI education and broad participation, signaling intentional distribution strategy to build grassroots fluency beyond elite tech corridors.",
+      "signal_reading": "A liberal arts college launching a WorkAI Lab signals knowledge infrastructure emerging outside metro corridors, testing whether distributed institutions can build practical AI fluency or if geographic distance from tech centers limits depth.",
+      "fetched": "2026-07-15"
+    },
+    {
+      "title": "From AI cameras to drones, Fairfax Co. uses new technology in policing - WTOP",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdHpJaWwtMVB3cG5JSTZRWjJYQ3B1RnoxTVVOWElZY21CbG5hVzRlQXZ2YjNOc0ExSVVOTnVFNk5JVEpBQTNsNmZ4dEU5XzRubXNqbUNBNUV5MWxoME02Zmk4LUhRUnN6a0RpamRuZENzSEJuV1RwY0I1VFA2dTk1SlktNlZjelAtQ2FaZ0pPZEdfMmUyem9FQ2doZ3VsT2RjdnpKcEhOdUVUNTBHUUE?oc=5",
+      "source": "WTOP",
+      "published": "2026-07-15",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Fairfax County's deployment of AI cameras and drones demonstrates advanced implementation capacity concentrated in NoVA's well-resourced jurisdictions, widening the technological governance gap between metro hubs and resource-constrained localities.",
       "fetched": "2026-07-15"
     },
     {
@@ -37,27 +57,7 @@
       "published": "2026-07-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI deployment in Hampton Roads waste management represents shallow, platform-delivered adoption—operational efficiency gains without requiring deep local AI capability development, fitting the 'software does it' pattern.",
-      "fetched": "2026-07-15"
-    },
-    {
-      "title": "Hospital becomes first to use AI to spot infections early - norfolkneradio.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUDNaVkN6bXZIZ0hDOE5xS004TGcyM3JNeFNfbXR6ZmNFQlRRcEdJSHllVlJxRHR3R3BlMkNRTEZsS3ZmM0dqTmk4RjFCUWhCZzFjVU04Qkk5MEJMMU9ZSm4wTFl4R3RsbkdiRW1pNV9iUEpOV3k0OVpZYnJTNFJTVzdydHpfZms0VmlrdnZZeFZfUURWN0hvQk9mM0tjbFhjRnhkMTJsaFhsVWRQNkVpd2N1TmVTRXB1aWRqcUtDT21wdjVDSTA2WjhrM2RGX2ZFOWxfUEEtUDVld3JCOTFLeWVldzNTNC1icVJsdg?oc=5",
-      "source": "norfolkneradio.com",
-      "published": "2026-07-14",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Hospital's early adoption of AI infection detection shows concentrated institutional capability in Hampton Roads healthcare sector, but single-institution deployment highlights lack of regional diffusion mechanisms for specialized AI competency.",
-      "fetched": "2026-07-15"
-    },
-    {
-      "title": "Virginia Tech's AI Model Aims to Ease Drought Water Conflicts - AGDAILY",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjR6Tml2V2RLb010ejZReU5PVmptUDkwMVRBS0lQTS1kVjhFRFlmNVJQREpiQjNfSDNrazJleGFzUFo4akpUdjJRNGZuOXQzUjIxczh5eXNLeWNUMGlvNUxSc0ljTmEyekp4ZTUwOHVEUzl3SzNpTGxwOEJmMUxfTkVQcUo?oc=5",
-      "source": "AGDAILY",
-      "published": "2026-07-14",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's drought water conflict AI model showcases deep research capability addressing statewide agricultural needs, but development remains centralized in Blacksburg rather than distributed to farming communities in Shenandoah Valley or Southside who face the actual water conflicts.",
+      "signal_reading": "AI-powered waste management represents platform-delivered efficiency gains requiring operational adoption but not deep technical capability, signaling shallow-but-practical AI diffusion in infrastructure sectors across mid-tier metros.",
       "fetched": "2026-07-15"
     }
   ]
