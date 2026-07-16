@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15",
-  "next_check": "2026-07-16",
+  "last_updated": "2026-07-16",
+  "next_check": "2026-07-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,14 +11,24 @@
   ],
   "signals": [
     {
+      "title": "RiverStreet Networks removed from multiple broadband deployment projects in rural Virginia after years of delays",
+      "url": "https://cardinalnews.org/2026/07/16/riverstreet-networks-removed-from-multiple-broadband-deployment-projects-in-rural-virginia-after-years-of-delays/",
+      "source": "Cardinal News",
+      "published": "2026-07-16",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "RiverStreet's collapse leaves 30,000+ rural customers without broadband infrastructure—the foundational prerequisite for any AI adoption—actively widening the urban-rural digital divide and foreclosing distributed capability pathways.",
+      "fetched": "2026-07-16"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a local native represent grassroots knowledge distribution beyond traditional tech hubs, testing whether peer-to-peer learning can spread AI fluency in military-adjacent metros without requiring elite institutional infrastructure.",
-      "fetched": "2026-07-15"
+      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots capacity-building aimed at distributed depth—training local communities to develop fluency rather than relying on platform delivery, targeting the technology gap directly.",
+      "fetched": "2026-07-16"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,38 +37,28 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's formalized partnership with AI Ready RVA concentrates educational resources and innovation capacity in the state capital, potentially deepening Richmond's AI capabilities while the model's transferability to rural regions remains untested.",
-      "fetched": "2026-07-15"
+      "signal_reading": "VCU-AI Ready RVA partnership concentrates educational resources and innovation infrastructure in Richmond metro, building deep institutional capability in the capital region but signaling metro-anchored rather than distributed development.",
+      "fetched": "2026-07-16"
     },
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
+      "title": "Virginia Tech Researchers Use AI to Gauge Manufacturing Water Needs - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5nNmVoVmJ5NDZlZm5hQ0pZSnllNXBEZUhhWWZIY0lwUzFoQnIwa3puZW1leUlocEZYemZpWUZKWk5BdllvNjFwSmZGSHc4OEJNYkRXWGw2Mlh4UlN5N3hFWGJyZTU3TWlwdW1zeGhRVHRub2lKZlJsTHZhTVpfa0RtY2VGNzJXak1aWW9EQi1wMUxuYkdHczlXOW5qV216M1U0ODRoNWZyUkN6MEQtaA?oc=5",
+      "source": "GovTech",
+      "published": "2026-07-13",
       "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A liberal arts college launching a WorkAI Lab signals knowledge infrastructure emerging outside metro corridors, testing whether distributed institutions can build practical AI fluency or if geographic distance from tech centers limits depth.",
-      "fetched": "2026-07-15"
-    },
-    {
-      "title": "From AI cameras to drones, Fairfax Co. uses new technology in policing - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdHpJaWwtMVB3cG5JSTZRWjJYQ3B1RnoxTVVOWElZY21CbG5hVzRlQXZ2YjNOc0ExSVVOTnVFNk5JVEpBQTNsNmZ4dEU5XzRubXNqbUNBNUV5MWxoME02Zmk4LUhRUnN6a0RpamRuZENzSEJuV1RwY0I1VFA2dTk1SlktNlZjelAtQ2FaZ0pPZEdfMmUyem9FQ2doZ3VsT2RjdnpKcEhOdUVUNTBHUUE?oc=5",
-      "source": "WTOP",
-      "published": "2026-07-15",
-      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Fairfax County's deployment of AI cameras and drones demonstrates advanced implementation capacity concentrated in NoVA's well-resourced jurisdictions, widening the technological governance gap between metro hubs and resource-constrained localities.",
-      "fetched": "2026-07-15"
+      "signal_reading": "Virginia Tech researchers applying AI to manufacturing water needs demonstrates deep technical capability at a flagship research institution, but concentration in Blacksburg reinforces the hub-and-spoke model of expertise rather than statewide distribution.",
+      "fetched": "2026-07-16"
     },
     {
-      "title": "How AI is changing what happens to Hampton Roads' trash - The Suffolk News-Herald",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTVFVVhmUWtiWmZQWV9kUV9Ga05jbjFCcWltdkI5QTFqa1hld2w2MXRWaUhFMHFBSnpBUkd6UkdhOTBOQlRHU1liSDBaR2NJemxRUHVLRTNJWVp6RVhIRHZSQmxqUEExN3dYNWh6S0NBTXRFQXQ2MUJxaUxEam1KQXdxVzJrYTZMOF81Y2g1S2xlR085a1c0YktNandIR2JFYl93eA?oc=5",
-      "source": "The Suffolk News-Herald",
-      "published": "2026-07-14",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI-powered waste management represents platform-delivered efficiency gains requiring operational adoption but not deep technical capability, signaling shallow-but-practical AI diffusion in infrastructure sectors across mid-tier metros.",
-      "fetched": "2026-07-15"
+      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEg3alBIVHdtOU10c1ZsbnlzTWJ1dEdENy1Hejd3MDF3OVpyMzJsdnZSMGNjSjgycG1wc1NMQWtVd1BKVE1yM1RxbzB5bnNTR1ZDdW1UQmpJeVpUWUpGcmMwc3U4c0ZXZ09xYVZrVTg3MU03TFRITkVrYnVqX2FmeVc0RG1FUUdOSjFYX096aDRqblJCbE5DOU5Yc3NmTUYyU1pJYllBZ054VnZOOHA0MUtVcVZrOHJZWnM2dU9HdFQyTnBvRU8yYVUyd05jQjN4RjQ1UklzaTVqdHpu?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-07-13",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Policy contradiction—promoting AI while localities resist data centers—creates infrastructure uncertainty that could stall both concentrated excellence and distributed adoption, leaving Virginia in a shallow, fragmented middle ground.",
+      "fetched": "2026-07-16"
     }
   ]
 }
