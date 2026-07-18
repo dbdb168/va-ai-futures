@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-18",
-  "next_check": "2026-07-18",
+  "next_check": "2026-07-19",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-07-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech developing specialized AI training tools signals deep capability development, but originating from a research institution rather than distributed peer networks suggests concentration in academic hubs rather than broad workplace adoption.",
+      "signal_reading": "Virginia Tech researchers developing proprietary AI coaching tools signals deep capability building, but concentration in academic institutions rather than distribution to workplaces across Southwest/Southside regions where such tools might have highest impact.",
       "fetched": "2026-07-18"
     },
     {
@@ -25,9 +25,9 @@
       "url": "https://cardinalnews.org/2026/07/16/riverstreet-networks-removed-from-multiple-broadband-deployment-projects-in-rural-virginia-after-years-of-delays/",
       "source": "Cardinal News",
       "published": "2026-07-16",
-      "region": "Southwest",
+      "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Infrastructure failure affecting 30,000+ rural customers in Southwest Virginia directly undermines the foundational connectivity required for any AI adoption scenario, reinforcing the conditions that prevent both depth and distribution.",
+      "signal_reading": "Broadband infrastructure failure affecting 30,000+ rural customers directly undermines the connectivity prerequisite for any AI adoption—shallow or deep—locking Southwest/Southside into capability isolation regardless of training initiatives elsewhere.",
       "fetched": "2026-07-18"
     },
     {
@@ -37,7 +37,17 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab focused on preparing leaders for AI integration suggests institutional investment in building local capacity for deep understanding rather than passive platform consumption, potentially seeding peer-to-peer knowledge transfer beyond metro concentrations.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional commitment to building deep AI fluency for future leaders, potentially creating distributed expertise if graduates remain regionally rather than concentrating in NoVA/Richmond metros.",
+      "fetched": "2026-07-18"
+    },
+    {
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Free community AI workshops explicitly targeting technology gap closure signals grassroots capability distribution, though sustainability and depth beyond introductory training will determine whether this becomes shallow platform adoption or genuine fluency building.",
       "fetched": "2026-07-18"
     },
     {
@@ -47,17 +57,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "The VCU-AI Ready RVA partnership explicitly targets community-wide AI education and innovation, representing intentional infrastructure for distributed capability-building that could democratize deep AI fluency beyond traditional tech sector boundaries.",
-      "fetched": "2026-07-18"
-    },
-    {
-      "title": "From AI cameras to drones, Fairfax Co. uses new technology in policing",
-      "url": "https://wtop.com/fairfax-county/2026/07/from-ai-cameras-to-drones-fairfax-co-uses-new-technology-in-policing/",
-      "source": "WTOP Virginia",
-      "published": "2026-07-15",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Fairfax County deploying advanced AI cameras and drones for policing demonstrates deep technical implementation capacity concentrated in wealthy NoVA jurisdictions with resources smaller Virginia localities cannot replicate, widening the capability gap.",
+      "signal_reading": "VCU-AI Ready RVA partnership combining university research capacity with community-focused education infrastructure creates potential for distributed deep learning beyond traditional tech corridors, though Richmond Metro benefits may not extend to Southside/Southwest without intentional reach.",
       "fetched": "2026-07-18"
     }
   ]
