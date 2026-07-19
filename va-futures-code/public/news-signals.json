@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-19",
-  "next_check": "2026-07-19",
+  "next_check": "2026-07-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-07-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech developing open AI training tools represents knowledge creation in non-NoVA regions with potential for broad distribution if the tools become accessible to workplaces statewide, signaling deep capability development outside traditional tech hubs.",
+      "signal_reading": "Virginia Tech developing AI tools for workplace conversations demonstrates deep research capability in a non-NoVA region, signaling potential for distributed AI fluency if such tools become accessible beyond the institution itself.",
       "fetched": "2026-07-19"
     },
     {
@@ -25,19 +25,19 @@
       "url": "https://cardinalnews.org/2026/07/16/riverstreet-networks-removed-from-multiple-broadband-deployment-projects-in-rural-virginia-after-years-of-delays/",
       "source": "Cardinal News",
       "published": "2026-07-16",
-      "region": "Southwest & Southside",
+      "region": "Southwest",
       "scenario": "The Widening Gap",
-      "signal_reading": "Broadband infrastructure failure blocking 30,000+ rural connections creates a foundational barrier preventing both shallow platform adoption and deep AI capability development, reinforcing the concentration of digital capacity in already-connected metro regions.",
+      "signal_reading": "RiverStreet's failure to complete broadband for 30,000+ rural customers in Southwest Virginia directly undermines the infrastructure prerequisite for any AI capability distribution, reinforcing concentration in already-connected metros.",
       "fetched": "2026-07-19"
     },
     {
-      "title": "From AI cameras to drones, Fairfax Co. uses new technology in policing",
-      "url": "https://wtop.com/fairfax-county/2026/07/from-ai-cameras-to-drones-fairfax-co-uses-new-technology-in-policing/",
-      "source": "WTOP Virginia",
-      "published": "2026-07-15",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Fairfax County deploying advanced AI surveillance systems (cameras, drones) demonstrates deep technical implementation concentrated in well-resourced metro jurisdictions, widening the capability gap with rural localities lacking funds for sophisticated AI tools.",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab launch signals institutional investment in distributed AI capability-building outside major metros, potentially creating peer networks for deeper fluency if it extends beyond campus boundaries.",
       "fetched": "2026-07-19"
     },
     {
@@ -46,18 +46,18 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU partnership with AI Ready RVA explicitly targeting community-wide AI education and innovation signals intentional distribution strategy in Richmond metro, potentially creating peer learning networks that spread deeper capability beyond elite institutions.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "VCU's partnership with AI Ready RVA aims for broad community impact through education, but platform-oriented approach suggests shallow distribution rather than deep technical capability building across Richmond's diverse population.",
       "fetched": "2026-07-19"
     },
     {
-      "title": "SCC considers making data centers shoulder more of the cost of transmission lines",
-      "url": "https://virginiamercury.com/2026/07/15/scc-considers-making-data-centers-shoulder-more-of-the-cost-of-transmission-lines/",
-      "source": "Virginia Mercury",
-      "published": "2026-07-15",
-      "region": "Statewide (policy)",
+      "title": "How Fairfax County police are using AI — and why opponents are concerned - NBC4 Washington",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOC02MWg0bWQxdUlfSHh3YkdCbFRsOXViTmExc0xMM05vT0NhSGFyR1U4aU1BS2NVbW9teDRzSVNqbnJrMmVQT2tMYVBJcjNoMnFoUFRGckZ1a1lfVTBldmsydHh5REZaTHJFVEV1R29tRzBhQVNKRE9zX1pMdGc0Mk8zWVdHQzJEbGlnU1UwODRfWjFLUkJKejNwQndRZk5nWER2SE1UcFBhRExrUll2YjRzZFpJdHhaTzZmLUp3QzNnSXMwSmphdW4tQ1plQmFfZWNkdzloOFE1ajMxdmxRWEx4RDRzMDjSAe8BQVVfeXFMTkVpajVNdHA2dTh6V09nRkU3TGN3Z1VMci1YcVdGVld4aU5xU1hOUDRvS1h2U2tydmdsSE03ZmhmQlJHNDQ4djVTTHhVS1hDNElMU282a2RfbElhNGtaemxyRUZxaml3SHpyc0ZPcnV1UzVPNTBYVl9VTDRDNl9OMTU0VWs3RklVemJ6dXFOX0JTZ3VISGsyOXF3MDlOc2tGeWRnYnNhVU1FRTA5SFF3THlSSFJaRDB4bXZZbTIzV2dtRUpTMk9mSWN1QXVSYnJ3bUhxNU1jVHdKeUppTVJuQ2RsRkdrMGF3WU5Ra0MzTlk?oc=5",
+      "source": "NBC4 Washington",
+      "published": "2026-07-16",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "SCC debate over data center transmission cost allocation reveals how AI infrastructure investment concentrates economic burden and benefit, with policy decisions determining whether rural Virginians subsidize NoVA's AI compute advantage or share in distributed gains.",
+      "signal_reading": "Fairfax County deploying AI cameras and advanced policing tech demonstrates deep, specialized implementation concentrated in NoVA's well-resourced jurisdiction, widening capability gap with localities lacking similar budgets and expertise.",
       "fetched": "2026-07-19"
     }
   ]
