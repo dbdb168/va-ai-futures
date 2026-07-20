@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a Norfolk native directly to Hampton Roads communities signals grassroots capacity-building that could distribute deep capability through peer networks rather than platform dependency or institutional concentration.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate capability-building outside metro centers, creating potential peer learning networks that could distribute AI fluency through educational institutions in mid-sized markets—a key mechanism for the 'Build It Yourself' pathway.",
       "fetched": "2026-07-20"
     },
     {
@@ -27,17 +27,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for distributed AI education beyond the Northern Virginia corridor, potentially seeding peer learning networks that build genuine fluency rather than shallow tool adoption.",
-      "fetched": "2026-07-20"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Roanoke College's WorkAI Lab represents concentrated institutional investment in AI leadership development, but its isolation from similar efforts in Southside or Southwest Virginia signals emerging pockets rather than distributed capability across rural regions.",
+      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, not just enterprise adoption—signaling intentional infrastructure for distributed, deep learning that could spread beyond traditional tech sectors into Richmond's broader workforce.",
       "fetched": "2026-07-20"
     },
     {
@@ -47,7 +37,7 @@
       "published": "2026-07-16",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Fairfax County police deploying AI tools demonstrates how deep technical capability and implementation capacity remains concentrated in well-resourced NoVA jurisdictions while rural Virginia agencies lack comparable resources or expertise.",
+      "signal_reading": "Fairfax County police deploying AI with organized opposition reflects the concentration of both advanced implementation capacity and sophisticated governance discourse in NoVA—capabilities and debates largely absent from rural Virginia jurisdictions.",
       "fetched": "2026-07-20"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-07-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI-powered waste management in Hampton Roads represents platform-delivered automation that creates operational efficiency without building local technical depth—a classic shallow adoption pattern that relies on vendor solutions rather than indigenous capability.",
+      "signal_reading": "AI adoption in waste management represents platform-delivered automation reaching municipal operations—shallow but practical application that could distribute across regions without requiring deep local technical expertise, though limited to operational efficiency gains.",
+      "fetched": "2026-07-20"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Richmond's young workforce feeling AI pressure without corresponding reports of systematic skill-building infrastructure suggests anxiety outpacing capability development—a warning signal that awareness alone doesn't translate to competitive readiness.",
       "fetched": "2026-07-20"
     }
   ]
