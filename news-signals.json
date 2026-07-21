@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20",
-  "next_check": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "next_check": "2026-07-22",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -15,10 +15,10 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate capability-building outside metro centers, creating potential peer learning networks that could distribute AI fluency through educational institutions in mid-sized markets—a key mechanism for the 'Build It Yourself' pathway.",
-      "fetched": "2026-07-20"
+      "signal_reading": "WorkAI Lab at Roanoke College represents peer-based workforce training infrastructure outside traditional tech hubs, signaling potential for distributed AI capability building in underserved regions if the model scales beyond single institutions.",
+      "fetched": "2026-07-21"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,8 +27,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-wide AI education and innovation, not just enterprise adoption—signaling intentional infrastructure for distributed, deep learning that could spread beyond traditional tech sectors into Richmond's broader workforce.",
-      "fetched": "2026-07-20"
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional backbone for broad community AI education, suggesting Richmond could emerge as a secondary distribution node that bridges the NoVA-rest-of-state gap through deliberate capability building.",
+      "fetched": "2026-07-21"
     },
     {
       "title": "How Fairfax County police are using AI — and why opponents are concerned - NBC4 Washington",
@@ -37,18 +37,8 @@
       "published": "2026-07-16",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Fairfax County police deploying AI with organized opposition reflects the concentration of both advanced implementation capacity and sophisticated governance discourse in NoVA—capabilities and debates largely absent from rural Virginia jurisdictions.",
-      "fetched": "2026-07-20"
-    },
-    {
-      "title": "How AI is changing what happens to Hampton Roads' trash - The Suffolk News-Herald",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTVFVVhmUWtiWmZQWV9kUV9Ga05jbjFCcWltdkI5QTFqa1hld2w2MXRWaUhFMHFBSnpBUkd6UkdhOTBOQlRHU1liSDBaR2NJemxRUHVLRTNJWVp6RVhIRHZSQmxqUEExN3dYNWh6S0NBTXRFQXQ2MUJxaUxEam1KQXdxVzJrYTZMOF81Y2g1S2xlR085a1c0YktNandIR2JFYl93eA?oc=5",
-      "source": "The Suffolk News-Herald",
-      "published": "2026-07-14",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI adoption in waste management represents platform-delivered automation reaching municipal operations—shallow but practical application that could distribute across regions without requiring deep local technical expertise, though limited to operational efficiency gains.",
-      "fetched": "2026-07-20"
+      "signal_reading": "Fairfax County police deploying AI surveillance tools demonstrates how deep technical implementation concentrates in well-resourced metro jurisdictions with capacity for complex adoption, while rural law enforcement lacks equivalent infrastructure.",
+      "fetched": "2026-07-21"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -56,9 +46,19 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Richmond's young workforce feeling AI pressure without corresponding reports of systematic skill-building infrastructure suggests anxiety outpacing capability development—a warning signal that awareness alone doesn't translate to competitive readiness.",
-      "fetched": "2026-07-20"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Workforce pressure from AI adoption in Richmond signals platform-driven automation creating shallow, reactive engagement rather than proactive capability development—workers adapting to tools rather than shaping them.",
+      "fetched": "2026-07-21"
+    },
+    {
+      "title": "How AI is changing what happens to Hampton Roads' trash - The Suffolk News-Herald",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTVFVVhmUWtiWmZQWV9kUV9Ga05jbjFCcWltdkI5QTFqa1hld2w2MXRWaUhFMHFBSnpBUkd6UkdhOTBOQlRHU1liSDBaR2NJemxRUHVLRTNJWVp6RVhIRHZSQmxqUEExN3dYNWh6S0NBTXRFQXQ2MUJxaUxEam1KQXdxVzJrYTZMOF81Y2g1S2xlR085a1c0YktNandIR2JFYl93eA?oc=5",
+      "source": "The Suffolk News-Herald",
+      "published": "2026-07-14",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI deployment in Hampton Roads waste management shows deep technical implementation in specific operational domains within metro areas, but sector-specific adoption doesn't necessarily translate to broader regional AI fluency or workforce capability.",
+      "fetched": "2026-07-21"
     }
   ]
 }
