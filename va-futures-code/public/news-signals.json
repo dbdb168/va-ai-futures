@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21",
-  "next_check": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "next_check": "2026-07-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,24 +11,14 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
+      "title": "Tech Briefs: Virginia Tech researchers&#8217; AI model is meant to manage water use",
+      "url": "https://cardinalnews.org/2026/07/22/tech-briefs-virginia-tech-researchers-ai-model-is-meant-to-manage-water-use/",
+      "source": "Cardinal News",
+      "published": "2026-07-22",
+      "region": "Southwest",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly building peer-to-peer AI fluency in Hampton Roads signals grassroots capability distribution, demonstrating how local champions can activate deep learning networks outside traditional tech hubs.",
-      "fetched": "2026-07-21"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab establishes institutional infrastructure for distributed AI education in Southwest Virginia, potentially seeding peer networks that could spread deep capability beyond metro concentration zones.",
-      "fetched": "2026-07-21"
+      "signal_reading": "Virginia Tech AI research for water management combined with #AppalachiaBuiltThis hands-on community build night in Abingdon signals grassroots technical capacity building in historically underserved regions—challenging the concentration narrative if sustained.",
+      "fetched": "2026-07-22"
     },
     {
       "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
@@ -37,18 +27,8 @@
       "published": "2026-07-06",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Meta and Google investing in skilled worker training for Richmond-area data centers concentrates both capital and advanced workforce development in metro hubs, deepening capability gaps as tech giants anchor talent pipelines to infrastructure nodes rather than distributing expertise statewide.",
-      "fetched": "2026-07-21"
-    },
-    {
-      "title": "How Local Businesses in Virginia and West Virginia Can Use AI Consulting to Plan Smarter Automation - Williamson Daily News",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNM3hfbVUxMHE3UXhKREFIYXBiTVRsSkstcmZlWVIycEdOOHdRcWhhQnRIbGNZMFByR1RmM3VnTzY1YVNFTHpEc0dWV05VRFhETjM1eUNHT2w4c1V5V0dCd2xBYnk3QVI3cW5mREVueUhYM1RHWHZyT2pYOXZscng0ejdudmtzRlppeVRTQ21wXzJxdXBkSXM1dUV3WjlrZ1dORWNpejl6MVVyVFF3WGJIbW92YmV4RjF1Q3dxVlo4NE5vTWpJazQwd21zRWdzN0ZSVFFtZlpGb1pIblBrUHo3Yjl5ZWFXLWlPeHA2b2FlX3FfWWYwUDJDa1ZhRllyaHIxV3lIQWtaV01MN1Uxby1IYW9n?oc=5",
-      "source": "Williamson Daily News",
-      "published": "2026-07-16",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI consulting services marketed to small businesses across Virginia and West Virginia signal platform-mediated adoption where businesses consume AI tools through intermediaries rather than building internal capability, creating broad but shallow engagement that reinforces vendor dependence.",
-      "fetched": "2026-07-21"
+      "signal_reading": "Meta and Google investing in skilled worker training specifically to support Richmond-area data center construction deepens technical capacity but remains tethered to corporate infrastructure needs rather than distributed peer learning networks.",
+      "fetched": "2026-07-22"
     },
     {
       "title": "How Fairfax County police are using AI — and why opponents are concerned - NBC4 Washington",
@@ -57,8 +37,28 @@
       "published": "2026-07-16",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Fairfax County police deploying AI capabilities demonstrates how concentrated resources in NoVA enable advanced implementation that rural jurisdictions cannot match, widening the public sector technology capability gap between regions with different resource bases.",
-      "fetched": "2026-07-21"
+      "signal_reading": "Fairfax County police deploying AI tools demonstrates deep implementation capacity in NoVA but raises equity concerns—advanced capability concentrated in well-resourced jurisdictions while less-resourced regions lack even shallow adoption.",
+      "fetched": "2026-07-22"
+    },
+    {
+      "title": "How AI is changing what happens to Hampton Roads' trash - The Suffolk News-Herald",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTVFVVhmUWtiWmZQWV9kUV9Ga05jbjFCcWltdkI5QTFqa1hld2w2MXRWaUhFMHFBSnpBUkd6UkdhOTBOQlRHU1liSDBaR2NJemxRUHVLRTNJWVp6RVhIRHZSQmxqUEExN3dYNWh6S0NBTXRFQXQ2MUJxaUxEam1KQXdxVzJrYTZMOF81Y2g1S2xlR085a1c0YktNandIR2JFYl93eA?oc=5",
+      "source": "The Suffolk News-Herald",
+      "published": "2026-07-14",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI managing Hampton Roads waste systems represents shallow, vendor-delivered automation that achieves operational efficiency without building local technical depth or transferable AI fluency in the workforce.",
+      "fetched": "2026-07-22"
+    },
+    {
+      "title": "Headlines from across the state: Virginia crabbers are helping map the bottom of the Chesapeake Bay; more &#8230;",
+      "url": "https://cardinalnews.org/2026/07/22/headlines-from-across-the-state-virginia-crabbers-are-helping-map-the-bottom-of-the-chesapeake-bay-more/",
+      "source": "Cardinal News",
+      "published": "2026-07-22",
+      "region": "Richmond Metro",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Richmond deploying a $52K AI assistant for non-emergency calls exemplifies platform-delivered shallow adoption—immediate utility without requiring deep technical capacity building in government workforce or broader community.",
+      "fetched": "2026-07-22"
     }
   ]
 }
