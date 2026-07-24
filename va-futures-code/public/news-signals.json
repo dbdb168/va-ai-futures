@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23",
-  "next_check": "2026-07-24",
+  "last_updated": "2026-07-24",
+  "next_check": "2026-07-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,8 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops initiated by a Norfolk native represent grassroots capability-building outside traditional tech hubs, signaling potential for distributed peer-to-peer learning networks that could democratize AI fluency beyond NoVA.",
-      "fetched": "2026-07-23"
+      "signal_reading": "Free AI workshops delivered by a Norfolk native in Hampton Roads represents grassroots, peer-driven capability building outside traditional tech hubs—a concrete signal of distributed, community-led AI literacy development that could spread through non-metro networks.",
+      "fetched": "2026-07-24"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
@@ -27,8 +27,8 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab launching workforce training demonstrates institutional capacity-building in a mid-tier market, testing whether deep AI fluency can take root in regions beyond the NoVA-Richmond corridor through educational anchors.",
-      "fetched": "2026-07-23"
+      "signal_reading": "Roanoke College's WorkAI Lab creates institutional infrastructure for workforce AI training in a non-metro region, suggesting potential for regional depth beyond NoVA if sustained—signals distributed capability building through educational anchors rather than platform-dependent shallow adoption.",
+      "fetched": "2026-07-24"
     },
     {
       "title": "New Jersey, Virginia Can Lead the Nation By Building ‘AI Resilience Cohorts’ to Develop Early-Career, State Talent Pipelines - Federation of American Scientists",
@@ -37,8 +37,18 @@
       "published": "2026-07-22",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "The proposed 'AI Resilience Cohorts' model explicitly targets distributed state talent pipelines rather than concentrating in existing tech centers, representing a policy intervention designed to counteract the natural gravity toward Pockets of Excellence.",
-      "fetched": "2026-07-23"
+      "signal_reading": "Proposed AI Resilience Cohorts model offers Virginia a mechanism to systematically distribute deep AI talent development across regions through structured early-career pipelines, directly challenging the concentration dynamic if implemented beyond NoVA/Richmond.",
+      "fetched": "2026-07-24"
+    },
+    {
+      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEg3alBIVHdtOU10c1ZsbnlzTWJ1dEdENy1Hejd3MDF3OVpyMzJsdnZSMGNjSjgycG1wc1NMQWtVd1BKVE1yM1RxbzB5bnNTR1ZDdW1UQmpJeVpUWUpGcmMwc3U4c0ZXZ09xYVZrVTg3MU03TFRITkVrYnVqX2FmeVc0RG1FUUdOSjFYX096aDRqblJCbE5DOU5Yc3NmTUYyU1pJYllBZ054VnZOOHA0MUtVcVZrOHJZWnM2dU9HdFQyTnBvRU8yYVUyd05jQjN4RjQ1UklzaTVqdHpu?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-07-13",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Virginia's simultaneous promotion of AI policy while local governments resist data center infrastructure reveals a coordination failure that could strand the state between neither achieving distributed capability nor concentrating it effectively—policy incoherence threatens both depth and distribution.",
+      "fetched": "2026-07-24"
     },
     {
       "title": "In the data center capital of the world, residents ask who the AI boom is helping - NBC News",
@@ -46,19 +56,9 @@
       "source": "NBC News",
       "published": "2026-07-23",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Residents questioning who benefits from NoVA's data center boom reveals that infrastructure concentration doesn't automatically translate to distributed capability or community benefit, signaling risk of shallow engagement even in the epicenter.",
-      "fetched": "2026-07-23"
-    },
-    {
-      "title": "Virginia Tech Team Builds AI Tool to Referee Water Rivalry Between Farms and Chip Factories - theroanokestar.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTkwRzBoNGdKNDhfekxSYU1RMjFtZXY0N3hjenpITEk0RVN0VWxTb3BZR0swWTloNmlDQWhqM0JZWFNSbkJRU1FtenJJXzBPWDJrN2V6VkdsR3pvOFFaS1hDYnhTSjBLTDE1VnI3N2hac3hJSlBHRGVtMW0tSWt3LVJxOVlBemZEdnk5MVNqLVNENTRyRVE?oc=5",
-      "source": "theroanokestar.com",
-      "published": "2026-07-23",
-      "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech developing specialized AI tools for resource allocation represents deep technical capability concentrating around research universities, reinforcing the pattern where institutional anchors create localized excellence pockets rather than distributed fluency.",
-      "fetched": "2026-07-23"
+      "signal_reading": "Residents questioning who benefits from NoVA's data center boom signals that infrastructure concentration is not translating to distributed economic or capability gains—the classic 'infrastructure without inclusion' pattern that reinforces metro-only depth while leaving other regions behind.",
+      "fetched": "2026-07-24"
     }
   ]
 }
