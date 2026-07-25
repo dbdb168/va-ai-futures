@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-25",
-  "next_check": "2026-07-25",
+  "next_check": "2026-07-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents grassroots institutional capacity-building in a non-metro region, creating potential for distributed deep learning if training translates to local application rather than talent export to NoVA.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building outside metro hubs, creating potential for distributed AI fluency through accessible workforce training—a critical test of whether deep capability can spread beyond NoVA and Richmond.",
       "fetched": "2026-07-25"
     },
     {
@@ -26,8 +26,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's AI Ready RVA partnership concentrates academic-institutional AI capability in the state capital, potentially deepening Richmond's hub status but requiring intentional distribution mechanisms to avoid reinforcing metro-only expertise.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals deliberate community-driven AI education infrastructure in Virginia's second-tier metro, potentially creating a replicable model for distributed deep capability rather than platform-dependent shallow adoption.",
       "fetched": "2026-07-25"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2026-07-22",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Resilience Cohorts proposal signals state-level infrastructure for distributed workforce development, potentially counteracting concentration by building early-career talent pipelines outside traditional tech hubs—execution determines whether deep or shallow.",
+      "signal_reading": "The AI Resilience Cohorts proposal explicitly targets state-led talent pipeline development, representing a policy framework that could distribute deep AI capability across regions rather than concentrating it in existing tech hubs—a structural intervention against the widening gap.",
       "fetched": "2026-07-25"
     },
     {
@@ -47,7 +47,7 @@
       "published": "2026-07-24",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Danville residents expressing data center concerns without visible local AI capability development signals extraction without empowerment—infrastructure presence without workforce participation deepens regional exclusion from the AI economy.",
+      "signal_reading": "Danville residents voicing data center concerns without apparent local capability-building signals infrastructure extraction rather than distributed AI economy participation—economic activity concentrated elsewhere while communities bear costs without skill development or opportunity access.",
       "fetched": "2026-07-25"
     },
     {
@@ -56,8 +56,8 @@
       "source": "NBC News",
       "published": "2026-07-23",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "NBC's examination of who benefits from NoVA's data center boom exposes shallow community engagement even in the concentration zone—physical infrastructure without local capability diffusion suggests wealth extraction rather than distributed prosperity.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NBC's feature on NoVA residents questioning who benefits from the AI boom reveals deepening concentration dynamics—infrastructure and capital amassing in data center capital while questioning local capability distribution suggests excellence consolidating rather than spreading.",
       "fetched": "2026-07-25"
     }
   ]
