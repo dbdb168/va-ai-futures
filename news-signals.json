@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24",
+  "last_updated": "2026-07-25",
   "next_check": "2026-07-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,14 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a local native directly target capability distribution outside traditional tech hubs, signaling grassroots peer-to-peer knowledge transfer that could build deep fluency in underserved communities if sustained.",
-      "fetched": "2026-07-24"
+      "signal_reading": "Roanoke College's WorkAI Lab represents grassroots institutional capacity-building in a non-metro region, creating potential for distributed deep learning if training translates to local application rather than talent export to NoVA.",
+      "fetched": "2026-07-25"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -26,19 +26,9 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "The VCU-AI Ready RVA partnership creates institutional infrastructure for community-wide AI education beyond elite universities, attempting to distribute deep capability through deliberate partnership rather than market concentration.",
-      "fetched": "2026-07-24"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Roanoke College's WorkAI Lab signals emerging capability pockets in smaller metros, but its institutional focus on 'preparing leaders' suggests concentration within educated professional classes rather than broad community distribution.",
-      "fetched": "2026-07-24"
+      "signal_reading": "VCU's AI Ready RVA partnership concentrates academic-institutional AI capability in the state capital, potentially deepening Richmond's hub status but requiring intentional distribution mechanisms to avoid reinforcing metro-only expertise.",
+      "fetched": "2026-07-25"
     },
     {
       "title": "New Jersey, Virginia Can Lead the Nation By Building ‘AI Resilience Cohorts’ to Develop Early-Career, State Talent Pipelines - Federation of American Scientists",
@@ -47,8 +37,18 @@
       "published": "2026-07-22",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "The proposed AI Resilience Cohorts represent intentional policy design to distribute deep capability through early-career talent pipelines, directly counteracting the natural gravity of NoVA concentration if implemented across regions.",
-      "fetched": "2026-07-24"
+      "signal_reading": "AI Resilience Cohorts proposal signals state-level infrastructure for distributed workforce development, potentially counteracting concentration by building early-career talent pipelines outside traditional tech hubs—execution determines whether deep or shallow.",
+      "fetched": "2026-07-25"
+    },
+    {
+      "title": "Residents share data center concerns with state senators during listening tour stop in Danville",
+      "url": "https://cardinalnews.org/2026/07/24/residents-share-data-center-concerns-with-state-senators-during-listening-tour-stop-in-danville/",
+      "source": "Cardinal News",
+      "published": "2026-07-24",
+      "region": "Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Danville residents expressing data center concerns without visible local AI capability development signals extraction without empowerment—infrastructure presence without workforce participation deepens regional exclusion from the AI economy.",
+      "fetched": "2026-07-25"
     },
     {
       "title": "In the data center capital of the world, residents ask who the AI boom is helping - NBC News",
@@ -57,8 +57,8 @@
       "published": "2026-07-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Residents questioning who benefits from the AI boom in the data center capital reveals concentrated infrastructure producing neither local capability nor shared prosperity—physical presence without knowledge distribution or economic access.",
-      "fetched": "2026-07-24"
+      "signal_reading": "NBC's examination of who benefits from NoVA's data center boom exposes shallow community engagement even in the concentration zone—physical infrastructure without local capability diffusion suggests wealth extraction rather than distributed prosperity.",
+      "fetched": "2026-07-25"
     }
   ]
 }
