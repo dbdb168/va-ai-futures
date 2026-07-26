@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25",
+  "last_updated": "2026-07-26",
   "next_check": "2026-07-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,14 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building outside metro hubs, creating potential for distributed AI fluency through accessible workforce training—a critical test of whether deep capability can spread beyond NoVA and Richmond.",
-      "fetched": "2026-07-25"
+      "signal_reading": "Free AI workshops led by a Norfolk native targeting Hampton Roads residents signals grassroots capability-building outside traditional tech hubs, demonstrating distributed peer-network learning that could democratize AI fluency beyond NoVA's concentrated expertise.",
+      "fetched": "2026-07-26"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,18 +27,28 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA signals deliberate community-driven AI education infrastructure in Virginia's second-tier metro, potentially creating a replicable model for distributed deep capability rather than platform-dependent shallow adoption.",
-      "fetched": "2026-07-25"
+      "signal_reading": "VCU's partnership with AI Ready RVA to boost community AI education represents institutional commitment to deep, distributed learning in a secondary metro area, potentially creating a regional hub that challenges NoVA's concentration if successfully scaled.",
+      "fetched": "2026-07-26"
     },
     {
-      "title": "New Jersey, Virginia Can Lead the Nation By Building ‘AI Resilience Cohorts’ to Develop Early-Career, State Talent Pipelines - Federation of American Scientists",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQS1WNXBDQ0FwVGlJM2xKdVhFRWRtX2UzUTJtbVNva1JqYklQTmZmWHhuWHA4WV96YndOLUx4TG5DUk0wZ3JWOXFGNnBWNUZadlhieVZscXRmM2pubEM4d0N2SVJnbzRnZnJ0MzVZVDlYZVA1Y1hJQjBMc2NjcVpyRFRB?oc=5",
-      "source": "Federation of American Scientists",
-      "published": "2026-07-22",
-      "region": "Statewide",
+      "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-07-02",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "The AI Resilience Cohorts proposal explicitly targets state-led talent pipeline development, representing a policy framework that could distribute deep AI capability across regions rather than concentrating it in existing tech hubs—a structural intervention against the widening gap.",
-      "fetched": "2026-07-25"
+      "signal_reading": "Roanoke College's WorkAI Lab for workplace professionals in Southwest Virginia signals intentional capability-building in a non-metro region, but success depends on whether training creates deep fluency or shallow platform adoption among local workforce.",
+      "fetched": "2026-07-26"
+    },
+    {
+      "title": "In the data center capital of the world, residents ask who the AI boom is helping - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnFHUHdHMURndVdjaEtfdW84aHloY2FiSW9aRVJPYW1oYXhjRU1XWmo1NGNNbDVkMFZ2T3BtRU5TRWlRSUY0U1F2c2tQanRqaGpWRm9OLWFkcHVqN1pacU1wUXU4ck5majBBUXJIRjZCeW5TSW1LWl9vTk1NLVhGeDA1NXpaUFJIZ2dmaTV2OXExdHhFdXFzSUVOblloRTNWVlMyV2VfQQ?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-23",
+      "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Residents questioning who benefits from NoVA's AI boom reveals that concentrated infrastructure investment doesn't automatically translate to distributed capability or community benefit, potentially deepening the metro-rural divide despite proximity to data centers.",
+      "fetched": "2026-07-26"
     },
     {
       "title": "Residents share data center concerns with state senators during listening tour stop in Danville",
@@ -47,18 +57,8 @@
       "published": "2026-07-24",
       "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Danville residents voicing data center concerns without apparent local capability-building signals infrastructure extraction rather than distributed AI economy participation—economic activity concentrated elsewhere while communities bear costs without skill development or opportunity access.",
-      "fetched": "2026-07-25"
-    },
-    {
-      "title": "In the data center capital of the world, residents ask who the AI boom is helping - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnFHUHdHMURndVdjaEtfdW84aHloY2FiSW9aRVJPYW1oYXhjRU1XWmo1NGNNbDVkMFZ2T3BtRU5TRWlRSUY0U1F2c2tQanRqaGpWRm9OLWFkcHVqN1pacU1wUXU4ck5majBBUXJIRjZCeW5TSW1LWl9vTk1NLVhGeDA1NXpaUFJIZ2dmaTV2OXExdHhFdXFzSUVOblloRTNWVlMyV2VfQQ?oc=5",
-      "source": "NBC News",
-      "published": "2026-07-23",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NBC's feature on NoVA residents questioning who benefits from the AI boom reveals deepening concentration dynamics—infrastructure and capital amassing in data center capital while questioning local capability distribution suggests excellence consolidating rather than spreading.",
-      "fetched": "2026-07-25"
+      "signal_reading": "Danville residents voicing data center concerns during a listening tour indicates Southside communities are experiencing infrastructure extraction without capability-building—physical presence of AI infrastructure concentrating while local skills and benefits remain shallow or absent.",
+      "fetched": "2026-07-26"
     }
   ]
 }
