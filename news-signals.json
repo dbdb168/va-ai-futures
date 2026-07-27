@@ -17,7 +17,7 @@
       "published": "2026-07-27",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Guest column highlights that Virginia's AI infrastructure investment (data centers) is disconnected from small business capability—signaling that neither depth nor distribution of AI adoption is occurring at the business level despite proximity to AI infrastructure.",
+      "signal_reading": "Recognition that Virginia's AI challenge centers on small-business adoption reveals the gap between concentrated data center infrastructure investment and distributed economic capability—signals shallow penetration outside tech hubs despite physical AI infrastructure presence.",
       "fetched": "2026-07-27"
     },
     {
@@ -25,9 +25,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
       "source": "WDBJ7",
       "published": "2026-07-02",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College launching workplace AI training in a non-metro region signals potential for distributed capability building through local institutions, moving beyond platform adoption toward hands-on professional fluency outside the NoVA corridor.",
+      "signal_reading": "Roanoke College's WorkAI Lab delivering hands-on professional training represents distributed deep-learning infrastructure in a non-metro region, potentially seeding peer-to-peer AI fluency networks beyond the NoVA-Richmond corridor.",
       "fetched": "2026-07-27"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops in Hampton Roads represent grassroots peer-network knowledge transfer—exactly the 'broad fluency through distributed networks' model that characterizes deep, distributed adoption rather than platform-dependent usage.",
+      "signal_reading": "Free community AI workshops led by a Norfolk native directly target the technology gap through grassroots skill-building, signaling distributed capability development through accessible training rather than platform dependency or concentrated excellence.",
       "fetched": "2026-07-27"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU partnership with AI Ready RVA concentrates advanced AI education and innovation resources in the Richmond metro hub, potentially deepening capability in a secondary urban center while leaving rural areas unaddressed.",
+      "signal_reading": "VCU-AI Ready RVA partnership concentrates advanced AI education and innovation capacity in Richmond's academic-nonprofit ecosystem, deepening metro capability but raising questions about regional knowledge diffusion mechanisms to surrounding areas.",
       "fetched": "2026-07-27"
     },
     {
-      "title": "Experts+foresee+legal+malpractice+risk+for+those+who+eschew+AI - Virginia Lawyers Weekly",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE1ER0RrRWNickFTOEtYQzBBbGZkUXdNekVlam0yNk9NdWlVdkpnUll6XzdBdUpXYW1TMDhDNk54YV9QTGlpQmVFY1gtQWdYNzlhbXBWd1VzWlZDT0RhVmpGdEowdE9PbS05VWxhS1NHZ09nSEY1djJNQjNWbDdhTzRtZUtlaG5CNDljYVlUb1FnRkVqWFFkVU9wNTVXV3JRWlhYSg?oc=5",
-      "source": "Virginia Lawyers Weekly",
+      "title": "Press Release: Morgan Griffith Announces HHS Grant to Virginia Tech for AI Health Care Research - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVh0U2NrYTRSV0hZMlhqQVFzdVo0cm0xdGM4c3NBVVNMR01lS0hYcjRnLUdhLWdBQzA5ZUJSakM0WGdUSTFhOGxJcFpCRVJlVFNRNTZ5RXlKRUJFRTR0VVpKVlM2cEJjYVBuOXNSSWdVZmluV0F0SGpmeTdXOTFYZ2xfaGdVWTVPb25sYlFvYmFJcXQtbUZtVHplMWcybE94dWxDTzVOZWRBS3VfVG1BRWMxR29xZHQ1bUhxU0lVa2REZlNFOGNSU2Rn?oc=5",
+      "source": "Quiver Quantitative",
       "published": "2026-07-27",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Legal profession facing malpractice risk for not using AI suggests pressure toward shallow platform adoption driven by liability rather than deep technical understanding—widespread but surface-level integration across Virginia's legal sector.",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Federal HHS grant to Virginia Tech for AI healthcare research reinforces New River Valley as a specialized AI research node, but grant-dependent academic work often stays concentrated within university networks rather than distributing to regional small businesses and practitioners.",
       "fetched": "2026-07-27"
     }
   ]
