@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-28",
-  "next_check": "2026-07-28",
+  "next_check": "2026-07-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,33 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - Richmond Times-Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
-      "source": "Richmond Times-Dispatch",
-      "published": "2026-07-27",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Richmond Times-Dispatch opinion piece frames Virginia's AI challenge as small-business adoption, not infrastructure—signaling that concentration in data center buildout isn't translating to distributed capability or entrepreneurial fluency across the commonwealth's economic base.",
-      "fetched": "2026-07-28"
-    },
-    {
-      "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-07-02",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College launching workplace AI training represents regional capacity-building outside NoVA/Richmond hubs, signaling potential for peer-driven skill development that could distribute deep capability beyond traditional tech corridors.",
-      "fetched": "2026-07-28"
-    },
-    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by Norfolk native directly target the technology gap through grassroots education, exemplifying distributed peer learning that builds local fluency rather than platform dependency or metro concentration.",
+      "signal_reading": "Free community AI workshops delivered by a Norfolk native directly address the technology gap through peer-led learning, signaling grassroots capability building outside traditional metro concentrations—a distributed depth approach if sustained.",
       "fetched": "2026-07-28"
     },
     {
@@ -46,18 +26,38 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU partnership with AI Ready RVA deepens Richmond's institutional AI capacity through university-community collaboration, but concentration in metro anchor institutions risks reproducing hub-spoke patterns unless mechanisms diffuse knowledge to surrounding regions.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU partnering with AI Ready RVA creates institutional infrastructure for community-wide AI education beyond elite programs, potentially distributing deep capability through Richmond's workforce if implementation reaches beyond university walls.",
       "fetched": "2026-07-28"
     },
     {
-      "title": "Press Release: Morgan Griffith Announces HHS Grant to Virginia Tech for AI Health Care Research - Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVh0U2NrYTRSV0hZMlhqQVFzdVo0cm0xdGM4c3NBVVNMR01lS0hYcjRnLUdhLWdBQzA5ZUJSakM0WGdUSTFhOGxJcFpCRVJlVFNRNTZ5RXlKRUJFRTR0VVpKVlM2cEJjYVBuOXNSSWdVZmluV0F0SGpmeTdXOTFYZ2xfaGdVWTVPb25sYlFvYmFJcXQtbUZtVHplMWcybE94dWxDTzVOZWRBS3VfVG1BRWMxR29xZHQ1bUhxU0lVa2REZlNFOGNSU2Rn?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-07-27",
+      "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-07-02",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Federal HHS grant to Virginia Tech for AI health research concentrates deep technical capability in established research institution, reinforcing New River Valley as specialized AI hub while broader question remains whether this expertise transfers to regional healthcare providers and rural communities.",
+      "signal_reading": "Roanoke College's WorkAI Lab targets workplace professionals with structured training, creating a secondary hub of AI capability in Southwest Virginia, but its fee-based professional focus may limit broader distribution across the region's transitioning economy.",
+      "fetched": "2026-07-28"
+    },
+    {
+      "title": "Northern Virginia students build AI tool to help aspiring entrepreneurs",
+      "url": "https://wtop.com/arlington/2026/07/northern-virginia-students-build-ai-tool-to-help-aspiring-entrepreneurs/",
+      "source": "WTOP Virginia",
+      "published": "2026-07-28",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Northern Virginia students building entrepreneurial AI tools demonstrates deep technical capability emerging from NoVA's educational ecosystem, reinforcing the region's concentration of both skills and innovation infrastructure relative to other Virginia regions.",
+      "fetched": "2026-07-28"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Richmond's young workforce feeling AI pressure without corresponding access to deep training signals shallow adoption driven by employment anxiety rather than capability development, risking skill gaps even in a secondary metro hub.",
       "fetched": "2026-07-28"
     }
   ]
