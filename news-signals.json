@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27",
+  "last_updated": "2026-07-28",
   "next_check": "2026-07-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-07-27",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Recognition that Virginia's AI challenge centers on small-business adoption reveals the gap between concentrated data center infrastructure investment and distributed economic capability—signals shallow penetration outside tech hubs despite physical AI infrastructure presence.",
-      "fetched": "2026-07-27"
+      "signal_reading": "Richmond Times-Dispatch opinion piece frames Virginia's AI challenge as small-business adoption, not infrastructure—signaling that concentration in data center buildout isn't translating to distributed capability or entrepreneurial fluency across the commonwealth's economic base.",
+      "fetched": "2026-07-28"
     },
     {
       "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
@@ -27,8 +27,8 @@
       "published": "2026-07-02",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab delivering hands-on professional training represents distributed deep-learning infrastructure in a non-metro region, potentially seeding peer-to-peer AI fluency networks beyond the NoVA-Richmond corridor.",
-      "fetched": "2026-07-27"
+      "signal_reading": "Roanoke College launching workplace AI training represents regional capacity-building outside NoVA/Richmond hubs, signaling potential for peer-driven skill development that could distribute deep capability beyond traditional tech corridors.",
+      "fetched": "2026-07-28"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -37,8 +37,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native directly target the technology gap through grassroots skill-building, signaling distributed capability development through accessible training rather than platform dependency or concentrated excellence.",
-      "fetched": "2026-07-27"
+      "signal_reading": "Free community AI workshops led by Norfolk native directly target the technology gap through grassroots education, exemplifying distributed peer learning that builds local fluency rather than platform dependency or metro concentration.",
+      "fetched": "2026-07-28"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -47,8 +47,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership concentrates advanced AI education and innovation capacity in Richmond's academic-nonprofit ecosystem, deepening metro capability but raising questions about regional knowledge diffusion mechanisms to surrounding areas.",
-      "fetched": "2026-07-27"
+      "signal_reading": "VCU partnership with AI Ready RVA deepens Richmond's institutional AI capacity through university-community collaboration, but concentration in metro anchor institutions risks reproducing hub-spoke patterns unless mechanisms diffuse knowledge to surrounding regions.",
+      "fetched": "2026-07-28"
     },
     {
       "title": "Press Release: Morgan Griffith Announces HHS Grant to Virginia Tech for AI Health Care Research - Quiver Quantitative",
@@ -57,8 +57,8 @@
       "published": "2026-07-27",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Federal HHS grant to Virginia Tech for AI healthcare research reinforces New River Valley as a specialized AI research node, but grant-dependent academic work often stays concentrated within university networks rather than distributing to regional small businesses and practitioners.",
-      "fetched": "2026-07-27"
+      "signal_reading": "Federal HHS grant to Virginia Tech for AI health research concentrates deep technical capability in established research institution, reinforcing New River Valley as specialized AI hub while broader question remains whether this expertise transfers to regional healthcare providers and rural communities.",
+      "fetched": "2026-07-28"
     }
   ]
 }
