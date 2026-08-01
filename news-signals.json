@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-01",
-  "next_check": "2026-08-01",
+  "next_check": "2026-08-02",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,23 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College launches AI training program for workplace professionals - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDJpTjlJZ2hYNHhpV2pzZHFCSS1ieWpRSHpSamlFRDlLcFZFczBXOEphZlp4OW5OVU5EMmZsR241WWgwMUFVRDZUSVhqRk1zQ2tOT01rV3FPdzRsOEcySDFiNnF0bHMtMFgtOS11RHpwV1Q5aFZpbTZBYVhKN09ySEZIMDFTaWY2VF9qLWRQTG1DY09URFVweHhUNXlkeTNBbEdkedIBuAFBVV95cUxQMlhaZXV6bXhzX08xZlU2dWdFbExaQk5FYjh6d2hjOHZ5VXdINlBQLXBZbE5LaWpWTjIxLURKdUxfc1FJRWZCbzQ1aHVkenJESERBam5iTkJsM0ljbWl0RXJTc3d6QWhTTnpmdEQyOUdlNks4cDhFdDZSMjdsRGR4Z2pRWno3LXRxMWN3cUtJZGZXdDFQTVVnV2M0US0zREd5dVdXMjcxRWh4c0NRemhVdmowMjVUSFhu?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-07-02",
+      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - Richmond Times-Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
+      "source": "Richmond Times-Dispatch",
+      "published": "2026-07-27",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Richmond Times-Dispatch op-ed explicitly identifies the concentration paradox: Virginia's AI infrastructure wealth in NoVA contrasts with weak small-business adoption statewide, signaling shallow distributed capability even as deep expertise concentrates in data center corridors.",
+      "fetched": "2026-08-01"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents peer-to-peer professional upskilling outside major metro areas, signaling potential for distributed deep capability if the training model spreads beyond a single institution to regional networks.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capability-building infrastructure outside traditional tech hubs, creating potential distributed deep learning if the lab cultivates peer networks beyond campus rather than simply credentialing individuals.",
       "fetched": "2026-08-01"
     },
     {
@@ -27,27 +37,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community-led AI workshops targeting the technology gap indicate grassroots distributed learning emerging in Hampton Roads, though sustainability and depth of skill transfer remain uncertain without institutional backing.",
-      "fetched": "2026-08-01"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's AI Ready RVA partnership concentrates institutional AI education resources in Richmond, potentially deepening metro capability but requiring intentional distribution mechanisms to avoid reinforcing the urban-rural divide.",
-      "fetched": "2026-08-01"
-    },
-    {
-      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEg3alBIVHdtOU10c1ZsbnlzTWJ1dEdENy1Hejd3MDF3OVpyMzJsdnZSMGNjSjgycG1wc1NMQWtVd1BKVE1yM1RxbzB5bnNTR1ZDdW1UQmpJeVpUWUpGcmMwc3U4c0ZXZ09xYVZrVTg3MU03TFRITkVrYnVqX2FmeVc0RG1FUUdOSjFYX096aDRqblJCbE5DOU5Yc3NmTUYyU1pJYllBZ054VnZOOHA0MUtVcVZrOHJZWnM2dU9HdFQyTnBvRU8yYVUyd05jQjN4RjQ1UklzaTVqdHpu?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-07-13",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Virginia's contradictory stance—promoting AI while cooling on required data center infrastructure—signals policy incoherence that could stall both concentrated excellence and distributed adoption, leaving the state in a capability vacuum.",
+      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots capability distribution through peer learning networks, explicitly framed as closing technology gaps—a direct counter to concentration if sustained beyond individual events into ongoing communities of practice.",
       "fetched": "2026-08-01"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-07-31",
       "region": "Southwest & Southside",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Appalachian Power's data center demand signals infrastructure concentration in historically underserved regions, but without parallel workforce development investments, this becomes extractive infrastructure rather than distributed capability building.",
+      "signal_reading": "Appalachian Power's 'explosive' data center growth in historically underserved Southwest/Southside creates infrastructure concentration without guaranteed capability distribution—physical proximity to AI infrastructure doesn't automatically translate to local workforce depth or business adoption.",
+      "fetched": "2026-08-01"
+    },
+    {
+      "title": "Google to invest millions for Virginia workforce development amid data center growth - WRIC ABC 8News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlFNTzV5TXZMY21MTGZTdG5fRFhsM2ZqdWJxQ28yTEpDZzVqVXVicnAyZHdDWUVjUXVGclRuS1lFc1FZcVNNMmhjMjM5VTVqZ1M1SEd2Y1ZCeEZfa1o0MGNEX1FWamNZM1k2TlBmVHM0RmdhNmoyTjFtTzVCMUdDTTVlS2NhZmVwXzJfakotNFNLNXF1czl4aVJteng3ZUtraXd1TE5Hb1hjT2MwYzY3OV9zUjlSODc1WkRPS3UwUmVlbTjSAcgBQVVfeXFMTmRiMXdteGl2MWFLVzBlWG1KSlJtYkhtVm14WXF0c3h1c0hZaEZlcm5xOXkxdkw1THBrNDBtblhFZEkyMkFfclhtNGtKSFVTVm0tMnVHeGJUQUswSmtpQ0FMMlVzTUNiNlJUdmZWMnBSU0hCX1E0WUVhNXhST2I5U1ZoRFJLXzFrZEJrdk1xeGtENEhrcl9meFBLeGpraVdUc2lWTm9tcEZLeC0zZlkzZ0JpWnhBeFB6Wk1DVVV6ekZPMXY0dDBUM3Y?oc=5",
+      "source": "WRIC ABC 8News",
+      "published": "2026-06-12",
+      "region": "Richmond Metro",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Google's workforce development investment tied to data center growth likely produces platform-mediated training for operational roles rather than deep AI capability—broad but shallow distribution optimized for infrastructure support, not indigenous innovation capacity.",
       "fetched": "2026-08-01"
     }
   ]
