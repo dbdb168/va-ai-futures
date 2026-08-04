@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-04",
-  "next_check": "2026-08-04",
+  "next_check": "2026-08-05",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "A WorkAI Lab at Roanoke College represents institutional capacity-building outside the NoVA corridor, creating local knowledge infrastructure that could enable peer-to-peer AI fluency distribution across Southwest Virginia's emerging tech ecosystem.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents distributed capacity-building outside metro hubs, signaling potential for deep AI fluency development in non-NoVA regions through institutional education infrastructure.",
       "fetched": "2026-08-04"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native directly target the distribution dimension—grassroots knowledge transfer that builds local capability rather than depending on platform adoption, potentially bridging Hampton Roads' technology gap through peer networks.",
+      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots distributed learning and peer-to-peer skill transfer, directly addressing the technology gap through accessible deep learning rather than platform dependency.",
       "fetched": "2026-08-04"
     },
     {
@@ -37,17 +37,7 @@
       "published": "2026-08-04",
       "region": "Southside",
       "scenario": "Software Does It For You",
-      "signal_reading": "Platform-based AI solutions for rural healthcare in Danville signal shallow but potentially distributed adoption—technology delivered as a service to underserved areas without building local deep capability, reinforcing dependency on external AI providers.",
-      "fetched": "2026-08-04"
-    },
-    {
-      "title": "Google to invest millions for Virginia workforce development amid data center growth - WRIC ABC 8News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlFNTzV5TXZMY21MTGZTdG5fRFhsM2ZqdWJxQ28yTEpDZzVqVXVicnAyZHdDWUVjUXVGclRuS1lFc1FZcVNNMmhjMjM5VTVqZ1M1SEd2Y1ZCeEZfa1o0MGNEX1FWamNZM1k2TlBmVHM0RmdhNmoyTjFtTzVCMUdDTTVlS2NhZmVwXzJfakotNFNLNXF1czl4aVJteng3ZUtraXd1TE5Hb1hjT2MwYzY3OV9zUjlSODc1WkRPS3UwUmVlbTjSAcgBQVVfeXFMTmRiMXdteGl2MWFLVzBlWG1KSlJtYkhtVm14WXF0c3h1c0hZaEZlcm5xOXkxdkw1THBrNDBtblhFZEkyMkFfclhtNGtKSFVTVm0tMnVHeGJUQUswSmtpQ0FMMlVzTUNiNlJUdmZWMnBSU0hCX1E0WUVhNXhST2I5U1ZoRFJLXzFrZEJrdk1xeGtENEhrcl9meFBLeGpraVdUc2lWTm9tcEZLeC0zZlkzZ0JpWnhBeFB6Wk1DVVV6ekZPMXY0dDBUM3Y?oc=5",
-      "source": "WRIC ABC 8News",
-      "published": "2026-06-12",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Google's workforce investment tied to data center growth concentrates AI-adjacent skills development in metro areas benefiting from infrastructure expansion, deepening the capability gap between regions with hyperscale facilities and those without.",
+      "signal_reading": "Promise of AI transforming rural healthcare in Danville suggests shallow, platform-delivered solutions for underserved regions—technology adoption without local capability development, reinforcing vendor dependency in rural areas.",
       "fetched": "2026-08-04"
     },
     {
@@ -56,8 +46,18 @@
       "source": "WTOP Virginia",
       "published": "2026-08-03",
       "region": "Northern Virginia",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Fairfax County students building their own AI tools for civic engagement demonstrates deep, generative capability emerging from educational institutions—though concentrated in NoVA, it models the peer-driven skill acquisition that could scale across regions if replicated.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Fairfax students building custom AI tools demonstrates deep technical capability concentrated in NoVA's resource-rich educational environment, widening the gap between metro youth opportunities and rural access to hands-on AI development.",
+      "fetched": "2026-08-04"
+    },
+    {
+      "title": "U.Va. Health expands AI use across patient care, research and education - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnpvS3hxaG40dERnOHhvNjJ3eUNKNzVQeVdteldxc0lNSW9qdUszeVEwQzhkNGRQdVRycnlvOVJLRUFnZFFuRXNKQ0ZSajlYaWpTeFJyWVBDd2J6QWZqUmJFZUhYRExPTEtsRjk1dEZXU1FrQTRtcmY2WHpyU3RySi1WS3QyV19wQi1yTG9ld3A2cmJ0RDZ6VGNsM0Y0MFVxTm40dENkZFNqMnBlbl9BanJoWGo?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-08-03",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA Health's comprehensive AI integration across care, research, and education concentrates advanced capability in elite institutional settings, creating deep expertise islands rather than distributable knowledge across Virginia's healthcare system.",
       "fetched": "2026-08-04"
     }
   ]
