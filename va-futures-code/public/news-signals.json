@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "next_check": "2026-08-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,28 +17,28 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "WorkAI Lab at Roanoke College represents institutional capacity-building outside major metros, creating peer learning infrastructure that could distribute deep AI fluency beyond NoVA's gravitational pull—a critical test of whether educational institutions can decentralize expertise.",
-      "fetched": "2026-08-03"
+      "signal_reading": "A WorkAI Lab at Roanoke College represents institutional capacity-building outside the NoVA corridor, creating local knowledge infrastructure that could enable peer-to-peer AI fluency distribution across Southwest Virginia's emerging tech ecosystem.",
+      "fetched": "2026-08-04"
     },
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - wtkr.com",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "wtkr.com",
+      "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops by a Norfolk native directly target the distribution challenge through grassroots knowledge transfer, signaling potential for peer-to-peer learning networks that could prevent Hampton Roads from falling into the widening gap scenario.",
-      "fetched": "2026-08-03"
+      "signal_reading": "Free community AI workshops led by a Norfolk native directly target the distribution dimension—grassroots knowledge transfer that builds local capability rather than depending on platform adoption, potentially bridging Hampton Roads' technology gap through peer networks.",
+      "fetched": "2026-08-04"
     },
     {
-      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEg3alBIVHdtOU10c1ZsbnlzTWJ1dEdENy1Hejd3MDF3OVpyMzJsdnZSMGNjSjgycG1wc1NMQWtVd1BKVE1yM1RxbzB5bnNTR1ZDdW1UQmpJeVpUWUpGcmMwc3U4c0ZXZ09xYVZrVTg3MU03TFRITkVrYnVqX2FmeVc0RG1FUUdOSjFYX096aDRqblJCbE5DOU5Yc3NmTUYyU1pJYllBZ054VnZOOHA0MUtVcVZrOHJZWnM2dU9HdFQyTnBvRU8yYVUyd05jQjN4RjQ1UklzaTVqdHpu?oc=5",
+      "title": "RFK Jr., during Monday trip to Danville, says AI will transform rural healthcare",
+      "url": "https://cardinalnews.org/2026/08/04/rfk-jr-says-that-ai-will-transform-rural-healthcare-during-a-monday-trip-to-danville/",
       "source": "Cardinal News",
-      "published": "2026-07-13",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's policy incoherence—promoting AI while cooling on data centers—reveals concentration of both infrastructure and policy expertise in NoVA, while lacking distributed governance capacity to balance statewide interests versus localized economic development.",
-      "fetched": "2026-08-03"
+      "published": "2026-08-04",
+      "region": "Southside",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Platform-based AI solutions for rural healthcare in Danville signal shallow but potentially distributed adoption—technology delivered as a service to underserved areas without building local deep capability, reinforcing dependency on external AI providers.",
+      "fetched": "2026-08-04"
     },
     {
       "title": "Google to invest millions for Virginia workforce development amid data center growth - WRIC ABC 8News",
@@ -46,19 +46,19 @@
       "source": "WRIC ABC 8News",
       "published": "2026-06-12",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Google's workforce investment tied to data center growth suggests platform-mediated training rather than deep skill-building—concentrating shallow AI adoption around infrastructure hubs without necessarily building distributed technical depth or agency.",
-      "fetched": "2026-08-03"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Google's workforce investment tied to data center growth concentrates AI-adjacent skills development in metro areas benefiting from infrastructure expansion, deepening the capability gap between regions with hyperscale facilities and those without.",
+      "fetched": "2026-08-04"
     },
     {
-      "title": "Appalachian Power sees &#8216;explosive&#8217; growth from data centers, other big customers",
-      "url": "https://cardinalnews.org/2026/07/31/appalachian-power-anticipates-explosive-growth-in-large-customers-primarily-data-centers/",
-      "source": "Cardinal News",
-      "published": "2026-07-31",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Appalachian Power's data center growth in underserved regions creates infrastructure extraction without capability distribution—power flows out while AI expertise and economic benefit concentrate elsewhere, risking colonial development patterns that deepen rather than bridge rural-metro divides.",
-      "fetched": "2026-08-03"
+      "title": "Fairfax Co. students launch AI tool to summarize school board meetings",
+      "url": "https://wtop.com/fairfax-county/2026/08/fairfax-co-students-launch-ai-tool-to-summarize-school-board-meetings/",
+      "source": "WTOP Virginia",
+      "published": "2026-08-03",
+      "region": "Northern Virginia",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Fairfax County students building their own AI tools for civic engagement demonstrates deep, generative capability emerging from educational institutions—though concentrated in NoVA, it models the peer-driven skill acquisition that could scale across regions if replicated.",
+      "fetched": "2026-08-04"
     }
   ]
 }
