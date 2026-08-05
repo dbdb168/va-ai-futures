@@ -17,17 +17,17 @@
       "published": "2026-08-05",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $20M cloud-based semiconductor lab at Virginia Tech creates deep technical capability in New River Valley, but the cloud-based research infrastructure may enable distributed access patterns if designed for statewide collaboration rather than campus-only concentration.",
+      "signal_reading": "A $20M federal grant for cloud-based semiconductor research at Virginia Tech signals deep capability building, but the cloud-based delivery model could enable distributed access if Virginia leverages it beyond the Blacksburg hub to train workforce across regions.",
       "fetched": "2026-08-05"
     },
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - roanoke.edu",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
+      "source": "roanoke.edu",
       "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab signals intentional distribution of AI literacy beyond metro hubs, creating peer learning networks in smaller markets—precisely the mechanism that enables deep-and-distributed capability if sustained and replicated.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate institutional capacity-building in a non-metro region, creating potential peer networks for AI fluency outside traditional tech corridors—a critical signal for distributed depth if sustained beyond initial launch.",
       "fetched": "2026-08-05"
     },
     {
@@ -37,17 +37,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops by a Norfolk native targeting the Hampton Roads technology gap demonstrate grassroots, community-driven AI fluency development—the distributed peer network model that could counter metro concentration if scaled.",
-      "fetched": "2026-08-05"
-    },
-    {
-      "title": "Google to invest millions for Virginia workforce development amid data center growth - wric.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlFNTzV5TXZMY21MTGZTdG5fRFhsM2ZqdWJxQ28yTEpDZzVqVXVicnAyZHdDWUVjUXVGclRuS1lFc1FZcVNNMmhjMjM5VTVqZ1M1SEd2Y1ZCeEZfa1o0MGNEX1FWamNZM1k2TlBmVHM0RmdhNmoyTjFtTzVCMUdDTTVlS2NhZmVwXzJfakotNFNLNXF1czl4aVJteng3ZUtraXd1TE5Hb1hjT2MwYzY3OV9zUjlSODc1WkRPS3UwUmVlbTjSAcgBQVVfeXFMTmRiMXdteGl2MWFLVzBlWG1KSlJtYkhtVm14WXF0c3h1c0hZaEZlcm5xOXkxdkw1THBrNDBtblhFZEkyMkFfclhtNGtKSFVTVm0tMnVHeGJUQUswSmtpQ0FMMlVzTUNiNlJUdmZWMnBSU0hCX1E0WUVhNXhST2I5U1ZoRFJLXzFrZEJrdk1xeGtENEhrcl9meFBLeGpraVdUc2lWTm9tcEZLeC0zZlkzZ0JpWnhBeFB6Wk1DVVV6ekZPMXY0dDBUM3Y?oc=5",
-      "source": "wric.com",
-      "published": "2026-06-12",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Google's workforce development investment tied to data center growth suggests shallow, platform-mediated AI adoption focused on operating infrastructure rather than developing deep technical capabilities—broad reach without deep roots.",
+      "signal_reading": "Free community AI workshops in Hampton Roads demonstrate grassroots capability distribution through accessible education, directly counteracting the concentration dynamic by building local fluency networks independent of elite institutional gatekeepers.",
       "fetched": "2026-08-05"
     },
     {
@@ -56,8 +46,18 @@
       "source": "Cardinal News",
       "published": "2026-08-05",
       "region": "Southside",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Broadband deployment completion in Patrick, Franklin, and Henry counties enables platform-based AI access in historically underserved Southside, but infrastructure alone without training programs signals shallow adoption rather than deep capability building.",
+      "fetched": "2026-08-05"
+    },
+    {
+      "title": "In the data center capital of the world, residents ask who the AI boom is helping - nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnFHUHdHMURndVdjaEtfdW84aHloY2FiSW9aRVJPYW1oYXhjRU1XWmo1NGNNbDVkMFZ2T3BtRU5TRWlRSUY0U1F2c2tQanRqaGpWRm9OLWFkcHVqN1pacU1wUXU4ck5majBBUXJIRjZCeW5TSW1LWl9vTk1NLVhGeDA1NXpaUFJIZ2dmaTV2OXExdHhFdXFzSUVOblloRTNWVlMyV2VfQQ?oc=5",
+      "source": "nbcnews.com",
+      "published": "2026-07-23",
+      "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Broadband deployment struggles in Patrick, Franklin, and Henry counties reveal infrastructure gaps that prevent even shallow AI adoption—without basic connectivity, Southside risks exclusion from both distributed and concentrated AI development pathways.",
+      "signal_reading": "Residents questioning who benefits from NoVA's data center boom reveals that physical AI infrastructure concentration doesn't translate to distributed economic opportunity or local capability—infrastructure without inclusion reinforces rather than bridges divides.",
       "fetched": "2026-08-05"
     }
   ]
