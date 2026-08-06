@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05",
-  "next_check": "2026-08-06",
+  "last_updated": "2026-08-06",
+  "next_check": "2026-08-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
-      "title": "Tech Briefs: Virginia Tech research team gets $20 million grant for cloud-based semiconductor lab",
-      "url": "https://cardinalnews.org/2026/08/05/tech-briefs-virginia-tech-research-team-gets-20-million-grant-for-cloud-based-semiconductor-lab/",
-      "source": "Cardinal News",
-      "published": "2026-08-05",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $20M federal grant for cloud-based semiconductor research at Virginia Tech signals deep capability building, but the cloud-based delivery model could enable distributed access if Virginia leverages it beyond the Blacksburg hub to train workforce across regions.",
-      "fetched": "2026-08-05"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - roanoke.edu",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "roanoke.edu",
+      "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate institutional capacity-building in a non-metro region, creating potential peer networks for AI fluency outside traditional tech corridors—a critical signal for distributed depth if sustained beyond initial launch.",
-      "fetched": "2026-08-05"
+      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate capability-building outside metro hubs, creating infrastructure for deep AI literacy through workforce training—a critical test of whether peer learning networks can distribute fluency beyond NoVA.",
+      "fetched": "2026-08-06"
     },
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - wtkr.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
+      "source": "wtkr.com",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops in Hampton Roads demonstrate grassroots capability distribution through accessible education, directly counteracting the concentration dynamic by building local fluency networks independent of elite institutional gatekeepers.",
-      "fetched": "2026-08-05"
+      "signal_reading": "Free AI workshops led by a Norfolk native directly target the distribution question, attempting grassroots skill transfer to close the technology gap—success here signals whether community-led models can achieve depth without institutional backing.",
+      "fetched": "2026-08-06"
     },
     {
-      "title": "Internet provider ZiTel approved to finish broadband deployment work in Patrick, Franklin, Henry counties",
-      "url": "https://cardinalnews.org/2026/08/05/internet-provider-zitel-approved-to-finish-broadband-deployment-work-in-patrick-franklin-henry-counties/",
+      "title": "Virginia Steel and Fabrication to invest $3.6 million, create 52 jobs in Bland County",
+      "url": "https://cardinalnews.org/2026/08/05/virginia-steel-and-fabrication-to-invest-3-6-million-create-52-jobs-in-bland-county/",
       "source": "Cardinal News",
       "published": "2026-08-05",
-      "region": "Southside",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Broadband deployment completion in Patrick, Franklin, and Henry counties enables platform-based AI access in historically underserved Southside, but infrastructure alone without training programs signals shallow adoption rather than deep capability building.",
-      "fetched": "2026-08-05"
+      "region": "Southwest",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Advanced manufacturing investment in Bland County creates jobs but no mention of AI integration signals shallow automation adoption—economic growth without capability depth leaves Southwest vulnerable to future disruption despite near-term employment gains.",
+      "fetched": "2026-08-06"
     },
     {
-      "title": "In the data center capital of the world, residents ask who the AI boom is helping - nbcnews.com",
+      "title": "In the data center capital of the world, residents ask who the AI boom is helping - NBC News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnFHUHdHMURndVdjaEtfdW84aHloY2FiSW9aRVJPYW1oYXhjRU1XWmo1NGNNbDVkMFZ2T3BtRU5TRWlRSUY0U1F2c2tQanRqaGpWRm9OLWFkcHVqN1pacU1wUXU4ck5majBBUXJIRjZCeW5TSW1LWl9vTk1NLVhGeDA1NXpaUFJIZ2dmaTV2OXExdHhFdXFzSUVOblloRTNWVlMyV2VfQQ?oc=5",
-      "source": "nbcnews.com",
+      "source": "NBC News",
       "published": "2026-07-23",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Residents questioning who benefits from NoVA's data center boom reveals that physical AI infrastructure concentration doesn't translate to distributed economic opportunity or local capability—infrastructure without inclusion reinforces rather than bridges divides.",
-      "fetched": "2026-08-05"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NBC's focus on who the AI boom helps in the 'data center capital' highlights concentration dynamics—infrastructure investment in NoVA creates deep technical capability but raises equity questions about whether benefits distribute beyond the immediate metro cluster.",
+      "fetched": "2026-08-06"
+    },
+    {
+      "title": "Computer scientist: &#8216;So, more data centers, then?&#8217;",
+      "url": "https://cardinalnews.org/2026/08/06/computer-scientist-so-more-data-centers-then/",
+      "source": "Cardinal News",
+      "published": "2026-08-06",
+      "region": "Southwest & Southside",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Computer scientist's data center critique from Cardinal News signals awareness in underserved regions that infrastructure alone doesn't guarantee capability—the call for 'innovation beyond the data center' recognizes the risk of passive consumption rather than active AI fluency.",
+      "fetched": "2026-08-06"
     }
   ]
 }
