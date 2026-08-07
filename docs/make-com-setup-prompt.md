@@ -15,7 +15,7 @@ I have a Virginia AI Futures assessment at `assess.html` that:
 4. Displays results on the page
 5. Sends a webhook POST to Make.com with all the data + a pre-rendered HTML email
 
-I already have a separate Make.com scenario for my BuildFirst assessment (webhook: `https://hook.us2.make.com/96ptcm5uiskujpx9p2iuqrm5nqn1jcxq`). **This new scenario must be completely separate. Do not modify the existing BuildFirst scenario.**
+I already have a separate Make.com scenario for my BuildFirst assessment (webhook: `https://hook.us2.make.com/<YOUR_WEBHOOK_ID>`). **This new scenario must be completely separate. Do not modify the existing BuildFirst scenario.**
 
 ## What the Webhook Receives
 

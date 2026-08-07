@@ -455,6 +455,21 @@ function submitAssessment() {
 }
 
 function callClaude(prompt) {
+  /* ===================================================================================
+   * !!! SECURITY WARNING — DO NOT DEPLOY THIS STATIC VARIANT (assess.html) !!!
+   * ===================================================================================
+   * This browser-side call to api.anthropic.com is an ANTI-PATTERN. It requires an
+   * Anthropic API key to be present client-side (window.ANTHROPIC_API_KEY), which would
+   * expose the key to every visitor via view-source / the network inspector. The
+   * 'anthropic-dangerous-direct-browser-access' header only exists for local experiments.
+   *
+   * This file is the STATIC prototype variant. It MUST NEVER be deployed to production and
+   * MUST NEVER have an API key injected client-side. No key is committed today (the global
+   * is empty) — keep it that way.
+   *
+   * The live site (va-ai-futures.buildfirst.io) uses the SERVER-SIDE Next.js /api/analyze
+   * route in va-futures-code/, which keeps the key on the server. That is the correct path.
+   * =================================================================================== */
   var key = window.ANTHROPIC_API_KEY || '';
   if (!key) return Promise.reject(new Error('API key not configured'));
 
