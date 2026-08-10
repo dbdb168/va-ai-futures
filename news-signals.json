@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "next_check": "2026-08-10",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,18 @@
       "published": "2026-08-06",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Infrastructure cost externalization onto residential ratepayers reveals concentrated AI capability in NoVA data centers creating statewide burdens without distributed benefits—deepening the capability-burden asymmetry that defines Pockets of Excellence.",
-      "fetched": "2026-08-09"
+      "signal_reading": "Massive electricity price hikes from concentrated NoVA data centers create infrastructure costs that deepen the metro advantage—regions with AI infrastructure can absorb costs and attract investment, while regions without face barriers to entry and economic spillover without capability building.",
+      "fetched": "2026-08-10"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capability-building outside metro hubs, signaling potential for distributed deep literacy if the institution can create peer networks that spread AI fluency beyond campus into Southwest Virginia's transitioning economy.",
+      "fetched": "2026-08-10"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,38 +37,28 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native represent grassroots capability distribution through peer networks, signaling potential for deep, community-driven AI fluency outside traditional tech hubs if these efforts scale and sustain.",
-      "fetched": "2026-08-09"
+      "signal_reading": "Free community-led AI workshops in Hampton Roads demonstrate grassroots knowledge distribution outside traditional tech corridors, suggesting Bottom-up capability building that could enable broad fluency if sustained beyond individual initiatives into institutional support.",
+      "fetched": "2026-08-10"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
+      "title": "Google to invest millions for Virginia workforce development amid data center growth - WRIC ABC 8News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlFNTzV5TXZMY21MTGZTdG5fRFhsM2ZqdWJxQ28yTEpDZzVqVXVicnAyZHdDWUVjUXVGclRuS1lFc1FZcVNNMmhjMjM5VTVqZ1M1SEd2Y1ZCeEZfa1o0MGNEX1FWamNZM1k2TlBmVHM0RmdhNmoyTjFtTzVCMUdDTTVlS2NhZmVwXzJfakotNFNLNXF1czl4aVJteng3ZUtraXd1TE5Hb1hjT2MwYzY3OV9zUjlSODc1WkRPS3UwUmVlbTjSAcgBQVVfeXFMTmRiMXdteGl2MWFLVzBlWG1KSlJtYkhtVm14WXF0c3h1c0hZaEZlcm5xOXkxdkw1THBrNDBtblhFZEkyMkFfclhtNGtKSFVTVm0tMnVHeGJUQUswSmtpQ0FMMlVzTUNiNlJUdmZWMnBSU0hCX1E0WUVhNXhST2I5U1ZoRFJLXzFrZEJrdk1xeGtENEhrcl9meFBLeGpraVdUc2lWTm9tcEZLeC0zZlkzZ0JpWnhBeFB6Wk1DVVV6ekZPMXY0dDBUM3Y?oc=5",
+      "source": "WRIC ABC 8News",
+      "published": "2026-06-12",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for distributed AI education beyond elite tech corridors, suggesting Richmond could become a secondary node for deep capability development rather than remaining dependent on NoVA spillover.",
-      "fetched": "2026-08-09"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Roanoke College's WorkAI Lab targets leadership training rather than broad workforce capability, suggesting institutional AI adoption concentrated in higher education without clear pathways to distributed regional fluency—depth without distribution.",
-      "fetched": "2026-08-09"
-    },
-    {
-      "title": "AI in Roanoke County schools: How new policies will guide student use - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWtlS2NsNzdPSDR4YnJXMlpEQ3BJZDhlcHc0VS1pUC01NnViaF93RUFPUG1nM09WVTBQVDR6SFVjeUlFUWFCNjFOQVBEZFRGSU1tVkM4dmhjZ3VJdzllSlNLaURFd1hWaFhQSFlxOE5HLVVqRVRaRFk3MVdRaTdyMmpUVGVpODF2NDBBWG9pWWhkOTAtMExrdG5vQQ?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-08-07",
-      "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "School AI policies in Roanoke County focus on regulated student usage of existing platforms rather than building deep AI literacy or development capability, signaling shallow platform-mediated adoption that fits the 'Software Does It For You' pattern.",
-      "fetched": "2026-08-09"
+      "signal_reading": "Google's workforce development investment tied to data center growth signals platform-driven shallow adoption—corporate training for data center operations creates jobs but not deep AI capability, reinforcing Richmond as service provider rather than innovation center.",
+      "fetched": "2026-08-10"
+    },
+    {
+      "title": "IT Department Lays Out AI Policy for Norfolk Classrooms - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbjVFSkl5TEIzY2kyWmgwMmpjTW85UFB6ZkJsdG0zSmZ6ZzBOdWNDTGdMWUQ1WGtuYlBwVXY1MjFTUmlhZm40QUE4OVdZbHRJV3ZQVlJhTmQ3ZTJTQzVXc3RndEw4a1NaUktHVkVqWFp5Z1dFRWU2dWptZzhsVzV5clh2RC01ZnFsMTZ4TTBac2lWMTRkc200T1lB?oc=5",
+      "source": "GovTech",
+      "published": "2026-08-06",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk's AI policy for classrooms represents administrative adoption of platform tools rather than fundamental literacy building—policy frameworks for using AI tools create shallow distributed access without the deep capability needed for local innovation or economic leadership.",
+      "fetched": "2026-08-10"
     }
   ]
 }
