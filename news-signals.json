@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-11",
-  "next_check": "2026-08-11",
+  "next_check": "2026-08-12",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,13 @@
   ],
   "signals": [
     {
-      "title": "After severe 76% electricity price hikes due to AI data centers, Virginia requires firms to pay for all dedicated upstream electrical infrastructure — state regulators crack down, governor says move will save civilians ‘hundreds of millions of dollars’ - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNWkNkNDczaE1MenB5M2JEQlVZSjctSzhaNTNlMnYwSzlDMmRERXc0Y2lwcmY4SjJmVmlRWUZUZTNHM3lZbFlVZWw0SVVnVEhzZEs2eG53ZTdnV0ZCbWpwX3E1bU4wUll1V1ViaEhrZl9HaHJoWmRXY0JGQUdISlp5dUxGb1FkLVBNRklPeGRLQ0NyOTA1MjdiZzNpdl9PUy1xZkVyNlFPMnE2VWkxU3d6UTBGVmpybUgtRXhuTjJ6NHVYWHhtTUZmVHR0Uk5jREtYYXVoUXhmMkZaWUlKYWRkTWJrQXh2N2ZmazBxa0pqZlVEaHBJQnVoNXo1ZFpmWVRwOWt4NXVBZTdiRnNVLVhVNl9aWWdTRU1zSXJRWEpYdTYtZWFvZllrNjVYb2R3MDNZNDhGRl82UUthbnZ1MW1PVHVmeENpdlpoRkZwUTdWSzhWMHhWd2dDa3ZhdXdOUEhxQVZ0d2dsblNTcFNXM0RGY3pDVlhBOWxGN0pmbVoxa2FOdWM3TU5zQUVTcGQ1WDFsRnhjSXNxc2ZoTVRBUzBKVExyQVZRNUFJb04yVHdfVDhHdVAyRThQNw?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-08-06",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Infrastructure costs externalized onto residents signal that AI capability concentration in NoVA data centers creates public burden without distributing benefits, reinforcing metro-concentrated development patterns that deepen regional inequality.",
-      "fetched": "2026-08-11"
-    },
-    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free grassroots AI workshops led by a Norfolk native explicitly targeting the technology gap represents peer-to-peer knowledge distribution effort that could build deep, distributed capability outside traditional tech hubs.",
+      "signal_reading": "Free AI workshops targeting the technology gap in Hampton Roads signal grassroots capability-building outside traditional tech hubs, demonstrating distributed peer-learning infrastructure that could counter metro concentration.",
       "fetched": "2026-08-11"
     },
     {
@@ -37,7 +27,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU-AI Ready RVA partnership aims to distribute AI education beyond elite institutions through community impact focus, potentially creating secondary hub with genuine depth rather than just platform-level adoption.",
+      "signal_reading": "VCU's partnership with AI Ready RVA creates institutional infrastructure for deep AI education and community impact in Richmond, establishing a secondary hub that could distribute capability beyond NoVA's dominance.",
       "fetched": "2026-08-11"
     },
     {
@@ -47,17 +37,27 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College launching WorkAI Lab in traditionally underserved region signals institutional commitment to building deep AI leadership capacity outside NoVA-Richmond corridor, testing whether rural areas can develop expertise versus mere tool consumption.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents deliberate capability-building in a non-metro region, creating potential for distributed deep learning networks if it scales beyond institutional boundaries into broader community adoption.",
       "fetched": "2026-08-11"
     },
     {
       "title": "Virginia Tech secures $20m NSF grant for AI-enabled semiconductor lab - Cleanroom Technology",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWR4R0cwWmR1aDhJcXZFTEpidXdsU2UzbFppSTc0R093dGotdnpHRXhYY0RSLVFtM3AyUWVnLUlkQXJORS11TjFGUlp2X2kxNUMzaVJYOExJdVQxVl9NSi15RTF1LWU4Z2hvMy1GLTVLTC1acDY5SW9GbW5uM3RzZHRYa3k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NjBpYUZNdEFjWlZNLXFRLXJKRzdMczNrcExSeWxOX01JRks2cV8zdmlvNHVJcGhrRXFLaVRMWm5aUVc0N25MTVVtTlIxcnJkYmFfNTZqNkRuWEg1Ynh0V3lNcDEtdXNMUHdVZkRwd1BLRDZrbFhtYndyT1BfN1E?oc=5",
       "source": "Cleanroom Technology",
       "published": "2026-08-10",
-      "region": "Southwest / Roanoke",
+      "region": "Shenandoah Valley / Roanoke",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's $20M NSF grant for AI-enabled semiconductor lab concentrates advanced technical capability in New River Valley, creating potential secondary excellence pocket but requiring intentional distribution mechanisms to avoid replicating NoVA concentration patterns.",
+      "signal_reading": "Virginia Tech's $20M NSF grant for AI-enabled semiconductor research concentrates cutting-edge technical capability in Blacksburg, but without explicit workforce distribution mechanisms risks reinforcing the excellence-in-isolation pattern.",
+      "fetched": "2026-08-11"
+    },
+    {
+      "title": "After severe 76% electricity price hikes due to AI data centers, Virginia requires firms to pay for all dedicated upstream electrical infrastructure — state regulators crack down, governor says move will save civilians ‘hundreds of millions of dollars’ - tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNWkNkNDczaE1MenB5M2JEQlVZSjctSzhaNTNlMnYwSzlDMmRERXc0Y2lwcmY4SjJmVmlRWUZUZTNHM3lZbFlVZWw0SVVnVEhzZEs2eG53ZTdnV0ZCbWpwX3E1bU4wUll1V1ViaEhrZl9HaHJoWmRXY0JGQUdISlp5dUxGb1FkLVBNRklPeGRLQ0NyOTA1MjdiZzNpdl9PUy1xZkVyNlFPMnE2VWkxU3d6UTBGVmpybUgtRXhuTjJ6NHVYWHhtTUZmVHR0Uk5jREtYYXVoUXhmMkZaWUlKYWRkTWJrQXh2N2ZmazBxa0pqZlVEaHBJQnVoNXo1ZFpmWVRwOWt4NXVBZTdiRnNVLVhVNl9aWWdTRU1zSXJRWEpYdTYtZWFvZllrNjVYb2R3MDNZNDhGRl82UUthbnZ1MW1PVHVmeENpdlpoRkZwUTdWSzhWMHhWd2dDa3ZhdXdOUEhxQVZ0d2dsblNTcFNXM0RGY3pDVlhBOWxGN0pmbVoxa2FOdWM3TU5zQUVTcGQ1WDFsRnhjSXNxc2ZoTVRBUzBKVExyQVZRNUFJb04yVHdfVDhHdVAyRThQNw?oc=5",
+      "source": "tomshardware.com",
+      "published": "2026-08-06",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "The 76% electricity price hike from NoVA data centers imposing costs on civilians statewide reveals how concentrated AI infrastructure can create economic burdens that widen gaps rather than distribute benefits, potentially undermining public support for broader AI adoption.",
       "fetched": "2026-08-11"
     }
   ]
