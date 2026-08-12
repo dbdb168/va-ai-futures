@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-12",
   "next_update": "2026-06-15",
   "methodology": "Each indicator is assessed against data from the Anthropic Economic Index, FRED, BLS QCEW, Census BTOS, Anthropic Labor Market Impacts research, and BuildFirst field observations. Indicators move one step per update cycle. Movement requires two or more data points trending in the same direction.",
   "legend": {
@@ -170,10 +170,10 @@
         {
           "signal": "Economic contraction during the 2027-2028 critical learning window",
           "source": "FRED, Virginia budget outlook",
-          "status": "emerging",
-          "evidence": "Unemployment declining uniformly across all regions (-0.5pp to -0.7pp) indicates economic expansion rather than contraction, moving this indicator away from active status. (Previous: Uniformly declining unemployment rates across all Virginia regions (-0.5pp to -0.7pp) indicate economic expansion rather than contraction, contradicting the contraction signal that was previously marked strong. (Previous: Universal unemployment increases across all Virginia regions (+0.4pp to +0.8pp) provides a second data point confirming economic weakening during the critical window, with particularly severe increases in rural areas. (Previous: Uniform unemployment increases across all Virginia regions (+0.4pp to +0.8pp) represent a second consecutive data point showing labor market deterioration, moving this indicator from emerging to active. (Previous: Virginia hiring rate at 3.4% (weak). Continued unemployment claims 24% higher year-over-year. Private estimates show Virginia employment decreased 6,900 jobs in Sept, 2,250 in Oct 2025. Federal spending contraction is a specific risk for Virginia. Not yet a recession, but the conditions are forming.))))",
+          "status": "active",
+          "evidence": "Five of seven regions show unemployment increases, with particularly sharp rises in rural areas (Roanoke +0.4pp), indicating broader labor market weakening across multiple data points. (Previous: Unemployment declining uniformly across all regions (-0.5pp to -0.7pp) indicates economic expansion rather than contraction, moving this indicator away from active status. (Previous: Uniformly declining unemployment rates across all Virginia regions (-0.5pp to -0.7pp) indicate economic expansion rather than contraction, contradicting the contraction signal that was previously marked strong. (Previous: Universal unemployment increases across all Virginia regions (+0.4pp to +0.8pp) provides a second data point confirming economic weakening during the critical window, with particularly severe increases in rural areas. (Previous: Uniform unemployment increases across all Virginia regions (+0.4pp to +0.8pp) represent a second consecutive data point showing labor market deterioration, moving this indicator from emerging to active. (Previous: Virginia hiring rate at 3.4% (weak). Continued unemployment claims 24% higher year-over-year. Private estimates show Virginia employment decreased 6,900 jobs in Sept, 2,250 in Oct 2025. Federal spending contraction is a specific risk for Virginia. Not yet a recession, but the conditions are forming.)))))",
           "scenario_logic": "A recession during the critical window is asymmetric: fluent firms benefit (low marginal AI cost), non-fluent firms cut the investments that would close the gap. The gap hardens.",
-          "last_updated": "2026-06-06"
+          "last_updated": "2026-08-12"
         },
         {
           "signal": "Geographic Gini coefficient rising (AI usage concentrating further)",
