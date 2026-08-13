@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-13",
-  "next_check": "2026-08-13",
+  "next_check": "2026-08-14",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -15,9 +15,9 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy outside metro corridors, suggesting peer-to-peer learning networks could emerge regionally rather than consolidating in NoVA's existing tech ecosystem.",
+      "signal_reading": "Roanoke College's WorkAI Lab represents distributed capacity-building outside major metros, creating peer learning infrastructure that could spread deep AI fluency through professional networks in mid-sized markets.",
       "fetched": "2026-08-13"
     },
     {
@@ -27,17 +27,17 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots skill distribution efforts that bypass platform dependency, potentially building deep capability through local peer networks rather than concentrating expertise in traditional tech hubs.",
+      "signal_reading": "Free community AI workshops led by a local native signal grassroots knowledge distribution effort, directly targeting the technology gap through accessible peer learning rather than top-down or platform-mediated adoption.",
       "fetched": "2026-08-13"
     },
     {
-      "title": "Virginia Tech secures $20m NSF grant for AI-enabled semiconductor lab - Cleanroom Technology",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NjBpYUZNdEFjWlZNLXFRLXJKRzdMczNrcExSeWxOX01JRks2cV8zdmlvNHVJcGhrRXFLaVRMWm5aUVc0N25MTVVtTlIxcnJkYmFfNTZqNkRuWEg1Ynh0V3lNcDEtdXNMUHdVZkRwd1BLRDZrbFhtYndyT1BfN1E?oc=5",
-      "source": "Cleanroom Technology",
-      "published": "2026-08-10",
-      "region": "Southwest / Roanoke (Virginia Tech)",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's $20M NSF grant for AI semiconductor research concentrates advanced technical capability in the New River Valley, creating a potential excellence pocket but requiring intentional distribution mechanisms to prevent metro-rural knowledge asymmetry.",
+      "signal_reading": "VCU's institutional AI partnership concentrates deep technical capability in Richmond Metro, potentially creating a secondary hub but raising questions about whether innovation stays contained in academic-corporate networks or distributes broadly.",
       "fetched": "2026-08-13"
     },
     {
@@ -46,18 +46,18 @@
       "source": "opensecrets.org",
       "published": "2026-07-30",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA lawmakers receiving AI lobbying funds while residents resist data centers reveals concentrated infrastructure decision-making power in metro regions, with local pushback suggesting capability benefits may not distribute even within the hub itself.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "NoVA lawmakers receiving AI industry cash while residents resist data centers reveals a disconnect where infrastructure concentrates without community buy-in or distributed benefit, signaling potential for neither depth nor broad adoption.",
       "fetched": "2026-08-13"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M data center investment adding 200 jobs in Henrico reinforces Richmond's position as a secondary AI infrastructure hub, but infrastructure jobs alone don't guarantee deep AI literacy unless coupled with workforce development initiatives.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Pressure on Richmond's young workforce to adopt AI tools suggests platform-driven shallow adoption spreading through employment necessity rather than deep technical capability development, creating broad but surface-level engagement.",
       "fetched": "2026-08-13"
     }
   ]
