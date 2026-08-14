@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "next_check": "2026-08-14",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-06-17",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents distributed capacity-building outside major metros, creating peer learning infrastructure that could spread deep AI fluency through professional networks in mid-sized markets.",
-      "fetched": "2026-08-13"
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy outside major metros, potentially activating peer learning networks that could distribute capability beyond NoVA's concentration.",
+      "fetched": "2026-08-14"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,8 +27,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a local native signal grassroots knowledge distribution effort, directly targeting the technology gap through accessible peer learning rather than top-down or platform-mediated adoption.",
-      "fetched": "2026-08-13"
+      "signal_reading": "Free community AI workshops in Hampton Roads signal grassroots capability-building efforts that could create distributed depth, though sustainability and advancement beyond introductory skills remains uncertain.",
+      "fetched": "2026-08-14"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -37,28 +37,28 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's institutional AI partnership concentrates deep technical capability in Richmond Metro, potentially creating a secondary hub but raising questions about whether innovation stays contained in academic-corporate networks or distributes broadly.",
-      "fetched": "2026-08-13"
+      "signal_reading": "VCU's partnership with AI Ready RVA concentrates AI education infrastructure in Richmond's metro hub, deepening regional capability while the community impact language suggests limited distribution mechanisms to surrounding areas.",
+      "fetched": "2026-08-14"
     },
     {
-      "title": "NoVa lawmakers take AI cash while residents resist data centers - opensecrets.org",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSWFmQ2F3bmt6MG14clVBX0JvYzJSbWVqbUE2R21qWHpfZEZCb1loTVE4YTA4b3ZFNlNTOUp3OWZFY2tOV1FCd1IyUVNBRWlQNF9xZlRSSEJRcTlmUkphejZBclp0S05OakpsdkY4bDNlQVFOVWV6M0drNG5xX0JNS3I5VGQ1Sl84MTFtc0lVR3JrQnd2a3JSbHVtY3JaSms0Y1ByT2p4VmVwaVpOSU1BdkhuYjVfT0ZTQjZUNjNYbUhLMnlORXFXMlhtMXBoUURD?oc=5",
-      "source": "opensecrets.org",
-      "published": "2026-07-30",
+      "title": "Virginia's AI boom quietly drained the entire regional electricity grid - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclAxVmdLcktlWlN5dDFBZE5rVlA2WjZmSVdYQlhMdHlMNmZFMXdrOENOeGdsOS1RQXZpTTEtOXg2TElvMk8yVlhlaXpDX3VOTHdEWlAwcHdGX01sdXJnX2NaUGNWN0duZ1NoUDZEYzNBUHd4T1dTS196NXdNcXBER0pjUmJMYThLQmtxODNibWZvTzVY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-10",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "NoVA lawmakers receiving AI industry cash while residents resist data centers reveals a disconnect where infrastructure concentrates without community buy-in or distributed benefit, signaling potential for neither depth nor broad adoption.",
-      "fetched": "2026-08-13"
+      "signal_reading": "Grid-draining data center expansion in NoVA creates infrastructure burden and cost externalization that may inhibit distributed AI adoption elsewhere while concentrating shallow platform-layer benefits in a single region.",
+      "fetched": "2026-08-14"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Pressure on Richmond's young workforce to adopt AI tools suggests platform-driven shallow adoption spreading through employment necessity rather than deep technical capability development, creating broad but surface-level engagement.",
-      "fetched": "2026-08-13"
+      "title": "Virginia Tech secures $20m NSF grant for AI-enabled semiconductor lab - Cleanroom Technology",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NjBpYUZNdEFjWlZNLXFRLXJKRzdMczNrcExSeWxOX01JRks2cV8zdmlvNHVJcGhrRXFLaVRMWm5aUVc0N25MTVVtTlIxcnJkYmFfNTZqNkRuWEg1Ynh0V3lNcDEtdXNMUHdVZkRwd1BLRDZrbFhtYndyT1BfN1E?oc=5",
+      "source": "Cleanroom Technology",
+      "published": "2026-08-10",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's $20M NSF semiconductor AI lab deepens technical capability in Blacksburg but signals research-institution concentration rather than broad workforce distribution across Southwest Virginia's transitioning economy.",
+      "fetched": "2026-08-14"
     }
   ]
 }
