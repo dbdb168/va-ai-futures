@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-16",
-  "next_check": "2026-08-16",
+  "next_check": "2026-08-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,23 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional capacity-building outside metro hubs, creating potential peer learning networks that could distribute deep AI fluency beyond traditional tech corridors.",
-      "fetched": "2026-08-16"
-    },
-    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free grassroots AI workshops targeting the technology gap signal bottom-up capability distribution, though sustainability depends on whether shallow platform adoption or deeper skill-building takes hold.",
+      "signal_reading": "Free AI workshops offered by a Norfolk native directly target skill distribution outside traditional tech hubs, suggesting grassroots capability-building that could counter concentration dynamics if sustained at scale.",
+      "fetched": "2026-08-16"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy outside NoVA/Richmond metros, potentially seeding distributed expertise networks in smaller markets if it extends beyond campus boundaries.",
       "fetched": "2026-08-16"
     },
     {
@@ -36,8 +36,8 @@
       "source": "VCU News",
       "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU's partnership with AI Ready RVA reinforces Richmond as a secondary hub for deep AI capability, but the metro-institutional model may concentrate expertise rather than distribute it regionally.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "The VCU-AI Ready RVA partnership explicitly targets community-wide AI education and innovation, signaling intentional efforts to broaden both depth and distribution within Richmond's ecosystem rather than concentrating capability in elite institutions.",
       "fetched": "2026-08-16"
     },
     {
@@ -46,18 +46,18 @@
       "source": "opensecrets.org",
       "published": "2026-07-30",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Lawmakers taking AI industry cash while residents resist data centers reveals the concentration paradox: NoVA captures AI infrastructure investment but community resistance may limit how that translates to broad-based capability.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Resident resistance to data centers despite lawmaker support reveals a disconnect between infrastructure concentration and local capability development—NoVA gains physical AI infrastructure while communities may not gain proportional skills or economic benefits.",
       "fetched": "2026-08-16"
     },
     {
-      "title": "Column: AI is reshaping Hampton Roads before our eyes - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdW82RFp0eEdKY0VvNExSVGVJZnQ4NllKXzNDeWU3TldZdGE3TVdoM0ZPWTljelg0SWtnZVNINmprTW0wUzhtUm5PdGFPRWNOaURWM0hWZEQ3UnVscDVkUnJIXzlBbjlyQmJneDlzZ2xPR0dlOXJhOGZiSGlvaVlTWDJ2d0NZbnQ4SjhQOFdfZzJ1azJwRTV3?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-08-13",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Commentary on AI reshaping Hampton Roads suggests visible platform-layer adoption across sectors, but without specifics on depth of capability development versus surface-level tool consumption.",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce indicates concentrated demand for advanced skills in metro areas, likely accelerating talent stratification between workers who can upskill rapidly and those who cannot access training pathways.",
       "fetched": "2026-08-16"
     }
   ]
