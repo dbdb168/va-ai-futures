@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16",
+  "last_updated": "2026-08-17",
   "next_check": "2026-08-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,48 +17,48 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops offered by a Norfolk native directly target skill distribution outside traditional tech hubs, suggesting grassroots capability-building that could counter concentration dynamics if sustained at scale.",
-      "fetched": "2026-08-16"
+      "signal_reading": "Free AI workshops led by a local native in Hampton Roads signal grassroots capability-building through community networks, potentially distributing deep literacy beyond the NoVA/Richmond axis if sustained.",
+      "fetched": "2026-08-17"
     },
     {
       "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Roanoke / New River Valley",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy outside NoVA/Richmond metros, potentially seeding distributed expertise networks in smaller markets if it extends beyond campus boundaries.",
-      "fetched": "2026-08-16"
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI fluency outside metro centers, testing whether regional colleges can build distributed expertise or remain isolated pockets.",
+      "fetched": "2026-08-17"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "The VCU-AI Ready RVA partnership explicitly targets community-wide AI education and innovation, signaling intentional efforts to broaden both depth and distribution within Richmond's ecosystem rather than concentrating capability in elite institutions.",
-      "fetched": "2026-08-16"
+      "title": "Column: AI is reshaping Hampton Roads before our eyes - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdW82RFp0eEdKY0VvNExSVGVJZnQ4NllKXzNDeWU3TldZdGE3TVdoM0ZPWTljelg0SWtnZVNINmprTW0wUzhtUm5PdGFPRWNOaURWM0hWZEQ3UnVscDVkUnJIXzlBbjlyQmJneDlzZ2xPR0dlOXJhOGZiSGlvaVlTWDJ2d0NZbnQ4SjhQOFdfZzJ1azJwRTV3?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-08-13",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Hampton Roads observing AI reshaping the region suggests awareness without clear distribution mechanisms—signaling potential deepening in defense/maritime sectors while civilian applications remain concentrated.",
+      "fetched": "2026-08-17"
     },
     {
-      "title": "NoVa lawmakers take AI cash while residents resist data centers - opensecrets.org",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSWFmQ2F3bmt6MG14clVBX0JvYzJSbWVqbUE2R21qWHpfZEZCb1loTVE4YTA4b3ZFNlNTOUp3OWZFY2tOV1FCd1IyUVNBRWlQNF9xZlRSSEJRcTlmUkphejZBclp0S05OakpsdkY4bDNlQVFOVWV6M0drNG5xX0JNS3I5VGQ1Sl84MTFtc0lVR3JrQnd2a3JSbHVtY3JaSms0Y1ByT2p4VmVwaVpOSU1BdkhuYjVfT0ZTQjZUNjNYbUhLMnlORXFXMlhtMXBoUURD?oc=5",
-      "source": "opensecrets.org",
-      "published": "2026-07-30",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Resident resistance to data centers despite lawmaker support reveals a disconnect between infrastructure concentration and local capability development—NoVA gains physical AI infrastructure while communities may not gain proportional skills or economic benefits.",
-      "fetched": "2026-08-16"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates concentrated demand for advanced skills in metro areas, likely accelerating talent stratification between workers who can upskill rapidly and those who cannot access training pathways.",
-      "fetched": "2026-08-16"
+      "signal_reading": "A $50M+ data center infrastructure investment in Henrico concentrates AI enabling infrastructure in Richmond Metro, creating jobs but reinforcing the capital-follows-capital pattern that widens geographic capability gaps.",
+      "fetched": "2026-08-17"
+    },
+    {
+      "title": "Virginia is developing a piecemeal data center moratorium. The potential impacts are complicated.",
+      "url": "https://cardinalnews.org/2026/08/17/virginia-is-developing-a-piecemeal-data-center-moratorium-the-potential-impacts-are-complicated/",
+      "source": "Cardinal News",
+      "published": "2026-08-17",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Data center moratorium debates in historically underserved regions reveal communities lacking both infrastructure benefits and AI literacy to shape development terms—neither depth nor distribution is materializing where most needed.",
+      "fetched": "2026-08-17"
     }
   ]
 }
