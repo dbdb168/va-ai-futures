@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "next_check": "2026-08-18",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -15,10 +15,10 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
       "source": "Roanoke College",
       "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI fluency outside metro corridors, potentially enabling peer-to-peer knowledge transfer that could distribute capability beyond traditional tech hubs if sustained and connected to workforce pipelines.",
-      "fetched": "2026-08-17"
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional commitment to building deep AI capability outside metro hubs, creating a potential node for distributed peer learning networks that could spread fluency regionally.",
+      "fetched": "2026-08-18"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,18 +27,18 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops targeting the 'technology gap' signal grassroots capability-building in a defense-oriented region, suggesting distributed access pathways that could deepen fluency if participants move beyond platform consumption to actual skill development.",
-      "fetched": "2026-08-17"
+      "signal_reading": "Free AI workshops delivered by a Norfolk native explicitly targeting the technology gap signals grassroots capability-building through community networks, the core mechanism for distributed deep learning in underserved regions.",
+      "fetched": "2026-08-18"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - 12onyourside.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "12onyourside.com",
+      "published": "2026-04-09",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community impact and education beyond elite students, creating potential infrastructure for distributed deep learning if the initiative reaches beyond Richmond's urban core into surrounding underserved communities.",
-      "fetched": "2026-08-17"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $50M+ investment in Henrico adding 200 jobs for AI data center infrastructure concentrates specialized technical capability in Richmond Metro, deepening expertise in the capital region but offering limited knowledge transfer pathways.",
+      "fetched": "2026-08-18"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -46,19 +46,19 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Mounting AI pressure on Richmond's young workforce reveals the competitive intensity concentrating in established metro centers, where employers demand immediate AI fluency that favors those with prior access to deep training over those relying on shallow platform adoption.",
-      "fetched": "2026-08-17"
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI pressure on Richmond's young workforce without corresponding training infrastructure suggests shallow adoption anxiety without depth-building mechanisms, risking displacement rather than capability development.",
+      "fetched": "2026-08-18"
     },
     {
-      "title": "Virginia's AI boom quietly drained the entire regional electricity grid - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclAxVmdLcktlWlN5dDFBZE5rVlA2WjZmSVdYQlhMdHlMNmZFMXdrOENOeGdsOS1RQXZpTTEtOXg2TElvMk8yVlhlaXpDX3VOTHdEWlAwcHdGX01sdXJnX2NaUGNWN0duZ1NoUDZEYzNBUHd4T1dTS196NXdNcXBER0pjUmJMYThLQmtxODNibWZvTzVY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-10",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "The complete drainage of regional electricity capacity by Virginia's AI data center boom demonstrates how infrastructure constraints paradoxically reinforce geographic concentration—only areas with massive grid investment can participate, deepening the NoVA-centric capability divide.",
-      "fetched": "2026-08-17"
+      "title": "George Mason student teaches DC-area seniors how to spot AI scams",
+      "url": "https://wtop.com/fairfax-county/2026/08/george-mason-student-teaches-d-c-area-seniors-how-to-spot-ai-scams/",
+      "source": "WTOP Virginia",
+      "published": "2026-08-18",
+      "region": "Northern Virginia",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A GMU student teaching seniors AI scam detection demonstrates peer-to-peer knowledge transfer across generational divides, showing how distributed learning networks can build practical AI fluency beyond institutional pathways.",
+      "fetched": "2026-08-18"
     }
   ]
 }
