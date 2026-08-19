@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "next_check": "2026-08-19",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,28 +17,28 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a Norfolk native to close the technology gap signals grassroots capability-building through peer networks, potentially distributing deep AI fluency beyond traditional tech hubs if sustained.",
-      "fetched": "2026-08-18"
-    },
-    {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ AI data center infrastructure investment adding 200 jobs in Henrico reinforces Richmond's emergence as a concentrated AI capability hub, deepening the metro advantage while leaving rural regions further behind.",
-      "fetched": "2026-08-18"
+      "signal_reading": "Free AI workshops led by a Norfolk native represent grassroots capability-building outside traditional tech hubs, suggesting peer-to-peer knowledge transfer could enable distributed deep learning if sustained beyond individual initiatives.",
+      "fetched": "2026-08-19"
     },
     {
       "title": "Roanoke College joins Google AI for Education Accelerator - Roanoke College",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUOVBUSU9OY0UxaW82WnRnM2J3VUUyWXU4SDgxckdpNng3MGVTQ1pwMk5pS1ZvTUVIMXdkM1VEVnpVc3pGdjVwcTNqVEZfZFNRVEoyd0dKckNPNmZVejJn?oc=5",
       "source": "Roanoke College",
       "published": "2026-08-18",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's participation in Google's AI Education Accelerator signals institutional commitment to building AI fluency in a non-metro region, potentially creating a regional knowledge node that could distribute capability through educator networks.",
+      "fetched": "2026-08-19"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College joining Google's AI Education Accelerator suggests platform-delivered AI adoption reaching beyond NoVA, but reliance on corporate tooling rather than indigenous development points toward shallow, distributed implementation.",
-      "fetched": "2026-08-18"
+      "signal_reading": "AI adoption pressure on Richmond's young workforce indicates platform-driven automation spreading beyond NoVA, but 'pressure' language suggests shallow integration focused on tool usage rather than deep technical capability development.",
+      "fetched": "2026-08-19"
     },
     {
       "title": "Camp Welcomes Hampton Roads Youth to Learn About Cybersecurity and AI - Old Dominion University",
@@ -47,18 +47,18 @@
       "published": "2026-08-18",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "ODU's cybersecurity and AI camp for Hampton Roads youth represents institutional investment in deep technical literacy outside NoVA, building foundational capabilities that could distribute AI fluency through the next generation.",
-      "fetched": "2026-08-18"
+      "signal_reading": "Youth-focused cybersecurity and AI camps at Old Dominion represent intentional capability-building in Hampton Roads' defense-adjacent economy, creating early-stage technical fluency that could compound into regional depth if connected to career pathways.",
+      "fetched": "2026-08-19"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI pressure on Richmond's young workforce without corresponding training infrastructure signals demand outpacing capability development, risking shallow adoption or displacement rather than deep skill-building in a metro hub.",
-      "fetched": "2026-08-18"
+      "title": "IT Department Lays Out AI Policy for Norfolk Classrooms - govtech.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbjVFSkl5TEIzY2kyWmgwMmpjTW85UFB6ZkJsdG0zSmZ6ZzBOdWNDTGdMWUQ1WGtuYlBwVXY1MjFTUmlhZm40QUE4OVdZbHRJV3ZQVlJhTmQ3ZTJTQzVXc3RndEw4a1NaUktHVkVqWFp5Z1dFRWU2dWptZzhsVzV5clh2RC01ZnFsMTZ4TTBac2lWMTRkc200T1lB?oc=5",
+      "source": "govtech.com",
+      "published": "2026-08-06",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk's formalized AI classroom policy signals institutional depth emerging in Hampton Roads, but centralized IT department control may limit distribution to guided implementation rather than broad experimentation across the region's educators.",
+      "fetched": "2026-08-19"
     }
   ]
 }
