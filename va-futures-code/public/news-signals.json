@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "next_check": "2026-08-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-08-19",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Google-partnered free AI training at Roanoke College creates distributed skill-building infrastructure beyond NoVA, potentially seeding peer learning networks in traditionally underserved regions if adoption scales beyond institutional boundaries.",
-      "fetched": "2026-08-19"
+      "signal_reading": "Google partnership with Roanoke College to deliver free AI training signals potential for distributed capability-building in a non-metro region, though depth depends on whether training creates genuine fluency or surface-level exposure.",
+      "fetched": "2026-08-20"
     },
     {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
@@ -27,8 +27,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Norfolk native bringing free AI workshops directly to Hampton Roads demonstrates grassroots capability distribution aimed at closing technology gaps, signaling potential for community-driven deep learning rather than platform-dependent adoption.",
-      "fetched": "2026-08-19"
+      "signal_reading": "Norfolk native organizing free community AI workshops to close technology gaps represents grassroots, peer-network-driven distribution of AI literacy outside traditional metro hubs, classic 'Build It Yourself' activation pattern.",
+      "fetched": "2026-08-20"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -37,8 +37,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership concentrates institutional AI capability in Richmond's metro core, creating a secondary excellence hub that could either distribute outward or deepen the metro-rural divide depending on community reach design.",
-      "fetched": "2026-08-19"
+      "signal_reading": "VCU-AI Ready RVA partnership concentrates institutional AI education resources in state capital region, likely deepening metro capability while leaving rural-metro transfer mechanisms unclear.",
+      "fetched": "2026-08-20"
     },
     {
       "title": "George Mason student teaches DC-area seniors how to spot AI scams",
@@ -46,19 +46,19 @@
       "source": "WTOP Virginia",
       "published": "2026-08-18",
       "region": "Northern Virginia",
-      "scenario": "Software Does It For You",
-      "signal_reading": "George Mason student teaching seniors AI scam detection represents shallow, defensive AI literacy concentrated in NoVA—users learning to navigate AI threats rather than building capability, signaling platform-dependent adoption patterns.",
-      "fetched": "2026-08-19"
+      "scenario": "Build It Yourself",
+      "signal_reading": "George Mason student teaching seniors AI scam detection exemplifies peer-to-peer knowledge transfer building practical AI fluency from the bottom up, though concentrated in metro DMV area.",
+      "fetched": "2026-08-20"
     },
     {
-      "title": "Column: AI is reshaping Hampton Roads before our eyes - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdW82RFp0eEdKY0VvNExSVGVJZnQ4NllKXzNDeWU3TldZdGE3TVdoM0ZPWTljelg0SWtnZVNINmprTW0wUzhtUm5PdGFPRWNOaURWM0hWZEQ3UnVscDVkUnJIXzlBbjlyQmJneDlzZ2xPR0dlOXJhOGZiSGlvaVlTWDJ2d0NZbnQ4SjhQOFdfZzJ1azJwRTV3?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-08-13",
+      "title": "Camp Welcomes Hampton Roads Youth to Learn About Cybersecurity and AI - Old Dominion University",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVp6dWtxTnYxUXlNRmFndUY0VnRlejhGRjFKajVFdEptSEJPZWxQVFJsVml3NGxMY25WSFdsUFJvSS01SWJDUXFycFEwNkhxSkRkeURuOUdiRzNBTzNHMEhmU0lhbmMtNmlpYzhWaG9PaGhkS1JhS2hma3lSZlNHektTZENXUk5mSWl6LUJ3TmtjSkVxaENFY2JFa2w2Zw?oc=5",
+      "source": "Old Dominion University",
+      "published": "2026-08-18",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Opinion piece acknowledging AI reshaping Hampton Roads signals awareness of concentrated transformation in the defense-tech corridor, but commentary without accompanying workforce infrastructure suggests observation rather than distributed capability building.",
-      "fetched": "2026-08-19"
+      "signal_reading": "Old Dominion summer camp for youth cybersecurity and AI education concentrates advanced technical training in Hampton Roads institutional hub, building deep capability but limited to those with access to university programs.",
+      "fetched": "2026-08-20"
     }
   ]
 }
