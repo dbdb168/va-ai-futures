@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-21",
-  "next_check": "2026-08-21",
+  "next_check": "2026-08-22",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-08-19",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Google partnership with Roanoke College democratizes AI training access outside traditional tech hubs, creating potential for peer-to-peer skill distribution in underserved regions if training translates to local ecosystem development.",
+      "signal_reading": "Google's partnership with Roanoke College to provide free AI training represents platform-enabled distribution of AI capability beyond metro hubs, though success depends on whether training produces deep fluency or shallow tool adoption.",
       "fetched": "2026-08-21"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Norfolk native's grassroots free AI workshops explicitly target closing the technology gap, signaling distributed capability building through community-driven education rather than platform dependency or metro concentration.",
+      "signal_reading": "A Norfolk native delivering free AI workshops signals grassroots, community-driven capability building in a non-metro hub, suggesting peer-to-peer distribution patterns that could counter concentration if sustained beyond individual initiative.",
       "fetched": "2026-08-21"
     },
     {
@@ -37,7 +37,7 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership concentrates institutional resources and expertise in Richmond metro, potentially deepening regional capability but raising questions about knowledge transfer to surrounding counties.",
+      "signal_reading": "VCU's partnership with AI Ready RVA concentrates institutional resources and formal AI education infrastructure in the state capital, deepening Richmond's metro capabilities while the model's replicability to rural regions remains unclear.",
       "fetched": "2026-08-21"
     },
     {
@@ -47,7 +47,7 @@
       "published": "2026-08-20",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's human-centered AI leadership initiative consolidates research capacity in established academic centers, reinforcing the university-as-hub model that could either radiate expertise outward or concentrate it in New River Valley.",
+      "signal_reading": "Virginia Tech's strategic positioning for 'human-centered AI leadership' concentrates advanced research capability in a flagship university, creating a knowledge hub that could either radiate outward or reinforce the Blacksburg-NoVA-Richmond triangle.",
       "fetched": "2026-08-21"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-08-18",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "ODU's youth cybersecurity and AI camp targets early-stage capability building in Hampton Roads, planting seeds for distributed fluency outside NoVA if participants become local multipliers rather than metro-bound talent.",
+      "signal_reading": "Youth-focused cybersecurity and AI camps at Old Dominion University signal early-stage capability building in Hampton Roads' defense-tech ecosystem, distributing foundational AI literacy beyond NoVA but requiring pathways to deep expertise retention.",
       "fetched": "2026-08-21"
     }
   ]
