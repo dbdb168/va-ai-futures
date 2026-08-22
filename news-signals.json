@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-22",
-  "next_check": "2026-08-22",
+  "next_check": "2026-08-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -12,12 +12,12 @@
   "signals": [
     {
       "title": "Roanoke College partners with Google for free AI training - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWRDeVYyLWxiMlNQMzM1UkZQQWRGZXdlTE5jM2F4dXZfSjNSQWZPcTNDd21NYm1VVG85cEw0a2Vvd2ZiSGRwOFVRcjI4dmxMYmJ4ZHUxTFRKNV9VakVQVUdCWkMxb3VLSFNrd2dHWGZ4MDNzSDVINjB1aVExSTg5TU5xYXptLUczX0JGQXh1NDTSAaQBQVVfeXFMTWU3cWNnM3RFNlF1ZUhaajItV1dEbnhzN1hxWkZ0ZDFrbEZBYVU1enRocUZRQkQzeHR2WVhqM0FxQjNIeFRNeThqck82YkJNTnBrSEhlTEs1ZXhHSF9ZR0pZRGZUaVUtZTlUTkg2ajVKWFoweVJrOXpMNXZOYTRBWnRsMGUtLVQ2WUMwZW0zY0tLQnR4Q2h3SkN4ekkxYWdJMmd6cXQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTdxY2czdEU2UXVlSFpqMi1XV0RueHM3WHFaRnRkMWtsRkFhVTV6dGhxRlFCRDN4dHZZWGozQXFCM0h4VE15OGpyTzZiQk1OcGtISGVMSzVleEdIX1lHSllEZlRpVS1lOVROSDZqNUpYWjB5Ums5ekw1dk5hNEFadGwwZS0tVDZZQzBlbTNjS0tCdHhDaHdKQ3h6STFhZ0kyZ3pxdNIBpAFBVV95cUxNZTdxY2czdEU2UXVlSFpqMi1XV0RueHM3WHFaRnRkMWtsRkFhVTV6dGhxRlFCRDN4dHZZWGozQXFCM0h4VE15OGpyTzZiQk1OcGtISGVMSzVleEdIX1lHSllEZlRpVS1lOVROSDZqNUpYWjB5Ums5ekw1dk5hNEFadGwwZS0tVDZZQzBlbTNjS0tCdHhDaHdKQ3h6STFhZ0kyZ3pxdA?oc=5",
       "source": "WDBJ7",
       "published": "2026-08-19",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free Google AI training at Roanoke College creates peer-to-peer learning infrastructure outside metro hubs, potentially seeding distributed capability if participants activate local networks rather than migrate to NoVA.",
+      "signal_reading": "Roanoke College partnering with Google for free AI training represents peer-network capacity building in a non-metro region, potentially distributing foundational AI literacy beyond the NoVA-Richmond corridor if sustained.",
       "fetched": "2026-08-22"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Grassroots AI workshops led by a Norfolk native targeting the 'technology gap' represents community-driven skill distribution, though sustainability depends on whether shallow exposure converts to deep practice networks.",
+      "signal_reading": "A Norfolk native delivering free AI workshops specifically to 'close the technology gap' signals grassroots capability distribution in Hampton Roads, creating pathways for deep learning outside traditional tech hubs through community-driven education.",
       "fetched": "2026-08-22"
     },
     {
@@ -37,17 +37,7 @@
       "published": "2026-08-20",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's institutional AI leadership initiative concentrates research depth in Blacksburg while the 'human-centered' framing suggests potential for statewide extension programs—outcome depends on whether knowledge stays academic or distributes practically.",
-      "fetched": "2026-08-22"
-    },
-    {
-      "title": "UVA study explores the role of Artificial Intelligence in special education - WVIR",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUt5alY1U0Vtc3Jza3VGNHVIUjBpZHp3QUliY0JFLVhFTVBXbmlCYzdRVmE3TXFZRUNGaDB3ZXZZOHJmek5jY3ZNbGtPSHo1cUxtMUhzcENNRDhWSFdaWDlzMTlmMGtFeko1ZFNjOTg0eHc2QmVlc3AyWEwzXzI5ZVFjZlVsa0ZKVjFaNnRtalRNU0JDRkpsU0JJcW1PNTJibXd5NVVaSGRxUQ?oc=5",
-      "source": "WVIR",
-      "published": "2026-08-19",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "UVA's AI-in-special-education study signals platform-delivered solutions that could achieve broad distribution across Virginia school systems, but risks shallow adoption if educators become consumers rather than co-creators of AI tools.",
+      "signal_reading": "Virginia Tech's 'human-centered AI leadership' initiative concentrates advanced AI research capacity in Blacksburg, deepening expertise in one regional anchor institution but requiring deliberate knowledge transfer to prevent a Pockets of Excellence lock-in.",
       "fetched": "2026-08-22"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-08-18",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Youth cybersecurity/AI camp at Old Dominion builds foundational fluency in Hampton Roads' next generation, creating potential distributed capability if region retains talent rather than training future NoVA workers.",
+      "signal_reading": "Old Dominion hosting youth camps on cybersecurity and AI builds early-stage distributed capability in Hampton Roads, signaling investment in regional talent pipelines that could prevent capability concentration if graduates remain local.",
+      "fetched": "2026-08-22"
+    },
+    {
+      "title": "How Virginia keeps tabs on cybersecurity threats as AI takes hold - VPM",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLW1aZDBSelNvdnplYlM1NkNTbXNtdGhwWUo5cFN6YVpvV3RNZ0ZuODdsVDRQaUlNNFlLWWNSQnY1Tk1DaXhFR0hoSnlHTE1VUDV4bnlITlY4SXNRNlg5OElzZ1JydE1LZS1UdFU3aWF0RTJ5WWdIbjRocXhsUXA2NFYtWFRBOG51UlFwejBZN0Q5d0d0?oc=5",
+      "source": "VPM",
+      "published": "2026-08-10",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia's statewide cybersecurity monitoring as AI proliferates reveals concentrated defensive capability in Richmond government centers, but effectiveness depends on whether security expertise diffuses to localities or remains centralized in the capital.",
       "fetched": "2026-08-22"
     }
   ]
