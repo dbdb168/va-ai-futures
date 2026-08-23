@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-23",
-  "next_check": "2026-08-23",
+  "next_check": "2026-08-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting Hampton Roads residents signal grassroots capability-building outside the NoVA corridor, indicating potential for distributed deep learning if sustained beyond individual initiatives.",
+      "signal_reading": "Free AI workshops delivered by a Norfolk native signal grassroots knowledge distribution outside metro hubs, building peer-to-peer fluency that could counteract NoVA concentration if sustained and scaled across underserved regions.",
       "fetched": "2026-08-23"
     },
     {
@@ -25,9 +25,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGdOMUVlZlkwUlV6STdjTml4NmRxYkdrMmsta0tBcS15TlZFd1FoZENOeTZoOXI1bFprWXRmeEI1TWVXazIxU0hxWFZCdWU0c2pjWHZtYmp6T1JtdUFXUXdwTm1aR3NUYktuY0xVYlRsVFhyOXJyZHhnSzhkbzlSdUVNeDdrdGt5bWxBc2R6VVNFNVgtXzYzNjhuYXdRYnJKOUE?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-08-20",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's commitment to human-centered AI leadership positions a non-NoVA institution as a potential knowledge distribution hub, creating infrastructure for peer learning networks across regions if extended beyond campus boundaries.",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's institutional AI leadership initiative deepens technical capability in Blacksburg but signals concentration in established research centers rather than broad workforce distribution across Southwest and Southside regions.",
       "fetched": "2026-08-23"
     },
     {
@@ -37,17 +37,17 @@
       "published": "2026-08-18",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Youth-focused cybersecurity and AI camps at ODU demonstrate early-stage capability development in a military-adjacent region, building foundational fluency that could distribute technical depth beyond traditional tech hubs.",
+      "signal_reading": "Youth-focused cybersecurity and AI camps at ODU indicate early-stage capability building in Hampton Roads' defense-adjacent ecosystem, creating distributed foundational fluency that could mature into deep expertise if pathways persist beyond one-time events.",
       "fetched": "2026-08-23"
     },
     {
-      "title": "Column: For rural Virginia, data centers are more than technology - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0gzSkxMcVM3QXlobk9oeFJ1VE5lMmFCV0x5UGZEaFVSOXBjdXY5V05jU0F4eHZKQ1V3MUNKV1Nhb0dzR1JvMHJ5akNwUURuWlI4eEQySzI5LW1ZdWVWZkdwMVYzd3lQUmc4UWNzTmV0TmJQeFZyNFpWcHgzTml0bXR6RXp6OFVFaWkxcTdlX2E5aDBoTzBhZWhqZ1dyOHh2Q05RX0ZR?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-06-22",
-      "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Data centers arriving in rural Virginia primarily signal infrastructure concentration without local capability transfer—jobs and economic impact remain shallow unless accompanied by workforce development that builds genuine AI fluency.",
+      "title": "UVA study explores the role of Artificial Intelligence in special education - WVIR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUt5alY1U0Vtc3Jza3VGNHVIUjBpZHp3QUliY0JFLVhFTVBXbmlCYzdRVmE3TXFZRUNGaDB3ZXZZOHJmek5jY3ZNbGtPSHo1cUxtMUhzcENNRDhWSFdaWDlzMTlmMGtFeko1ZFNjOTg0eHc2QmVlc3AyWEwzXzI5ZVFjZlVsa0ZKVjFaNnRtalRNU0JDRkpsU0JJcW1PNTJibXd5NVVaSGRxUQ?oc=5",
+      "source": "WVIR",
+      "published": "2026-08-19",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA research exploring AI in special education demonstrates deep capability concentration in flagship universities, but application in K-12 settings could distribute shallow adoption statewide if implementation reaches rural school systems beyond the research phase.",
       "fetched": "2026-08-23"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-08-18",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College's partnership with Google's AI Accelerator suggests platform-mediated adoption rather than indigenous capability building, potentially creating broad but shallow usage dependent on external corporate tools.",
+      "signal_reading": "Roanoke College's Google AI partnership signals platform-mediated adoption in smaller institutions, enabling distributed but potentially shallow implementation where faculty use pre-built tools rather than developing indigenous AI expertise.",
       "fetched": "2026-08-23"
     }
   ]
