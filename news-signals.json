@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "next_check": "2026-08-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,24 +11,14 @@
   ],
   "signals": [
     {
-      "title": "Roanoke College partners with Google for free AI training - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTdxY2czdEU2UXVlSFpqMi1XV0RueHM3WHFaRnRkMWtsRkFhVTV6dGhxRlFCRDN4dHZZWGozQXFCM0h4VE15OGpyTzZiQk1OcGtISGVMSzVleEdIX1lHSllEZlRpVS1lOVROSDZqNUpYWjB5Ums5ekw1dk5hNEFadGwwZS0tVDZZQzBlbTNjS0tCdHhDaHdKQ3h6STFhZ0kyZ3pxdNIBpAFBVV95cUxNZTdxY2czdEU2UXVlSFpqMi1XV0RueHM3WHFaRnRkMWtsRkFhVTV6dGhxRlFCRDN4dHZZWGozQXFCM0h4VE15OGpyTzZiQk1OcGtISGVMSzVleEdIX1lHSllEZlRpVS1lOVROSDZqNUpYWjB5Ums5ekw1dk5hNEFadGwwZS0tVDZZQzBlbTNjS0tCdHhDaHdKQ3h6STFhZ0kyZ3pxdA?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-08-19",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College partnering with Google for free AI training represents peer-network capacity building in a non-metro region, potentially distributing foundational AI literacy beyond the NoVA-Richmond corridor if sustained.",
-      "fetched": "2026-08-22"
-    },
-    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "A Norfolk native delivering free AI workshops specifically to 'close the technology gap' signals grassroots capability distribution in Hampton Roads, creating pathways for deep learning outside traditional tech hubs through community-driven education.",
-      "fetched": "2026-08-22"
+      "signal_reading": "Free AI workshops targeting Hampton Roads residents signal grassroots capability-building outside the NoVA corridor, indicating potential for distributed deep learning if sustained beyond individual initiatives.",
+      "fetched": "2026-08-23"
     },
     {
       "title": "Virginia Tech sets course for human-centered AI leadership - Virginia Tech News",
@@ -36,9 +26,9 @@
       "source": "Virginia Tech News",
       "published": "2026-08-20",
       "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's 'human-centered AI leadership' initiative concentrates advanced AI research capacity in Blacksburg, deepening expertise in one regional anchor institution but requiring deliberate knowledge transfer to prevent a Pockets of Excellence lock-in.",
-      "fetched": "2026-08-22"
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's commitment to human-centered AI leadership positions a non-NoVA institution as a potential knowledge distribution hub, creating infrastructure for peer learning networks across regions if extended beyond campus boundaries.",
+      "fetched": "2026-08-23"
     },
     {
       "title": "Camp Welcomes Hampton Roads Youth to Learn About Cybersecurity and AI - Old Dominion University",
@@ -47,18 +37,28 @@
       "published": "2026-08-18",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Old Dominion hosting youth camps on cybersecurity and AI builds early-stage distributed capability in Hampton Roads, signaling investment in regional talent pipelines that could prevent capability concentration if graduates remain local.",
-      "fetched": "2026-08-22"
+      "signal_reading": "Youth-focused cybersecurity and AI camps at ODU demonstrate early-stage capability development in a military-adjacent region, building foundational fluency that could distribute technical depth beyond traditional tech hubs.",
+      "fetched": "2026-08-23"
     },
     {
-      "title": "How Virginia keeps tabs on cybersecurity threats as AI takes hold - VPM",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLW1aZDBSelNvdnplYlM1NkNTbXNtdGhwWUo5cFN6YVpvV3RNZ0ZuODdsVDRQaUlNNFlLWWNSQnY1Tk1DaXhFR0hoSnlHTE1VUDV4bnlITlY4SXNRNlg5OElzZ1JydE1LZS1UdFU3aWF0RTJ5WWdIbjRocXhsUXA2NFYtWFRBOG51UlFwejBZN0Q5d0d0?oc=5",
-      "source": "VPM",
-      "published": "2026-08-10",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's statewide cybersecurity monitoring as AI proliferates reveals concentrated defensive capability in Richmond government centers, but effectiveness depends on whether security expertise diffuses to localities or remains centralized in the capital.",
-      "fetched": "2026-08-22"
+      "title": "Column: For rural Virginia, data centers are more than technology - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0gzSkxMcVM3QXlobk9oeFJ1VE5lMmFCV0x5UGZEaFVSOXBjdXY5V05jU0F4eHZKQ1V3MUNKV1Nhb0dzR1JvMHJ5akNwUURuWlI4eEQySzI5LW1ZdWVWZkdwMVYzd3lQUmc4UWNzTmV0TmJQeFZyNFpWcHgzTml0bXR6RXp6OFVFaWkxcTdlX2E5aDBoTzBhZWhqZ1dyOHh2Q05RX0ZR?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-06-22",
+      "region": "Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Data centers arriving in rural Virginia primarily signal infrastructure concentration without local capability transfer—jobs and economic impact remain shallow unless accompanied by workforce development that builds genuine AI fluency.",
+      "fetched": "2026-08-23"
+    },
+    {
+      "title": "Roanoke College joins Google AI for Education Accelerator - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUOVBUSU9OY0UxaW82WnRnM2J3VUUyWXU4SDgxckdpNng3MGVTQ1pwMk5pS1ZvTUVIMXdkM1VEVnpVc3pGdjVwcTNqVEZfZFNRVEoyd0dKckNPNmZVejJn?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-08-18",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Roanoke College's partnership with Google's AI Accelerator suggests platform-mediated adoption rather than indigenous capability building, potentially creating broad but shallow usage dependent on external corporate tools.",
+      "fetched": "2026-08-23"
     }
   ]
 }
