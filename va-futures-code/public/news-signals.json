@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "next_check": "2026-08-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,38 +17,38 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly target capability distribution through peer learning networks, creating grassroots AI fluency outside traditional tech hubs—a prototype for distributed deep adoption if it scales beyond individual initiative.",
-      "fetched": "2026-08-24"
+      "signal_reading": "Free AI workshops led by a Norfolk native directly signal distributed capacity-building through peer networks, attempting to close the technology gap through grassroots education rather than platform dependency or institutional concentration.",
+      "fetched": "2026-08-25"
+    },
+    {
+      "title": "What is the University’s role in the Commonwealth AI Institute? - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUFwZW9nVWRBdktrajRUdGVvNzVKZVhJcUpjLUdfVHVnTkZwazdyS0FiTUJOZmxmdFZvZE5CRHozZFQ4TnRrMTExbmlzU25CS2U1TDhqQ3djVWhDQ2ZRYU15Q2s2NGFhbjFjWkJRT2JBQlRiT0tmdjFVSUpJZzVUTlFCTk5PN2MyMHVVcWQyd01LRHg5T0VMdmVtMkE2MUZjWm1vV2VPay1tdXM?oc=5",
+      "source": "The Cavalier Daily",
+      "published": "2026-08-25",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "The Commonwealth AI Institute anchored at UVA signals state investment concentrating around existing research universities, reinforcing deep capability in academic hubs rather than distributing AI fluency to underserved regions.",
+      "fetched": "2026-08-25"
     },
     {
       "title": "How one Virginia county’s AI platform protects sensitive data - Route Fifty",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTlGSG9lSE1WbEt2WTZBYnhzLWxPTmJ1TVZkWS1BZWpXSnBuWG9BOUgzZlBCV2hGeWVGTkhsWm9STHJycXJacGRmUG9wWmRyS1NzSmhLX3NJRzdrbFdDckNvSVUxVTZKdElUTFdhMFdoUzlmalMxZXNTbEVKdHpCRXc2cjRKYm1FNFI4X1R6cEkzWG9STU4zQ2xVZzQwY2RNdTJXRWpFS2dTY1l1RmZFak5kRFhiblJoVld3ZmhwUEI2OHRRUV9tY0pvZy1OanU2a0p4dWtWRUpDam1hcU13WXBlRF9jUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMS1jTkZ4YVNuUzZldzVVQWF1NE43QllGRkRYNWVscXhZZlFIOUd0THpPY25XdW9nQm4yQ2ZabnVGckVCSzFSaUYxRVFYRkdXZlZTMHJ5UzJxeTg4Zm1ieEhtZjJ4X3RUWS1IdHI4T05CZ21VZHh4VUZiR1U3WEdjaEJHQnNGc0NLbWhIWnV1LUFlelJnVzRveTFSc0l4SDNnSHg5TmlXRnpPdG1ZM3d1MG12emI3bWYxdzI3R2llWDd6MTMtNGVCbjVyc2xvUGFnY25qQ0lNaXdMVG5jblh4SkJpRQ?oc=5",
       "source": "Route Fifty",
       "published": "2026-08-24",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "A Virginia county building its own AI platform with data sovereignty demonstrates institutional capacity for deep, self-directed AI implementation beyond commercial platforms—signaling potential for distributed technical capability if knowledge transfers across jurisdictions.",
-      "fetched": "2026-08-24"
-    },
-    {
-      "title": "Veterans with vision loss find new &#8216;eyes&#8217; through AI glasses",
-      "url": "https://cardinalnews.org/2026/08/24/veterans-with-vision-loss-find-new-eyes-through-ai-glasses/",
-      "source": "Cardinal News",
-      "published": "2026-08-24",
-      "region": "Southwest & Southside",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Meta Ray-Bans delivering AI assistance to veterans in historically underserved regions shows shallow but democratizing platform adoption—though device distribution without local technical capacity building risks widening the depth gap even as access spreads.",
-      "fetched": "2026-08-24"
+      "signal_reading": "A Virginia county building its own AI platform with privacy protections demonstrates local capacity for deep, customized implementation beyond vendor platforms, suggesting distributed technical capability at the municipal governance level.",
+      "fetched": "2026-08-25"
     },
     {
       "title": "Virginia Tech sets course for human-centered AI leadership - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGdOMUVlZlkwUlV6STdjTml4NmRxYkdrMmsta0tBcS15TlZFd1FoZENOeTZoOXI1bFprWXRmeEI1TWVXazIxU0hxWFZCdWU0c2pjWHZtYmp6T1JtdUFXUXdwTm1aR3NUYktuY0xVYlRsVFhyOXJyZHhnSzhkbzlSdUVNeDdrdGt5bWxBc2R6VVNFNVgtXzYzNjhuYXdRYnJKOUE?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-08-20",
-      "region": "Statewide",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's human-centered AI leadership initiative positions a non-NoVA institution as a knowledge distribution hub, creating potential pathways for deep capability to radiate through education networks across rural and underserved regions statewide.",
-      "fetched": "2026-08-24"
+      "signal_reading": "Virginia Tech's human-centered AI leadership initiative positions a non-NoVA institution as a capability hub, potentially distributing deep AI expertise through the New River Valley and countering pure metropolitan concentration.",
+      "fetched": "2026-08-25"
     },
     {
       "title": "Roanoke College joins Google AI for Education Accelerator - Roanoke College",
@@ -57,8 +57,8 @@
       "published": "2026-08-18",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College joining Google's AI Education Accelerator represents platform-mediated adoption in a smaller market—Google provides tools but controls depth, creating risk of shallow implementation unless faculty develop independent technical capacity beyond the provided curriculum.",
-      "fetched": "2026-08-24"
+      "signal_reading": "Roanoke College joining Google's AI Education Accelerator signals platform-mediated adoption in a rural area—broad but potentially shallow implementation dependent on vendor tools rather than indigenous capability development.",
+      "fetched": "2026-08-25"
     }
   ]
 }
