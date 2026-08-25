@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "next_check": "2026-08-25",
+  "next_check": "2026-08-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly signal distributed capacity-building through peer networks, attempting to close the technology gap through grassroots education rather than platform dependency or institutional concentration.",
+      "signal_reading": "Free community AI workshops led by a Norfolk native represent grassroots capability-building outside traditional tech hubs, signaling potential for distributed peer-to-peer learning networks that could counteract metro concentration patterns.",
       "fetched": "2026-08-25"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-08-25",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "The Commonwealth AI Institute anchored at UVA signals state investment concentrating around existing research universities, reinforcing deep capability in academic hubs rather than distributing AI fluency to underserved regions.",
+      "signal_reading": "UVA's formal role in the Commonwealth AI Institute indicates state investment in academic research infrastructure, but institutional concentration in established universities may reinforce rather than distribute advanced AI capabilities across regions.",
       "fetched": "2026-08-25"
     },
     {
@@ -37,7 +37,17 @@
       "published": "2026-08-24",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "A Virginia county building its own AI platform with privacy protections demonstrates local capacity for deep, customized implementation beyond vendor platforms, suggesting distributed technical capability at the municipal governance level.",
+      "signal_reading": "A Virginia county deploying its own AI platform with data protection demonstrates practical local government capability development, suggesting distributed technical depth emerging in unexpected places beyond traditional tech corridors.",
+      "fetched": "2026-08-25"
+    },
+    {
+      "title": "A(I)ttorney: Va. law schools integrate AI tools to train next-gen lawyers - Virginia Lawyers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYkVDeEVodWFWb182OS0tT0hHSDVNYm9STFdxWDNPMVJwZm1RYnFjNVY1WTlEMlhSZjBYTGRSU1ZVY3dQXzFudHg5emdlZHAxblhxZERmYlhnbUhwUm9qSmVCN0dCYnpfVFNPZnBudG5tcmJLelN5MkJTN3NzNnVyTVEwTFBPekZubHhpWmkyeXpzbHNKTHhkZA?oc=5",
+      "source": "Virginia Lawyers Weekly",
+      "published": "2026-08-24",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Law schools integrating AI tools into curricula represents professional adoption through platform interfaces rather than deep technical training, indicating broad but shallow diffusion across Virginia's educated workforce sectors.",
       "fetched": "2026-08-25"
     },
     {
@@ -45,19 +55,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGdOMUVlZlkwUlV6STdjTml4NmRxYkdrMmsta0tBcS15TlZFd1FoZENOeTZoOXI1bFprWXRmeEI1TWVXazIxU0hxWFZCdWU0c2pjWHZtYmp6T1JtdUFXUXdwTm1aR3NUYktuY0xVYlRsVFhyOXJyZHhnSzhkbzlSdUVNeDdrdGt5bWxBc2R6VVNFNVgtXzYzNjhuYXdRYnJKOUE?oc=5",
       "source": "Virginia Tech News",
       "published": "2026-08-20",
-      "region": "Southwest / Roanoke",
+      "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's human-centered AI leadership initiative positions a non-NoVA institution as a capability hub, potentially distributing deep AI expertise through the New River Valley and countering pure metropolitan concentration.",
-      "fetched": "2026-08-25"
-    },
-    {
-      "title": "Roanoke College joins Google AI for Education Accelerator - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUOVBUSU9OY0UxaW82WnRnM2J3VUUyWXU4SDgxckdpNng3MGVTQ1pwMk5pS1ZvTUVIMXdkM1VEVnpVc3pGdjVwcTNqVEZfZFNRVEoyd0dKckNPNmZVejJn?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-08-18",
-      "region": "Southwest / Roanoke",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Roanoke College joining Google's AI Education Accelerator signals platform-mediated adoption in a rural area—broad but potentially shallow implementation dependent on vendor tools rather than indigenous capability development.",
+      "signal_reading": "Virginia Tech's commitment to human-centered AI leadership positions a non-NoVA institution as a capability hub, potentially creating distributed expertise nodes through research extension and workforce development networks across southwestern Virginia.",
       "fetched": "2026-08-25"
     }
   ]
