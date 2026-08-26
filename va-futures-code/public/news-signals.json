@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "next_check": "2026-08-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,34 +11,34 @@
   ],
   "signals": [
     {
+      "title": "Virginia Tech adopts universitywide human-centered AI vision - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzVaUW9iSTY0Qjg1QnRUWmUxSG1BaHRZaXVOSmE4alhaTi1wUGcyMkxDTW1WVHlWZDdZVldrazJuNFhiRnI4c3ZXbTcxempIMXlzSzZnY0NlUFZ3c2R0alNMbXRYU3VGR2QzU1BuS1NFaEh0bjcyR0lyay1HckZwOXZ4UnNJcmt4a3B6SXY0MWszT2QzSlZkOEVwZlRvdWdTd0Z3?oc=5",
+      "source": "EdTech Innovation Hub",
+      "published": "2026-08-25",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's universitywide human-centered AI vision signals potential for deep, distributed capability development through the institution's statewide Extension network and research partnerships, creating knowledge infrastructure beyond NoVA if implementation reaches underserved regions.",
+      "fetched": "2026-08-26"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free community AI workshops led by a Norfolk native represent grassroots capability-building outside traditional tech hubs, signaling potential for distributed peer-to-peer learning networks that could counteract metro concentration patterns.",
-      "fetched": "2026-08-25"
-    },
-    {
-      "title": "What is the University’s role in the Commonwealth AI Institute? - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUFwZW9nVWRBdktrajRUdGVvNzVKZVhJcUpjLUdfVHVnTkZwazdyS0FiTUJOZmxmdFZvZE5CRHozZFQ4TnRrMTExbmlzU25CS2U1TDhqQ3djVWhDQ2ZRYU15Q2s2NGFhbjFjWkJRT2JBQlRiT0tmdjFVSUpJZzVUTlFCTk5PN2MyMHVVcWQyd01LRHg5T0VMdmVtMkE2MUZjWm1vV2VPay1tdXM?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-08-25",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA's formal role in the Commonwealth AI Institute indicates state investment in academic research infrastructure, but institutional concentration in established universities may reinforce rather than distribute advanced AI capabilities across regions.",
-      "fetched": "2026-08-25"
+      "signal_reading": "Free AI workshops designed to 'close the technology gap' in Hampton Roads represent grassroots distributed learning infrastructure, signaling community-driven capability building that could counteract concentration if sustained beyond individual initiatives.",
+      "fetched": "2026-08-26"
     },
     {
       "title": "How one Virginia county’s AI platform protects sensitive data - Route Fifty",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMS1jTkZ4YVNuUzZldzVVQWF1NE43QllGRkRYNWVscXhZZlFIOUd0THpPY25XdW9nQm4yQ2ZabnVGckVCSzFSaUYxRVFYRkdXZlZTMHJ5UzJxeTg4Zm1ieEhtZjJ4X3RUWS1IdHI4T05CZ21VZHh4VUZiR1U3WEdjaEJHQnNGc0NLbWhIWnV1LUFlelJnVzRveTFSc0l4SDNnSHg5TmlXRnpPdG1ZM3d1MG12emI3bWYxdzI3R2llWDd6MTMtNGVCbjVyc2xvUGFnY25qQ0lNaXdMVG5jblh4SkJpRQ?oc=5",
       "source": "Route Fifty",
       "published": "2026-08-24",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A Virginia county deploying its own AI platform with data protection demonstrates practical local government capability development, suggesting distributed technical depth emerging in unexpected places beyond traditional tech corridors.",
-      "fetched": "2026-08-25"
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A Virginia county deploying its own AI platform for sensitive data protection demonstrates deep technical capability but likely concentrated in well-resourced NoVA jurisdictions with IT budgets and talent pools unavailable to rural counties.",
+      "fetched": "2026-08-26"
     },
     {
       "title": "A(I)ttorney: Va. law schools integrate AI tools to train next-gen lawyers - Virginia Lawyers Weekly",
@@ -46,19 +46,19 @@
       "source": "Virginia Lawyers Weekly",
       "published": "2026-08-24",
       "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Law schools integrating AI tools into curricula represents professional adoption through platform interfaces rather than deep technical training, indicating broad but shallow diffusion across Virginia's educated workforce sectors.",
-      "fetched": "2026-08-25"
+      "scenario": "Build It Yourself",
+      "signal_reading": "Law schools statewide integrating AI tools into legal training creates professional fluency across Virginia's distributed legal education system, potentially democratizing AI literacy in a high-value profession beyond tech hubs if access spans UVA, W&M, Richmond, and Regent.",
+      "fetched": "2026-08-26"
     },
     {
-      "title": "Virginia Tech sets course for human-centered AI leadership - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGdOMUVlZlkwUlV6STdjTml4NmRxYkdrMmsta0tBcS15TlZFd1FoZENOeTZoOXI1bFprWXRmeEI1TWVXazIxU0hxWFZCdWU0c2pjWHZtYmp6T1JtdUFXUXdwTm1aR3NUYktuY0xVYlRsVFhyOXJyZHhnSzhkbzlSdUVNeDdrdGt5bWxBc2R6VVNFNVgtXzYzNjhuYXdRYnJKOUE?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-08-20",
-      "region": "Statewide",
+      "title": "Camp Welcomes Hampton Roads Youth to Learn About Cybersecurity and AI - Old Dominion University",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVp6dWtxTnYxUXlNRmFndUY0VnRlejhGRjFKajVFdEptSEJPZWxQVFJsVml3NGxMY25WSFdsUFJvSS01SWJDUXFycFEwNkhxSkRkeURuOUdiRzNBTzNHMEhmU0lhbmMtNmlpYzhWaG9PaGhkS1JhS2hma3lSZlNHektTZENXUk5mSWl6LUJ3TmtjSkVxaENFY2JFa2w2Zw?oc=5",
+      "source": "Old Dominion University",
+      "published": "2026-08-18",
+      "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's commitment to human-centered AI leadership positions a non-NoVA institution as a capability hub, potentially creating distributed expertise nodes through research extension and workforce development networks across southwestern Virginia.",
-      "fetched": "2026-08-25"
+      "signal_reading": "Youth-focused cybersecurity and AI camps at Old Dominion University build early-stage distributed capability in Hampton Roads' defense tech corridor, creating regional talent pipelines that could deepen non-NoVA AI ecosystems if connected to local career pathways.",
+      "fetched": "2026-08-26"
     }
   ]
 }
