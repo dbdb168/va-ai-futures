@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-27",
-  "next_check": "2026-08-27",
+  "next_check": "2026-08-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,53 +11,53 @@
   ],
   "signals": [
     {
-      "title": "Emerald AI reaches unicorn status with $1.05B valuation",
-      "url": "https://virginiabusiness.com/emerald-ai-reaches-unicorn-status-with-1-05b-valuation/",
+      "title": "Top federal broadband official visits Bedford County, touts connectivity",
+      "url": "https://cardinalnews.org/2026/08/27/top-federal-broadband-official-visits-bedford-county-touts-connectivity/",
+      "source": "Cardinal News",
+      "published": "2026-08-27",
+      "region": "Southwest & Southside",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Federal broadband infrastructure investment in historically underserved Bedford County creates the precondition for distributed AI capability, though connectivity alone doesn't guarantee depth without accompanying skills development.",
+      "fetched": "2026-08-27"
+    },
+    {
+      "title": "Emerald AI reaches unicorn status with $1.05B valuation - Virginia Business",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdURZbG4wOGIxdzFVcUdyazh5Tkg3NWVDVTd0c2FXcXBWcDMyQWFDWERNQW9RYkQzbkp2aFI3bVlJcWE3dkpvYzJ1SWx5eUNRX3pLSWZoZzJMUWhFTm5VUWpEajVWUTVFdzd6Vjh5QVVDNXV2Y0RxaUNJRk92QUN6MTRCdnd0bmJNbzNxQg?oc=5",
       "source": "Virginia Business",
       "published": "2026-08-26",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $1.05B valuation for Emerald AI signals deepening concentration of AI capital and talent in existing tech hubs, likely NoVA, reinforcing the metro advantage in capturing transformative AI investment while other regions remain spectators.",
+      "signal_reading": "A unicorn-level AI company valuation ($1.05B) concentrated in NoVA demonstrates deep technical capability clustering in the metro hub, reinforcing the capital-talent gravity well that makes knowledge distribution challenging.",
       "fetched": "2026-08-27"
     },
     {
-      "title": "BWXT to build nuclear reactor for Army base",
-      "url": "https://cardinalnews.org/2026/08/26/bwxt-to-build-nuclear-reactor-for-army-base/",
-      "source": "Cardinal News",
-      "published": "2026-08-26",
-      "region": "Southside",
+      "title": "Roanoke College joins Google AI for Education Accelerator - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUOVBUSU9OY0UxaW82WnRnM2J3VUUyWXU4SDgxckdpNng3MGVTQ1pwMk5pS1ZvTUVIMXdkM1VEVnpVc3pGdjVwcTNqVEZfZFNRVEoyd0dKckNPNmZVejJn?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-08-18",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's participation in Google's AI Education Accelerator signals institutional capacity-building outside NoVA that could seed distributed peer learning networks if translated into regional workforce development.",
+      "fetched": "2026-08-27"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "BWXT's advanced nuclear microreactor project in Lynchburg demonstrates specialized deep technical capability outside NoVA, but remains an isolated pocket of excellence in energy infrastructure rather than distributed AI fluency across the region.",
+      "signal_reading": "A $50M+ data center infrastructure investment in Henrico adds 200 jobs but signals shallow, operations-focused AI adoption in Richmond rather than deep technical capability that could challenge NoVA's dominance.",
       "fetched": "2026-08-27"
     },
     {
-      "title": "Stricter data center regulations approved in Henry County",
-      "url": "https://cardinalnews.org/2026/08/26/stricter-data-center-regulations-approved-in-henry-county/",
-      "source": "Cardinal News",
-      "published": "2026-08-26",
-      "region": "Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Henry County's restrictive data center zoning reveals rural regions responding to AI infrastructure with barriers rather than capacity-building, potentially excluding themselves from the physical layer of AI economy while metros compete aggressively.",
-      "fetched": "2026-08-27"
-    },
-    {
-      "title": "Amazon changes course on water use for King George data center campus",
-      "url": "https://virginiamercury.com/2026/08/26/amazon-changes-course-on-water-use-for-king-george-data-center-campus/",
-      "source": "Virginia Mercury",
-      "published": "2026-08-26",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon's data center water usage negotiations in King George highlight how AI infrastructure concentrates in specific corridors with resource conflicts, reinforcing geographic clustering rather than distributed development across Virginia's regions.",
-      "fetched": "2026-08-27"
-    },
-    {
-      "title": "OpenAI report says its network was hacked by its own rogue AI agents",
-      "url": "https://virginiabusiness.com/openai-rogue-ai-agents-hacked-systems-tests/",
-      "source": "Virginia Business",
-      "published": "2026-08-26",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "OpenAI's rogue agent security breach signals that deep AI capability remains concentrated in elite research labs, widening the knowledge gap between organizations with frontier AI expertise and the broader Virginia workforce lacking exposure to these challenges.",
+      "title": "Camp Welcomes Hampton Roads Youth to Learn About Cybersecurity and AI - Old Dominion University",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVp6dWtxTnYxUXlNRmFndUY0VnRlejhGRjFKajVFdEptSEJPZWxQVFJsVml3NGxMY25WSFdsUFJvSS01SWJDUXFycFEwNkhxSkRkeURuOUdiRzNBTzNHMEhmU0lhbmMtNmlpYzhWaG9PaGhkS1JhS2hma3lSZlNHektTZENXUk5mSWl6LUJ3TmtjSkVxaENFY2JFa2w2Zw?oc=5",
+      "source": "Old Dominion University",
+      "published": "2026-08-18",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Youth-focused cybersecurity and AI education camps at Old Dominion University represent early-stage capability seeding in Hampton Roads, potentially building distributed technical fluency if sustained through workforce pipelines.",
       "fetched": "2026-08-27"
     }
   ]
