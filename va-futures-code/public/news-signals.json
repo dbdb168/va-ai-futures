@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-28",
   "next_check": "2026-08-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,44 @@
   ],
   "signals": [
     {
+      "title": "Virginia Tech adopts universitywide human-centered AI vision | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzVaUW9iSTY0Qjg1QnRUWmUxSG1BaHRZaXVOSmE4alhaTi1wUGcyMkxDTW1WVHlWZDdZVldrazJuNFhiRnI4c3ZXbTcxempIMXlzSzZnY0NlUFZ3c2R0alNMbXRYU3VGR2QzU1BuS1NFaEh0bjcyR0lyay1HckZwOXZ4UnNJcmt4a3B6SXY0MWszT2QzSlZkOEVwZlRvdWdTd0Z3?oc=5",
+      "source": "EdTech Innovation Hub",
+      "published": "2026-08-25",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's universitywide human-centered AI vision signals institutional capacity-building beyond NoVA, potentially seeding deep, distributed capability through educational infrastructure in the New River Valley that could radiate to surrounding regions.",
+      "fetched": "2026-08-28"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents peer-to-peer skill-building infrastructure emerging outside traditional tech hubs, suggesting potential for deep capability distribution if sustained, though scale and regional reach remain uncertain.",
+      "fetched": "2026-08-28"
+    },
+    {
+      "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWJldUJyVkhEQUpWaUhOV3kzRFdoUlZSbHFBNmE1WXU4Sm8xc2pwOXJOTEh0STNSbGdmRUZuTkRpbnZwUnN2T3VxbUhMRnJYNG1QVzVMRmpXLTdEWlhick5oeldLVWJlZ2Q1WWg1NTc3WXdYRVZybjlkSTNmVWJ0ZXdydjFxVVNBYTVVdlFKSW9lUi1oYUU0Zk1Eck0waGtZX09yV3BWRjJfdnIzX0RiOWdhaDlseHJFRFRqeTJqZ3dfTmFFbDZMRXlKQXNaWEhoT3FBT0N3?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-08-27",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Virginia Beach schools adopting ChatGPT under institutional oversight signals shallow, platform-dependent AI distribution—broad exposure without deep technical capability development, fitting the 'software does it' pattern across Hampton Roads education sector.",
+      "fetched": "2026-08-28"
+    },
+    {
       "title": "Top federal broadband official visits Bedford County, touts connectivity",
       "url": "https://cardinalnews.org/2026/08/27/top-federal-broadband-official-visits-bedford-county-touts-connectivity/",
       "source": "Cardinal News",
       "published": "2026-08-27",
-      "region": "Southwest & Southside",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Federal broadband infrastructure investment in historically underserved Bedford County creates the precondition for distributed AI capability, though connectivity alone doesn't guarantee depth without accompanying skills development.",
-      "fetched": "2026-08-27"
+      "region": "Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Federal broadband official visiting Bedford County highlights that Southside still struggles with foundational connectivity infrastructure—a prerequisite gap that prevents even shallow AI adoption, reinforcing concentrated capability patterns elsewhere.",
+      "fetched": "2026-08-28"
     },
     {
       "title": "Emerald AI reaches unicorn status with $1.05B valuation - Virginia Business",
@@ -27,38 +57,8 @@
       "published": "2026-08-26",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A unicorn-level AI company valuation ($1.05B) concentrated in NoVA demonstrates deep technical capability clustering in the metro hub, reinforcing the capital-talent gravity well that makes knowledge distribution challenging.",
-      "fetched": "2026-08-27"
-    },
-    {
-      "title": "Roanoke College joins Google AI for Education Accelerator - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUOVBUSU9OY0UxaW82WnRnM2J3VUUyWXU4SDgxckdpNng3MGVTQ1pwMk5pS1ZvTUVIMXdkM1VEVnpVc3pGdjVwcTNqVEZfZFNRVEoyd0dKckNPNmZVejJn?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-08-18",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's participation in Google's AI Education Accelerator signals institutional capacity-building outside NoVA that could seed distributed peer learning networks if translated into regional workforce development.",
-      "fetched": "2026-08-27"
-    },
-    {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ data center infrastructure investment in Henrico adds 200 jobs but signals shallow, operations-focused AI adoption in Richmond rather than deep technical capability that could challenge NoVA's dominance.",
-      "fetched": "2026-08-27"
-    },
-    {
-      "title": "Camp Welcomes Hampton Roads Youth to Learn About Cybersecurity and AI - Old Dominion University",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVp6dWtxTnYxUXlNRmFndUY0VnRlejhGRjFKajVFdEptSEJPZWxQVFJsVml3NGxMY25WSFdsUFJvSS01SWJDUXFycFEwNkhxSkRkeURuOUdiRzNBTzNHMEhmU0lhbmMtNmlpYzhWaG9PaGhkS1JhS2hma3lSZlNHektTZENXUk5mSWl6LUJ3TmtjSkVxaENFY2JFa2w2Zw?oc=5",
-      "source": "Old Dominion University",
-      "published": "2026-08-18",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Youth-focused cybersecurity and AI education camps at Old Dominion University represent early-stage capability seeding in Hampton Roads, potentially building distributed technical fluency if sustained through workforce pipelines.",
-      "fetched": "2026-08-27"
+      "signal_reading": "Emerald AI achieving unicorn status at $1.05B valuation concentrates capital, talent, and advanced AI capability in NoVA's ecosystem, deepening the excellence pocket while the region's gravity well pulls resources from potential distributed alternatives.",
+      "fetched": "2026-08-28"
     }
   ]
 }
