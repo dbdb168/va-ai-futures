@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "next_check": "2026-08-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capability-building outside metro hubs, creating distributed learning infrastructure that could seed peer-to-peer AI fluency in underserved regions if sustained beyond initial launch.",
-      "fetched": "2026-08-28"
+      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capability-building in a non-metro region, creating potential for distributed deep fluency if the model scales beyond a single institution to regional peer networks.",
+      "fetched": "2026-08-29"
     },
     {
       "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
@@ -27,8 +27,8 @@
       "published": "2025-11-18",
       "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's partnership with AI Ready RVA explicitly targets community-level AI education and innovation, signaling institutional investment in broad-based capability development rather than elite concentration, though execution will determine depth of adoption.",
-      "fetched": "2026-08-28"
+      "signal_reading": "The VCU-AI Ready RVA partnership signals metro regions outside NoVA building infrastructure for broad community AI education, potentially distributing capability if it reaches beyond academic institutions into workforce development.",
+      "fetched": "2026-08-29"
     },
     {
       "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
@@ -37,8 +37,8 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight indicates platform-delivered AI creating shallow but distributed adoption—students gain access to tools without necessarily building deep technical understanding or fluency.",
-      "fetched": "2026-08-28"
+      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight indicates platform-based AI adoption spreading to public institutions, creating broad but shallow distribution where tools are used without deep technical capability development.",
+      "fetched": "2026-08-29"
     },
     {
       "title": "Norfolk could get AI assist for non-emergency calls - WAVY.com",
@@ -47,18 +47,18 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's AI dispatcher for non-emergency calls exemplifies platform-based automation delivering efficiency gains without requiring deep local AI capability—distribution through vendor solutions rather than indigenous expertise.",
-      "fetched": "2026-08-28"
+      "signal_reading": "Norfolk's AI dispatcher for non-emergency calls exemplifies procurement-driven shallow adoption—purchasing turnkey solutions rather than building internal AI capability, distributing access but not expertise.",
+      "fetched": "2026-08-29"
     },
     {
-      "title": "Emerald AI reaches unicorn status with $1.05B valuation - Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdURZbG4wOGIxdzFVcUdyazh5Tkg3NWVDVTd0c2FXcXBWcDMyQWFDWERNQW9RYkQzbkp2aFI3bVlJcWE3dkpvYzJ1SWx5eUNRX3pLSWZoZzJMUWhFTm5VUWpEajVWUTVFdzd6Vjh5QVVDNXV2Y0RxaUNJRk92QUN6MTRCdnd0bmJNbzNxQg?oc=5",
+      "title": "McLean data center power-focused startup to be acquired for $232.28M",
+      "url": "https://virginiabusiness.com/mclean-data-center-power-focused-startup-to-be-acquired-for-232-28m/",
       "source": "Virginia Business",
-      "published": "2026-08-26",
+      "published": "2026-08-28",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Emerald AI achieving unicorn status in NoVA reinforces the region's role as Virginia's AI capital concentration zone, attracting talent and investment that deepens metro-rural capability gaps unless deliberate knowledge distribution mechanisms emerge.",
-      "fetched": "2026-08-28"
+      "signal_reading": "A $232M McLean data center acquisition reinforces NoVA's concentration of AI infrastructure capital and technical expertise, deepening the specialized knowledge cluster without mechanisms for geographic distribution to other Virginia regions.",
+      "fetched": "2026-08-29"
     }
   ]
 }
