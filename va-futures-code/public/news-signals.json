@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29",
+  "last_updated": "2026-08-30",
   "next_check": "2026-08-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,24 +11,24 @@
   ],
   "signals": [
     {
-      "title": "McLean data center power-focused startup to be acquired for $232.28M",
-      "url": "https://virginiabusiness.com/mclean-data-center-power-focused-startup-to-be-acquired-for-232-28m/",
-      "source": "Virginia Business",
-      "published": "2026-08-28",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $232M acquisition of a McLean data center infrastructure startup deepens NoVA's concentrated AI/data ecosystem, reinforcing capital and capability concentration in the metro corridor while other regions remain disconnected from this value creation.",
-      "fetched": "2026-08-29"
-    },
-    {
       "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWJldUJyVkhEQUpWaUhOV3kzRFdoUlZSbHFBNmE1WXU4Sm8xc2pwOXJOTEh0STNSbGdmRUZuTkRpbnZwUnN2T3VxbUhMRnJYNG1QVzVMRmpXLTdEWlhick5oeldLVWJlZ2Q1WWg1NTc3WXdYRVZybjlkSTNmVWJ0ZXdydjFxVVNBYTVVdlFKSW9lUi1oYUU0Zk1Eck0waGtZX09yV3BWRjJfdnIzX0RiOWdhaDlseHJFRFRqeTJqZ3dfTmFFbDZMRXlKQXNaWEhoT3FBT0N3?oc=5",
       "source": "13newsnow.com",
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight signals shallow but distributed platform adoption—educators consuming AI tools rather than building capability, creating broad but surface-level engagement across K-12.",
-      "fetched": "2026-08-29"
+      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight signals shallow, platform-mediated AI adoption spreading beyond NoVA metro hubs—distribution without deep capability development, as students consume rather than build AI tools.",
+      "fetched": "2026-08-30"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce indicates concentration of transformation demands in metro areas with existing tech infrastructure, likely deepening the capability gap as rural regions face different economic pressures without comparable AI integration imperatives.",
+      "fetched": "2026-08-30"
     },
     {
       "title": "Norfolk could get AI assist for non-emergency calls - Yahoo",
@@ -37,28 +37,28 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's exploration of AI dispatch tools for non-emergency calls represents municipal adoption of turnkey AI solutions—distributed geographically but shallow in capability development, with no local workforce building the underlying systems.",
-      "fetched": "2026-08-29"
+      "signal_reading": "Norfolk deploying AI for non-emergency dispatch represents shallow, vendor-delivered AI adoption in a mid-tier metro—distributed geographically but not building local AI development capacity, reinforcing platform dependency rather than indigenous expertise.",
+      "fetched": "2026-08-30"
     },
     {
       "title": "Parents call for less screen time, more intentional use of technology in schools",
       "url": "https://cardinalnews.org/2026/08/28/parents-call-for-less-screen-time-more-intentional-use-of-technology-in-schools/",
       "source": "Cardinal News",
       "published": "2026-08-28",
-      "region": "Southwest",
+      "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Parent pushback against school technology in Southwest/Southside Virginia signals resistance to even basic digital adoption in rural regions, creating conditions where neither depth nor distribution of AI capability can take root.",
-      "fetched": "2026-08-29"
+      "signal_reading": "Parent resistance to school technology in rural Southwest/Southside regions signals potential barriers to AI fluency development in already-underserved areas, risking deeper exclusion from AI-enabled economic opportunities as metro areas accelerate adoption.",
+      "fetched": "2026-08-30"
     },
     {
-      "title": "Emerald AI reaches unicorn status with $1.05B valuation - Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdURZbG4wOGIxdzFVcUdyazh5Tkg3NWVDVTd0c2FXcXBWcDMyQWFDWERNQW9RYkQzbkp2aFI3bVlJcWE3dkpvYzJ1SWx5eUNRX3pLSWZoZzJMUWhFTm5VUWpEajVWUTVFdzd6Vjh5QVVDNXV2Y0RxaUNJRk92QUN6MTRCdnd0bmJNbzNxQg?oc=5",
+      "title": "McLean data center power-focused startup to be acquired for $232.28M",
+      "url": "https://virginiabusiness.com/mclean-data-center-power-focused-startup-to-be-acquired-for-232-28m/",
       "source": "Virginia Business",
-      "published": "2026-08-26",
+      "published": "2026-08-28",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Emerald AI achieving unicorn status with $1.05B valuation concentrates advanced AI development capital and talent in NoVA's innovation corridor, widening the gap between metro hubs capable of deep AI work and regions consuming only platform tools.",
-      "fetched": "2026-08-29"
+      "signal_reading": "A $232M acquisition of a McLean data center infrastructure startup exemplifies deep technical capability and capital concentration in NoVA, reinforcing the region's dominance in AI-enabling infrastructure while other Virginia regions remain consumer markets rather than innovation centers.",
+      "fetched": "2026-08-30"
     }
   ]
 }
