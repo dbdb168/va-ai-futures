@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-31",
-  "next_check": "2026-08-31",
+  "next_check": "2026-09-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,43 @@
   ],
   "signals": [
     {
+      "title": "NoVA Leaders Debate Data Centers, Metro Funding And Affordable Housing - Patch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejZFWXdnT3B5cWZoMVQ3SF9MUXp6N3gzVG9kamhMUFl6UVg2N3kxdkNaOFBlWUhMMFZSM0VNM1BFX2kxZ1YtczJoNEYwc1dnQUJ2bUtNMTFLMV83RjhUNk80NjcxdE4tZVphSnVCbkVMM3B5cW9TdFJkcm12UkNhTzlyaXQ1NWxOdE81SnozdDBESk9aOVh1OGNMV1Bic056VGRZQk4yaGLSAb8BQVVfeXFMTWFnSkJTNk5SeXJISnhyRk00SzNrM3ZmczR5WlJLTjdYTXd5UHdZU1RneGNlRDNzckRZVklFMEtqSTVfYjRPdjQyX2txRlVFOTBPS0NwZXVHNkstaEFaWllvY1QyU2dKNlRVaE1QVXFuSlpNZVU1Y3o3SEV1SHhfQllhTWk1a00yRG5ISE1rdFFWX1dTOXA3Y2xyYml5Mm9LQzJzT0cxYkFBREpvVTZ0Mzl6dmVzU3lIVEJVcjRrenM?oc=5",
+      "source": "Patch",
+      "published": "2026-08-26",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "NoVA leaders debating data center policy infrastructure signals deepening AI-related economic concentration in the region, with decisions about metro funding and housing directly tied to data center tax revenue that other Virginia regions cannot access.",
+      "fetched": "2026-08-31"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI creating 'pressure' on Richmond's young workforce without corresponding depth-building infrastructure suggests shallow adoption anxiety rather than capability development—workers feeling threatened rather than empowered by AI transformation.",
+      "fetched": "2026-08-31"
+    },
+    {
+      "title": "Virginia Tech gears up to fight enemy drones",
+      "url": "https://cardinalnews.org/2026/08/31/virginia-tech-gears-up-to-fight-enemy-drones/",
+      "source": "Cardinal News",
+      "published": "2026-08-31",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's $5M Army drone defense project in rural Kentland Farm represents deep technical capability distributed beyond NoVA corridors, potentially seeding specialized AI/autonomy expertise in New River Valley that could spread through regional networks.",
+      "fetched": "2026-08-31"
+    },
+    {
       "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWJldUJyVkhEQUpWaUhOV3kzRFdoUlZSbHFBNmE1WXU4Sm8xc2pwOXJOTEh0STNSbGdmRUZuTkRpbnZwUnN2T3VxbUhMRnJYNG1QVzVMRmpXLTdEWlhick5oeldLVWJlZ2Q1WWg1NTc3WXdYRVZybjlkSTNmVWJ0ZXdydjFxVVNBYTVVdlFKSW9lUi1oYUU0Zk1Eck0waGtZX09yV3BWRjJfdnIzX0RiOWdhaDlseHJFRFRqeTJqZ3dfTmFFbDZMRXlKQXNaWEhoT3FBT0N3?oc=5",
       "source": "13newsnow.com",
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight signals shallow, platform-mediated adoption—institutional guardrails around commercial AI tools rather than deep capability building, pointing toward distributed but surface-level integration.",
-      "fetched": "2026-08-31"
-    },
-    {
-      "title": "Norfolk could get AI assist for non-emergency calls - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXhUX2tScE9RbFlsTjRtSWY0X045cUFWNW9fenRfMEVEZDNuQ084OG1Db3hvdHpHWlo2WU5CempFY3FUTzc1NGZMajhZdTQtM2NaYlgzVFYteDN6MW5WQ2NPNUJNUlJPWnAxRG1rUldIRElyMFVnXzU0dFBtX283MkJ3?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-27",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk deploying AI for non-emergency dispatch represents municipal adoption of turnkey AI solutions—distributed geographically but shallow technically, as the city consumes rather than builds AI capability, reinforcing platform-dependent modernization.",
+      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight signals platform-mediated AI adoption spreading to education sector—broad but shallow implementation focused on governance of commercial tools rather than building internal AI literacy or capability.",
       "fetched": "2026-08-31"
     },
     {
@@ -37,27 +57,7 @@
       "published": "2026-08-26",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Emerald AI achieving unicorn status in NoVA deepens the concentration of AI capital, talent, and capability in the metro corridor—this $1.05B valuation represents the kind of deep technical capacity that remains stubbornly concentrated despite statewide digital ambitions.",
-      "fetched": "2026-08-31"
-    },
-    {
-      "title": "Parents call for less screen time, more intentional use of technology in schools",
-      "url": "https://cardinalnews.org/2026/08/28/parents-call-for-less-screen-time-more-intentional-use-of-technology-in-schools/",
-      "source": "Cardinal News",
-      "published": "2026-08-28",
-      "region": "Southwest",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Parent pushback against school technology in rural Southwest signals neither depth nor distribution—communities questioning tech adoption without evidence of meaningful capability building, reflecting resistance that could stall already-limited AI penetration in underserved regions.",
-      "fetched": "2026-08-31"
-    },
-    {
-      "title": "New proposal from grid operator PJM would require data centers to bring their own power",
-      "url": "https://virginiamercury.com/2026/08/27/new-proposal-from-grid-operator-pjm-would-require-data-centers-to-bring-their-own-power/",
-      "source": "Virginia Mercury",
-      "published": "2026-08-27",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "PJM's proposal requiring data centers to bring their own power concentrates AI infrastructure burdens where data centers already cluster—NoVA's dominance in data center power politics reveals how physical infrastructure constraints reinforce rather than redistribute AI capability geography.",
+      "signal_reading": "Emerald AI achieving unicorn status with $1.05B valuation concentrates both AI capital formation and high-skill talent magnetism in NoVA, creating a self-reinforcing excellence cluster that widens the gap with regions lacking venture ecosystem density.",
       "fetched": "2026-08-31"
     }
   ]
