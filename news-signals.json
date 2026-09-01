@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "next_check": "2026-09-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,28 +17,18 @@
       "published": "2026-08-26",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA leaders debating data center policy infrastructure signals deepening AI-related economic concentration in the region, with decisions about metro funding and housing directly tied to data center tax revenue that other Virginia regions cannot access.",
-      "fetched": "2026-08-31"
+      "signal_reading": "NoVA leaders debating data center policy signals deepening technical governance capacity concentrated in the state's wealthiest region, while rural areas lack both the infrastructure and policy expertise to participate in AI-driven economic development decisions.",
+      "fetched": "2026-09-01"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "title": "AI pressure grows on Richmond's young workforce - axios.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
+      "source": "axios.com",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI creating 'pressure' on Richmond's young workforce without corresponding depth-building infrastructure suggests shallow adoption anxiety rather than capability development—workers feeling threatened rather than empowered by AI transformation.",
-      "fetched": "2026-08-31"
-    },
-    {
-      "title": "Virginia Tech gears up to fight enemy drones",
-      "url": "https://cardinalnews.org/2026/08/31/virginia-tech-gears-up-to-fight-enemy-drones/",
-      "source": "Cardinal News",
-      "published": "2026-08-31",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's $5M Army drone defense project in rural Kentland Farm represents deep technical capability distributed beyond NoVA corridors, potentially seeding specialized AI/autonomy expertise in New River Valley that could spread through regional networks.",
-      "fetched": "2026-08-31"
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-delivered tools creating broad but shallow adoption—workers must adapt to AI systems rather than developing deep technical capability to build or customize them.",
+      "fetched": "2026-09-01"
     },
     {
       "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
@@ -47,18 +37,28 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight signals platform-mediated AI adoption spreading to education sector—broad but shallow implementation focused on governance of commercial tools rather than building internal AI literacy or capability.",
-      "fetched": "2026-08-31"
+      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight indicates distributed access to AI platforms, but institutional control over consumption rather than creation signals shallow adoption spreading geographically without building indigenous capability.",
+      "fetched": "2026-09-01"
     },
     {
-      "title": "Emerald AI reaches unicorn status with $1.05B valuation - Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdURZbG4wOGIxdzFVcUdyazh5Tkg3NWVDVTd0c2FXcXBWcDMyQWFDWERNQW9RYkQzbkp2aFI3bVlJcWE3dkpvYzJ1SWx5eUNRX3pLSWZoZzJMUWhFTm5VUWpEajVWUTVFdzd6Vjh5QVVDNXV2Y0RxaUNJRk92QUN6MTRCdnd0bmJNbzNxQg?oc=5",
-      "source": "Virginia Business",
-      "published": "2026-08-26",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Emerald AI achieving unicorn status with $1.05B valuation concentrates both AI capital formation and high-skill talent magnetism in NoVA, creating a self-reinforcing excellence cluster that widens the gap with regions lacking venture ecosystem density.",
-      "fetched": "2026-08-31"
+      "title": "Norfolk could get AI assist for non-emergency calls - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXhUX2tScE9RbFlsTjRtSWY0X045cUFWNW9fenRfMEVEZDNuQ084OG1Db3hvdHpHWlo2WU5CempFY3FUTzc1NGZMajhZdTQtM2NaYlgzVFYteDN6MW5WQ2NPNUJNUlJPWnAxRG1rUldIRElyMFVnXzU0dFBtX283MkJ3?oc=5",
+      "source": "yahoo.com",
+      "published": "2026-08-27",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk deploying AI for non-emergency calls demonstrates distributed geographic adoption of turnkey AI solutions, but reliance on vendor-provided platforms rather than local development capacity signals shallow implementation spreading beyond NoVA.",
+      "fetched": "2026-09-01"
+    },
+    {
+      "title": "Virginia Tech gears up to fight enemy drones",
+      "url": "https://cardinalnews.org/2026/08/31/virginia-tech-gears-up-to-fight-enemy-drones/",
+      "source": "Cardinal News",
+      "published": "2026-08-31",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's $5M Army drone project in Southwest Virginia creates a rare non-metro node of deep technical capability, potentially catalyzing peer-to-peer knowledge networks that could distribute AI fluency beyond traditional urban centers if sustained.",
+      "fetched": "2026-09-01"
     }
   ]
 }
