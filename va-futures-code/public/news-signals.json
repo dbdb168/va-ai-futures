@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-01",
-  "next_check": "2026-09-01",
+  "next_check": "2026-09-02",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,13 @@
   ],
   "signals": [
     {
-      "title": "NoVA Leaders Debate Data Centers, Metro Funding And Affordable Housing - Patch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejZFWXdnT3B5cWZoMVQ3SF9MUXp6N3gzVG9kamhMUFl6UVg2N3kxdkNaOFBlWUhMMFZSM0VNM1BFX2kxZ1YtczJoNEYwc1dnQUJ2bUtNMTFLMV83RjhUNk80NjcxdE4tZVphSnVCbkVMM3B5cW9TdFJkcm12UkNhTzlyaXQ1NWxOdE81SnozdDBESk9aOVh1OGNMV1Bic056VGRZQk4yaGLSAb8BQVVfeXFMTWFnSkJTNk5SeXJISnhyRk00SzNrM3ZmczR5WlJLTjdYTXd5UHdZU1RneGNlRDNzckRZVklFMEtqSTVfYjRPdjQyX2txRlVFOTBPS0NwZXVHNkstaEFaWllvY1QyU2dKNlRVaE1QVXFuSlpNZVU1Y3o3SEV1SHhfQllhTWk1a00yRG5ISE1rdFFWX1dTOXA3Y2xyYml5Mm9LQzJzT0cxYkFBREpvVTZ0Mzl6dmVzU3lIVEJVcjRrenM?oc=5",
-      "source": "Patch",
-      "published": "2026-08-26",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "NoVA leaders debating data center policy signals deepening technical governance capacity concentrated in the state's wealthiest region, while rural areas lack both the infrastructure and policy expertise to participate in AI-driven economic development decisions.",
-      "fetched": "2026-09-01"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "axios.com",
-      "published": "2026-04-02",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - news.vcu.edu",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "news.vcu.edu",
+      "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-delivered tools creating broad but shallow adoption—workers must adapt to AI systems rather than developing deep technical capability to build or customize them.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU's partnership with AI Ready RVA signals intentional peer-to-peer AI education infrastructure in Richmond, potentially creating a replicable model for distributed deep learning beyond traditional tech hubs if successfully scaled to community level.",
       "fetched": "2026-09-01"
     },
     {
@@ -37,27 +27,37 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight indicates distributed access to AI platforms, but institutional control over consumption rather than creation signals shallow adoption spreading geographically without building indigenous capability.",
+      "signal_reading": "Virginia Beach schools adopting ChatGPT under division oversight represents shallow-but-widespread platform adoption—students gain AI access without necessarily building deep technical capabilities, signaling potential for distributed surface-level fluency.",
       "fetched": "2026-09-01"
     },
     {
-      "title": "Norfolk could get AI assist for non-emergency calls - yahoo.com",
+      "title": "Norfolk could get AI assist for non-emergency calls - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXhUX2tScE9RbFlsTjRtSWY0X045cUFWNW9fenRfMEVEZDNuQ084OG1Db3hvdHpHWlo2WU5CempFY3FUTzc1NGZMajhZdTQtM2NaYlgzVFYteDN6MW5WQ2NPNUJNUlJPWnAxRG1rUldIRElyMFVnXzU0dFBtX283MkJ3?oc=5",
-      "source": "yahoo.com",
+      "source": "Yahoo",
       "published": "2026-08-27",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk deploying AI for non-emergency calls demonstrates distributed geographic adoption of turnkey AI solutions, but reliance on vendor-provided platforms rather than local development capacity signals shallow implementation spreading beyond NoVA.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk deploying AI dispatchers for non-emergency calls demonstrates government procurement of sophisticated AI tools concentrated in larger municipal centers with budget capacity, while smaller jurisdictions lack resources to implement similar automation.",
       "fetched": "2026-09-01"
     },
     {
-      "title": "Virginia Tech gears up to fight enemy drones",
-      "url": "https://cardinalnews.org/2026/08/31/virginia-tech-gears-up-to-fight-enemy-drones/",
-      "source": "Cardinal News",
-      "published": "2026-08-31",
-      "region": "Southwest",
+      "title": "How one Virginia county’s AI platform protects sensitive data - Route Fifty",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMS1jTkZ4YVNuUzZldzVVQWF1NE43QllGRkRYNWVscXhZZlFIOUd0THpPY25XdW9nQm4yQ2ZabnVGckVCSzFSaUYxRVFYRkdXZlZTMHJ5UzJxeTg4Zm1ieEhtZjJ4X3RUWS1IdHI4T05CZ21VZHh4VUZiR1U3WEdjaEJHQnNGc0NLbWhIWnV1LUFlelJnVzRveTFSc0l4SDNnSHg5TmlXRnpPdG1ZM3d1MG12emI3bWYxdzI3R2llWDd6MTMtNGVCbjVyc2xvUGFnY25qQ0lNaXdMVG5jblh4SkJpRQ?oc=5",
+      "source": "Route Fifty",
+      "published": "2026-08-24",
+      "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's $5M Army drone project in Southwest Virginia creates a rare non-metro node of deep technical capability, potentially catalyzing peer-to-peer knowledge networks that could distribute AI fluency beyond traditional urban centers if sustained.",
+      "signal_reading": "A Virginia county implementing data-protective AI platforms suggests emerging distributed capability in local government, indicating that technical sophistication around AI governance and privacy may be spreading beyond metro areas to county-level administrators.",
+      "fetched": "2026-09-01"
+    },
+    {
+      "title": "AI Boom Drives Fight Over Electric Bills as D.C., Virginia and Maryland Clash Over Data Centers - The Washington Informer",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEx4TUtmVlk1Z1UzdDJTTzFVUlpFdmVNem5FbUlid1ZLRzVhOG9SVjRUZUtYQ3ZYb2dCTngwQnJJZS01a1ZsTWk5Z25tMTMtbnZtTjhxTzhHTGo0R2pFUm5LLUU3X0hxcEpWMWpXWlBpX1c4RFlCVUJrTDVaN1lTckFEMFBXUUJZY3Fsaml5UXVVRk9k?oc=5",
+      "source": "The Washington Informer",
+      "published": "2026-07-22",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Regional electric bill conflicts over NoVA data centers highlight how AI infrastructure investment concentrates in existing tech corridors, creating infrastructure dependencies that further entrench the geographic concentration of AI economic benefits and technical talent.",
       "fetched": "2026-09-01"
     }
   ]
