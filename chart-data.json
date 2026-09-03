@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-09-03",
   "next_update": "2026-06-15",
   "note": "All quantitative data verified against source. Anthropic Economic Index data from published reports (Feb 2025, Sep 2025, Jan 2026). BLS data from public API (LAUS county-level, aggregated to Weldon Cooper regions). BuildFirst observations are qualitative.",
   "regional_unemployment": {
@@ -75,7 +75,7 @@
           2.8,
           3.2,
           3.1,
-          3.3
+          3.4
         ],
         "color": "#808A80"
       },
