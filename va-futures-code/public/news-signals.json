@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-03",
-  "next_check": "2026-09-03",
+  "next_check": "2026-09-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOR2xONnIyampabVpRajZFYXZiNVpTQU1xTmxlUmhGX2J1XzFhRlFFR2hCX2ctZlZFU1lVWGtQdDZKdzhNWHFkV0hZWHVFQjEzOFMwb2VITERiM0dhajE0RjBRMEZnbFZXTFl3ek5vZ0ZqeldSQVB2eFAzNWhpdDg3eGo0Q1BydE1CekRuUEVvcDJfVFI0WXFHZUduNkxNcHJVQnlMeWpUZ3ZZUEtlbDJZMHh3cnhILWVLdTJrM3lRT3ZoVVVRWWVmanA3dm1hbVh2S0lnV19QNTBmQU1HY1R4dmxzUmZIOEdORE1PdThmaExlY1FldUpKR0N1eVJ4Tk04aHd5bHZYdU52LXM?oc=5",
-      "source": "Morningstar",
-      "published": "2026-09-01",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Hampton University building an AI ecosystem signals deep capability development in Hampton Roads, but the explicit focus on 'access and opportunity' suggests this remains concentrated in institutional settings rather than distributed community-wide adoption.",
+      "title": "Virginia Tech adopts universitywide human-centered AI vision | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzVaUW9iSTY0Qjg1QnRUWmUxSG1BaHRZaXVOSmE4alhaTi1wUGcyMkxDTW1WVHlWZDdZVldrazJuNFhiRnI4c3ZXbTcxempIMXlzSzZnY0NlUFZ3c2R0alNMbXRYU3VGR2QzU1BuS1NFaEh0bjcyR0lyay1HckZwOXZ4UnNJcmt4a3B6SXY0MWszT2QzSlZkOEVwZlRvdWdTd0Z3?oc=5",
+      "source": "EdTech Innovation Hub",
+      "published": "2026-08-25",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's universitywide human-centered AI vision signals institutional capability-building that could radiate through Southwest Virginia via student diffusion and regional partnerships, potentially counteracting NoVA concentration if implementation extends beyond campus.",
       "fetched": "2026-09-03"
     },
     {
@@ -25,39 +25,39 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWRDeVYyLWxiMlNQMzM1UkZQQWRGZXdlTE5jM2F4dXZfSjNSQWZPcTNDd21NYm1VVG85cEw0a2Vvd2ZiSGRwOFVRcjI4dmxMYmJ4ZHUxTFRKNV9VakVQVUdCWkMxb3VLSFNrd2dHWGZ4MDNzSDVINjB1aVExSTg5TU5xYXptLUczX0JGQXh1NDTSAaQBQVVfeXFMTWU3cWNnM3RFNlF1ZUhaajItV1dEbnhzN1hxWkZ0ZDFrbEZBYVU1enRocUZRQkQzeHR2WVhqM0FxQjNIeFRNeThqck82YkJNTnBrSEhlTEs1ZXhHSF9ZR0pZRGZUaVUtZTlUTkg2ajVKWFoweVJrOXpMNXZOYTRBWnRsMGUtLVQ2WUMwZW0zY0tLQnR4Q2h3SkN4ekkxYWdJMmd6cXQ?oc=5",
       "source": "WDBJ7",
       "published": "2026-08-19",
+      "region": "Southwest / Roanoke",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Google's free AI training partnership with Roanoke College represents platform-delivered shallow distribution—offering broad access without deep technical capability development, fitting the 'Software Does It For You' pathway in a traditionally underserved region.",
+      "fetched": "2026-09-03"
+    },
+    {
+      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them - Cardinal News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEg3alBIVHdtOU10c1ZsbnlzTWJ1dEdENy1Hejd3MDF3OVpyMzJsdnZSMGNjSjgycG1wc1NMQWtVd1BKVE1yM1RxbzB5bnNTR1ZDdW1UQmpJeVpUWUpGcmMwc3U4c0ZXZ09xYVZrVTg3MU03TFRITkVrYnVqX2FmeVc0RG1FUUdOSjFYX096aDRqblJCbE5DOU5Yc3NmTUYyU1pJYllBZ054VnZOOHA0MUtVcVZrOHJZWnM2dU9HdFQyTnBvRU8yYVUyd05jQjN4RjQ1UklzaTVqdHpu?oc=5",
+      "source": "Cardinal News",
+      "published": "2026-07-13",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia's contradictory stance—promoting AI policy while cooling on data centers—reveals a disconnect between concentrated infrastructure development (primarily NoVA) and distributed economic benefit, reinforcing rather than bridging regional capability gaps.",
+      "fetched": "2026-09-03"
+    },
+    {
+      "title": "Virginia Tech Researchers Use AI to Gauge Manufacturing Water Needs - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5nNmVoVmJ5NDZlZm5hQ0pZSnllNXBEZUhhWWZIY0lwUzFoQnIwa3puZW1leUlocEZYemZpWUZKWk5BdllvNjFwSmZGSHc4OEJNYkRXWGw2Mlh4UlN5N3hFWGJyZTU3TWlwdW1zeGhRVHRub2lKZlJsTHZhTVpfa0RtY2VGNzJXak1aWW9EQi1wMUxuYkdHczlXOW5qV216M1U0ODRoNWZyUkN6MEQtaA?oc=5",
+      "source": "GovTech",
+      "published": "2026-07-13",
       "region": "Roanoke / New River Valley",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Google partnership offering free AI training at Roanoke College suggests platform-delivered shallow adoption—packaged curriculum from tech giants rather than indigenous capability building—but does distribute access beyond metro hubs.",
-      "fetched": "2026-09-03"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
-      "region": "Richmond Metro",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU partnering with AI Ready RVA to boost education and community impact signals potential for distributed peer learning networks in Richmond, moving beyond just institutional concentration if community partners successfully activate grassroots fluency.",
+      "signal_reading": "Virginia Tech researchers applying AI to manufacturing water needs demonstrates deep technical capability being developed for practical industrial applications, with potential to distribute expertise to Shenandoah Valley and Southside manufacturing communities if knowledge transfer occurs.",
       "fetched": "2026-09-03"
     },
     {
-      "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjBaSDl0cHo4UTV5RW80eUN3XzBESDR3bEpZZVQ3bzJJWjBqSng2c1RUUmRGdnBmd0NjQ2J2ZnhWUTNKanFSVWpIaG11YmZVdl9nWFlPSng3UHJHdklucjFBOXhETzNpcmJpekQzN1hpSENNcnh5SjVuc2dXc3NMQ2dDNERIdmZ6X2ZfRGZkWGNvS2t4?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-27",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight represents shallow, platform-mediated adoption at scale—delegating AI capability to vendor tools rather than building deep internal expertise, but distributing access broadly across students.",
-      "fetched": "2026-09-03"
-    },
-    {
-      "title": "New AI literacy course takes VCU students behind the screen - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHNzQXhiQnBtcHZ3bjlfVVYtenRLUk1BZ25qVjF4cHlEam5WZDdrdlMxR2ZDWEg5V25zbVpTaVN1a2MzZjlRaTVRZ2VfTEtidndGb01FWktmRVRFS1NEZGh5R3NjVjFQWlQzZ19neTNwUV81X2R5a1lmZldzM09pZGZ2Z3I2dnVaUDhQMmxzS3Bzdw?oc=5",
-      "source": "VCU News",
-      "published": "2026-08-21",
-      "region": "Richmond Metro",
+      "title": "How one Virginia county’s AI platform protects sensitive data - Route Fifty",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMS1jTkZ4YVNuUzZldzVVQWF1NE43QllGRkRYNWVscXhZZlFIOUd0THpPY25XdW9nQm4yQ2ZabnVGckVCSzFSaUYxRVFYRkdXZlZTMHJ5UzJxeTg4Zm1ieEhtZjJ4X3RUWS1IdHI4T05CZ21VZHh4VUZiR1U3WEdjaEJHQnNGc0NLbWhIWnV1LUFlelJnVzRveTFSc0l4SDNnSHg5TmlXRnpPdG1ZM3d1MG12emI3bWYxdzI3R2llWDd6MTMtNGVCbjVyc2xvUGFnY25qQ0lNaXdMVG5jblh4SkJpRQ?oc=5",
+      "source": "Route Fifty",
+      "published": "2026-08-24",
+      "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "VCU's new AI literacy course teaching students to understand mechanisms 'behind the screen' signals investment in deep conceptual fluency rather than surface-level tool usage, though currently concentrated in university settings awaiting broader distribution.",
+      "signal_reading": "A Virginia county developing its own AI platform with data protection capabilities signals emerging deep technical competency at the local government level, suggesting distributed capability-building beyond traditional tech hubs if other localities can replicate this approach.",
       "fetched": "2026-09-03"
     }
   ]
