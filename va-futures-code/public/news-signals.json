@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "next_check": "2026-09-04",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
-      "title": "Virginia Tech adopts universitywide human-centered AI vision | ETIH EdTech News - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzVaUW9iSTY0Qjg1QnRUWmUxSG1BaHRZaXVOSmE4alhaTi1wUGcyMkxDTW1WVHlWZDdZVldrazJuNFhiRnI4c3ZXbTcxempIMXlzSzZnY0NlUFZ3c2R0alNMbXRYU3VGR2QzU1BuS1NFaEh0bjcyR0lyay1HckZwOXZ4UnNJcmt4a3B6SXY0MWszT2QzSlZkOEVwZlRvdWdTd0Z3?oc=5",
-      "source": "EdTech Innovation Hub",
-      "published": "2026-08-25",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's universitywide human-centered AI vision signals institutional capability-building that could radiate through Southwest Virginia via student diffusion and regional partnerships, potentially counteracting NoVA concentration if implementation extends beyond campus.",
-      "fetched": "2026-09-03"
+      "title": "Fairfax City Business Leaders Tell Spanberger About Rising Costs, AI, Workforce Challenges - Patch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHBLdHRFZ0xPamdLZjdpNENNYkMxek95Ri0wbXI2ZUdBRzVNMktjZ1dJb0EtWjhsSnpUbTF0b3VIYzVEWnVkNmJ1V3BIV005VFR5UFZCU2R1WGxHbUVZUVBrdFNCcDFsNTlySFplcUtMbTMtMlpVUFhzNTczcWItQzdwZWU4SUZTZTRDNzV6bjBzRkVIdFVfMDFnakd1UXBTNldPTlh5bzRpMHUwelJB0gHXAUFVX3lxTE44T2dHYnEyZERQbHc0QzNReF9kaVZMZnZKNXhZWVRLN1pxREFkU25kREZYX3h1N2l5V2V6V3lWTFlYRkYxRmxLUmRRMDgxZHd2VWtqSmlzOFFjNzl6R2tZaFdJQnJkN1FMM3VKcjQwOGVXVnp3ZDNsckRfSkRQLTZZMjNCQ0JSdWdtdVFobVQxTEZ2Zk05aVpXUzNWUEtuRTJDSkFORnBzQ25XbU4xUjZjdzhsLWNnTXZNZVJVVHNKM0dBTTd0cnI4NmZ4TTE1enVyeEE2N2s4?oc=5",
+      "source": "Patch",
+      "published": "2026-09-03",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Business leaders in Fairfax discussing AI as a workforce challenge signals that NoVA firms are grappling with deep implementation issues, reinforcing concentrated expertise in the metro core while other regions discuss basic broadband access.",
+      "fetched": "2026-09-04"
     },
     {
-      "title": "Roanoke College partners with Google for free AI training - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWRDeVYyLWxiMlNQMzM1UkZQQWRGZXdlTE5jM2F4dXZfSjNSQWZPcTNDd21NYm1VVG85cEw0a2Vvd2ZiSGRwOFVRcjI4dmxMYmJ4ZHUxTFRKNV9VakVQVUdCWkMxb3VLSFNrd2dHWGZ4MDNzSDVINjB1aVExSTg5TU5xYXptLUczX0JGQXh1NDTSAaQBQVVfeXFMTWU3cWNnM3RFNlF1ZUhaajItV1dEbnhzN1hxWkZ0ZDFrbEZBYVU1enRocUZRQkQzeHR2WVhqM0FxQjNIeFRNeThqck82YkJNTnBrSEhlTEs1ZXhHSF9ZR0pZRGZUaVUtZTlUTkg2ajVKWFoweVJrOXpMNXZOYTRBWnRsMGUtLVQ2WUMwZW0zY0tLQnR4Q2h3SkN4ekkxYWdJMmd6cXQ?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-08-19",
+      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-04-16",
       "region": "Southwest / Roanoke",
       "scenario": "Software Does It For You",
-      "signal_reading": "Google's free AI training partnership with Roanoke College represents platform-delivered shallow distribution—offering broad access without deep technical capability development, fitting the 'Software Does It For You' pathway in a traditionally underserved region.",
-      "fetched": "2026-09-03"
+      "signal_reading": "RC-RV's partnership with ed2go for on-demand workforce training represents platform-delivered, shallow adoption—providing broad access through vendor solutions rather than building deep indigenous AI capability in underserved regions.",
+      "fetched": "2026-09-04"
     },
     {
-      "title": "Left hand, right hand: Virginia cools on data centers even as state policy promotes the AI that requires them - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEg3alBIVHdtOU10c1ZsbnlzTWJ1dEdENy1Hejd3MDF3OVpyMzJsdnZSMGNjSjgycG1wc1NMQWtVd1BKVE1yM1RxbzB5bnNTR1ZDdW1UQmpJeVpUWUpGcmMwc3U4c0ZXZ09xYVZrVTg3MU03TFRITkVrYnVqX2FmeVc0RG1FUUdOSjFYX096aDRqblJCbE5DOU5Yc3NmTUYyU1pJYllBZ054VnZOOHA0MUtVcVZrOHJZWnM2dU9HdFQyTnBvRU8yYVUyd05jQjN4RjQ1UklzaTVqdHpu?oc=5",
+      "title": "Virginia&#8217;s job losses are accelerating, economic report says. Data center construction may be propping up the economy.",
+      "url": "https://cardinalnews.org/2026/09/03/virginias-job-losses-are-accelerating-economic-report-says-data-center-construction-may-be-propping-up-the-economy/",
       "source": "Cardinal News",
-      "published": "2026-07-13",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia's contradictory stance—promoting AI policy while cooling on data centers—reveals a disconnect between concentrated infrastructure development (primarily NoVA) and distributed economic benefit, reinforcing rather than bridging regional capability gaps.",
-      "fetched": "2026-09-03"
+      "published": "2026-09-03",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Data center construction propping up Virginia's economy while job losses accelerate reveals infrastructure growth without distributed workforce benefit—physical AI infrastructure concentrating regionally but capability and employment gains not materializing broadly.",
+      "fetched": "2026-09-04"
     },
     {
-      "title": "Virginia Tech Researchers Use AI to Gauge Manufacturing Water Needs - GovTech",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5nNmVoVmJ5NDZlZm5hQ0pZSnllNXBEZUhhWWZIY0lwUzFoQnIwa3puZW1leUlocEZYemZpWUZKWk5BdllvNjFwSmZGSHc4OEJNYkRXWGw2Mlh4UlN5N3hFWGJyZTU3TWlwdW1zeGhRVHRub2lKZlJsTHZhTVpfa0RtY2VGNzJXak1aWW9EQi1wMUxuYkdHczlXOW5qV216M1U0ODRoNWZyUkN6MEQtaA?oc=5",
-      "source": "GovTech",
-      "published": "2026-07-13",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech researchers applying AI to manufacturing water needs demonstrates deep technical capability being developed for practical industrial applications, with potential to distribute expertise to Shenandoah Valley and Southside manufacturing communities if knowledge transfer occurs.",
-      "fetched": "2026-09-03"
-    },
-    {
-      "title": "How one Virginia county’s AI platform protects sensitive data - Route Fifty",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMS1jTkZ4YVNuUzZldzVVQWF1NE43QllGRkRYNWVscXhZZlFIOUd0THpPY25XdW9nQm4yQ2ZabnVGckVCSzFSaUYxRVFYRkdXZlZTMHJ5UzJxeTg4Zm1ieEhtZjJ4X3RUWS1IdHI4T05CZ21VZHh4VUZiR1U3WEdjaEJHQnNGc0NLbWhIWnV1LUFlelJnVzRveTFSc0l4SDNnSHg5TmlXRnpPdG1ZM3d1MG12emI3bWYxdzI3R2llWDd6MTMtNGVCbjVyc2xvUGFnY25qQ0lNaXdMVG5jblh4SkJpRQ?oc=5",
-      "source": "Route Fifty",
-      "published": "2026-08-24",
+      "title": "Learning Law in the AI Age - University of Virginia School of Law",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeF9DWFhpaXBWWVV2MzF5eU9ZZU5QVjRyVWUwUkJ1NDZUR2diWnlWMWFHYW85ZGtSVE5kcGpOc3lIV1R5ajdMZGlSRk1jQmQtQmc5Tk9fOURUZUkxQVhXcjJlclBsSWduS2Z6dA?oc=5",
+      "source": "University of Virginia School of Law",
+      "published": "2026-09-01",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "A Virginia county developing its own AI platform with data protection capabilities signals emerging deep technical competency at the local government level, suggesting distributed capability-building beyond traditional tech hubs if other localities can replicate this approach.",
-      "fetched": "2026-09-03"
+      "signal_reading": "UVA Law School integrating AI into legal education signals institutional commitment to building deep, indigenous AI fluency in professional training—a potential distributed knowledge vector if replicated across Virginia's higher education system.",
+      "fetched": "2026-09-04"
+    },
+    {
+      "title": "Norfolk could get AI assist for non-emergency calls - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXhUX2tScE9RbFlsTjRtSWY0X045cUFWNW9fenRfMEVEZDNuQ084OG1Db3hvdHpHWlo2WU5CempFY3FUTzc1NGZMajhZdTQtM2NaYlgzVFYteDN6MW5WQ2NPNUJNUlJPWnAxRG1rUldIRElyMFVnXzU0dFBtX283MkJ3?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-27",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk piloting AI for non-emergency call handling demonstrates municipal adoption of turnkey AI solutions—shallow platform-delivered capability that distributes access geographically but doesn't build deep local AI development capacity.",
+      "fetched": "2026-09-04"
     }
   ]
 }
