@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-04",
-  "next_check": "2026-09-04",
+  "next_check": "2026-09-05",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,33 +11,33 @@
   ],
   "signals": [
     {
-      "title": "Fairfax City Business Leaders Tell Spanberger About Rising Costs, AI, Workforce Challenges - Patch",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - roanoke.edu",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "roanoke.edu",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab signals grassroots capability-building outside major metros, suggesting peer-to-peer knowledge transfer could distribute AI fluency beyond NoVA's gravity well if scaled across similar institutions.",
+      "fetched": "2026-09-04"
+    },
+    {
+      "title": "Fairfax City Business Leaders Tell Spanberger About Rising Costs, AI, Workforce Challenges - patch.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHBLdHRFZ0xPamdLZjdpNENNYkMxek95Ri0wbXI2ZUdBRzVNMktjZ1dJb0EtWjhsSnpUbTF0b3VIYzVEWnVkNmJ1V3BIV005VFR5UFZCU2R1WGxHbUVZUVBrdFNCcDFsNTlySFplcUtMbTMtMlpVUFhzNTczcWItQzdwZWU4SUZTZTRDNzV6bjBzRkVIdFVfMDFnakd1UXBTNldPTlh5bzRpMHUwelJB0gHXAUFVX3lxTE44T2dHYnEyZERQbHc0QzNReF9kaVZMZnZKNXhZWVRLN1pxREFkU25kREZYX3h1N2l5V2V6V3lWTFlYRkYxRmxLUmRRMDgxZHd2VWtqSmlzOFFjNzl6R2tZaFdJQnJkN1FMM3VKcjQwOGVXVnp3ZDNsckRfSkRQLTZZMjNCQ0JSdWdtdVFobVQxTEZ2Zk05aVpXUzNWUEtuRTJDSkFORnBzQ25XbU4xUjZjdzhsLWNnTXZNZVJVVHNKM0dBTTd0cnI4NmZ4TTE1enVyeEE2N2s4?oc=5",
-      "source": "Patch",
+      "source": "patch.com",
       "published": "2026-09-03",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Business leaders in Fairfax discussing AI as a workforce challenge signals that NoVA firms are grappling with deep implementation issues, reinforcing concentrated expertise in the metro core while other regions discuss basic broadband access.",
+      "signal_reading": "Business leaders discussing AI challenges with Congressional representatives reveals AI adoption concentrated in NoVA's business ecosystem, where proximity to capital and workforce creates self-reinforcing advantages unavailable to rural regions.",
       "fetched": "2026-09-04"
     },
     {
-      "title": "RC-RV partners with ed2go to launch innovative, on-demand workforce training programs - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a2t6YV94RXp1a29MenlvMTRES21xMGNFUGN4WlRVT0pyOG5jeDQtZjZOVTJUdU1KWU4xcEdiVDBsVUg2NUVyY01FSjJRTXJEU2puYWJWV1BwRE1OZExwcEVLeHpDVkFsN2lz?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-04-16",
-      "region": "Southwest / Roanoke",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "RC-RV's partnership with ed2go for on-demand workforce training represents platform-delivered, shallow adoption—providing broad access through vendor solutions rather than building deep indigenous AI capability in underserved regions.",
-      "fetched": "2026-09-04"
-    },
-    {
-      "title": "Virginia&#8217;s job losses are accelerating, economic report says. Data center construction may be propping up the economy.",
-      "url": "https://cardinalnews.org/2026/09/03/virginias-job-losses-are-accelerating-economic-report-says-data-center-construction-may-be-propping-up-the-economy/",
-      "source": "Cardinal News",
-      "published": "2026-09-03",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Data center construction propping up Virginia's economy while job losses accelerate reveals infrastructure growth without distributed workforce benefit—physical AI infrastructure concentrating regionally but capability and employment gains not materializing broadly.",
+      "signal_reading": "AI pressure on Richmond's young workforce suggests platform-delivered tools are creating broad but shallow adoption patterns in secondary metros, where workers must adapt quickly without deep technical training infrastructure.",
       "fetched": "2026-09-04"
     },
     {
@@ -46,18 +46,18 @@
       "source": "University of Virginia School of Law",
       "published": "2026-09-01",
       "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "UVA Law School integrating AI into legal education signals institutional commitment to building deep, indigenous AI fluency in professional training—a potential distributed knowledge vector if replicated across Virginia's higher education system.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA Law School integrating AI into legal education deepens capability at elite institutions, but this professional-track adoption concentrates expertise in credentialed pathways inaccessible to most Virginians outside university ecosystems.",
       "fetched": "2026-09-04"
     },
     {
-      "title": "Norfolk could get AI assist for non-emergency calls - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXhUX2tScE9RbFlsTjRtSWY0X045cUFWNW9fenRfMEVEZDNuQ084OG1Db3hvdHpHWlo2WU5CempFY3FUTzc1NGZMajhZdTQtM2NaYlgzVFYteDN6MW5WQ2NPNUJNUlJPWnAxRG1rUldIRElyMFVnXzU0dFBtX283MkJ3?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-27",
-      "region": "Hampton Roads",
+      "title": "Meta kicks off program in Richmond to give free AI glasses to every legally blind veteran in the US - WTVR.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTUI0T0xsVnZlRWo1dTRLWFp6eWlVTGUzM2VPOTFuYTA1U2xYa1pKdXBWZmRDMEU5dEJxTlc2V1NQeGw1ZjhpaDU4U2p4bGV2aWNKd3VUQUcxM25LaHJON2ZRTXpSSjFja0Jic2RGRUg3SW1IdjFqc3lTbnZJSGhNUEROQXE5SFdndnJrbXNNUG1sZktCZ2JDS2Y2MlhaS29CRWVrY2ZIdm9mNFByVGdpQ0tndGU0aGFGa013cElKT25aNVlsSnJmblJzRQ?oc=5",
+      "source": "WTVR.com",
+      "published": "2026-08-29",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk piloting AI for non-emergency call handling demonstrates municipal adoption of turnkey AI solutions—shallow platform-delivered capability that distributes access geographically but doesn't build deep local AI development capacity.",
+      "signal_reading": "Meta distributing AI glasses to veterans through Richmond signals platform companies delivering turnkey AI tools that enable broad access without requiring deep technical knowledge, democratizing capability through consumer products rather than skills development.",
       "fetched": "2026-09-04"
     }
   ]
