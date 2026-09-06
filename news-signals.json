@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-06",
-  "next_check": "2026-09-06",
+  "next_check": "2026-09-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Fairfax City Business Leaders Tell Spanberger About Rising Costs, AI, Workforce Challenges - Patch",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHBLdHRFZ0xPamdLZjdpNENNYkMxek95Ri0wbXI2ZUdBRzVNMktjZ1dJb0EtWjhsSnpUbTF0b3VIYzVEWnVkNmJ1V3BIV005VFR5UFZCU2R1WGxHbUVZUVBrdFNCcDFsNTlySFplcUtMbTMtMlpVUFhzNTczcWItQzdwZWU4SUZTZTRDNzV6bjBzRkVIdFVfMDFnakd1UXBTNldPTlh5bzRpMHUwelJB0gHXAUFVX3lxTE44T2dHYnEyZERQbHc0QzNReF9kaVZMZnZKNXhZWVRLN1pxREFkU25kREZYX3h1N2l5V2V6V3lWTFlYRkYxRmxLUmRRMDgxZHd2VWtqSmlzOFFjNzl6R2tZaFdJQnJkN1FMM3VKcjQwOGVXVnp3ZDNsckRfSkRQLTZZMjNCQ0JSdWdtdVFobVQxTEZ2Zk05aVpXUzNWUEtuRTJDSkFORnBzQ25XbU4xUjZjdzhsLWNnTXZNZVJVVHNKM0dBTTd0cnI4NmZ4TTE1enVyeEE2N2s4?oc=5",
-      "source": "Patch",
-      "published": "2026-09-03",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Business leaders in Fairfax discussing AI as a strategic workforce challenge signals deep engagement with AI transformation in NoVA's already-concentrated tech ecosystem, reinforcing metro advantages in navigating AI transitions while rural regions face these challenges without organized business infrastructure.",
-      "fetched": "2026-09-06"
-    },
-    {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI creating 'pressure' on Richmond's young workforce suggests platform-delivered automation affecting entry-level work broadly rather than building deep AI capabilities, pointing toward shallow adoption that reshapes labor markets without creating new technical capacity.",
+      "signal_reading": "Young Richmond workers facing AI pressure signals broad but shallow adoption driven by platform tools that increase workplace anxiety without building deep technical capability or AI fluency across the workforce.",
       "fetched": "2026-09-06"
     },
     {
@@ -37,7 +27,7 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under oversight represents managed shallow adoption—institutions regulating consumer AI tools rather than building indigenous AI development capacity, distributing access but not depth.",
+      "signal_reading": "Virginia Beach schools deploying ChatGPT under division oversight represents platform-delivered AI creating distributed access, but institutional control over commercial tools suggests shallow adoption rather than building indigenous AI development capacity.",
       "fetched": "2026-09-06"
     },
     {
@@ -47,17 +37,27 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk deploying AI for non-emergency call handling exemplifies procurement-based shallow adoption where municipalities consume vendor solutions rather than develop local AI expertise, distributing utility without building technical capability.",
+      "signal_reading": "Norfolk's AI dispatcher for non-emergency calls exemplifies shallow, distributed adoption through vendor-supplied platforms that automate tasks without developing local AI expertise or creating pathways to deeper technical capability.",
       "fetched": "2026-09-06"
     },
     {
-      "title": "How one Virginia county’s AI platform protects sensitive data - Route Fifty",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMS1jTkZ4YVNuUzZldzVVQWF1NE43QllGRkRYNWVscXhZZlFIOUd0THpPY25XdW9nQm4yQ2ZabnVGckVCSzFSaUYxRVFYRkdXZlZTMHJ5UzJxeTg4Zm1ieEhtZjJ4X3RUWS1IdHI4T05CZ21VZHh4VUZiR1U3WEdjaEJHQnNGc0NLbWhIWnV1LUFlelJnVzRveTFSc0l4SDNnSHg5TmlXRnpPdG1ZM3d1MG12emI3bWYxdzI3R2llWDd6MTMtNGVCbjVyc2xvUGFnY25qQ0lNaXdMVG5jblh4SkJpRQ?oc=5",
-      "source": "Route Fifty",
-      "published": "2026-08-24",
+      "title": "Fairfax City Business Leaders Tell Spanberger About Rising Costs, AI, Workforce Challenges - Patch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHBLdHRFZ0xPamdLZjdpNENNYkMxek95Ri0wbXI2ZUdBRzVNMktjZ1dJb0EtWjhsSnpUbTF0b3VIYzVEWnVkNmJ1V3BIV005VFR5UFZCU2R1WGxHbUVZUVBrdFNCcDFsNTlySFplcUtMbTMtMlpVUFhzNTczcWItQzdwZWU4SUZTZTRDNzV6bjBzRkVIdFVfMDFnakd1UXBTNldPTlh5bzRpMHUwelJB0gHXAUFVX3lxTE44T2dHYnEyZERQbHc0QzNReF9kaVZMZnZKNXhZWVRLN1pxREFkU25kREZYX3h1N2l5V2V6V3lWTFlYRkYxRmxLUmRRMDgxZHd2VWtqSmlzOFFjNzl6R2tZaFdJQnJkN1FMM3VKcjQwOGVXVnp3ZDNsckRfSkRQLTZZMjNCQ0JSdWdtdVFobVQxTEZ2Zk05aVpXUzNWUEtuRTJDSkFORnBzQ25XbU4xUjZjdzhsLWNnTXZNZVJVVHNKM0dBTTd0cnI4NmZ4TTE1enVyeEE2N2s4?oc=5",
+      "source": "Patch",
+      "published": "2026-09-03",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Fairfax business leaders discussing AI alongside workforce challenges indicates concentrated capability in NoVA's tech hub where AI is an operational reality rather than an aspiration, widening the gap with regions where AI remains abstractly future-facing.",
+      "fetched": "2026-09-06"
+    },
+    {
+      "title": "Learning Law in the AI Age - University of Virginia School of Law",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeF9DWFhpaXBWWVV2MzF5eU9ZZU5QVjRyVWUwUkJ1NDZUR2diWnlWMWFHYW85ZGtSVE5kcGpOc3lIV1R5ajdMZGlSRk1jQmQtQmc5Tk9fOURUZUkxQVhXcjJlclBsSWduS2Z6dA?oc=5",
+      "source": "University of Virginia School of Law",
+      "published": "2026-09-01",
       "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A Virginia county developing its own AI platform with data protection features signals movement toward distributed deep capability—local government building rather than buying AI solutions suggests technical capacity spreading beyond traditional tech hubs into county-level implementation.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA Law School integrating AI into legal education represents elite institutions building deep capability that concentrates expertise in metro-adjacent universities rather than distributing AI fluency through community colleges or vocational programs across rural Virginia.",
       "fetched": "2026-09-06"
     }
   ]
