@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06",
+  "last_updated": "2026-09-07",
   "next_check": "2026-09-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,24 +11,14 @@
   ],
   "signals": [
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
+      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
+      "source": "VCU News",
+      "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Young Richmond workers facing AI pressure signals broad but shallow adoption driven by platform tools that increase workplace anxiety without building deep technical capability or AI fluency across the workforce.",
-      "fetched": "2026-09-06"
-    },
-    {
-      "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWJldUJyVkhEQUpWaUhOV3kzRFdoUlZSbHFBNmE1WXU4Sm8xc2pwOXJOTEh0STNSbGdmRUZuTkRpbnZwUnN2T3VxbUhMRnJYNG1QVzVMRmpXLTdEWlhick5oeldLVWJlZ2Q1WWg1NTc3WXdYRVZybjlkSTNmVWJ0ZXdydjFxVVNBYTVVdlFKSW9lUi1oYUU0Zk1Eck0waGtZX09yV3BWRjJfdnIzX0RiOWdhaDlseHJFRFRqeTJqZ3dfTmFFbDZMRXlKQXNaWEhoT3FBT0N3?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-08-27",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools deploying ChatGPT under division oversight represents platform-delivered AI creating distributed access, but institutional control over commercial tools suggests shallow adoption rather than building indigenous AI development capacity.",
-      "fetched": "2026-09-06"
+      "scenario": "Build It Yourself",
+      "signal_reading": "The VCU-AI Ready RVA partnership explicitly targets broad community AI education and innovation, signaling intentional infrastructure for distributed, peer-driven AI fluency beyond elite institutions—a direct investment in the 'deep & distributed' pathway.",
+      "fetched": "2026-09-07"
     },
     {
       "title": "Norfolk could get AI assist for non-emergency calls - WAVY.com",
@@ -37,8 +27,28 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's AI dispatcher for non-emergency calls exemplifies shallow, distributed adoption through vendor-supplied platforms that automate tasks without developing local AI expertise or creating pathways to deeper technical capability.",
-      "fetched": "2026-09-06"
+      "signal_reading": "Norfolk's exploration of AI-powered non-emergency call dispatch represents shallow, platform-delivered automation—government adopting turnkey AI tools without building internal capability, exemplifying distributed but non-transformative adoption.",
+      "fetched": "2026-09-07"
+    },
+    {
+      "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWJldUJyVkhEQUpWaUhOV3kzRFdoUlZSbHFBNmE1WXU4Sm8xc2pwOXJOTEh0STNSbGdmRUZuTkRpbnZwUnN2T3VxbUhMRnJYNG1QVzVMRmpXLTdEWlhick5oeldLVWJlZ2Q1WWg1NTc3WXdYRVZybjlkSTNmVWJ0ZXdydjFxVVNBYTVVdlFKSW9lUi1oYUU0Zk1Eck0waGtZX09yV3BWRjJfdnIzX0RiOWdhaDlseHJFRFRqeTJqZ3dfTmFFbDZMRXlKQXNaWEhoT3FBT0N3?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-08-27",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight shows concentrated institutional capacity to govern AI in K-12, but limited to well-resourced districts—a marker of metro capability gaps rather than statewide fluency infrastructure.",
+      "fetched": "2026-09-07"
+    },
+    {
+      "title": "Southwest Field Notes: National Black Lung Association to meet next week in Abingdon amid historic high numbers of the disease in central Appalachia",
+      "url": "https://cardinalnews.org/2026/09/04/swva-field-notes-7/",
+      "source": "Cardinal News",
+      "published": "2026-09-04",
+      "region": "Southwest",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Southwest Virginia's focus on black lung disease and community meals while NoVA debates data center billions illustrates the fundamental infrastructure and economic gaps that prevent AI capability from reaching Appalachian communities—neither depth nor distribution materializes here.",
+      "fetched": "2026-09-07"
     },
     {
       "title": "Fairfax City Business Leaders Tell Spanberger About Rising Costs, AI, Workforce Challenges - Patch",
@@ -47,18 +57,8 @@
       "published": "2026-09-03",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Fairfax business leaders discussing AI alongside workforce challenges indicates concentrated capability in NoVA's tech hub where AI is an operational reality rather than an aspiration, widening the gap with regions where AI remains abstractly future-facing.",
-      "fetched": "2026-09-06"
-    },
-    {
-      "title": "Learning Law in the AI Age - University of Virginia School of Law",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeF9DWFhpaXBWWVV2MzF5eU9ZZU5QVjRyVWUwUkJ1NDZUR2diWnlWMWFHYW85ZGtSVE5kcGpOc3lIV1R5ajdMZGlSRk1jQmQtQmc5Tk9fOURUZUkxQVhXcjJlclBsSWduS2Z6dA?oc=5",
-      "source": "University of Virginia School of Law",
-      "published": "2026-09-01",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA Law School integrating AI into legal education represents elite institutions building deep capability that concentrates expertise in metro-adjacent universities rather than distributing AI fluency through community colleges or vocational programs across rural Virginia.",
-      "fetched": "2026-09-06"
+      "signal_reading": "Fairfax business leaders discussing AI with federal representatives signals concentrated policy influence and workforce sophistication in NoVA's innovation core, reinforcing metro advantage while rural regions lack comparable business-government AI dialogue infrastructure.",
+      "fetched": "2026-09-07"
     }
   ]
 }
