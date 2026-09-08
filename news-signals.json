@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-08",
   "next_check": "2026-09-08",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,28 +17,18 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops targeting the technology gap in Hampton Roads represent grassroots skill-building infrastructure that could enable distributed, peer-to-peer learning beyond elite institutions—a critical test of whether deep capability can spread through community networks rather than concentrating in university hubs.",
-      "fetched": "2026-09-07"
+      "signal_reading": "Free AI workshops targeting the technology gap in Hampton Roads represent peer-to-peer knowledge transfer that could build distributed, grassroots capability outside traditional tech hubs—a critical signal of whether deep skills can spread beyond NoVA.",
+      "fetched": "2026-09-08"
     },
     {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "VCU News",
-      "published": "2025-11-18",
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-AI Ready RVA partnership signals institutional concentration of AI education resources in Richmond's urban core, likely creating metro-level depth but raising questions about whether capability radiates outward or remains anchored to university-adjacent talent pools.",
-      "fetched": "2026-09-07"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI pressure on Richmond's young workforce without corresponding depth-building suggests shallow, anxiety-driven adoption rather than genuine capability development—workers feeling displacement risk without acquiring the deep skills to navigate or lead AI transformation.",
-      "fetched": "2026-09-07"
+      "signal_reading": "A $50M+ investment in AI data center infrastructure in Henrico with 200 jobs reinforces Richmond's emergence as a secondary concentration point, but signals capital-intensive rather than distributed capability—deepening metro advantages while leaving rural regions behind.",
+      "fetched": "2026-09-08"
     },
     {
       "title": "Norfolk could get AI assist for non-emergency calls - WAVY.com",
@@ -47,8 +37,8 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's AI dispatcher for non-emergency calls exemplifies platform-delivered automation requiring minimal local AI literacy—broad functional adoption through turnkey solutions that distributes immediate benefits but not the underlying capability to build, customize, or innovate.",
-      "fetched": "2026-09-07"
+      "signal_reading": "Norfolk's adoption of AI for non-emergency dispatch represents shallow, platform-delivered AI implementation in public services—broad adoption without deep technical capability building, typical of vendor-driven digital transformation.",
+      "fetched": "2026-09-08"
     },
     {
       "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
@@ -57,8 +47,18 @@
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools bringing ChatGPT under district oversight reflects reactive governance of consumer AI tools rather than proactive capability-building—distributed access through commercial platforms without corresponding investment in deep technical literacy or local model development.",
-      "fetched": "2026-09-07"
+      "signal_reading": "Virginia Beach schools bringing ChatGPT under division oversight signals widespread but shallow AI adoption—users consuming platform tools rather than building deep AI literacy, potentially widening the gap between tool users and tool creators.",
+      "fetched": "2026-09-08"
+    },
+    {
+      "title": "Southwest Field Notes: National Black Lung Association to meet next week in Abingdon amid historic high numbers of the disease in central Appalachia",
+      "url": "https://cardinalnews.org/2026/09/04/swva-field-notes-7/",
+      "source": "Cardinal News",
+      "published": "2026-09-04",
+      "region": "Southwest",
+      "scenario": "The Widening Gap",
+      "signal_reading": "A public hearing on data centers in Scott County amid black lung discussions highlights Southwest Virginia's struggle with infrastructure-heavy AI economy impacts while lacking the workforce development or broadband foundation to capture AI opportunity—infrastructure without capability access.",
+      "fetched": "2026-09-08"
     }
   ]
 }
