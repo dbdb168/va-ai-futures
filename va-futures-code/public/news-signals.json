@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "next_check": "2026-09-09",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops in Hampton Roads represent grassroots capability building that could spread peer-to-peer fluency beyond metro concentrations, directly challenging the Pockets of Excellence trajectory if sustained and replicated.",
-      "fetched": "2026-09-08"
+      "signal_reading": "Free AI workshops led by a Norfolk native directly target distributed skill-building in a non-metro region, representing grassroots peer-network learning that could prevent Hampton Roads from falling into the widening gap scenario.",
+      "fetched": "2026-09-09"
     },
     {
       "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
@@ -27,28 +27,18 @@
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ investment adding 200 AI infrastructure jobs in Henrico deepens Richmond's technical capability but signals capital-intensive concentration—the jobs require specialized skills unlikely to distribute broadly without intentional workforce pathways.",
-      "fetched": "2026-09-08"
+      "signal_reading": "A $50M+ investment in AI data center infrastructure concentrating 200 jobs in Henrico reinforces Richmond's position as an emerging tech hub, but signals capital-intensive rather than distributed capability development.",
+      "fetched": "2026-09-09"
     },
     {
-      "title": "NoVA Leaders Debate Data Centers, Metro Funding And The Housing Crisis - patch.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejZFWXdnT3B5cWZoMVQ3SF9MUXp6N3gzVG9kamhMUFl6UVg2N3kxdkNaOFBlWUhMMFZSM0VNM1BFX2kxZ1YtczJoNEYwc1dnQUJ2bUtNMTFLMV83RjhUNk80NjcxdE4tZVphSnVCbkVMM3B5cW9TdFJkcm12UkNhTzlyaXQ1NWxOdE81SnozdDBESk9aOVh1OGNMV1Bic056VGRZQk4yaGI?oc=5",
-      "source": "patch.com",
-      "published": "2026-08-26",
+      "title": "AI Boom Drives Fight Over Electric Bills as D.C., Virginia and Maryland Clash Over Data Centers - The Washington Informer",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEx4TUtmVlk1Z1UzdDJTTzFVUlpFdmVNem5FbUlid1ZLRzVhOG9SVjRUZUtYQ3ZYb2dCTngwQnJJZS01a1ZsTWk5Z25tMTMtbnZtTjhxTzhHTGo0R2pFUm5LLUU3X0hxcEpWMWpXWlBpX1c4RFlCVUJrTDVaN1lTckFEMFBXUUJZY3Fsaml5UXVVRk9k?oc=5",
+      "source": "The Washington Informer",
+      "published": "2026-07-22",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "NoVA leaders debating data centers versus housing reveals infrastructure buildout outpacing human capability development—physical AI infrastructure concentrates without corresponding distributed workforce readiness or equitable access mechanisms.",
-      "fetched": "2026-09-08"
-    },
-    {
-      "title": "Norfolk could get AI assist for non-emergency calls - WAVY.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3Q3bW5vaHJVdlZkYjU3ZndTWWZxcTBYT3g2ZzlodnY1bk9fQ0cybEEweUE4a3ViZ3JMbGlzQnExZ0FkclY0U2NpM3cyY3hnRVFQTXBITk9OdC04dEloMFZOTm1aSm92OXBFYnl1UnpsWjBBWldpQmpadTc2Y0w3QWNvWHhSd3E5aEZWU1llTHFNUQ?oc=5",
-      "source": "WAVY.com",
-      "published": "2026-08-27",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk deploying AI for non-emergency call handling demonstrates platform-delivered shallow adoption—capability resides in the vendor's system, not local workforce depth, creating municipal efficiency without building transferable AI skills.",
-      "fetched": "2026-09-08"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Regional conflict over electric bills driven by NoVA's data center boom reveals how concentrated AI infrastructure deployment creates resource competition that may actually inhibit broader distribution across Virginia.",
+      "fetched": "2026-09-09"
     },
     {
       "title": "Virginia should make AI adoption strengthen the career ladder | Guest column - Richmond Times-Dispatch",
@@ -57,8 +47,18 @@
       "published": "2026-09-08",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "Op-ed advocating for AI adoption strengthening career ladders signals awareness that Virginia must choose between shallow platform consumption and deep capability building—the policy fork that determines whether distribution accompanies adoption.",
-      "fetched": "2026-09-08"
+      "signal_reading": "Guest column advocating for AI adoption to strengthen career ladders signals policy awareness that shallow platform adoption alone won't build workforce capability—suggesting intentional investment in deep skill development may be gaining traction.",
+      "fetched": "2026-09-09"
+    },
+    {
+      "title": "Why this Virginia Tech professor says don't use AI for medical advice - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWVRZGdkUHhQWmRMS2V2R04zLXYxT2NGQUtKMmp5cXhBc3U2TklIRktDdGFmSXMzdW0wM2hOWXhmWUtDYllRYjg4eXZvMW9UZ3pSN0JxUFFWWlI0cHh1NGVEYmRtbU9hWTAta2k0SW90alJQbHlabENGUk0tU0RDNmRMV2xzNzk0ZkRyOTMxWVpQN3dUX1hsNEZDQklPdXo3S1cw?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-09-06",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Virginia Tech professor warning against AI medical advice highlights the risk of shallow platform-based adoption where users lack deep understanding to critically evaluate AI outputs—a cautionary signal about distributed but superficial engagement.",
+      "fetched": "2026-09-09"
     }
   ]
 }
