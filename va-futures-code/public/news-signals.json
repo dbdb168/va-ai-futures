@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-09",
-  "next_check": "2026-09-09",
+  "next_check": "2026-09-10",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,33 +11,33 @@
   ],
   "signals": [
     {
+      "title": "Tech Briefs: Animatronics, AI and more at Virginia Tech’s Music + Technology Festival",
+      "url": "https://cardinalnews.org/2026/09/09/tech-briefs-animatronics-ai-and-more-at-virginia-techs-music-technology-festival/",
+      "source": "Cardinal News",
+      "published": "2026-09-09",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's AI music festival and Roanoke College's partnership with Google for free AI training certificates signal peer-driven knowledge networks and accessible upskilling outside traditional tech hubs, demonstrating distributed capability-building through educational institutions in mid-sized regions.",
+      "fetched": "2026-09-09"
+    },
+    {
       "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
       "source": "WTKR",
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly target distributed skill-building in a non-metro region, representing grassroots peer-network learning that could prevent Hampton Roads from falling into the widening gap scenario.",
+      "signal_reading": "A Norfolk native bringing free AI workshops to Hampton Roads explicitly targets closing the technology gap, representing grassroots, community-driven AI literacy efforts that could enable distributed deep learning rather than platform-dependent shallow adoption.",
       "fetched": "2026-09-09"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ investment in AI data center infrastructure concentrating 200 jobs in Henrico reinforces Richmond's position as an emerging tech hub, but signals capital-intensive rather than distributed capability development.",
-      "fetched": "2026-09-09"
-    },
-    {
-      "title": "AI Boom Drives Fight Over Electric Bills as D.C., Virginia and Maryland Clash Over Data Centers - The Washington Informer",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEx4TUtmVlk1Z1UzdDJTTzFVUlpFdmVNem5FbUlid1ZLRzVhOG9SVjRUZUtYQ3ZYb2dCTngwQnJJZS01a1ZsTWk5Z25tMTMtbnZtTjhxTzhHTGo0R2pFUm5LLUU3X0hxcEpWMWpXWlBpX1c4RFlCVUJrTDVaN1lTckFEMFBXUUJZY3Fsaml5UXVVRk9k?oc=5",
-      "source": "The Washington Informer",
-      "published": "2026-07-22",
+      "title": "NoVA Leaders Debate Data Centers, Metro Funding And The Housing Crisis - Patch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejZFWXdnT3B5cWZoMVQ3SF9MUXp6N3gzVG9kamhMUFl6UVg2N3kxdkNaOFBlWUhMMFZSM0VNM1BFX2kxZ1YtczJoNEYwc1dnQUJ2bUtNMTFLMV83RjhUNk80NjcxdE4tZVphSnVCbkVMM3B5cW9TdFJkcm12UkNhTzlyaXQ1NWxOdE81SnozdDBESk9aOVh1OGNMV1Bic056VGRZQk4yaGI?oc=5",
+      "source": "Patch",
+      "published": "2026-08-26",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Regional conflict over electric bills driven by NoVA's data center boom reveals how concentrated AI infrastructure deployment creates resource competition that may actually inhibit broader distribution across Virginia.",
+      "signal_reading": "NoVA leaders debating data center proliferation, Metro funding, and housing crisis reveals how AI infrastructure concentration creates regional wealth and governance capacity that diverges from the rest of Virginia, deepening metro advantages while other regions lack similar policy leverage.",
       "fetched": "2026-09-09"
     },
     {
@@ -46,18 +46,18 @@
       "source": "Richmond Times-Dispatch",
       "published": "2026-09-08",
       "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Guest column advocating for AI adoption to strengthen career ladders signals policy awareness that shallow platform adoption alone won't build workforce capability—suggesting intentional investment in deep skill development may be gaining traction.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "A guest column advocating that Virginia ensure AI adoption strengthens career ladders suggests concern that platform-delivered AI tools may hollow out middle-skill work rather than building deep capability, signaling tension between accessibility and meaningful skill development across the state.",
       "fetched": "2026-09-09"
     },
     {
-      "title": "Why this Virginia Tech professor says don't use AI for medical advice - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWVRZGdkUHhQWmRMS2V2R04zLXYxT2NGQUtKMmp5cXhBc3U2TklIRktDdGFmSXMzdW0wM2hOWXhmWUtDYllRYjg4eXZvMW9UZ3pSN0JxUFFWWlI0cHh1NGVEYmRtbU9hWTAta2k0SW90alJQbHlabENGUk0tU0RDNmRMV2xzNzk0ZkRyOTMxWVpQN3dUX1hsNEZDQklPdXo3S1cw?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-09-06",
+      "title": "Andrea Fletcher tapped to lead Virginia’s government technology overhaul",
+      "url": "https://virginiamercury.com/2026/09/08/andrea-fletcher-tapped-to-lead-virginias-government-technology-overhaul/",
+      "source": "Virginia Mercury",
+      "published": "2026-09-08",
       "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Tech professor warning against AI medical advice highlights the risk of shallow platform-based adoption where users lack deep understanding to critically evaluate AI outputs—a cautionary signal about distributed but superficial engagement.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Appointing a leader for Virginia's government technology overhaul centralizes AI governance capacity in Richmond, potentially concentrating technical decision-making authority rather than distributing implementation capability to regional and local government operations statewide.",
       "fetched": "2026-09-09"
     }
   ]
