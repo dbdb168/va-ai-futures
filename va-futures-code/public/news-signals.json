@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-10",
-  "next_check": "2026-09-10",
+  "next_check": "2026-09-11",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,53 +11,53 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A Norfolk native delivering free AI workshops directly addresses the distribution challenge in a non-hub region, signaling peer-to-peer knowledge transfer that could build grassroots fluency outside traditional tech centers.",
-      "fetched": "2026-09-10"
-    },
-    {
-      "title": "Tech Briefs: Animatronics, AI and more at Virginia Tech’s Music + Technology Festival",
-      "url": "https://cardinalnews.org/2026/09/09/tech-briefs-animatronics-ai-and-more-at-virginia-techs-music-technology-festival/",
-      "source": "Cardinal News",
-      "published": "2026-09-09",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's specialized AI+music festival and Roanoke College's Google partnership show institutional depth in mid-tier regions, but free training certificates suggest shallow platform-mediated adoption rather than indigenous capability building.",
-      "fetched": "2026-09-10"
-    },
-    {
-      "title": "3 principles to make AI data centers good grid citizens - Utility Dive",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamY0RDU0TGEzTDd2NlRQWWVJX1NTV0lna2I3YUR5MWNYckk0VzVEalhrUFJlSHdkLWpCVG9Odk8ydFRyVzZRd0UzMlZ4SUJTV0duME9vaWV6b00yTklIY0VoZHFzcG01MHNMRTVuNE5PMDJjWktOX0dqbXRfZ00tOExRd05QSVZoVWZ3NTJ2V05xTDhqR0ZaYjhJZw?oc=5",
-      "source": "Utility Dive",
-      "published": "2026-09-01",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "NoVA leaders debating data center impacts reveals infrastructure concentration without corresponding human capability distribution—physical AI assets clustering while community concerns suggest limited local workforce integration or benefit sharing.",
-      "fetched": "2026-09-10"
-    },
-    {
-      "title": "Virginia Beach schools bring ChatGPT under division oversight as AI use grows - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWJldUJyVkhEQUpWaUhOV3kzRFdoUlZSbHFBNmE1WXU4Sm8xc2pwOXJOTEh0STNSbGdmRUZuTkRpbnZwUnN2T3VxbUhMRnJYNG1QVzVMRmpXLTdEWlhick5oeldLVWJlZ2Q1WWg1NTc3WXdYRVZybjlkSTNmVWJ0ZXdydjFxVVNBYTVVdlFKSW9lUi1oYUU0Zk1Eck0waGtZX09yV3BWRjJfdnIzX0RiOWdhaDlseHJFRFRqeTJqZ3dfTmFFbDZMRXlKQXNaWEhoT3FBT0N3?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-08-27",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach schools adopting ChatGPT under division oversight signals platform-layer AI diffusion reaching K-12, but institutional gatekeeping approach suggests managed, shallow integration rather than deep computational literacy development.",
-      "fetched": "2026-09-10"
-    },
-    {
-      "title": "VA Plans New AI Tools to Cut Administrative Burden - MeriTalk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb21MVlZhVmR0V0g2aWpoN1R4VjRzZW9GZ0o4TG13Y1Z2dGtRa256V3NERENpallLM0FfRU05U3l1d2J1YVRqQXV2S3NTT3pXMmFvTEVISjU3amhHRkc2UTlVNjZ3RWpoLWxsX0RaSklyQ3F2Z0x2N21OTHVSSmIxa3hxNXlhMGRQY3dQTHdR?oc=5",
-      "source": "MeriTalk",
-      "published": "2026-09-03",
+      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - richmond.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
+      "source": "richmond.com",
+      "published": "2026-07-27",
       "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "VA's administrative AI tools represent government-wide shallow adoption through vendor platforms—distributing efficiency gains but not building internal technical capacity or transferable AI fluency across Virginia's workforce.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Commentary identifying small-business adoption as Virginia's core AI challenge signals the shallow/concentrated risk: while NoVA attracts data center infrastructure investment, the distributed economic base lacks practical AI capability, leaving most Virginia businesses as non-participants in the AI economy.",
+      "fetched": "2026-09-10"
+    },
+    {
+      "title": "Christiansburg ups requirements for any future data center",
+      "url": "https://cardinalnews.org/2026/09/10/christiansburg-ups-requirements-for-any-future-data-center/",
+      "source": "Cardinal News",
+      "published": "2026-09-10",
+      "region": "Southwest",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Christiansburg imposing stricter data center requirements reflects infrastructure concentration in specific nodes rather than distributed capability—physical presence of data centers doesn't equal local AI fluency, reinforcing the metro-hub pattern even as it spreads to secondary cities.",
+      "fetched": "2026-09-10"
+    },
+    {
+      "title": "Virginia authorizes funding for VCU to purchase Altria Center for Research and Technology - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU1iV0RyTUFXNGozMlN1R1VpQ3lGVVNUUFpRN2tlOHZfZ3JaVjdDQlFwQ0tYTW14M1ZCSEVGeDhrRkZHYWRtYTB2NEl0VmxpbVkxWWlmOHczTTVvNzQ4SGpvdW8wbGlCVlA1T25UaVRnVlZDamFQUTE4Nm9EZnNOa01PVUJ5SVl4NHhjT25zam40X094VnVYQjJkTVphS2V2N0VXUUxXRWtQc0dmTW1DeHZ1R0l5YVd5bWc?oc=5",
+      "source": "VCU News",
+      "published": "2026-06-29",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU's $250M+ Altria Center acquisition for research and technology signals Richmond's intentional build-out as a secondary AI/tech hub, potentially creating a second concentration center but not yet indicating distributed capability across Virginia's rural regions.",
+      "fetched": "2026-09-10"
+    },
+    {
+      "title": "Why this Virginia Tech professor says don't use AI for medical advice - roanoke.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWVRZGdkUHhQWmRMS2V2R04zLXYxT2NGQUtKMmp5cXhBc3U2TklIRktDdGFmSXMzdW0wM2hOWXhmWUtDYllRYjg4eXZvMW9UZ3pSN0JxUFFWWlI0cHh1NGVEYmRtbU9hWTAta2k0SW90alJQbHlabENGUk0tU0RDNmRMV2xzNzk0ZkRyOTMxWVpQN3dUX1hsNEZDQklPdXo3S1cw?oc=5",
+      "source": "roanoke.com",
+      "published": "2026-09-06",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech professor publicly educating citizens on AI limitations for medical advice represents institutional knowledge distribution beyond elite tech hubs—critical literacy building that could enable deeper, more distributed understanding rather than passive platform adoption.",
+      "fetched": "2026-09-10"
+    },
+    {
+      "title": "Learning Law in the AI Age - University of Virginia School of Law",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeF9DWFhpaXBWWVV2MzF5eU9ZZU5QVjRyVWUwUkJ1NDZUR2diWnlWMWFHYW85ZGtSVE5kcGpOc3lIV1R5ajdMZGlSRk1jQmQtQmc5Tk9fOURUZUkxQVhXcjJlclBsSWduS2Z6dA?oc=5",
+      "source": "University of Virginia School of Law",
+      "published": "2026-09-01",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA Law School integrating AI into legal curriculum demonstrates professional program adaptation in established institutions, but concentrated in elite educational settings rather than community colleges or workforce programs that would signal broader distribution.",
       "fetched": "2026-09-10"
     }
   ]
