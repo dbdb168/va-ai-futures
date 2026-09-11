@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-11",
-  "next_check": "2026-09-11",
+  "next_check": "2026-09-12",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,23 @@
   ],
   "signals": [
     {
-      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - Richmond Times-Dispatch",
+      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - richmond.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
-      "source": "Richmond Times-Dispatch",
+      "source": "richmond.com",
       "published": "2026-07-27",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Opinion piece identifies small-business AI adoption as Virginia's core challenge rather than infrastructure—signaling that shallow engagement persists even as data centers concentrate capital, pointing toward neither depth nor distribution materializing at scale.",
+      "signal_reading": "Richmond.com op-ed explicitly identifies small-business AI adoption as Virginia's real challenge beyond data center infrastructure, signaling that current investments concentrate in physical infrastructure rather than distributed capability-building that would enable broad-based economic participation.",
+      "fetched": "2026-09-11"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
+      "source": "WWBT",
+      "published": "2026-04-09",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A $50M+ investment adding 200 jobs in Henrico for AI data center infrastructure reinforces Richmond Metro as an emerging hub for AI capital deployment, but focuses on physical infrastructure rather than distributed AI fluency, concentrating technical capability in established metro corridors.",
       "fetched": "2026-09-11"
     },
     {
@@ -27,7 +37,7 @@
       "published": "2026-09-10",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA students consulting with businesses on AI exploration represents peer-to-peer knowledge transfer and hands-on capability building—a distributed model that could spread deep fluency through community networks rather than platform dependency.",
+      "signal_reading": "UVA students actively helping businesses explore AI represents peer-to-peer knowledge transfer and grassroots capability building—exactly the distributed learning model that could spread deep AI fluency beyond traditional tech hubs if scaled systematically.",
       "fetched": "2026-09-11"
     },
     {
@@ -35,29 +45,19 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWVRZGdkUHhQWmRMS2V2R04zLXYxT2NGQUtKMmp5cXhBc3U2TklIRktDdGFmSXMzdW0wM2hOWXhmWUtDYllRYjg4eXZvMW9UZ3pSN0JxUFFWWlI0cHh1NGVEYmRtbU9hWTAta2k0SW90alJQbHlabENGUk0tU0RDNmRMV2xzNzk0ZkRyOTMxWVpQN3dUX1hsNEZDQklPdXo3S1cw?oc=5",
       "source": "Roanoke Times",
       "published": "2026-09-06",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech professor providing expert AI medical advice guidance demonstrates concentrated research expertise in the New River Valley hub, but commentary format suggests knowledge remains siloed rather than translating into broad regional capability.",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech professor's critical AI literacy work signals potential for New River Valley to become a distributed node of deep AI understanding, moving beyond surface-level adoption to develop discernment about appropriate AI use cases and limitations.",
       "fetched": "2026-09-11"
     },
     {
-      "title": "Norfolk looks to add AI dispatcher tool for non-emergency calls - WAVY.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXFiUUU2REt2b2tpOWg5UHBFbkdQLVYzekxLRGdNakxqc0F4MGJ2aVV2TkVRbEw2eGRsLWdZRFFFOXlsMzFlVVdhVEVYcmlsbnhKdUZmMUtwS1I2dzdGOW41Vm56NzJ4Y09VcUhwU09UUnh6bEQ4V3BWWFlaNFhRUFZaZEZBWEQyTWpvUDlnOGQxVjg1RF9udERoODc2aWxteHdOb2JYQzM0eldWT0HSAbMBQVVfeXFMTkxXRXFJMmhIZDdIa005ZTllN3NDdTF1RE81bnZER25IUFZVbmlsS3dLa2ZfQ1RMWlNtS3dlZmxUbDBzb1FTeUl2Y1RWLV80b2xxcTlZSER4Z0pMVGcxVENSZFZEWUx1Uk9NdU9xOGUya1F1bW5PamRVMFRKbkNWYzhCLVJNRTVkS0l6TGNmMGdvVWxqdmYyaVp2M1pYZXdWeDlZYmtZZlpkNnl3TTF1SlVMc0U?oc=5",
+      "title": "Norfolk could get AI assist for non-emergency calls - WAVY.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3Q3bW5vaHJVdlZkYjU3ZndTWWZxcTBYT3g2ZzlodnY1bk9fQ0cybEEweUE4a3ViZ3JMbGlzQnExZ0FkclY0U2NpM3cyY3hnRVFQTXBITk9OdC04dEloMFZOTm1aSm92OXBFYnl1UnpsWjBBWldpQmpadTc2Y0w3QWNvWHhSd3E5aEZWU1llTHFNUQ?oc=5",
       "source": "WAVY.com",
       "published": "2026-08-27",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk adopting AI dispatcher for non-emergency calls shows platform-delivered automation enabling municipal capability without deep technical expertise—exemplifying shallow but functional distributed adoption through vendor solutions.",
-      "fetched": "2026-09-11"
-    },
-    {
-      "title": "Virginia authorizes funding for VCU to purchase Altria Center for Research and Technology - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU1iV0RyTUFXNGozMlN1R1VpQ3lGVVNUUFpRN2tlOHZfZ3JaVjdDQlFwQ0tYTW14M1ZCSEVGeDhrRkZHYWRtYTB2NEl0VmxpbVkxWWlmOHczTTVvNzQ4SGpvdW8wbGlCVlA1T25UaVRnVlZDamFQUTE4Nm9EZnNOa01PVUJ5SVl4NHhjT25zam40X094VnVYQjJkTVphS2V2N0VXUUxXRWtQc0dmTW1DeHZ1R0l5YVd5bWc?oc=5",
-      "source": "VCU News",
-      "published": "2026-06-29",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "State funding for VCU to acquire research and technology center reinforces capital region's institutional AI capacity, concentrating resources in metro areas while creating potential but unproven conduits for knowledge distribution to surrounding regions.",
+      "signal_reading": "Norfolk's exploration of AI for non-emergency call handling represents shallow, platform-delivered automation that increases efficiency without building local AI capability—Hampton Roads adopting pre-packaged solutions rather than developing indigenous expertise.",
       "fetched": "2026-09-11"
     }
   ]
