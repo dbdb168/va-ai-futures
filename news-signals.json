@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-12",
-  "next_check": "2026-09-12",
+  "next_check": "2026-09-13",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,23 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - richmond.com",
+      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - Richmond Times-Dispatch",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
-      "source": "richmond.com",
+      "source": "Richmond Times-Dispatch",
       "published": "2026-07-27",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Guest column explicitly frames Virginia's AI challenge as small-business adoption failure, signaling that infrastructure focus (data centers) may be masking shallow penetration into actual economic activity across the commonwealth's diverse business base.",
-      "fetched": "2026-09-12"
-    },
-    {
-      "title": "New partnership between VCU and AI Ready RVA aims to boost AI education, innovation and community impact - news.vcu.edu",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mamdIeTMtN1RZU2hLM2hmLUZKYmowcU5PUTBXTklHQ2loVm41al9QQWc5QnZ2UXREeGxTSWxWd1Z3MS1sNlloeDZHNnZ6NDg3eWhLTWZPMA?oc=5",
-      "source": "news.vcu.edu",
-      "published": "2025-11-18",
       "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU partnership with AI Ready RVA creates institutional infrastructure for distributed education and community impact, potentially building peer-to-peer learning networks that spread deep capability beyond elite tech hubs.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Guest column explicitly identifies small-business AI adoption as Virginia's real challenge, signaling that infrastructure investment (data centers) is concentrating in metro areas while practical AI capability remains shallow and inaccessible to the broader economy.",
       "fetched": "2026-09-12"
     },
     {
@@ -37,7 +27,7 @@
       "published": "2026-04-02",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Workforce pressure on Richmond's young talent signals metro concentration of AI demand, creating capability clustering in capital region while potentially draining skills from surrounding areas without equivalent opportunity structures.",
+      "signal_reading": "AI pressure on Richmond's young workforce indicates deepening capability demands in metro hubs, likely attracting talent from rural areas and reinforcing concentration of AI-adjacent skills in urban centers.",
       "fetched": "2026-09-12"
     },
     {
@@ -47,17 +37,27 @@
       "published": "2026-09-10",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA students helping businesses explore AI represents peer-distributed knowledge transfer model that could spread deep understanding beyond consultancy-driven adoption, though reach beyond university-connected businesses remains uncertain.",
+      "signal_reading": "UVA students helping businesses explore AI represents peer-to-peer knowledge transfer and capacity building beyond infrastructure—a potential distribution mechanism if it reaches beyond Charlottesville to smaller communities and businesses statewide.",
       "fetched": "2026-09-12"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
+      "title": "Norfolk looks to add AI dispatcher tool for non-emergency calls - WAVY.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXFiUUU2REt2b2tpOWg5UHBFbkdQLVYzekxLRGdNakxqc0F4MGJ2aVV2TkVRbEw2eGRsLWdZRFFFOXlsMzFlVVdhVEVYcmlsbnhKdUZmMUtwS1I2dzdGOW41Vm56NzJ4Y09VcUhwU09UUnh6bEQ4V3BWWFlaNFhRUFZaZEZBWEQyTWpvUDlnOGQxVjg1RF9udERoODc2aWxteHdOb2JYQzM0eldWT0HSAbMBQVVfeXFMTkxXRXFJMmhIZDdIa005ZTllN3NDdTF1RE81bnZER25IUFZVbmlsS3dLa2ZfQ1RMWlNtS3dlZmxUbDBzb1FTeUl2Y1RWLV80b2xxcTlZSER4Z0pMVGcxVENSZFZEWUx1Uk9NdU9xOGUya1F1bW5PamRVMFRKbkNWYzhCLVJNRTVkS0l6TGNmMGdvVWxqdmYyaVp2M1pYZXdWeDlZYmtZZlpkNnl3TTF1SlVMc0U?oc=5",
+      "source": "WAVY.com",
+      "published": "2026-08-27",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk deploying turnkey AI dispatcher tools for non-emergency calls demonstrates platform-delivered AI adoption in municipal services—shallow implementation but distributed benefit, potentially replicable across Virginia localities without deep technical expertise.",
+      "fetched": "2026-09-12"
+    },
+    {
+      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - 12onyourside.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
+      "source": "12onyourside.com",
       "published": "2026-04-09",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "50M investment adding 200 AI infrastructure jobs in Henrico reinforces metro concentration pattern—capital flows to data center supply chains in established hubs rather than distributing AI application capability to underserved regions.",
+      "signal_reading": "A $50M+ investment adding 200 jobs in Henrico for AI data center infrastructure deepens Richmond's technical ecosystem, but concentrates high-skill employment in metro areas while distributing only indirect economic benefits and energy grid strain.",
       "fetched": "2026-09-12"
     }
   ]
