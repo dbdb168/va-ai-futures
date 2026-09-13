@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "next_check": "2026-09-13",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -16,9 +16,9 @@
       "source": "Richmond Times-Dispatch",
       "published": "2026-07-27",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Guest column explicitly identifies small-business AI adoption as Virginia's real challenge, signaling that infrastructure investment (data centers) is concentrating in metro areas while practical AI capability remains shallow and inaccessible to the broader economy.",
-      "fetched": "2026-09-12"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Guest column explicitly identifies the real gap: while NoVA attracts data center infrastructure investment, small businesses across Virginia lack AI adoption capacity, signaling capability concentration in metros rather than distributed fluency.",
+      "fetched": "2026-09-13"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -26,9 +26,9 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates deepening capability demands in metro hubs, likely attracting talent from rural areas and reinforcing concentration of AI-adjacent skills in urban centers.",
-      "fetched": "2026-09-12"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Workforce pressure on Richmond's young talent suggests platform-level AI adoption creating shallow but broad exposure, as employers expect AI familiarity without necessarily building deep technical capability internally.",
+      "fetched": "2026-09-13"
     },
     {
       "title": "University of Virginia Students Help Businesses Explore AI - GovTech",
@@ -37,28 +37,28 @@
       "published": "2026-09-10",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA students helping businesses explore AI represents peer-to-peer knowledge transfer and capacity building beyond infrastructure—a potential distribution mechanism if it reaches beyond Charlottesville to smaller communities and businesses statewide.",
-      "fetched": "2026-09-12"
+      "signal_reading": "UVA students directly helping businesses explore AI represents peer-to-peer knowledge transfer that could distribute capability beyond metros, though success depends on whether this scales beyond university-adjacent businesses.",
+      "fetched": "2026-09-13"
     },
     {
-      "title": "Norfolk looks to add AI dispatcher tool for non-emergency calls - WAVY.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXFiUUU2REt2b2tpOWg5UHBFbkdQLVYzekxLRGdNakxqc0F4MGJ2aVV2TkVRbEw2eGRsLWdZRFFFOXlsMzFlVVdhVEVYcmlsbnhKdUZmMUtwS1I2dzdGOW41Vm56NzJ4Y09VcUhwU09UUnh6bEQ4V3BWWFlaNFhRUFZaZEZBWEQyTWpvUDlnOGQxVjg1RF9udERoODc2aWxteHdOb2JYQzM0eldWT0HSAbMBQVVfeXFMTkxXRXFJMmhIZDdIa005ZTllN3NDdTF1RE81bnZER25IUFZVbmlsS3dLa2ZfQ1RMWlNtS3dlZmxUbDBzb1FTeUl2Y1RWLV80b2xxcTlZSER4Z0pMVGcxVENSZFZEWUx1Uk9NdU9xOGUya1F1bW5PamRVMFRKbkNWYzhCLVJNRTVkS0l6TGNmMGdvVWxqdmYyaVp2M1pYZXdWeDlZYmtZZlpkNnl3TTF1SlVMc0U?oc=5",
-      "source": "WAVY.com",
-      "published": "2026-08-27",
+      "title": "Norfolk firm creates AI versions of pupil photos to protect them from deepfakes - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hWldXaHhlWHpqWEkzcW1mVHVINnFCaDN1NW8tTmVzb28zSnZkRFhPQU4wODZ4YVNtVDFoRXRxam5ZOUlVbVhDMHRNc3lhbmFfWVpKMzl2MGZmUldaVWNNSE1vZ2V6bTl2YndRd1M5MlNnSWMyd05wNW1iT0wxUQ?oc=5",
+      "source": "Yahoo News UK",
+      "published": "2026-09-09",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk deploying turnkey AI dispatcher tools for non-emergency calls demonstrates platform-delivered AI adoption in municipal services—shallow implementation but distributed benefit, potentially replicable across Virginia localities without deep technical expertise.",
-      "fetched": "2026-09-12"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk firm developing AI deepfake protection demonstrates deep technical capability emerging in Hampton Roads defense-tech corridor, but remains concentrated in specialized firms rather than distributed across the regional economy.",
+      "fetched": "2026-09-13"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - 12onyourside.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "12onyourside.com",
-      "published": "2026-04-09",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $50M+ investment adding 200 jobs in Henrico for AI data center infrastructure deepens Richmond's technical ecosystem, but concentrates high-skill employment in metro areas while distributing only indirect economic benefits and energy grid strain.",
-      "fetched": "2026-09-12"
+      "title": "Roanoke citizens question potential data center plans in potential land development - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa0dpNzBHMFNIeW9kTkZwVG5Pc0pTSWNXSWFVZkdzV0pfcWdTTVZ3MFJPclB0eTdGM1VDWjhrSnAyZ0Jkb2E5cXZGVFZKX052Si00Y19jaWYzS2o3MUJCM3h3RWdMMDRlMGMzRG15TGlLUUlOZk5QcUc4bjZwZ2RoVnRYVG9qeHlQcHU4V1pmOVQ1LXUxYXpVUVFIZGRpLVVFTGVrVnZncktPemdfazlYUGFacGk1TVg5NWVpamZOeldqTG83UVdHMjhWZEpBUl9iS1EydzgzcDTSAewBQVVfeXFMTlJDQUlDcndTb3JSeUk0SW1Yc1I1Q2FVOHFRZExqekIzQ2dHNUt4aGFsaEl2dHVPaFVLa1NucVU2RHVTa1ZndV9GeTZGLXpTUk1McEwtUjVQaWZncm02VEo3Q3NyU2VFQVM0cUV3UFZCdmRzSEt4WXdoUmpld3M3bC1wX041ckdFMm1PczQ4Sk5DcGphV0pjdmN4MlZsZnpOTEZDaTg2VDRfZmN6SWtfeUNDaHROSk5KMnhXbFd4d2R3V1ZaWEpNaWRCdXpLdlFFZlloSmc4M2lTM05LOXMzejdXNkZxTUNYMkd5Z2c?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-09-11",
+      "region": "Southwest",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Roanoke citizens questioning data center land deals reveals AI infrastructure arriving without community engagement or local capability building—physical presence of AI economy without distributed access to its benefits.",
+      "fetched": "2026-09-13"
     }
   ]
 }
