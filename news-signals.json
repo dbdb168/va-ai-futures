@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-14",
-  "next_check": "2026-09-14",
+  "next_check": "2026-09-15",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,37 @@
       "published": "2026-07-27",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Guest column explicitly frames Virginia's AI challenge as small-business adoption gap rather than infrastructure, signaling awareness that current trajectory concentrates capability in data center hubs while Main Street remains unengaged—a classic shallow concentration pattern.",
+      "signal_reading": "Opinion piece explicitly identifies the concentration problem: while data center infrastructure concentrates in NoVA, small-business AI adoption—the mechanism for distribution—lags statewide, signaling a deepening capability gap rather than democratization.",
       "fetched": "2026-09-14"
     },
     {
-      "title": "‘Shaping our future’: Company powering AI data centers invests $50+ million in Henrico, adding 200 jobs - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZXVk5OWjlvSk1JOUMwZHVScDdVMkQzVTVPdE5DT3Vaa0RIS2tSZDlmSzdBZUlKS3c2cjkxNy04UVhsRFNfajFyNEF4X2pKcURvYzZXb1RUaTlKdGNnZGNPQmExUkpOQ0syb0RfSmo2WTFFZllMbjRuUjNDSWRqZXVFSEFzc2o0QTVyMTlmYW5WMGI3c0hYN2k4Wm5kcFFRWFBOMEw4ME5oQnJNbkZJeFJ5M0xnNUxxRTE0Ukk4UXBuc0t2czl2MGoyYXl2QUJQ0gHkAUFVX3lxTFBBb2F3MU9VWEFuc2NoRnRRN0ZaMG94Q1llcXFCVGZfYmFoY3Q3MTRLVVR2aXN2Q2tfN1liR1B3U09qVzBENXVSbmRWUHRQRkRpaWpQQ0JKNkdCek81b1QwRUIyTWMtZUhrRUh3aFp2WjlfYXdwQVVaRW93YUt0bXotZ2VGX0VYTUswSXZ0ZlBKellqQUVaVGtmX0Y5dThWOFJOaHFMdG5RcXlYWFhuREM5NVpUbmM0bHl1ODNtU1hqQVU1RzQzSWpUQ3lOZ2hHcUJoVkZ2elZJNE84dy11NjN6aEZfbg?oc=5",
-      "source": "WWBT",
-      "published": "2026-04-09",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
       "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Young workforce facing AI pressure without corresponding depth-building infrastructure suggests shallow adoption under duress rather than genuine capability development, positioning Richmond in reactive rather than proactive AI posture.",
+      "fetched": "2026-09-14"
+    },
+    {
+      "title": "Israeli AI maritime tech company joins Virginia Beach incubator - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XdTZoZkpra25rd0ZXMjBwcHUwYzRwUC1OeGlzRDMwM0dYNUFYX2RtWUFpZlZYMGNrWFdHQ0s0U2RUOFVGbUFQTnpWcUFIYVNJY2VROW5YNXdwcF90bU01TFEyQnd6SkNmVE5PUXVXdw?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-09-14",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator demonstrates sector-specific deep capability development outside NoVA, signaling potential for distributed excellence through domain specialization in defense/maritime tech.",
+      "fetched": "2026-09-14"
+    },
+    {
+      "title": "Trump pushes data centers. That puts him in opposition to many of his supporters.",
+      "url": "https://cardinalnews.org/2026/09/14/trump-pushes-data-centers-that-puts-him-in-opposition-to-many-of-his-supporters/",
+      "source": "Cardinal News",
+      "published": "2026-09-14",
+      "region": "Southwest & Southside",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "$50M AI data center investment adding 200 jobs in Henrico deepens Richmond's emerging tech hub status, but infrastructure investment alone doesn't guarantee distributed capability—signals metro concentration unless workforce development spreads beyond the immediate footprint.",
+      "signal_reading": "Rural Republican opposition to data centers reveals infrastructure concentration benefiting metros while externalizing costs to rural areas—infrastructure without local capability-building widens rather than bridges the geographic AI divide.",
       "fetched": "2026-09-14"
     },
     {
@@ -37,27 +57,7 @@
       "published": "2026-09-10",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA students helping businesses explore AI represents peer-to-peer knowledge transfer and hands-on capability building—a potential distribution mechanism that could spread deep fluency beyond metro hubs if scaled to underserved regions.",
-      "fetched": "2026-09-14"
-    },
-    {
-      "title": "How one Virginia county’s AI platform protects sensitive data - Route Fifty",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMS1jTkZ4YVNuUzZldzVVQWF1NE43QllGRkRYNWVscXhZZlFIOUd0THpPY25XdW9nQm4yQ2ZabnVGckVCSzFSaUYxRVFYRkdXZlZTMHJ5UzJxeTg4Zm1ieEhtZjJ4X3RUWS1IdHI4T05CZ21VZHh4VUZiR1U3WEdjaEJHQnNGc0NLbWhIWnV1LUFlelJnVzRveTFSc0l4SDNnSHg5TmlXRnpPdG1ZM3d1MG12emI3bWYxdzI3R2llWDd6MTMtNGVCbjVyc2xvUGFnY25qQ0lNaXdMVG5jblh4SkJpRQ?oc=5",
-      "source": "Route Fifty",
-      "published": "2026-08-24",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia county developing its own AI platform with data privacy protections demonstrates local government building internal capability rather than pure vendor dependence—signals potential for distributed depth if knowledge sharing occurs across jurisdictions.",
-      "fetched": "2026-09-14"
-    },
-    {
-      "title": "Norfolk looks to add AI dispatcher tool for non-emergency calls - WAVY.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXFiUUU2REt2b2tpOWg5UHBFbkdQLVYzekxLRGdNakxqc0F4MGJ2aVV2TkVRbEw2eGRsLWdZRFFFOXlsMzFlVVdhVEVYcmlsbnhKdUZmMUtwS1I2dzdGOW41Vm56NzJ4Y09VcUhwU09UUnh6bEQ4V3BWWFlaNFhRUFZaZEZBWEQyTWpvUDlnOGQxVjg1RF9udERoODc2aWxteHdOb2JYQzM0eldWT0HSAbMBQVVfeXFMTkxXRXFJMmhIZDdIa005ZTllN3NDdTF1RE81bnZER25IUFZVbmlsS3dLa2ZfQ1RMWlNtS3dlZmxUbDBzb1FTeUl2Y1RWLV80b2xxcTlZSER4Z0pMVGcxVENSZFZEWUx1Uk9NdU9xOGUya1F1bW5PamRVMFRKbkNWYzhCLVJNRTVkS0l6TGNmMGdvVWxqdmYyaVp2M1pYZXdWeDlZYmtZZlpkNnl3TTF1SlVMc0U?oc=5",
-      "source": "WAVY.com",
-      "published": "2026-08-27",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk deploying turnkey AI dispatcher for non-emergency calls exemplifies platform-delivered adoption—broad but shallow implementation that extends AI geographically to Hampton Roads without building local development capacity or deep technical fluency.",
+      "signal_reading": "UVA students helping businesses explore AI represents peer-to-peer knowledge transfer mechanism that could enable distributed deep adoption if scaled beyond Charlottesville, though currently signals academic-led rather than grassroots distribution.",
       "fetched": "2026-09-14"
     }
   ]
