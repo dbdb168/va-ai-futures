@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "next_check": "2026-09-15",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -16,9 +16,9 @@
       "source": "Richmond Times-Dispatch",
       "published": "2026-07-27",
       "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Opinion piece explicitly identifies the concentration problem: while data center infrastructure concentrates in NoVA, small-business AI adoption—the mechanism for distribution—lags statewide, signaling a deepening capability gap rather than democratization.",
-      "fetched": "2026-09-14"
+      "scenario": "The Widening Gap",
+      "signal_reading": "A guest column highlighting small-business AI adoption as the real challenge signals that infrastructure concentration (data centers) is divorced from distributed capability-building, indicating shallow engagement outside tech hubs.",
+      "fetched": "2026-09-15"
     },
     {
       "title": "AI pressure grows on Richmond's young workforce - Axios",
@@ -26,9 +26,9 @@
       "source": "Axios",
       "published": "2026-04-02",
       "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Young workforce facing AI pressure without corresponding depth-building infrastructure suggests shallow adoption under duress rather than genuine capability development, positioning Richmond in reactive rather than proactive AI posture.",
-      "fetched": "2026-09-14"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI adoption pressure on Richmond's young workforce suggests capability is concentrating in metro areas with existing talent pipelines, deepening the metro-rural divide as workforce demands cluster geographically.",
+      "fetched": "2026-09-15"
     },
     {
       "title": "Israeli AI maritime tech company joins Virginia Beach incubator - The Virginian-Pilot",
@@ -36,9 +36,9 @@
       "source": "The Virginian-Pilot",
       "published": "2026-09-14",
       "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator demonstrates sector-specific deep capability development outside NoVA, signaling potential for distributed excellence through domain specialization in defense/maritime tech.",
-      "fetched": "2026-09-14"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "An Israeli maritime AI firm joining Virginia Beach's incubator demonstrates specialized deep capability forming in Hampton Roads' defense/maritime niche, reinforcing sector-specific excellence clusters rather than distributed fluency.",
+      "fetched": "2026-09-15"
     },
     {
       "title": "Trump pushes data centers. That puts him in opposition to many of his supporters.",
@@ -46,9 +46,9 @@
       "source": "Cardinal News",
       "published": "2026-09-14",
       "region": "Southwest & Southside",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Rural Republican opposition to data centers reveals infrastructure concentration benefiting metros while externalizing costs to rural areas—infrastructure without local capability-building widens rather than bridges the geographic AI divide.",
-      "fetched": "2026-09-14"
+      "scenario": "The Widening Gap",
+      "signal_reading": "Rural Republican opposition to data centers reveals infrastructure concentration without local capability-building or benefit-sharing, signaling neither depth nor distribution in Virginia's historically underserved regions.",
+      "fetched": "2026-09-15"
     },
     {
       "title": "University of Virginia Students Help Businesses Explore AI - GovTech",
@@ -57,8 +57,8 @@
       "published": "2026-09-10",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "UVA students helping businesses explore AI represents peer-to-peer knowledge transfer mechanism that could enable distributed deep adoption if scaled beyond Charlottesville, though currently signals academic-led rather than grassroots distribution.",
-      "fetched": "2026-09-14"
+      "signal_reading": "UVA students helping businesses explore AI represents university-mediated knowledge transfer that could distribute capability beyond metro hubs if scaled, though current impact remains concentrated in university-adjacent communities.",
+      "fetched": "2026-09-15"
     }
   ]
 }
