@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "next_check": "2026-09-16",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,44 +11,44 @@
   ],
   "signals": [
     {
-      "title": "3 or 4 data centers could be coming to a former coal mine site in Russell County",
-      "url": "https://cardinalnews.org/2026/09/15/three-or-four-data-centers-could-be-coming-to-a-former-coal-mine-site-in-russell-county/",
-      "source": "Cardinal News",
-      "published": "2026-09-15",
-      "region": "Southwest",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Data center infrastructure arriving in Russell County's coal transition region signals capital concentration in extraction sites rather than capability distribution—physical infrastructure without local AI literacy creates economic dependency, not empowerment.",
-      "fetched": "2026-09-15"
-    },
-    {
       "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - Richmond Times-Dispatch",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
       "source": "Richmond Times-Dispatch",
       "published": "2026-07-27",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Richmond Times-Dispatch op-ed explicitly identifies the core problem: Virginia debates data center real estate while small businesses lack AI adoption capability, signaling shallow engagement state-wide even as infrastructure concentrates in metros.",
-      "fetched": "2026-09-15"
+      "signal_reading": "The framing that Virginia's real challenge is small-business adoption rather than infrastructure signals a gap between data center buildout (concentrated, capital-intensive) and distributed capability development—businesses lack the fluency to leverage AI despite proximity to infrastructure.",
+      "fetched": "2026-09-16"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Workforce pressure on Richmond's young professionals suggests rapid platform-layer AI adoption creating productivity expectations without corresponding depth in AI development skills—distribution through tools, not understanding.",
-      "fetched": "2026-09-15"
+      "title": "3 or 4 data centers could be coming to a former coal mine site in Russell County",
+      "url": "https://cardinalnews.org/2026/09/15/three-or-four-data-centers-could-be-coming-to-a-former-coal-mine-site-in-russell-county/",
+      "source": "Cardinal News",
+      "published": "2026-09-15",
+      "region": "Southwest",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Data centers coming to former coal sites in Russell County represents infrastructure concentration without evidence of local AI capability building—capital flows to Appalachia for power and land, not for distributed workforce development or deep technical adoption.",
+      "fetched": "2026-09-16"
     },
     {
-      "title": "Israeli AI maritime tech company joins Virginia Beach incubator - pilotonline.com",
+      "title": "Israeli AI maritime tech company joins Virginia Beach incubator - The Virginian-Pilot",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XdTZoZkpra25rd0ZXMjBwcHUwYzRwUC1OeGlzRDMwM0dYNUFYX2RtWUFpZlZYMGNrWFdHQ0s0U2RUOFVGbUFQTnpWcUFIYVNJY2VROW5YNXdwcF90bU01TFEyQnd6SkNmVE5PUXVXdw?oc=5",
-      "source": "pilotonline.com",
+      "source": "The Virginian-Pilot",
       "published": "2026-09-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Israeli maritime AI company joining Virginia Beach incubator reinforces Hampton Roads' defense-tech specialization cluster, deepening domain-specific excellence in military-adjacent sectors rather than broader regional AI capability.",
-      "fetched": "2026-09-15"
+      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator signals deep specialized capability clustering around defense/maritime sectors in Hampton Roads, reinforcing concentrated excellence in specific verticals rather than broad regional AI fluency.",
+      "fetched": "2026-09-16"
+    },
+    {
+      "title": "University of Virginia Students Help Businesses Explore AI - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFVsSGxwU2FlTENFRVRsbXN5eklGOU5PeFZlY1IxdHBtNmJGLVBJY3R4RUFXZFRySFZpd19KRlpZdjBPMWFwYUVCWnAyOHl5N1dFejVtdDU2M014eXU5eWhiN2JBRXNZTGJmZ21zV0NaZ0dSLUpETWIxUl8xTHA1TFRaNllWZWF3VnJKQjBsZ0t3NjdDYkR4UDdtYXFUbGUxWDl5SQ?oc=5",
+      "source": "GovTech",
+      "published": "2026-09-10",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "UVA students helping businesses explore AI represents peer-to-peer knowledge transfer mechanisms that could distribute practical AI capability beyond metro hubs—a potential pathway from concentrated academic expertise to distributed small-business adoption.",
+      "fetched": "2026-09-16"
     },
     {
       "title": "Virginia Tech researcher weighs in on threats, fears of AI development - WSLS",
@@ -56,9 +56,9 @@
       "source": "WSLS",
       "published": "2026-09-14",
       "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech researcher engagement on AI development threats positions the New River Valley as a knowledge creation hub that could distribute understanding through educational networks—signals potential for peer-to-peer capability building beyond metro cores.",
-      "fetched": "2026-09-15"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech researcher commentary on AI development threats positions the university as a knowledge hub but signals expert concentration rather than broad regional capability—deep technical understanding remains siloed in academic institutions.",
+      "fetched": "2026-09-16"
     }
   ]
 }
