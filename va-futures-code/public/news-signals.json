@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-16",
-  "next_check": "2026-09-16",
+  "next_check": "2026-09-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,17 @@
       "published": "2026-07-27",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "The framing that Virginia's real challenge is small-business adoption rather than infrastructure signals a gap between data center buildout (concentrated, capital-intensive) and distributed capability development—businesses lack the fluency to leverage AI despite proximity to infrastructure.",
+      "signal_reading": "Guest column highlighting small-business adoption lag signals that while data center infrastructure concentrates in NoVA, practical AI capability remains shallow and unevenly distributed across Virginia's business ecosystem—neither depth nor breadth materializing outside tech hubs.",
       "fetched": "2026-09-16"
     },
     {
-      "title": "3 or 4 data centers could be coming to a former coal mine site in Russell County",
-      "url": "https://cardinalnews.org/2026/09/15/three-or-four-data-centers-could-be-coming-to-a-former-coal-mine-site-in-russell-county/",
+      "title": "New details emerge about Botetourt grid upgrades for Google data center",
+      "url": "https://cardinalnews.org/2026/09/16/new-details-emerge-about-botetourt-grid-upgrades-for-google-data-center/",
       "source": "Cardinal News",
-      "published": "2026-09-15",
+      "published": "2026-09-16",
       "region": "Southwest",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Data centers coming to former coal sites in Russell County represents infrastructure concentration without evidence of local AI capability building—capital flows to Appalachia for power and land, not for distributed workforce development or deep technical adoption.",
+      "signal_reading": "Google's $264M grid infrastructure investment in Botetourt concentrates deep AI compute capability in Southwest Virginia, but as datacenter infrastructure rather than distributed workforce capability—creating geographic pockets of technical excellence without necessarily building local AI fluency.",
       "fetched": "2026-09-16"
     },
     {
@@ -37,27 +37,27 @@
       "published": "2026-09-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator signals deep specialized capability clustering around defense/maritime sectors in Hampton Roads, reinforcing concentrated excellence in specific verticals rather than broad regional AI fluency.",
+      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator signals Hampton Roads developing specialized domain expertise around defense/maritime AI applications, creating a concentrated pocket of deep capability distinct from NoVA's general tech concentration.",
       "fetched": "2026-09-16"
     },
     {
-      "title": "University of Virginia Students Help Businesses Explore AI - GovTech",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFVsSGxwU2FlTENFRVRsbXN5eklGOU5PeFZlY1IxdHBtNmJGLVBJY3R4RUFXZFRySFZpd19KRlpZdjBPMWFwYUVCWnAyOHl5N1dFejVtdDU2M014eXU5eWhiN2JBRXNZTGJmZ21zV0NaZ0dSLUpETWIxUl8xTHA1TFRaNllWZWF3VnJKQjBsZ0t3NjdDYkR4UDdtYXFUbGUxWDl5SQ?oc=5",
-      "source": "GovTech",
-      "published": "2026-09-10",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "UVA students helping businesses explore AI represents peer-to-peer knowledge transfer mechanisms that could distribute practical AI capability beyond metro hubs—a potential pathway from concentrated academic expertise to distributed small-business adoption.",
-      "fetched": "2026-09-16"
-    },
-    {
-      "title": "Virginia Tech researcher weighs in on threats, fears of AI development - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEbjlDZVVhX3MwbEszc1RWLVRnc3c0TWlQZUNUQzVKbXNKOFVvckE5RDJLb241WFhpaEs1SFFITExFT0ZzTnpsQ2EzSU1LOGxiLU0wS2ZOSVRpbUlveXBEWU9LUGdHRXhkZUw0d2Y5aHBsWUtR?oc=5",
-      "source": "WSLS",
+      "title": "Loudoun to consider data center pause, removing by-right grandfather clause",
+      "url": "https://virginiamercury.com/2026/09/14/loudoun-to-consider-data-center-pause-removing-by-right-grandfather-clause/",
+      "source": "Virginia Mercury",
       "published": "2026-09-14",
-      "region": "Roanoke / New River Valley",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech researcher commentary on AI development threats positions the university as a knowledge hub but signals expert concentration rather than broad regional capability—deep technical understanding remains siloed in academic institutions.",
+      "signal_reading": "Loudoun considering data center pause with grandfather clause removal indicates even the most concentrated AI infrastructure region confronting limits to expansion—potentially forcing some distribution of future capability to other Virginia regions.",
+      "fetched": "2026-09-16"
+    },
+    {
+      "title": "6 things to know about the Wood Haven deal that we otherwise don&#8217;t know much about",
+      "url": "https://cardinalnews.org/2026/09/16/6-things-to-know-about-the-wood-haven-deal-that-we-otherwise-dont-know-much-about/",
+      "source": "Cardinal News",
+      "published": "2026-09-16",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Community engagement and transparency questions around Wood Haven Technology Park data center deal in Roanoke signals potential for distributed civic capacity-building—local stakeholders developing fluency to negotiate tech development rather than passively receiving it.",
       "fetched": "2026-09-16"
     }
   ]
