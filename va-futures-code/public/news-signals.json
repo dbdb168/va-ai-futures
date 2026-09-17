@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-17",
   "next_check": "2026-09-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-07-27",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Guest column highlighting small-business adoption lag signals that while data center infrastructure concentrates in NoVA, practical AI capability remains shallow and unevenly distributed across Virginia's business ecosystem—neither depth nor breadth materializing outside tech hubs.",
-      "fetched": "2026-09-16"
+      "signal_reading": "Commentary highlighting that Virginia's small businesses lack AI adoption capability reveals that infrastructure debates (data centers) overshadow the distributed fluency needed for 'Build It Yourself'—signaling shallow penetration beyond metro tech hubs.",
+      "fetched": "2026-09-17"
     },
     {
       "title": "New details emerge about Botetourt grid upgrades for Google data center",
@@ -27,8 +27,8 @@
       "published": "2026-09-16",
       "region": "Southwest",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Google's $264M grid infrastructure investment in Botetourt concentrates deep AI compute capability in Southwest Virginia, but as datacenter infrastructure rather than distributed workforce capability—creating geographic pockets of technical excellence without necessarily building local AI fluency.",
-      "fetched": "2026-09-16"
+      "signal_reading": "A $264M grid upgrade for Google's Botetourt data center demonstrates how AI infrastructure investment concentrates in specific sites rather than distributing capability—Southwest gets physical infrastructure but not necessarily workforce fluency or local AI adoption.",
+      "fetched": "2026-09-17"
     },
     {
       "title": "Israeli AI maritime tech company joins Virginia Beach incubator - The Virginian-Pilot",
@@ -37,28 +37,28 @@
       "published": "2026-09-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator signals Hampton Roads developing specialized domain expertise around defense/maritime AI applications, creating a concentrated pocket of deep capability distinct from NoVA's general tech concentration.",
-      "fetched": "2026-09-16"
+      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator signals Hampton Roads developing sector-specific deep capability tied to its defense/maritime cluster, reinforcing concentrated excellence rather than broad regional AI fluency.",
+      "fetched": "2026-09-17"
     },
     {
-      "title": "Loudoun to consider data center pause, removing by-right grandfather clause",
-      "url": "https://virginiamercury.com/2026/09/14/loudoun-to-consider-data-center-pause-removing-by-right-grandfather-clause/",
+      "title": "7 rural community colleges receive $5.93 million for healthcare training",
+      "url": "https://virginiamercury.com/2026/09/16/seven-rural-community-colleges-receive-5-93-million-for-healthcare-training/",
       "source": "Virginia Mercury",
-      "published": "2026-09-14",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Loudoun considering data center pause with grandfather clause removal indicates even the most concentrated AI infrastructure region confronting limits to expansion—potentially forcing some distribution of future capability to other Virginia regions.",
-      "fetched": "2026-09-16"
+      "published": "2026-09-16",
+      "region": "Southside / Shenandoah Valley / Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Nearly $6M for healthcare training at rural community colleges creates distributed infrastructure for workforce upskilling—if AI-enabled healthcare tools are integrated, this could seed broad fluency outside metro concentration zones.",
+      "fetched": "2026-09-17"
     },
     {
       "title": "6 things to know about the Wood Haven deal that we otherwise don&#8217;t know much about",
       "url": "https://cardinalnews.org/2026/09/16/6-things-to-know-about-the-wood-haven-deal-that-we-otherwise-dont-know-much-about/",
       "source": "Cardinal News",
       "published": "2026-09-16",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Community engagement and transparency questions around Wood Haven Technology Park data center deal in Roanoke signals potential for distributed civic capacity-building—local stakeholders developing fluency to negotiate tech development rather than passively receiving it.",
-      "fetched": "2026-09-16"
+      "region": "Southwest / Roanoke",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Opaque data center negotiations at Wood Haven Technology Park follow NoVA's concentration playbook—Southwest risks becoming infrastructure host without capturing the workforce development or entrepreneurial spillovers that create deep local capability.",
+      "fetched": "2026-09-17"
     }
   ]
 }
