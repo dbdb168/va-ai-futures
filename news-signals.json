@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17",
-  "next_check": "2026-09-17",
+  "last_updated": "2026-10-28",
+  "next_check": "2026-10-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
-      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - Richmond Times-Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
-      "source": "Richmond Times-Dispatch",
-      "published": "2026-07-27",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Commentary highlighting that Virginia's small businesses lack AI adoption capability reveals that infrastructure debates (data centers) overshadow the distributed fluency needed for 'Build It Yourself'—signaling shallow penetration beyond metro tech hubs.",
-      "fetched": "2026-09-17"
-    },
-    {
-      "title": "New details emerge about Botetourt grid upgrades for Google data center",
-      "url": "https://cardinalnews.org/2026/09/16/new-details-emerge-about-botetourt-grid-upgrades-for-google-data-center/",
+      "title": "Southwest and Southside Virginia’s advanced manufacturing tech hub to receive about $25 million in federal supplemental disaster funding meant for economic development",
+      "url": "https://cardinalnews.org/2026/10/28/southwest-and-southside-virginias-advanced-manufacturing-tech-hub-to-receive-about-25-million-in-federal-supplemental-disaster-funding-meant-for-economic-development/",
       "source": "Cardinal News",
-      "published": "2026-09-16",
-      "region": "Southwest",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A $264M grid upgrade for Google's Botetourt data center demonstrates how AI infrastructure investment concentrates in specific sites rather than distributing capability—Southwest gets physical infrastructure but not necessarily workforce fluency or local AI adoption.",
-      "fetched": "2026-09-17"
-    },
-    {
-      "title": "Israeli AI maritime tech company joins Virginia Beach incubator - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XdTZoZkpra25rd0ZXMjBwcHUwYzRwUC1OeGlzRDMwM0dYNUFYX2RtWUFpZlZYMGNrWFdHQ0s0U2RUOFVGbUFQTnpWcUFIYVNJY2VROW5YNXdwcF90bU01TFEyQnd6SkNmVE5PUXVXdw?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-09-14",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Israeli maritime AI firm joining Virginia Beach incubator signals Hampton Roads developing sector-specific deep capability tied to its defense/maritime cluster, reinforcing concentrated excellence rather than broad regional AI fluency.",
-      "fetched": "2026-09-17"
-    },
-    {
-      "title": "7 rural community colleges receive $5.93 million for healthcare training",
-      "url": "https://virginiamercury.com/2026/09/16/seven-rural-community-colleges-receive-5-93-million-for-healthcare-training/",
-      "source": "Virginia Mercury",
-      "published": "2026-09-16",
-      "region": "Southside / Shenandoah Valley / Southwest",
+      "published": "2026-10-28",
+      "region": "Southwest & Southside",
       "scenario": "Build It Yourself",
-      "signal_reading": "Nearly $6M for healthcare training at rural community colleges creates distributed infrastructure for workforce upskilling—if AI-enabled healthcare tools are integrated, this could seed broad fluency outside metro concentration zones.",
-      "fetched": "2026-09-17"
+      "signal_reading": "Federal investment in advanced manufacturing tech hub for historically underserved regions signals intentional distribution of technical capability beyond traditional metros, though success depends on whether training creates deep AI fluency or shallow tool adoption among 60,000 workers.",
+      "fetched": "2026-10-28"
     },
     {
-      "title": "6 things to know about the Wood Haven deal that we otherwise don&#8217;t know much about",
-      "url": "https://cardinalnews.org/2026/09/16/6-things-to-know-about-the-wood-haven-deal-that-we-otherwise-dont-know-much-about/",
-      "source": "Cardinal News",
-      "published": "2026-09-16",
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
       "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents grassroots institutional capacity-building outside metro centers, creating leadership training infrastructure that could enable peer-to-peer knowledge networks rather than platform dependence—a classic 'deep & distributed' signal if it scales beyond single institution.",
+      "fetched": "2026-10-28"
+    },
+    {
+      "title": "Norfolk uses artificial intelligence to handle thousands of non-emergency calls - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnpLaFM3N2JXVmZHd19CZEdrLVFMOGRJdVdyeE5XOHVmY3dpWThXRmp3UlFTakNmUGktdnAtWEQyR2tPZDM0dzY5RmJHSHJsLWdVVVI5SmRIQUdDd0NEYTRvTlFiLThGZzRkN0sxTlZWYVhZR2RfYnN0UTRWWDlISzEweTNzTndIVEljalktdzJ3c0lza2lxVUtsa2REbzlYbVZkMkdvaVU2WkFYTjNqSVRWWFZMdzZ3TlVWNDg1cUJzQkNmQjRTd3lB?oc=5",
+      "source": "WTKR",
+      "published": "2026-10-17",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk's AI deployment for non-emergency calls demonstrates distributed geographic adoption but shallow engagement—government purchasing turnkey platforms rather than building internal AI capability, signaling broad but surface-level adoption across Virginia's military-industrial region.",
+      "fetched": "2026-10-28"
+    },
+    {
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-23",
+      "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Amazon canceling four NoVA data centers amid local backlash reveals infrastructure resistance even in Virginia's most AI-ready region, potentially constraining the state's computational capacity growth and signaling political barriers to both concentration and distribution pathways.",
+      "fetched": "2026-10-28"
+    },
+    {
+      "title": "Sentara hospitals are using AI to help monitor patients, determine discharge timelines",
+      "url": "https://virginiamercury.com/2026/10/26/sentara-hospitals-are-using-ai-to-help-monitor-patients-determine-discharge-timelines/",
+      "source": "Virginia Mercury",
+      "published": "2026-10-26",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Opaque data center negotiations at Wood Haven Technology Park follow NoVA's concentration playbook—Southwest risks becoming infrastructure host without capturing the workforce development or entrepreneurial spillovers that create deep local capability.",
-      "fetched": "2026-09-17"
+      "signal_reading": "Sentara's AI deployment for patient monitoring concentrates advanced healthcare capability in established medical systems with capital and expertise, deepening institutional AI sophistication while leaving smaller rural providers further behind in care quality and operational efficiency.",
+      "fetched": "2026-10-28"
     }
   ]
 }
