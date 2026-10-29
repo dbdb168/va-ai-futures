@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-29",
   "next_check": "2026-10-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,34 +11,34 @@
   ],
   "signals": [
     {
-      "title": "Southwest and Southside Virginia’s advanced manufacturing tech hub to receive about $25 million in federal supplemental disaster funding meant for economic development",
-      "url": "https://cardinalnews.org/2026/10/28/southwest-and-southside-virginias-advanced-manufacturing-tech-hub-to-receive-about-25-million-in-federal-supplemental-disaster-funding-meant-for-economic-development/",
-      "source": "Cardinal News",
-      "published": "2026-10-28",
-      "region": "Southwest & Southside",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Federal investment in advanced manufacturing tech hub for historically underserved regions signals intentional distribution of technical capability beyond traditional metros, though success depends on whether training creates deep AI fluency or shallow tool adoption among 60,000 workers.",
-      "fetched": "2026-10-28"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
+      "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-10-04",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents grassroots institutional capacity-building outside metro centers, creating leadership training infrastructure that could enable peer-to-peer knowledge networks rather than platform dependence—a classic 'deep & distributed' signal if it scales beyond single institution.",
-      "fetched": "2026-10-28"
+      "scenario": "AI Ready Roanoke",
+      "signal_reading": "A multi-stakeholder initiative to evaluate AI deployment across the Roanoke Valley signals intentional capacity-building outside traditional tech hubs, potentially advancing distributed adoption if it moves beyond assessment to implementation and skills development.",
+      "fetched": "2026-10-29"
     },
     {
-      "title": "Norfolk uses artificial intelligence to handle thousands of non-emergency calls - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnpLaFM3N2JXVmZHd19CZEdrLVFMOGRJdVdyeE5XOHVmY3dpWThXRmp3UlFTakNmUGktdnAtWEQyR2tPZDM0dzY5RmJHSHJsLWdVVVI5SmRIQUdDd0NEYTRvTlFiLThGZzRkN0sxTlZWYVhZR2RfYnN0UTRWWDlISzEweTNzTndIVEljalktdzJ3c0lza2lxVUtsa2REbzlYbVZkMkdvaVU2WkFYTjNqSVRWWFZMdzZ3TlVWNDg1cUJzQkNmQjRTd3lB?oc=5",
-      "source": "WTKR",
-      "published": "2026-10-17",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's AI deployment for non-emergency calls demonstrates distributed geographic adoption but shallow engagement—government purchasing turnkey platforms rather than building internal AI capability, signaling broad but surface-level adoption across Virginia's military-industrial region.",
-      "fetched": "2026-10-28"
+      "title": "SWVA leaders discuss AI in classrooms at symposium - WJHL",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzNmS3pzS1B1emREb0syT2hVRUJtYU5VeFF0ZlExcmQyNEpMd0RCS2xyT1EwZTBmeG5zRnhYNlJ6a1htczRYcExLTEVGXzgwZ2JXR2hYdDJkLURObERpdktPV3J0X1g5YXlBRzlIOTViakJHNjBfYWJ2eVBsaVNfOEN4MDVydlJBSDZn0gGQAUFVX3lxTE50NFc5MzJXMVVFcC1jY0FLYUcwWERKNm9pZWNPVXoxOHBLcElTWGxDbGZGbE1IZnprdFpFUVNMM184T1NUdlJPOExKVUhNSmw4NjlwdHFKM19XN1lYYzJKZG5HejZWeDA5RnRBeGlicXNCRGJ0bXdpZkVLb3VTVmNTcXNUaXYteGUzX3U3d3JhVA?oc=5",
+      "source": "WJHL",
+      "published": "2026-10-28",
+      "region": "Southwest",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Regional leaders convening to discuss classroom AI integration in Southwest Virginia demonstrates distributed agency and peer learning networks forming outside metro centers, though depth depends on whether discussions translate to genuine pedagogical transformation versus surface-level tool adoption.",
+      "fetched": "2026-10-29"
+    },
+    {
+      "title": "Sentara hospitals are using AI to help monitor patients, determine discharge timelines",
+      "url": "https://virginiamercury.com/2026/10/26/sentara-hospitals-are-using-ai-to-help-monitor-patients-determine-discharge-timelines/",
+      "source": "Virginia Mercury",
+      "published": "2026-10-26",
+      "region": "Statewide (Hampton Roads base)",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Sentara's deployment of AI for patient monitoring and discharge planning concentrates advanced healthcare AI capability within an existing institutional hub, creating deep technical capacity that may not readily diffuse to smaller healthcare providers across rural Virginia.",
+      "fetched": "2026-10-29"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -47,18 +47,18 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling four NoVA data centers amid local backlash reveals infrastructure resistance even in Virginia's most AI-ready region, potentially constraining the state's computational capacity growth and signaling political barriers to both concentration and distribution pathways.",
-      "fetched": "2026-10-28"
+      "signal_reading": "Amazon scrapping four NoVA data center plans due to backlash signals that even concentrated infrastructure development faces resistance, potentially stalling both the physical layer needed for distributed AI access and the local economic multiplier effects that could fund broader digital equity initiatives.",
+      "fetched": "2026-10-29"
     },
     {
-      "title": "Sentara hospitals are using AI to help monitor patients, determine discharge timelines",
-      "url": "https://virginiamercury.com/2026/10/26/sentara-hospitals-are-using-ai-to-help-monitor-patients-determine-discharge-timelines/",
-      "source": "Virginia Mercury",
-      "published": "2026-10-26",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Sentara's AI deployment for patient monitoring concentrates advanced healthcare capability in established medical systems with capital and expertise, deepening institutional AI sophistication while leaving smaller rural providers further behind in care quality and operational efficiency.",
-      "fetched": "2026-10-28"
+      "title": "CAREER CORNER: Greater Roanoke workforce board joins five-board Appalachian Advancement initiative - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNUh0Z0NLYmp4akNHV3dIZFV6a1JEUWRwMnpnSEtxc3g5UkRWM0wyd1dZdXBVTlNxSUg3UVRscUxFNWJ6V0VZVHJXemZRUHo2UEo2LU5vVnh6dF96b00zTDV4bmFTRmdtNEs4ZWVkYjhCZXA4ZUtHc1Jlc1NucERwN2tuV1A5N3F0azNIWHlPVmphTWoxZDFfOWpZbGVDT0xkWkJsdk01TWVZMW1rV2tiRFhXMnhXcXA2TjBkY0xWZ1NNVGdrbzhrdS1MY9IB3wFBVV95cUxQakR3anRiUktvZVhHTGprZlZLN0lJOUtoaVo1OGpoYk1ZcHBoaDcxZDYwRUxlUlo5YVVqOUJodjJUREN6RnlZNlR1Z2YzcE93d0xyN3RMUTE5OVRfZkZjcEhlbzl0MnFZNmVMaU1Bd2d6cmN3YmQ2cVROcmNyLXYybEpYNDdpbkVmcXQzM1huWlhBOFBwT0oyV3VPMVk1Q19pdFRKYXhENElBWk5ZWHllZmNoaTAwRXRpbjFHTUZzX1NVcnRXMXR2a0I1aGRCWUx4WV8wU29NcjdiSU45RU1Z?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-10-28",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A five-board Appalachian workforce initiative spanning multiple regions demonstrates distributed coalition-building for economic advancement, creating potential peer networks for AI skills development if technology adoption becomes an explicit focus of cross-regional collaboration.",
+      "fetched": "2026-10-29"
     }
   ]
 }
