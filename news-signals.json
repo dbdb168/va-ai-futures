@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-10-29",
-  "next_check": "2026-10-29",
+  "next_check": "2026-10-30",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,18 +16,28 @@
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
-      "scenario": "AI Ready Roanoke",
-      "signal_reading": "A multi-stakeholder initiative to evaluate AI deployment across the Roanoke Valley signals intentional capacity-building outside traditional tech hubs, potentially advancing distributed adoption if it moves beyond assessment to implementation and skills development.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A regional initiative explicitly evaluating AI adoption in the Roanoke Valley signals grassroots capability-building outside traditional tech hubs, suggesting potential for distributed deep learning if sustained beyond evaluation phase.",
       "fetched": "2026-10-29"
     },
     {
-      "title": "SWVA leaders discuss AI in classrooms at symposium - WJHL",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzNmS3pzS1B1emREb0syT2hVRUJtYU5VeFF0ZlExcmQyNEpMd0RCS2xyT1EwZTBmeG5zRnhYNlJ6a1htczRYcExLTEVGXzgwZ2JXR2hYdDJkLURObERpdktPV3J0X1g5YXlBRzlIOTViakJHNjBfYWJ2eVBsaVNfOEN4MDVydlJBSDZn0gGQAUFVX3lxTE50NFc5MzJXMVVFcC1jY0FLYUcwWERKNm9pZWNPVXoxOHBLcElTWGxDbGZGbE1IZnprdFpFUVNMM184T1NUdlJPOExKVUhNSmw4NjlwdHFKM19XN1lYYzJKZG5HejZWeDA5RnRBeGlicXNCRGJ0bXdpZkVLb3VTVmNTcXNUaXYteGUzX3U3d3JhVA?oc=5",
-      "source": "WJHL",
-      "published": "2026-10-28",
-      "region": "Southwest",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Regional leaders convening to discuss classroom AI integration in Southwest Virginia demonstrates distributed agency and peer learning networks forming outside metro centers, though depth depends on whether discussions translate to genuine pedagogical transformation versus surface-level tool adoption.",
+      "title": "Virginia's AI challenge isn't data centers. It's small-business adoption | Guest column - Richmond Times-Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXFCakJfVTdCU0JORDYxTmpxU016cFVjU1kxREtudzdNR2VDMDl3NElZTzNXYjdEeGdlRXdJYjRsMXJNNzRjT3JXM0VNampTazFCdVpxTU1Ic0Z5S0wwX3d2Rm5kOXFOZU1WWVBIQzVsZnMzcDZlTmN5M3RiczkxYWVFejlvUjQ0Rm5zaGtB?oc=5",
+      "source": "Richmond Times-Dispatch",
+      "published": "2026-07-27",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "This commentary explicitly identifies small-business adoption as Virginia's real AI challenge, signaling that infrastructure concentration (data centers) is not translating to distributed capability—a hallmark of shallow/concentrated outcomes.",
+      "fetched": "2026-10-29"
+    },
+    {
+      "title": "Virginia advanced manufacturing hub receives $24.8M federal grant",
+      "url": "https://virginiabusiness.com/24-8-million-eda-virginia-advanced-manufacturing-tech-hub/",
+      "source": "Virginia Business",
+      "published": "2026-10-29",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Federal funding for advanced manufacturing hubs risks reinforcing concentrated expertise unless deliberately distributed across regions; the $24.8M investment likely flows to existing capability centers rather than building new ones in underserved areas.",
       "fetched": "2026-10-29"
     },
     {
@@ -35,29 +45,19 @@
       "url": "https://virginiamercury.com/2026/10/26/sentara-hospitals-are-using-ai-to-help-monitor-patients-determine-discharge-timelines/",
       "source": "Virginia Mercury",
       "published": "2026-10-26",
-      "region": "Statewide (Hampton Roads base)",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Sentara's platform-delivered AI for patient monitoring represents shallow but distributed adoption—healthcare systems implementing vendor solutions without building deep internal AI capability, extending reach but not depth.",
+      "fetched": "2026-10-29"
+    },
+    {
+      "title": "Mace AI funds AI safety research at University of Virginia’s School of Data Science (UVA) - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGFrR2Z5Wml3UG1iZzlsOXNpUVRJTGxsVXpHY3Q2bk9KaU92OHdTRFdHS0tzVFV5em5FVlNhNUhZZXpWUzFhcmlDSEJ3RjFMUWgtMFNLNkNqWTNjZy1zeWFKUnZjZndId1FNcWtVNVlVOG90Q1BNWkVaQWkwWjlMSW5tV2RwcWRzSGpuQWNMajNtZzAwNTJUUjFlaUxrMjl5UFdlcDRubGZ1YzN6S2pVX2V1WjJxNGliX3UxTzRZVmliam0tdzNqTXZrRXhSa0p5bTNsQ29Nc00ydEtD?oc=5",
+      "source": "TheStreet",
+      "published": "2026-10-29",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Sentara's deployment of AI for patient monitoring and discharge planning concentrates advanced healthcare AI capability within an existing institutional hub, creating deep technical capacity that may not readily diffuse to smaller healthcare providers across rural Virginia.",
-      "fetched": "2026-10-29"
-    },
-    {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon scrapping four NoVA data center plans due to backlash signals that even concentrated infrastructure development faces resistance, potentially stalling both the physical layer needed for distributed AI access and the local economic multiplier effects that could fund broader digital equity initiatives.",
-      "fetched": "2026-10-29"
-    },
-    {
-      "title": "CAREER CORNER: Greater Roanoke workforce board joins five-board Appalachian Advancement initiative - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNUh0Z0NLYmp4akNHV3dIZFV6a1JEUWRwMnpnSEtxc3g5UkRWM0wyd1dZdXBVTlNxSUg3UVRscUxFNWJ6V0VZVHJXemZRUHo2UEo2LU5vVnh6dF96b00zTDV4bmFTRmdtNEs4ZWVkYjhCZXA4ZUtHc1Jlc1NucERwN2tuV1A5N3F0azNIWHlPVmphTWoxZDFfOWpZbGVDT0xkWkJsdk01TWVZMW1rV2tiRFhXMnhXcXA2TjBkY0xWZ1NNVGdrbzhrdS1MY9IB3wFBVV95cUxQakR3anRiUktvZVhHTGprZlZLN0lJOUtoaVo1OGpoYk1ZcHBoaDcxZDYwRUxlUlo5YVVqOUJodjJUREN6RnlZNlR1Z2YzcE93d0xyN3RMUTE5OVRfZkZjcEhlbzl0MnFZNmVMaU1Bd2d6cmN3YmQ2cVROcmNyLXYybEpYNDdpbkVmcXQzM1huWlhBOFBwT0oyV3VPMVk1Q19pdFRKYXhENElBWk5ZWHllZmNoaTAwRXRpbjFHTUZzX1NVcnRXMXR2a0I1aGRCWUx4WV8wU29NcjdiSU45RU1Z?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-10-28",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A five-board Appalachian workforce initiative spanning multiple regions demonstrates distributed coalition-building for economic advancement, creating potential peer networks for AI skills development if technology adoption becomes an explicit focus of cross-regional collaboration.",
+      "signal_reading": "Private AI safety research funding at UVA's Data Science School deepens metro academic capability but concentrates cutting-edge expertise in established research institutions rather than distributing knowledge infrastructure regionally.",
       "fetched": "2026-10-29"
     }
   ]
