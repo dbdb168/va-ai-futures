@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-10-30",
-  "next_check": "2026-10-30",
+  "next_check": "2026-10-31",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Virginia advanced manufacturing hub receives $24.8M federal grant",
-      "url": "https://virginiabusiness.com/24-8-million-eda-virginia-advanced-manufacturing-tech-hub/",
-      "source": "Virginia Business",
+      "title": "PingThings to expand use of AI platform across Dominion Energy Virginia's grid data - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzk4VGF6MjhibDREeUVMSmRqcGtmbTBLRGhFdXNxX2ZOdzIyNXNYcGp0M0RXVzhqY3VLWTNlVFB5ekZDVl81M2wtYnFwLWp1cWk1VUpWUGVmRm1IdVFTZGgydjdrSm1zMW5vNWZDV1dCWUJCZEF5R3UwRTczMFlhODdEN1hmanRYU1g3VldkaDdRbzI2bjZ0NWdibkMwSTdFS1lxQ1o1ZzNuTGp3cFp4Ty05QUhnNkNGQnBvbjM2dWFBRi1G?oc=5",
+      "source": "Data Center Dynamics",
       "published": "2026-10-29",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A $24.8M federal investment in advanced manufacturing infrastructure could enable distributed AI capability development across Virginia's manufacturing regions if knowledge networks form beyond initial hub concentration points.",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "PingThings' AI platform expanding across Dominion's grid concentrates deep technical capability in NoVA's data center ecosystem while potentially creating statewide infrastructure benefits—a classic hub-and-spoke pattern that may widen rather than close regional capability gaps.",
       "fetched": "2026-10-30"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-07-27",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Explicit acknowledgment that Virginia's AI challenge centers on small-business adoption gaps signals the current reality of shallow, uneven distribution despite infrastructure investments—the core diagnostic of scenario four.",
+      "signal_reading": "This op-ed explicitly identifies the core problem: Virginia fixates on data center infrastructure while small businesses lack AI adoption pathways, signaling shallow engagement beyond metro hubs and missing the distributed capability-building that would enable 'Build It Yourself' scenarios.",
       "fetched": "2026-10-30"
     },
     {
@@ -35,9 +35,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGtyOHhaOG4tZU45OXlwMHlIMEJOdHJiYUlHbVpyYU9mbnMxeWloNmFUR1ZDUGtjcllQZ1JOenIxdnJ1M2s1SWE4WHh1cUxmaTBScXhtQ0ZXSFEteFdBdWthZzlxWFp2RzZxdUptbXVqc1JEdGZHam9ESW1hX0hUOXZSb3NOaFEydVZrVnVNVWpVTDdKVlo4SFlBWmNxcmFtaFdsWTh0a9IBuwFBVV95cUxOS3d1bkR5dE01cklHSllhYUFqZU5xeUpWZktUU0NrZkJ0ZTQwR052NFFFMEVVdEJudjAtd0dsRENkelVTaUZMdGR3ck9TUHNZRU14NEJlUW85eTBVcWNOc2RDQ3hFNUtiNFoxb2Nib3ZmT3JoaHNvYWt4RFlzVW1yWmRFQWExM0pzRnJEY1RYc000d2MxRGRSMlBfblp6LVBfWFZSNDNfQW9XRlE0ZU1JOE5JSkZISHA1NV9v?oc=5",
       "source": "WDBJ7",
       "published": "2026-10-29",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's applied AI research for wildlife detection demonstrates deep technical capability in the New River Valley, but remains institutionally contained rather than diffusing into regional business ecosystems.",
+      "region": "Southwest / Roanoke (New River Valley)",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech's applied AI research on wildlife detection demonstrates deep, locally-developed technical capability emerging outside NoVA—exactly the kind of distributed expertise and problem-solving that could seed peer networks across rural regions.",
       "fetched": "2026-10-30"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-10-29",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "External AI safety funding flowing to UVA's School of Data Science reinforces metro concentration of advanced AI capability within academic institutions, creating excellence silos without clear pathways to distributed implementation.",
+      "signal_reading": "Mace AI funding for UVA's School of Data Science concentrates advanced AI safety research in an academic hub, creating deep capability but raising questions about knowledge transfer to Virginia's broader business ecosystem and underserved regions.",
       "fetched": "2026-10-30"
     },
     {
-      "title": "CAREER CORNER: Greater Roanoke workforce board joins five-board Appalachian Advancement initiative - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNUh0Z0NLYmp4akNHV3dIZFV6a1JEUWRwMnpnSEtxc3g5UkRWM0wyd1dZdXBVTlNxSUg3UVRscUxFNWJ6V0VZVHJXemZRUHo2UEo2LU5vVnh6dF96b00zTDV4bmFTRmdtNEs4ZWVkYjhCZXA4ZUtHc1Jlc1NucERwN2tuV1A5N3F0azNIWHlPVmphTWoxZDFfOWpZbGVDT0xkWkJsdk01TWVZMW1rV2tiRFhXMnhXcXA2TjBkY0xWZ1NNVGdrbzhrdS1MY9IB3wFBVV95cUxQakR3anRiUktvZVhHTGprZlZLN0lJOUtoaVo1OGpoYk1ZcHBoaDcxZDYwRUxlUlo5YVVqOUJodjJUREN6RnlZNlR1Z2YzcE93d0xyN3RMUTE5OVRfZkZjcEhlbzl0MnFZNmVMaU1Bd2d6cmN3YmQ2cVROcmNyLXYybEpYNDdpbkVmcXQzM1huWlhBOFBwT0oyV3VPMVk1Q19pdFRKYXhENElBWk5ZWHllZmNoaTAwRXRpbjFHTUZzX1NVcnRXMXR2a0I1aGRCWUx4WV8wU29NcjdiSU45RU1Z?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-10-28",
-      "region": "Southwest",
+      "title": "Roanoke County Schools opens new career and technology center - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0xrUGdWckpTVjFNMzN3N2I4amltSldTUVZUNmdic0hjN29kd2Z2R1hMOFE0dTBNVGpVNEgwZ0ZuQlhTMzNhNUlMcUJIamQzb1JQUTVWUUEzVGQyLU1DTi1kbWdreTdfTkNtZFNyTS1KSkhib19IeF9NZ3NXcGFOQVVPakhjcER5TVpIckltNUtUM0s3cjJ5NGotUmdZbXFxUk5MaEwtcnc?oc=5",
+      "source": "WSLS",
+      "published": "2026-10-22",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Five workforce boards forming an Appalachian Advancement initiative signals potential for peer-network-driven capability building in historically underserved regions, the essential infrastructure for distributed AI fluency beyond metro centers.",
+      "signal_reading": "Roanoke County's new career and technology center represents critical infrastructure for distributed technical workforce development—if curriculum includes AI/automation skills, it could enable the peer-to-peer capability building that distinguishes 'Build It Yourself' from shallow platform adoption.",
       "fetched": "2026-10-30"
     }
   ]
