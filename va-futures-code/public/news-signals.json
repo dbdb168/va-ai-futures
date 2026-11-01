@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31",
+  "last_updated": "2026-11-01",
   "next_check": "2026-11-01",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -15,20 +15,30 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
-      "region": "Southwest / Roanoke",
-      "scenario": "AI Ready Roanoke",
-      "signal_reading": "A deliberate regional initiative to evaluate AI adoption across the Roanoke Valley signals potential movement toward Build It Yourself—but success depends on whether evaluation translates into distributed capability-building or remains consultant-driven and shallow.",
-      "fetched": "2026-10-31"
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Community-driven AI fluency initiative in Roanoke Valley signals grassroots capability building outside major metros, representing distributed peer learning that could bridge the metro-rural divide if sustained beyond initial evaluation phase.",
+      "fetched": "2026-11-01"
     },
     {
-      "title": "Virginia Tech tests thermal cameras and AI to warn drivers of animals near roads - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGtyOHhaOG4tZU45OXlwMHlIMEJOdHJiYUlHbVpyYU9mbnMxeWloNmFUR1ZDUGtjcllQZ1JOenIxdnJ1M2s1SWE4WHh1cUxmaTBScXhtQ0ZXSFEteFdBdWthZzlxWFp2RzZxdUptbXVqc1JEdGZHam9ESW1hX0hUOXZSb3NOaFEydVZrVnVNVWpVTDdKVlo4SFlBWmNxcmFtaFdsWTh0a9IBuwFBVV95cUxOS3d1bkR5dE01cklHSllhYUFqZU5xeUpWZktUU0NrZkJ0ZTQwR052NFFFMEVVdEJudjAtd0dsRENkelVTaUZMdGR3ck9TUHNZRU14NEJlUW85eTBVcWNOc2RDQ3hFNUtiNFoxb2Nib3ZmT3JoaHNvYWt4RFlzVW1yWmRFQWExM0pzRnJEY1RYc000d2MxRGRSMlBfblp6LVBfWFZSNDNfQW9XRlE0ZU1JOE5JSkZISHA1NV9v?oc=5",
-      "source": "WDBJ7",
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-23",
+      "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Amazon's cancellation of four NoVA data centers reflects infrastructure backlash without evidence of local AI capability development—communities rejecting concentration while lacking distributed alternatives, potentially leaving the region with neither depth nor broad adoption.",
+      "fetched": "2026-11-01"
+    },
+    {
+      "title": "Amazon partnership advances AI and cybersecurity education at the Cyber Range - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14Yl9YRnltcW4zRnplMzlQYnN4X3M0ZGUxSGppOElRTTBUWHhCSVdLUEdudXlHUVc4aFRBNWNrdkVoazZzV25DQ0paTFZlZ3ZQOWRqYXVBVVlXRG5jQTlaN3NBYURnZ0g0N2tfZGlITzRRY0c0c3NBOXdn?oc=5",
+      "source": "Virginia Tech News",
       "published": "2026-10-29",
-      "region": "Southwest / Roanoke (Virginia Tech)",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's deployment of AI thermal cameras for wildlife detection demonstrates deep technical capability concentrated in university research centers, but impact on regional AI fluency depends on whether this expertise diffuses to surrounding communities or remains academically siloed.",
-      "fetched": "2026-10-31"
+      "signal_reading": "Amazon-Virginia Tech Cyber Range partnership deepens institutional AI/cybersecurity expertise but concentrates advanced learning in established tech education hubs, reinforcing capability concentration unless workforce pipelines actively distribute graduates to underserved regions.",
+      "fetched": "2026-11-01"
     },
     {
       "title": "Virginia Orders AI Cybersecurity Plan as States Fill Federal Safety Gaps - PYMNTS.com",
@@ -37,28 +47,18 @@
       "published": "2026-10-26",
       "region": "Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "A state-mandated AI cybersecurity plan creates uniform policy infrastructure that could enable broad platform-based adoption across agencies, but without deeper capability-building it risks creating shallow, vendor-dependent implementation across all regions.",
-      "fetched": "2026-10-31"
+      "signal_reading": "Statewide AI cybersecurity planning directive creates potential for distributed platform-based AI adoption across state agencies, but top-down mandate risks shallow implementation without deep technical capacity building in regional government offices.",
+      "fetched": "2026-11-01"
     },
     {
-      "title": "PingThings to expand use of AI platform across Dominion Energy Virginia's grid data - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzk4VGF6MjhibDREeUVMSmRqcGtmbTBLRGhFdXNxX2ZOdzIyNXNYcGp0M0RXVzhqY3VLWTNlVFB5ekZDVl81M2wtYnFwLWp1cWk1VUpWUGVmRm1IdVFTZGgydjdrSm1zMW5vNWZDV1dCWUJCZEF5R3UwRTczMFlhODdEN1hmanRYU1g3VldkaDdRbzI2bjZ0NWdibkMwSTdFS1lxQ1o1ZzNuTGp3cFp4Ty05QUhnNkNGQnBvbjM2dWFBRi1G?oc=5",
-      "source": "Data Center Dynamics",
+      "title": "Virginia Tech tests thermal cameras and AI to warn drivers of animals near roads - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGtyOHhaOG4tZU45OXlwMHlIMEJOdHJiYUlHbVpyYU9mbnMxeWloNmFUR1ZDUGtjcllQZ1JOenIxdnJ1M2s1SWE4WHh1cUxmaTBScXhtQ0ZXSFEteFdBdWthZzlxWFp2RzZxdUptbXVqc1JEdGZHam9ESW1hX0hUOXZSb3NOaFEydVZrVnVNVWpVTDdKVlo4SFlBWmNxcmFtaFdsWTh0a9IBuwFBVV95cUxOS3d1bkR5dE01cklHSllhYUFqZU5xeUpWZktUU0NrZkJ0ZTQwR052NFFFMEVVdEJudjAtd0dsRENkelVTaUZMdGR3ck9TUHNZRU14NEJlUW85eTBVcWNOc2RDQ3hFNUtiNFoxb2Nib3ZmT3JoaHNvYWt4RFlzVW1yWmRFQWExM0pzRnJEY1RYc000d2MxRGRSMlBfblp6LVBfWFZSNDNfQW9XRlE0ZU1JOE5JSkZISHA1NV9v?oc=5",
+      "source": "WDBJ7",
       "published": "2026-10-29",
-      "region": "Statewide (via Dominion Energy/NoVA infrastructure)",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "PingThings' AI platform expansion across Dominion's grid data concentrates advanced analytics capability within utility infrastructure centered in NoVA, creating energy-sector AI expertise that may not transfer to broader workforce development in underserved regions.",
-      "fetched": "2026-10-31"
-    },
-    {
-      "title": "Roanoke County Career and Technology Center opens - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNelpfcHBrd3Z4UVFzLUtKUkp3b3U1UnNjQnF4SGVWVFREMWgxWFY3R2hMQlY2Ym9mTkpRV1lUY3U5N3B1aTdBbjFWY3J6NmE0VjkyMmxtbVRsMzc2QVBMZUhOTlpaMXZkZWp0dlV4VHVZT2hEWmVfazc2UXAteG95cWxjOUREQXhSdVE5XzNyeTU2TXMwekZmbw?oc=5",
-      "source": "WSLS",
-      "published": "2026-10-22",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Opening a new Career and Technology Center in Roanoke County creates physical infrastructure for hands-on technical skill development in a non-metro region—a necessary but insufficient condition for deep distributed AI capability unless curriculum actively builds AI fluency rather than legacy vocational tracks.",
-      "fetched": "2026-10-31"
+      "signal_reading": "Virginia Tech's applied AI research for wildlife collision prevention demonstrates deep technical capability emanating from academic centers, but practical deployment requires transfer mechanisms to distribute AI problem-solving capacity to transportation departments statewide.",
+      "fetched": "2026-11-01"
     }
   ]
 }
