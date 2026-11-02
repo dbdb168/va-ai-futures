@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-02",
-  "next_check": "2026-11-02",
+  "next_check": "2026-11-03",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,23 @@
   ],
   "signals": [
     {
+      "title": "Gleb Tsipursky | Virginia’s AI training needs a first job at the other end - Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0xrVmhidzNyZUFKNHNZcmFZWTczelJzbHBCVnpraDdVS0tSbG5oSy1xWXpaVUZkaFVyNEF4MEZsUVloa2ZrM2pFdmtrUWVPd1FCSkcxZ2Z6UzV6dWZDYW85MEUzNWpwZTdZbFE5VmlUNFFKSUpCVk1kaktsN0pXZTgwWF9HY2hDM1JlYmZUb2E2RWVzaF9MMWoxaUlocEtaOWZtYUx2VGREUQ?oc=5",
+      "source": "Augusta Free Press",
+      "published": "2026-11-02",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Training workers for AI roles without corresponding job infrastructure creates a skills-employment mismatch that signals shallow adoption—people trained but no depth of implementation to absorb them, particularly outside metro hubs.",
+      "fetched": "2026-11-02"
+    },
+    {
       "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "A locally-branded AI readiness initiative in the Roanoke Valley signals grassroots capability-building outside traditional tech hubs, though success depends on whether evaluation translates into actual deployment and skill development across the regional economy.",
+      "signal_reading": "A community-driven initiative to evaluate AI adoption across the Roanoke Valley signals distributed capacity-building through local networks rather than platform dependency, though depth remains to be proven.",
       "fetched": "2026-11-02"
     },
     {
@@ -26,38 +36,28 @@
       "source": "Roanoke College",
       "published": "2026-06-17",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy for future leaders in a non-metro region, creating potential peer learning networks that could distribute capability beyond NoVA if graduates stay regional.",
-      "fetched": "2026-11-02"
-    },
-    {
-      "title": "Governor Spanberger signs executive order on data center accountability, creates AI task force - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVNQZ0VtZ2JTMXctQ1ZMVEFFMUVJeWxVOXJkYmplN0FlZ3JqcmlDM2RFeUZIMTU4SlZYOUtsYVdPcGxoUV85WTMyOUxNbkF4ZkJjWXhEOGVlN2tCdkFmc2hYa19sck5hWnpJWFRQdDJGRU9wb1gyYk56dGNqblVFSFprY3k2SEJydlg5a2UwOWlqdGc4amfSAaoBQVVfeXFMTUZEZTdGZE5kUjBFMlZ4YTRDbGdVNlpvZmxtemdPcVJ3MFpkbVFvR3I1MU1tMWNjMjdaY2JaRnpKcWoxYUVCdWgxck1KQkVLN2tyR2lkTmdVWUoyNVB1Q2R3ZXllR28yVVN4dW5LMzFadUpEYlZGb2UzSXlON2xiWnNWZHpwU0pYTUVOZ1lQY0xESHpKZzRRcTQ5NHRMS3VNN2J5UmhsdHhzNEE?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-09-18",
-      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "State-level AI task force creation centralizes AI governance and expertise in Richmond policy circles while data center accountability measures may reinforce infrastructure concentration without addressing capability distribution to underserved regions.",
+      "signal_reading": "A specialized WorkAI Lab at Roanoke College creates deep institutional AI capability but concentration at the college level may not distribute broadly through the regional economy without intentional workforce pipelines.",
       "fetched": "2026-11-02"
     },
     {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
+      "title": "UpMax Details AI Transformation Practice for Everyday Operations - norfolkneradio.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaldzaFE1YTRhWmRqZ2FfWFNyTFBVeWlqaHRKSTdsNFYtVlpsSGZfbmJQUkR0TGtqSnUxa0ZoOWd1Z3VHTnFaNHljc3FCTlpYaWQzODRQcHNIX0x5Znp6T1l2SXFUYnVZNElaU0R0dFloT3pnekdmbHl2MnlVamVEaWhwUUhZWlQtLXRUaElIQ1Q5dlBmVzVPTEdaNWVJMkxQTXlXdzh4QnNNczVxcHlIdEE5dlFtcWthbUpTOTNVVXRXb0xNd2N4RTlfOTlxVDhYcXlpamt2dklOVEZlWDJrT1pna3FueTEzYzFiRDA4U3ZHNmc0N3A4LXNmUmw2Sks1ckw4eFhUZw?oc=5",
+      "source": "norfolkneradio.com",
+      "published": "2026-10-31",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "A consulting practice focused on AI transformation for 'everyday operations' in Hampton Roads signals platform-mediated shallow adoption—businesses consuming AI tools without building internal technical depth.",
+      "fetched": "2026-11-02"
+    },
+    {
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
       "published": "2026-10-23",
-      "region": "Northern Virginia",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon's retreat from NoVA data center expansion due to local backlash reveals infrastructure saturation in the concentrated hub but doesn't redistribute AI capability—it may simply cap growth in an already-dominant region while others remain underserved.",
-      "fetched": "2026-11-02"
-    },
-    {
-      "title": "Lilly Richmond Groundbreaking: 650 Jobs and a 2028 Talent Push - BioBuzz",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmV4bU5HZGJUTVFadjFHVm4tWC1OYXJZczFpQTRieERndjUySWxVZV9hbW1IUF9tRElHOU5fdHkybTlrSm51UGo0VUlnMDRSNGF5VTAwVWlqRmRDbEp2d1kwNUZ1ZDRkNVJaRnd6VVFQTWUxa1hjX3hoaUxzTDlsTVVHRTFmWWpreWRJ?oc=5",
-      "source": "BioBuzz",
-      "published": "2026-10-23",
-      "region": "Richmond Metro",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Eli Lilly's 650-job biotech facility with 2028 talent pipeline signals deepening specialized capability in Richmond metro's life sciences cluster, but pharmaceutical manufacturing jobs may require different skills than broadly distributable AI fluency.",
+      "signal_reading": "A governor-ordered statewide cybersecurity response to AI threats concentrates defensive capability in state government infrastructure while unclear whether preparedness distributes to smaller jurisdictions and rural areas.",
       "fetched": "2026-11-02"
     }
   ]
