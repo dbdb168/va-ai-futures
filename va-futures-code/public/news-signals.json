@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01",
-  "next_check": "2026-11-01",
+  "last_updated": "2026-11-02",
+  "next_check": "2026-11-02",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -15,10 +15,30 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
-      "region": "Roanoke / New River Valley",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Community-driven AI fluency initiative in Roanoke Valley signals grassroots capability building outside major metros, representing distributed peer learning that could bridge the metro-rural divide if sustained beyond initial evaluation phase.",
-      "fetched": "2026-11-01"
+      "signal_reading": "A locally-branded AI readiness initiative in the Roanoke Valley signals grassroots capability-building outside traditional tech hubs, though success depends on whether evaluation translates into actual deployment and skill development across the regional economy.",
+      "fetched": "2026-11-02"
+    },
+    {
+      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
+      "source": "Roanoke College",
+      "published": "2026-06-17",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Roanoke College's WorkAI Lab represents institutional investment in deep AI literacy for future leaders in a non-metro region, creating potential peer learning networks that could distribute capability beyond NoVA if graduates stay regional.",
+      "fetched": "2026-11-02"
+    },
+    {
+      "title": "Governor Spanberger signs executive order on data center accountability, creates AI task force - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVNQZ0VtZ2JTMXctQ1ZMVEFFMUVJeWxVOXJkYmplN0FlZ3JqcmlDM2RFeUZIMTU4SlZYOUtsYVdPcGxoUV85WTMyOUxNbkF4ZkJjWXhEOGVlN2tCdkFmc2hYa19sck5hWnpJWFRQdDJGRU9wb1gyYk56dGNqblVFSFprY3k2SEJydlg5a2UwOWlqdGc4amfSAaoBQVVfeXFMTUZEZTdGZE5kUjBFMlZ4YTRDbGdVNlpvZmxtemdPcVJ3MFpkbVFvR3I1MU1tMWNjMjdaY2JaRnpKcWoxYUVCdWgxck1KQkVLN2tyR2lkTmdVWUoyNVB1Q2R3ZXllR28yVVN4dW5LMzFadUpEYlZGb2UzSXlON2xiWnNWZHpwU0pYTUVOZ1lQY0xESHpKZzRRcTQ5NHRMS3VNN2J5UmhsdHhzNEE?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-09-18",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "State-level AI task force creation centralizes AI governance and expertise in Richmond policy circles while data center accountability measures may reinforce infrastructure concentration without addressing capability distribution to underserved regions.",
+      "fetched": "2026-11-02"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -26,39 +46,19 @@
       "source": "Tom's Hardware",
       "published": "2026-10-23",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon's cancellation of four NoVA data centers reflects infrastructure backlash without evidence of local AI capability development—communities rejecting concentration while lacking distributed alternatives, potentially leaving the region with neither depth nor broad adoption.",
-      "fetched": "2026-11-01"
-    },
-    {
-      "title": "Amazon partnership advances AI and cybersecurity education at the Cyber Range - Virginia Tech News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14Yl9YRnltcW4zRnplMzlQYnN4X3M0ZGUxSGppOElRTTBUWHhCSVdLUEdudXlHUVc4aFRBNWNrdkVoazZzV25DQ0paTFZlZ3ZQOWRqYXVBVVlXRG5jQTlaN3NBYURnZ0g0N2tfZGlITzRRY0c0c3NBOXdn?oc=5",
-      "source": "Virginia Tech News",
-      "published": "2026-10-29",
-      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon-Virginia Tech Cyber Range partnership deepens institutional AI/cybersecurity expertise but concentrates advanced learning in established tech education hubs, reinforcing capability concentration unless workforce pipelines actively distribute graduates to underserved regions.",
-      "fetched": "2026-11-01"
+      "signal_reading": "Amazon's retreat from NoVA data center expansion due to local backlash reveals infrastructure saturation in the concentrated hub but doesn't redistribute AI capability—it may simply cap growth in an already-dominant region while others remain underserved.",
+      "fetched": "2026-11-02"
     },
     {
-      "title": "Virginia Orders AI Cybersecurity Plan as States Fill Federal Safety Gaps - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSndvSDQzY1h5LTN1cW93SXl5clh0eU5oV0Iyc3g5RThITG4ybFJoWU1fdkVtdWlhbUF5emVNcEZ4NERDU0xqc1lVYWd6ald0RGdEZGhxSXp3VDFDaldNYS04U0FZNlhPQ3ZTQ0tCWlg5WmpMdlVZTjdlckdlWWsxYjYycGxIUkE0cWtjYkwyYXFwSVFwUS1OcXlwaFg4WElJd2I0UkxCSTM0S0VqMmp5WnZmOFlmVWNoSFJBN1lBWmJfY3V4Qmc?oc=5",
-      "source": "PYMNTS.com",
-      "published": "2026-10-26",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Statewide AI cybersecurity planning directive creates potential for distributed platform-based AI adoption across state agencies, but top-down mandate risks shallow implementation without deep technical capacity building in regional government offices.",
-      "fetched": "2026-11-01"
-    },
-    {
-      "title": "Virginia Tech tests thermal cameras and AI to warn drivers of animals near roads - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGtyOHhaOG4tZU45OXlwMHlIMEJOdHJiYUlHbVpyYU9mbnMxeWloNmFUR1ZDUGtjcllQZ1JOenIxdnJ1M2s1SWE4WHh1cUxmaTBScXhtQ0ZXSFEteFdBdWthZzlxWFp2RzZxdUptbXVqc1JEdGZHam9ESW1hX0hUOXZSb3NOaFEydVZrVnVNVWpVTDdKVlo4SFlBWmNxcmFtaFdsWTh0a9IBuwFBVV95cUxOS3d1bkR5dE01cklHSllhYUFqZU5xeUpWZktUU0NrZkJ0ZTQwR052NFFFMEVVdEJudjAtd0dsRENkelVTaUZMdGR3ck9TUHNZRU14NEJlUW85eTBVcWNOc2RDQ3hFNUtiNFoxb2Nib3ZmT3JoaHNvYWt4RFlzVW1yWmRFQWExM0pzRnJEY1RYc000d2MxRGRSMlBfblp6LVBfWFZSNDNfQW9XRlE0ZU1JOE5JSkZISHA1NV9v?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-10-29",
-      "region": "Statewide",
+      "title": "Lilly Richmond Groundbreaking: 650 Jobs and a 2028 Talent Push - BioBuzz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmV4bU5HZGJUTVFadjFHVm4tWC1OYXJZczFpQTRieERndjUySWxVZV9hbW1IUF9tRElHOU5fdHkybTlrSm51UGo0VUlnMDRSNGF5VTAwVWlqRmRDbEp2d1kwNUZ1ZDRkNVJaRnd6VVFQTWUxa1hjX3hoaUxzTDlsTVVHRTFmWWpreWRJ?oc=5",
+      "source": "BioBuzz",
+      "published": "2026-10-23",
+      "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's applied AI research for wildlife collision prevention demonstrates deep technical capability emanating from academic centers, but practical deployment requires transfer mechanisms to distribute AI problem-solving capacity to transportation departments statewide.",
-      "fetched": "2026-11-01"
+      "signal_reading": "Eli Lilly's 650-job biotech facility with 2028 talent pipeline signals deepening specialized capability in Richmond metro's life sciences cluster, but pharmaceutical manufacturing jobs may require different skills than broadly distributable AI fluency.",
+      "fetched": "2026-11-02"
     }
   ]
 }
