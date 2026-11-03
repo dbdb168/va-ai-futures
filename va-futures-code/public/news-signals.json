@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "next_check": "2026-11-03",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,38 +17,38 @@
       "published": "2026-11-02",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Training workers for AI roles without corresponding job infrastructure creates a skills-employment mismatch that signals shallow adoption—people trained but no depth of implementation to absorb them, particularly outside metro hubs.",
-      "fetched": "2026-11-02"
+      "signal_reading": "Opinion piece highlighting the 'chicken-and-egg' problem of AI training without job pathways reveals systemic barriers to workforce-scale AI adoption, signaling neither depth nor distribution is materializing across Virginia's labor market.",
+      "fetched": "2026-11-03"
     },
     {
-      "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-10-04",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A community-driven initiative to evaluate AI adoption across the Roanoke Valley signals distributed capacity-building through local networks rather than platform dependency, though depth remains to be proven.",
-      "fetched": "2026-11-02"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-23",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A specialized WorkAI Lab at Roanoke College creates deep institutional AI capability but concentration at the college level may not distribute broadly through the regional economy without intentional workforce pipelines.",
-      "fetched": "2026-11-02"
+      "signal_reading": "Amazon's data center cancellation in NoVA—due to local backlash, not market weakness—demonstrates the region's infrastructure dominance while community resistance may paradoxically preserve concentrated tech capital rather than distributing it.",
+      "fetched": "2026-11-03"
     },
     {
-      "title": "UpMax Details AI Transformation Practice for Everyday Operations - norfolkneradio.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaldzaFE1YTRhWmRqZ2FfWFNyTFBVeWlqaHRKSTdsNFYtVlpsSGZfbmJQUkR0TGtqSnUxa0ZoOWd1Z3VHTnFaNHljc3FCTlpYaWQzODRQcHNIX0x5Znp6T1l2SXFUYnVZNElaU0R0dFloT3pnekdmbHl2MnlVamVEaWhwUUhZWlQtLXRUaElIQ1Q5dlBmVzVPTEdaNWVJMkxQTXlXdzh4QnNNczVxcHlIdEE5dlFtcWthbUpTOTNVVXRXb0xNd2N4RTlfOTlxVDhYcXlpamt2dklOVEZlWDJrT1pna3FueTEzYzFiRDA4U3ZHNmc0N3A4LXNmUmw2Sks1ckw4eFhUZw?oc=5",
-      "source": "norfolkneradio.com",
-      "published": "2026-10-31",
-      "region": "Hampton Roads",
+      "title": "Virginia Tech tests thermal cameras and AI to warn drivers of animals near roads - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGtyOHhaOG4tZU45OXlwMHlIMEJOdHJiYUlHbVpyYU9mbnMxeWloNmFUR1ZDUGtjcllQZ1JOenIxdnJ1M2s1SWE4WHh1cUxmaTBScXhtQ0ZXSFEteFdBdWthZzlxWFp2RzZxdUptbXVqc1JEdGZHam9ESW1hX0hUOXZSb3NOaFEydVZrVnVNVWpVTDdKVlo4SFlBWmNxcmFtaFdsWTh0a9IBuwFBVV95cUxOS3d1bkR5dE01cklHSllhYUFqZU5xeUpWZktUU0NrZkJ0ZTQwR052NFFFMEVVdEJudjAtd0dsRENkelVTaUZMdGR3ck9TUHNZRU14NEJlUW85eTBVcWNOc2RDQ3hFNUtiNFoxb2Nib3ZmT3JoaHNvYWt4RFlzVW1yWmRFQWExM0pzRnJEY1RYc000d2MxRGRSMlBfblp6LVBfWFZSNDNfQW9XRlE0ZU1JOE5JSkZISHA1NV9v?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-10-29",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech deploying thermal cameras with AI for wildlife collision prevention represents practical, locally-developed application of deep technical capability outside metro hubs, signaling distributed innovation capacity in the New River Valley.",
+      "fetched": "2026-11-03"
+    },
+    {
+      "title": "Wide-ranging symposium to produce undergrad course on AI anxiety - UVA Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkhuTWxIYkhrZzdVSUtpT0RtN3hWMHVvZWhUeEdVaUoxaUptUnctRGtlV2E0aUkyMW1CWWxibTVuZFMwMlhaX0RqLTg5UzF2amZDOWJ4TFFGMVM3UThUZXpGTmFrTVluSGtKS3RUMm15Z1NRcVdKaHhDSWR3QmJ4czBpSmpwNi1xYXhVaEJLNWlpaUJxZ3FF?oc=5",
+      "source": "UVA Today",
+      "published": "2026-10-26",
+      "region": "Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "A consulting practice focused on AI transformation for 'everyday operations' in Hampton Roads signals platform-mediated shallow adoption—businesses consuming AI tools without building internal technical depth.",
-      "fetched": "2026-11-02"
+      "signal_reading": "UVA creating undergraduate coursework on 'AI anxiety' signals shallow engagement focused on societal implications rather than technical capability-building, reflecting broad awareness without depth of implementation skills.",
+      "fetched": "2026-11-03"
     },
     {
       "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
@@ -57,8 +57,8 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A governor-ordered statewide cybersecurity response to AI threats concentrates defensive capability in state government infrastructure while unclear whether preparedness distributes to smaller jurisdictions and rural areas.",
-      "fetched": "2026-11-02"
+      "signal_reading": "Governor's executive order for AI cybersecurity planning concentrates authority and strategic capability at state level, but without explicit distribution mechanisms risks amplifying existing NoVA-Richmond-academic triangle advantages in implementation capacity.",
+      "fetched": "2026-11-03"
     }
   ]
 }
