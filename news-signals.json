@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04",
+  "last_updated": "2026-11-05",
   "next_check": "2026-11-05",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon's cancellation of four NoVA data centers due to local backlash signals infrastructure saturation in the dominant hub without corresponding capability distribution to other regions, reinforcing concentration limits while other areas remain underserved.",
-      "fetched": "2026-11-04"
+      "signal_reading": "Amazon scrapping four NoVA data centers due to local backlash reveals infrastructure saturation limits even in concentrated tech hubs, potentially stalling the region's AI infrastructure expansion without distributed alternatives emerging elsewhere in Virginia.",
+      "fetched": "2026-11-05"
     },
     {
       "title": "Roanoke coalition names Texas firm to study AI center plan - Virginia Business",
@@ -27,8 +27,8 @@
       "published": "2026-11-03",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke's coalition hiring consultants to study an AI Center of Excellence represents intentional grassroots capability-building outside traditional tech hubs, potentially creating deep distributed expertise if the center materializes with workforce development focus.",
-      "fetched": "2026-11-04"
+      "signal_reading": "Roanoke's formation of 'AI Ready Roanoke' coalition and hiring of external consultants to develop an AI center plan signals intentional effort to build distributed deep capability outside traditional tech corridors, though execution and sustained local capacity-building remain uncertain.",
+      "fetched": "2026-11-05"
     },
     {
       "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
@@ -37,28 +37,28 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A governor-ordered statewide AI cybersecurity plan signals policy recognition of AI risks but originates from Richmond/NoVA power centers, likely to concentrate defensive expertise in already-capable state agencies rather than distributing security literacy broadly.",
-      "fetched": "2026-11-04"
+      "signal_reading": "Governor's statewide AI cybersecurity mandate suggests centralized state-level policy capacity concentrated in Richmond leadership, but implementation depth will determine whether this drives distributed capability-building or reinforces dependency on concentrated expertise hubs.",
+      "fetched": "2026-11-05"
     },
     {
-      "title": "Roanoke County Career and Technology Center opens - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNelpfcHBrd3Z4UVFzLUtKUkp3b3U1UnNjQnF4SGVWVFREMWgxWFY3R2hMQlY2Ym9mTkpRV1lUY3U5N3B1aTdBbjFWY3J6NmE0VjkyMmxtbVRsMzc2QVBMZUhOTlpaMXZkZWp0dlV4VHVZT2hEWmVfazc2UXAteG95cWxjOUREQXhSdVE5XzNyeTU2TXMwekZmbw?oc=5",
-      "source": "WSLS",
-      "published": "2026-10-22",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Opening of Roanoke County's Career and Technology Center provides infrastructure for distributed technical workforce development, potentially enabling peer-to-peer AI fluency outside metro hubs if curriculum evolves beyond traditional trades to include emerging technology skills.",
-      "fetched": "2026-11-04"
-    },
-    {
-      "title": "AI breast cancer tools show promise but still need work - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlh0ZlpfLU9Jal8xWmdRYnFBdkNMT1FENktUcXhKaFRCejVWcUpqWDktRnU0NGVLd01SZWlWMXkyVExkQ0t2WXlVWWpTZzNFQTZEUVc3ZFRYaW1RblpPdVBKUUdvMnJBd3BGZlEwd3hQR3dZRUVvSWtOeWJLdGtkcEx2YW51cDJXWlViRHBrSmlSMHNENEdmdlo5dzlKcm5vTDhvM3pCR2lRZw?oc=5",
-      "source": "WTKR",
-      "published": "2026-10-22",
+      "title": "Norfolk, Newport News police launch AI tool for non-emergency calls - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTBjRl9xSnlSRENxelktY1g0OEF2OHBuY3lQN3M2c1R3bWgtV3UyajB0c3NQLUpZN01NSy1SRnp3M3dRaDZQZi1rYlBwS3Z0X2o1N2xDdUJ6WU9pdXVrQkY5TUxLb0ZiVHBxVzFDbmFyWWhIM203M2VTWjdCV3NDTVN4ZlF0ZWdMWnpteDk3ZWVGQVJaN0ZpY0wxQVJ4eDFNaF9iTDhNTWFoZmd1RjBsOHU5SXNHSHZYY3BpRzdGLWllNk5SMHNGeDFlREh0aExXanhyRjV3RzhvNUp4TXlfUmVBbjhUQUZFTFhuRjc4bUYweWxTdHN2V1ZUNA?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-10-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI breast cancer detection tools in Hampton Roads healthcare show platform-delivered shallow adoption—clinicians using AI without deep technical understanding, creating broad but surface-level capability tied to vendor solutions rather than local innovation capacity.",
-      "fetched": "2026-11-04"
+      "signal_reading": "Norfolk and Newport News police deploying AI tools for non-emergency calls exemplifies shallow, platform-delivered adoption—agencies consume vendor solutions without building internal AI development capacity, creating broad but surface-level distribution.",
+      "fetched": "2026-11-05"
+    },
+    {
+      "title": "Gleb Tsipursky | Virginia’s AI training needs a first job at the other end - Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0xrVmhidzNyZUFKNHNZcmFZWTczelJzbHBCVnpraDdVS0tSbG5oSy1xWXpaVUZkaFVyNEF4MEZsUVloa2ZrM2pFdmtrUWVPd1FCSkcxZ2Z6UzV6dWZDYW85MEUzNWpwZTdZbFE5VmlUNFFKSUpCVk1kaktsN0pXZTgwWF9HY2hDM1JlYmZUb2E2RWVzaF9MMWoxaUlocEtaOWZtYUx2VGREUQ?oc=5",
+      "source": "Augusta Free Press",
+      "published": "2026-11-02",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Commentary highlighting the 'first job' problem for AI training graduates reveals a critical gap: Virginia may produce AI-trained workers without corresponding job infrastructure outside NoVA/Richmond, risking talent outmigration and failed workforce investment in underserved regions.",
+      "fetched": "2026-11-05"
     }
   ]
 }
