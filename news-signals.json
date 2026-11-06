@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-06",
-  "next_check": "2026-11-06",
+  "next_check": "2026-11-07",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,43 +11,23 @@
   ],
   "signals": [
     {
+      "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-10-04",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A regional initiative evaluating AI applications in the Roanoke Valley signals grassroots capability-building outside traditional tech hubs, potentially distributing deep AI literacy through local problem-solving rather than platform adoption.",
+      "fetched": "2026-11-06"
+    },
+    {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
       "source": "Tom's Hardware",
       "published": "2026-10-23",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon's cancellation of four NoVA data centers signals political and community resistance to AI infrastructure even in Virginia's most concentrated tech hub, potentially stalling the physical substrate needed for either deep or distributed AI capability development across the Commonwealth.",
-      "fetched": "2026-11-06"
-    },
-    {
-      "title": "Roanoke College launches WorkAI Lab to prepare leaders for new era of technology - Roanoke College",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fY1NPdEVaSnNtaWRSMWk0Q3hEamFyelRSZnR5NmEtYnc0THhfVDRabi0tSDFEaXpjTG5yNUZCaEtGaEttSzNwQ3p6TThJLXlzLTVHSE5tNGxEcWREMm5wZVR3?oc=5",
-      "source": "Roanoke College",
-      "published": "2026-06-17",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke College's WorkAI Lab represents intentional capability-building outside traditional tech corridors, targeting leadership development that could enable peer-to-peer AI fluency networks beyond NoVA if successfully scaled and replicated regionally.",
-      "fetched": "2026-11-06"
-    },
-    {
-      "title": "Military spouse uses AI to help veterans navigate VA benefits - DC Military",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzR6Wjh1QUxQNE5zTmU0X3A0bnk1NzdnT192RnkxVEhwT1NjdTRNU2xyZXRkWEZtR1BLTXJfdDZBNzB5OFg2OFIxLXl0dloxYUJ6VnpiOEZrMlktTWR2UlNVVERqa3FtZUEzREgyVExPNU0xZFZMbGlybFQ1amwzSlpGenI3UlRNMUhPQ0VfNkhZQk1ZNXo5cHhtTHpLbkZIeWF0TkloOUVrcURmVjg4VDFCX2pneTFnWjdIU255TF9WeWZxU0ZtSTVQTEpZdV95VExSN0NPREJLcEtsU3lZ?oc=5",
-      "source": "DC Military",
-      "published": "2026-11-05",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A military spouse creating AI tools for veterans demonstrates grassroots, mission-driven AI development by non-traditional actors—exactly the distributed, deep problem-solving capacity that characterizes bottom-up capability building rather than platform dependency.",
-      "fetched": "2026-11-06"
-    },
-    {
-      "title": "Roanoke coalition names Texas firm to study AI center plan - Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvYng4OWM4UWNBbzhmTWhzRXdTb2ExeXRUM0VrUTJINW9Pb3R6aTFTMVZHVGVkN2dZamFQMGhXVTVqcWtvUGxGMlJWYmF2ZGZOV2FjZU0ybjZmYjdia2lLM09ZdURwaGM3ZFBFMm9KcDA?oc=5",
-      "source": "Virginia Business",
-      "published": "2026-11-03",
-      "region": "Southwest / Roanoke",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Roanoke coalition hiring external consultants to study an AI center plan suggests aspiration for concentrated capability outside NoVA, but reliance on Texas expertise rather than indigenous capacity signals potential dependence patterns that may reinforce rather than redistribute concentration.",
+      "signal_reading": "Amazon canceling NoVA data centers due to local backlash reveals concentration dynamics—even infrastructure rejection happens where AI capital is densest, while other regions compete to attract the same facilities, reinforcing geographic inequality.",
       "fetched": "2026-11-06"
     },
     {
@@ -57,7 +37,27 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Governor's statewide AI cybersecurity directive centralizes preparedness planning at the state level, potentially creating deep capability nodes in Richmond government agencies while leaving distribution of actual implementation capacity across regions uncertain.",
+      "signal_reading": "A statewide cybersecurity plan addressing AI threats signals state-level coordination, but implementation will likely concentrate defensive capabilities in NoVA and Richmond where technical talent already clusters, leaving rural regions exposed.",
+      "fetched": "2026-11-06"
+    },
+    {
+      "title": "Military spouse uses AI to help veterans navigate VA benefits - DC Military",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzR6Wjh1QUxQNE5zTmU0X3A0bnk1NzdnT192RnkxVEhwT1NjdTRNU2xyZXRkWEZtR1BLTXJfdDZBNzB5OFg2OFIxLXl0dloxYUJ6VnpiOEZrMlktTWR2UlNVVERqa3FtZUEzREgyVExPNU0xZFZMbGlybFQ1amwzSlpGenI3UlRNMUhPQ0VfNkhZQk1ZNXo5cHhtTHpLbkZIeWF0TkloOUVrcURmVjg4VDFCX2pneTFnWjdIU255TF9WeWZxU0ZtSTVQTEpZdV95VExSN0NPREJLcEtsU3lZ?oc=5",
+      "source": "DC Military",
+      "published": "2026-11-05",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "A military spouse using AI to navigate VA benefits demonstrates shallow but distributed adoption—leveraging platform tools for practical problem-solving without requiring deep technical expertise, making AI accessible across Virginia's military communities.",
+      "fetched": "2026-11-06"
+    },
+    {
+      "title": "WVRIFA confirms Google is considering a data center in Roanoke County’s Wood Haven Technology Park - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlpuVF91Y1VpOG1kdWg5V0Yxb3RZWTdSVkxmSVBXMTlXQ05UTW9tZVAyNm9RaXRDUDQ5eno1cERXWnNXWXo5TUxhNFdsUWVacXBMRkV3V3VoNEU5TEZocVUweWNoZ1hrOHVuRktuN0h4MnVLZzg2ZERLUHc3bUgzOVBDcTQyNTdJZ0NGamtOUmNSUWVadjBoLUlONzVDUkVfbkpTNW44MWJYWlJReDhQZ3ZhbmhSNWxmejFUZUxSeGc4TjA?oc=5",
+      "source": "WSLS",
+      "published": "2026-10-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Google considering a Roanoke County data center positions the region as infrastructure host rather than capability developer—extracting power and tax revenue while AI expertise and high-wage jobs remain concentrated elsewhere, deepening the gap.",
       "fetched": "2026-11-06"
     }
   ]
