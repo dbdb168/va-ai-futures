@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-07",
-  "next_check": "2026-11-07",
+  "next_check": "2026-11-08",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-10-04",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "The 'AI Ready Roanoke' initiative suggests intentional capability-building in a secondary city, but without details on depth of technical training versus surface-level adoption, it risks remaining an aspiration rather than redistributing the concentrated expertise currently centered in NoVA.",
+      "signal_reading": "AI Ready Roanoke represents deliberate regional capacity-building outside NoVA, but success depends on whether this produces deep local expertise or shallow adoption of externally-developed tools—a pivot point between distributed depth and continued concentration.",
       "fetched": "2026-11-07"
     },
     {
@@ -27,17 +27,7 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Local backlash forcing Amazon to scrap four NoVA data centers signals infrastructure saturation and community resistance in the core hub, potentially slowing the very concentration that drives Virginia's AI economy without activating alternative regional centers.",
-      "fetched": "2026-11-07"
-    },
-    {
-      "title": "Military spouse uses AI to help veterans navigate VA benefits - DC Military",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzR6Wjh1QUxQNE5zTmU0X3A0bnk1NzdnT192RnkxVEhwT1NjdTRNU2xyZXRkWEZtR1BLTXJfdDZBNzB5OFg2OFIxLXl0dloxYUJ6VnpiOEZrMlktTWR2UlNVVERqa3FtZUEzREgyVExPNU0xZFZMbGlybFQ1amwzSlpGenI3UlRNMUhPQ0VfNkhZQk1ZNXo5cHhtTHpLbkZIeWF0TkloOUVrcURmVjg4VDFCX2pneTFnWjdIU255TF9WeWZxU0ZtSTVQTEpZdV95VExSN0NPREJLcEtsU3lZ?oc=5",
-      "source": "DC Military",
-      "published": "2026-11-05",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A military spouse independently building AI tools to navigate VA benefits demonstrates grassroots, mission-driven AI capability emerging outside traditional tech hubs, suggesting distributed problem-solving capacity could develop through peer networks in defense-adjacent communities.",
+      "signal_reading": "Local backlash canceling four NoVA data centers signals infrastructure limits in the state's AI hub, potentially constraining even concentrated development while offering no redistribution benefit to other regions—a lose-lose outcome that aligns with neither depth nor distribution.",
       "fetched": "2026-11-07"
     },
     {
@@ -47,17 +37,27 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "A governor's executive order for statewide AI cybersecurity planning implies platform-level, top-down AI adoption across government rather than deep technical fluency, pointing toward shallow but broadly distributed implementation through vendor solutions.",
+      "signal_reading": "A statewide AI cybersecurity plan suggests platform-level protective tools deployed broadly across agencies—enabling shallow but distributed adoption where users consume AI-powered security without building deep defensive capabilities internally.",
       "fetched": "2026-11-07"
     },
     {
-      "title": "Roanoke County celebrates new Career and Technology Center opening - WFIR News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGUtbzVGTGw1dlJfSW5qUXJkZnJnRWhTeXRyc0lWQXJwbkJtbkZsVHM3S3NKRmRRVF9HVFo3dk9vblZfS1o0d196R3ZSVVFxbm40WGFyQnBMLW9QTTE0eHZ1ZHNUa09CMG9XMUJSVmtuTzhnSk1DREdTS1RuZDR5VHpRcndVMjloLVE2V1A5dG9OV29UZWVz?oc=5",
-      "source": "WFIR News",
-      "published": "2026-10-21",
+      "title": "Military spouse uses AI to help veterans navigate VA benefits - DC Military",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzR6Wjh1QUxQNE5zTmU0X3A0bnk1NzdnT192RnkxVEhwT1NjdTRNU2xyZXRkWEZtR1BLTXJfdDZBNzB5OFg2OFIxLXl0dloxYUJ6VnpiOEZrMlktTWR2UlNVVERqa3FtZUEzREgyVExPNU0xZFZMbGlybFQ1amwzSlpGenI3UlRNMUhPQ0VfNkhZQk1ZNXo5cHhtTHpLbkZIeWF0TkloOUVrcURmVjg4VDFCX2pneTFnWjdIU255TF9WeWZxU0ZtSTVQTEpZdV95VExSN0NPREJLcEtsU3lZ?oc=5",
+      "source": "DC Military",
+      "published": "2026-11-05",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A military spouse creating an AI tool for veterans' benefits navigation exemplifies grassroots, purpose-driven AI development outside traditional tech centers—precisely the peer-to-peer capability building that characterizes distributed depth over platform dependency.",
+      "fetched": "2026-11-07"
+    },
+    {
+      "title": "Virginia Tech Science Festival returns with immersive AI exhibits - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPallYei1ELVpwOEwxXzdKcTV3VEZ3dnJHMy1qbUZRQXdBZjN2S2N1OEpLWnRTWWlzZjcyVzkzVV85QjhqYVhZbkJHVGg3aXNSckFFSnp5VE96NjByM21Wc2RZeFpoS05lbzhFdW5xR3hBMWI1bERjejV5Wm5TZnRpdHQ1a2ZRWmtpbzVsRFhJT1ZFZHFZTncwbGFBNUduS0160gG0AUFVX3lxTE1ncFo1MDVsb2ZwdlcyOGcyYXRrTWwtOURNdXdaaGxaMTBtMTZNMW4tMkNmVlpjNTFROUxlRU1jOHUzN3o2ZlJtWDV3RUNobVVMdFRsRzllX1NNX1R1UE1lZVUwSzNLeTFoUUNkS2FMellYWm54VjhFWWlxdjZPVVZmRE51NkktX2tpMzZmUU9YZmEzSmI3UlJhbk1PMi1sUnFLNlVfSl9ENFdxdTE3aEVrdUxuaw?oc=5",
+      "source": "WDBJ7",
+      "published": "2026-11-06",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Roanoke County's new Career and Technology Center opening creates physical infrastructure for hands-on technical skill development outside metro areas, providing the necessary foundation for distributed deep capability if curriculum evolves beyond traditional trades to include AI/data fluency.",
+      "signal_reading": "Virginia Tech's immersive AI exhibits signal educational infrastructure for building regional AI literacy beyond NoVA, creating conditions for distributed capability development if hands-on engagement translates to local implementation rather than talent export to metro hubs.",
       "fetched": "2026-11-07"
     }
   ]
