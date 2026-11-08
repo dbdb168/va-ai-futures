@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-08",
-  "next_check": "2026-11-08",
+  "next_check": "2026-11-09",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,8 +16,8 @@
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A community-wide AI readiness initiative in Roanoke signals intentional capacity-building beyond NoVA, but success depends on whether this creates deep implementation capability or remains at the strategic planning level without distributed technical fluency.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Community-driven AI evaluation initiative in Roanoke Valley signals peer-learning infrastructure forming outside metro hubs, testing whether deep capability can emerge through collaborative discovery rather than platform dependence or venture capital.",
       "fetched": "2026-11-08"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Local backlash forcing Amazon to scrap four data centers reveals that infrastructure concentration without community buy-in creates political friction that could slow NoVA's AI growth while regions building strategic capacity (like Roanoke) gain competitive advantage through stakeholder alignment.",
+      "signal_reading": "Local backlash forcing Amazon to scrap four data centers reveals that infrastructure concentration doesn't automatically translate to distributed AI capability—community resistance may prevent even shallow adoption from spreading beyond server farms.",
       "fetched": "2026-11-08"
     },
     {
@@ -37,17 +37,7 @@
       "published": "2026-10-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk and Newport News deploying turnkey AI tools for non-emergency calls demonstrates shallow but distributed adoption—platform-delivered capability that spreads geographically without building deep local AI development expertise or creating transferable technical skills.",
-      "fetched": "2026-11-08"
-    },
-    {
-      "title": "Military spouse uses AI to help veterans navigate VA benefits - DC Military",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzR6Wjh1QUxQNE5zTmU0X3A0bnk1NzdnT192RnkxVEhwT1NjdTRNU2xyZXRkWEZtR1BLTXJfdDZBNzB5OFg2OFIxLXl0dloxYUJ6VnpiOEZrMlktTWR2UlNVVERqa3FtZUEzREgyVExPNU0xZFZMbGlybFQ1amwzSlpGenI3UlRNMUhPQ0VfNkhZQk1ZNXo5cHhtTHpLbkZIeWF0TkloOUVrcURmVjg4VDFCX2pneTFnWjdIU255TF9WeWZxU0ZtSTVQTEpZdV95VExSN0NPREJLcEtsU3lZ?oc=5",
-      "source": "DC Military",
-      "published": "2026-11-05",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A military spouse independently building AI tools to navigate VA benefits exemplifies grassroots, peer-driven capability development outside institutional channels—precisely the distributed, deep fluency that could emerge from personal necessity rather than corporate or academic concentration.",
+      "signal_reading": "Norfolk and Newport News deploying turnkey AI tools for non-emergency calls demonstrates platform-delivered adoption reaching mid-tier cities, but implementation in narrow municipal use cases suggests shallow integration rather than workforce capability building.",
       "fetched": "2026-11-08"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A statewide gubernatorial order on AI cybersecurity centralizes policy response at the state level but signals concentration of AI governance expertise in Richmond without evidence of distributed implementation capacity across regional governments or rural jurisdictions.",
+      "signal_reading": "Governor's statewide AI cybersecurity mandate could either distribute defensive capabilities across regions or concentrate expertise in Richmond and NoVA depending on whether implementation empowers local IT teams or routes through centralized contractors.",
+      "fetched": "2026-11-08"
+    },
+    {
+      "title": "Military spouse uses AI to help veterans navigate VA benefits - DC Military",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzR6Wjh1QUxQNE5zTmU0X3A0bnk1NzdnT192RnkxVEhwT1NjdTRNU2xyZXRkWEZtR1BLTXJfdDZBNzB5OFg2OFIxLXl0dloxYUJ6VnpiOEZrMlktTWR2UlNVVERqa3FtZUEzREgyVExPNU0xZFZMbGlybFQ1amwzSlpGenI3UlRNMUhPQ0VfNkhZQk1ZNXo5cHhtTHpLbkZIeWF0TkloOUVrcURmVjg4VDFCX2pneTFnWjdIU255TF9WeWZxU0ZtSTVQTEpZdV95VExSN0NPREJLcEtsU3lZ?oc=5",
+      "source": "DC Military",
+      "published": "2026-11-05",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Military spouse creating AI navigation tools for VA benefits exemplifies grassroots capability development outside traditional tech centers, suggesting deep skills can emerge from mission-driven individuals rather than institutional programs—true distributed innovation.",
       "fetched": "2026-11-08"
     }
   ]
