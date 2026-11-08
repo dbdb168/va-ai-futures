@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07",
+  "last_updated": "2026-11-08",
   "next_check": "2026-11-08",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-10-04",
       "region": "Roanoke / New River Valley",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI Ready Roanoke represents deliberate regional capacity-building outside NoVA, but success depends on whether this produces deep local expertise or shallow adoption of externally-developed tools—a pivot point between distributed depth and continued concentration.",
-      "fetched": "2026-11-07"
+      "signal_reading": "A community-wide AI readiness initiative in Roanoke signals intentional capacity-building beyond NoVA, but success depends on whether this creates deep implementation capability or remains at the strategic planning level without distributed technical fluency.",
+      "fetched": "2026-11-08"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -27,18 +27,18 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Local backlash canceling four NoVA data centers signals infrastructure limits in the state's AI hub, potentially constraining even concentrated development while offering no redistribution benefit to other regions—a lose-lose outcome that aligns with neither depth nor distribution.",
-      "fetched": "2026-11-07"
+      "signal_reading": "Local backlash forcing Amazon to scrap four data centers reveals that infrastructure concentration without community buy-in creates political friction that could slow NoVA's AI growth while regions building strategic capacity (like Roanoke) gain competitive advantage through stakeholder alignment.",
+      "fetched": "2026-11-08"
     },
     {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
+      "title": "Norfolk, Newport News police launch AI tool for non-emergency calls - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTBjRl9xSnlSRENxelktY1g0OEF2OHBuY3lQN3M2c1R3bWgtV3UyajB0c3NQLUpZN01NSy1SRnp3M3dRaDZQZi1rYlBwS3Z0X2o1N2xDdUJ6WU9pdXVrQkY5TUxLb0ZiVHBxVzFDbmFyWWhIM203M2VTWjdCV3NDTVN4ZlF0ZWdMWnpteDk3ZWVGQVJaN0ZpY0wxQVJ4eDFNaF9iTDhNTWFoZmd1RjBsOHU5SXNHSHZYY3BpRzdGLWllNk5SMHNGeDFlREh0aExXanhyRjV3RzhvNUp4TXlfUmVBbjhUQUZFTFhuRjc4bUYweWxTdHN2V1ZUNA?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-10-14",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "A statewide AI cybersecurity plan suggests platform-level protective tools deployed broadly across agencies—enabling shallow but distributed adoption where users consume AI-powered security without building deep defensive capabilities internally.",
-      "fetched": "2026-11-07"
+      "signal_reading": "Norfolk and Newport News deploying turnkey AI tools for non-emergency calls demonstrates shallow but distributed adoption—platform-delivered capability that spreads geographically without building deep local AI development expertise or creating transferable technical skills.",
+      "fetched": "2026-11-08"
     },
     {
       "title": "Military spouse uses AI to help veterans navigate VA benefits - DC Military",
@@ -47,18 +47,18 @@
       "published": "2026-11-05",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "A military spouse creating an AI tool for veterans' benefits navigation exemplifies grassroots, purpose-driven AI development outside traditional tech centers—precisely the peer-to-peer capability building that characterizes distributed depth over platform dependency.",
-      "fetched": "2026-11-07"
+      "signal_reading": "A military spouse independently building AI tools to navigate VA benefits exemplifies grassroots, peer-driven capability development outside institutional channels—precisely the distributed, deep fluency that could emerge from personal necessity rather than corporate or academic concentration.",
+      "fetched": "2026-11-08"
     },
     {
-      "title": "Virginia Tech Science Festival returns with immersive AI exhibits - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPallYei1ELVpwOEwxXzdKcTV3VEZ3dnJHMy1qbUZRQXdBZjN2S2N1OEpLWnRTWWlzZjcyVzkzVV85QjhqYVhZbkJHVGg3aXNSckFFSnp5VE96NjByM21Wc2RZeFpoS05lbzhFdW5xR3hBMWI1bERjejV5Wm5TZnRpdHQ1a2ZRWmtpbzVsRFhJT1ZFZHFZTncwbGFBNUduS0160gG0AUFVX3lxTE1ncFo1MDVsb2ZwdlcyOGcyYXRrTWwtOURNdXdaaGxaMTBtMTZNMW4tMkNmVlpjNTFROUxlRU1jOHUzN3o2ZlJtWDV3RUNobVVMdFRsRzllX1NNX1R1UE1lZVUwSzNLeTFoUUNkS2FMellYWm54VjhFWWlxdjZPVVZmRE51NkktX2tpMzZmUU9YZmEzSmI3UlJhbk1PMi1sUnFLNlVfSl9ENFdxdTE3aEVrdUxuaw?oc=5",
-      "source": "WDBJ7",
-      "published": "2026-11-06",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's immersive AI exhibits signal educational infrastructure for building regional AI literacy beyond NoVA, creating conditions for distributed capability development if hands-on engagement translates to local implementation rather than talent export to metro hubs.",
-      "fetched": "2026-11-07"
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A statewide gubernatorial order on AI cybersecurity centralizes policy response at the state level but signals concentration of AI governance expertise in Richmond without evidence of distributed implementation capacity across regional governments or rural jurisdictions.",
+      "fetched": "2026-11-08"
     }
   ]
 }
