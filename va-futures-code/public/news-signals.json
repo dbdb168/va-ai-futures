@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-09",
-  "next_check": "2026-11-09",
+  "next_check": "2026-11-10",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -15,29 +15,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "A civic initiative explicitly evaluating AI readiness in Roanoke Valley signals intentional capability-building in a non-metro region, but outcomes will determine whether this develops deep distributed capacity or remains concentrated in Virginia Tech's orbit.",
-      "fetched": "2026-11-09"
-    },
-    {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "A governor-ordered statewide AI cybersecurity plan suggests defensive platform adoption across state agencies—broad distribution but likely shallow implementation focused on vendor solutions rather than indigenous capability development.",
-      "fetched": "2026-11-09"
-    },
-    {
-      "title": "Norfolk, Newport News police launch AI tool for non-emergency calls - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTBjRl9xSnlSRENxelktY1g0OEF2OHBuY3lQN3M2c1R3bWgtV3UyajB0c3NQLUpZN01NSy1SRnp3M3dRaDZQZi1rYlBwS3Z0X2o1N2xDdUJ6WU9pdXVrQkY5TUxLb0ZiVHBxVzFDbmFyWWhIM203M2VTWjdCV3NDTVN4ZlF0ZWdMWnpteDk3ZWVGQVJaN0ZpY0wxQVJ4eDFNaF9iTDhNTWFoZmd1RjBsOHU5SXNHSHZYY3BpRzdGLWllNk5SMHNGeDFlREh0aExXanhyRjV3RzhvNUp4TXlfUmVBbjhUQUZFTFhuRjc4bUYweWxTdHN2V1ZUNA?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-10-14",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk and Newport News deploying AI tools for non-emergency calls demonstrates municipal-level platform adoption in Hampton Roads, signaling shallow but distributed implementation through vendor procurement rather than local AI development capacity.",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "AI Ready Roanoke represents community-led evaluation and deployment of AI tools outside traditional tech hubs, signaling potential for distributed deep capability if local capacity-building succeeds beyond initial assessment phase.",
       "fetched": "2026-11-09"
     },
     {
@@ -46,18 +26,38 @@
       "source": "Tom's Hardware",
       "published": "2026-10-23",
       "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon scrapping four NoVA data centers due to local backlash reveals community resistance to AI infrastructure concentration, potentially constraining even the region's deepest market advantage while other Virginia regions lack alternatives to fill the capability gap.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Amazon scrapping four NoVA data center plans due to local backlash reveals infrastructure concentration tensions, but the repurposing decision doesn't redistribute AI capability—it simply constrains growth in the already-dominant hub.",
       "fetched": "2026-11-09"
     },
     {
-      "title": "Virginia Beach School Board to discuss AI use and student literacy data - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSzFiMFY2VklnemdDLV9aN00xRjU1SEk0TDFCV3RyYWl2dG9kRTJ5YmhfdndSZmUweFVtd3ZSSG9xUEJoVU9INmJBY3dQX2xWSlRzVUFCM3dsYU90RTZpaHdVamE4QkxLaV9DSmpTN3FBWjI4a2IycVE4OUxrMWc5THBSZWZnZEM5WXVwSTM1dlFjM014aVRnNDFsdkNGeTdMZWlXb3YySkVhMGN3UnNtNXVrVDBLeDVqM1FkaklCdjI4aVhfeGVHSWNBZzhlT2I5YnF2SHlNMV9VZTJyeE41aUNhRHBlX2JwQ3Z5YW8tQXJwNE0?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-11-06",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Virginia Beach School Board discussing AI use and literacy signals education-sector platform adoption, pointing toward shallow distributed adoption through edtech vendors rather than building indigenous AI capability in students or educators.",
+      "title": "Data center rumors fly in Marion after town council won’t name developer interested in 200 acres of government property",
+      "url": "https://cardinalnews.org/2026/11/09/data-center-rumors-fly-in-marion-after-town-council-wont-name-developer-interested-in-200-acres-of-government-property/",
+      "source": "Cardinal News",
+      "published": "2026-11-09",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Marion data center rumors exemplify how rural areas attract infrastructure (shallow presence) without accompanying technical workforce development or local AI capability—energy consumption without empowerment.",
+      "fetched": "2026-11-09"
+    },
+    {
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Governor's statewide AI cybersecurity plan suggests centralized defensive capability development likely to concentrate expertise in Richmond and NoVA rather than distribute AI security knowledge across all regions.",
+      "fetched": "2026-11-09"
+    },
+    {
+      "title": "Lawyers need AI education, not AI legislation - Virginia Lawyers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3o2LUlMOVZlU1hheE9PNDhQU3FNaGFUbk81bURrUF81ZW85YWVRQTFxa1dpLWNacDNZTkhaVkZxLXM5NTVPRmRwUXFKSFFBV3AtZWR6V2tSYUpubjNUaEFzNGxCLXpNVmFfU1hobVF6NlNfUVl3QjFZZkd0UjNkY0pQWGFNSG9aQkV1Rg?oc=5",
+      "source": "Virginia Lawyers Weekly",
+      "published": "2026-11-09",
+      "region": "Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Legal sector's call for AI education over legislation signals professional class recognizing need for deep fluency rather than passive tool use—if training distributes beyond metro firms, could enable peer-network learning across Virginia's legal community.",
       "fetched": "2026-11-09"
     }
   ]
