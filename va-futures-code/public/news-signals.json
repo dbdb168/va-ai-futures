@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09",
+  "last_updated": "2026-11-10",
   "next_check": "2026-11-10",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents community-led evaluation and deployment of AI tools outside traditional tech hubs, signaling potential for distributed deep capability if local capacity-building succeeds beyond initial assessment phase.",
-      "fetched": "2026-11-09"
+      "signal_reading": "A regional AI readiness initiative in Roanoke Valley signals intentional capacity-building outside NoVA, potentially distributing applied AI fluency through local evaluation and deployment—though success depends on whether this yields deep capability or surface-level adoption.",
+      "fetched": "2026-11-10"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -27,8 +27,8 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon scrapping four NoVA data center plans due to local backlash reveals infrastructure concentration tensions, but the repurposing decision doesn't redistribute AI capability—it simply constrains growth in the already-dominant hub.",
-      "fetched": "2026-11-09"
+      "signal_reading": "Amazon's data center cancellation in NoVA due to local backlash reveals infrastructure saturation in the dominant hub, potentially redirecting AI/data center growth to secondary Virginia markets and inadvertently promoting geographic distribution.",
+      "fetched": "2026-11-10"
     },
     {
       "title": "Data center rumors fly in Marion after town council won’t name developer interested in 200 acres of government property",
@@ -37,18 +37,8 @@
       "published": "2026-11-09",
       "region": "Southwest & Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Marion data center rumors exemplify how rural areas attract infrastructure (shallow presence) without accompanying technical workforce development or local AI capability—energy consumption without empowerment.",
-      "fetched": "2026-11-09"
-    },
-    {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Governor's statewide AI cybersecurity plan suggests centralized defensive capability development likely to concentrate expertise in Richmond and NoVA rather than distribute AI security knowledge across all regions.",
-      "fetched": "2026-11-09"
+      "signal_reading": "Data center speculation in Marion without transparency or community engagement suggests extractive infrastructure deployment in Southwest Virginia—capturing energy/tax benefits while bypassing local workforce development, reinforcing shallow regional participation in the AI economy.",
+      "fetched": "2026-11-10"
     },
     {
       "title": "Lawyers need AI education, not AI legislation - Virginia Lawyers Weekly",
@@ -57,8 +47,18 @@
       "published": "2026-11-09",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "Legal sector's call for AI education over legislation signals professional class recognizing need for deep fluency rather than passive tool use—if training distributes beyond metro firms, could enable peer-network learning across Virginia's legal community.",
-      "fetched": "2026-11-09"
+      "signal_reading": "Legal profession's emphasis on AI education over regulation signals recognition that deep capability development, not governance frameworks alone, determines whether Virginia's professional class can distribute AI fluency across practice areas and regions.",
+      "fetched": "2026-11-10"
+    },
+    {
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Governor's statewide AI cybersecurity order concentrates defensive AI capability development in Richmond's state apparatus, risking a policy-infrastructure gap where central government builds expertise while local jurisdictions lack implementation capacity.",
+      "fetched": "2026-11-10"
     }
   ]
 }
