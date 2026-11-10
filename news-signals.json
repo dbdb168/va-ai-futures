@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-10",
-  "next_check": "2026-11-10",
+  "next_check": "2026-11-11",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,8 +16,18 @@
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
+      "scenario": "AI Ready Roanoke",
+      "signal_reading": "A deliberate regional initiative to evaluate AI adoption signals potential for distributed capability building outside the NoVA corridor, but success depends on whether this translates to deep institutional capacity or remains at the planning/awareness level.",
+      "fetched": "2026-11-10"
+    },
+    {
+      "title": "Virginia Tech outlines philosophy for AI adoption - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUIwUHo0c0p0YXplYUFqVHRBdUV3VFpyNklxXzRsWm5OM2hOSzdrSk5SbF9kcTRGYVc1Q0VZTzdxdGdNNWxaMFlCOWdvUkF3YnNBRjJ2dHFIQzZKdGZwc19mcHpWTE9XcVpKX0dadk5rbl9aWTZSVEsyWXU4dUNZa3lCM24yT0puZmYzX0ZIVXNPMjlkLXlXQm5WeEE3WW5Ea0x4d1dlTWNWeUhtNWtsUlQ0d013eTZxWUNmVmxn?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-11-10",
+      "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "A regional AI readiness initiative in Roanoke Valley signals intentional capacity-building outside NoVA, potentially distributing applied AI fluency through local evaluation and deployment—though success depends on whether this yields deep capability or surface-level adoption.",
+      "signal_reading": "Virginia Tech's institutional AI philosophy could serve as a distribution mechanism for deep capability across regions where VT has presence (Blacksburg, Roanoke, Richmond), potentially seeding peer learning networks beyond concentrated metro hubs.",
       "fetched": "2026-11-10"
     },
     {
@@ -26,18 +36,18 @@
       "source": "Tom's Hardware",
       "published": "2026-10-23",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon's data center cancellation in NoVA due to local backlash reveals infrastructure saturation in the dominant hub, potentially redirecting AI/data center growth to secondary Virginia markets and inadvertently promoting geographic distribution.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Amazon scrapping four NoVA data centers due to local backlash reveals infrastructure concentration limits, but without corresponding capability distribution elsewhere, this simply constrains growth rather than redistributing AI development opportunity.",
       "fetched": "2026-11-10"
     },
     {
-      "title": "Data center rumors fly in Marion after town council won’t name developer interested in 200 acres of government property",
-      "url": "https://cardinalnews.org/2026/11/09/data-center-rumors-fly-in-marion-after-town-council-wont-name-developer-interested-in-200-acres-of-government-property/",
-      "source": "Cardinal News",
-      "published": "2026-11-09",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Data center speculation in Marion without transparency or community engagement suggests extractive infrastructure deployment in Southwest Virginia—capturing energy/tax benefits while bypassing local workforce development, reinforcing shallow regional participation in the AI economy.",
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "A statewide cybersecurity mandate for AI attacks suggests platform-level, top-down adoption across all state agencies—potentially creating broad but shallow AI security awareness without building deep technical capability at regional levels.",
       "fetched": "2026-11-10"
     },
     {
@@ -47,17 +57,7 @@
       "published": "2026-11-09",
       "region": "Statewide",
       "scenario": "Build It Yourself",
-      "signal_reading": "Legal profession's emphasis on AI education over regulation signals recognition that deep capability development, not governance frameworks alone, determines whether Virginia's professional class can distribute AI fluency across practice areas and regions.",
-      "fetched": "2026-11-10"
-    },
-    {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Governor's statewide AI cybersecurity order concentrates defensive AI capability development in Richmond's state apparatus, risking a policy-infrastructure gap where central government builds expertise while local jurisdictions lack implementation capacity.",
+      "signal_reading": "Legal profession's emphasis on AI education over legislation signals recognition that deep fluency, not just tool access, matters—but whether this educational capacity distributes beyond Richmond/NoVA legal hubs will determine if it reinforces or counters concentration.",
       "fetched": "2026-11-10"
     }
   ]
