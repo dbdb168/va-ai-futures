@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-11",
-  "next_check": "2026-11-11",
+  "next_check": "2026-11-12",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,13 +11,13 @@
   ],
   "signals": [
     {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon's cancellation of four NoVA data centers signals that even the region's concentrated AI infrastructure advantage faces local resistance and limits, potentially constraining the depth of the existing hub rather than enabling distribution to other regions.",
+      "title": "Report: Data centers dominate Virginia’s economic development incentives",
+      "url": "https://cardinalnews.org/2026/11/11/report-data-centers-dominate-virginias-economic-development-incentives/",
+      "source": "Cardinal News",
+      "published": "2026-11-11",
+      "region": "Statewide (concentrating in NoVA)",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Data center tax incentives consuming 60% of Virginia's economic development spending signals a policy preference for capital-intensive infrastructure over human capability building, widening the gap between capital-rich metros and regions needing workforce investment.",
       "fetched": "2026-11-11"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents intentional capacity-building outside traditional tech hubs—if successful, this structured evaluation and adoption approach could create distributed deep capability rather than passive platform consumption.",
+      "signal_reading": "AI Ready Roanoke represents distributed peer-network capacity building outside traditional tech hubs, signaling potential for grassroots AI fluency if evaluation translates into sustained community-driven adoption rather than vendor-dependent deployment.",
       "fetched": "2026-11-11"
     },
     {
@@ -35,19 +35,9 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUIwUHo0c0p0YXplYUFqVHRBdUV3VFpyNklxXzRsWm5OM2hOSzdrSk5SbF9kcTRGYVc1Q0VZTzdxdGdNNWxaMFlCOWdvUkF3YnNBRjJ2dHFIQzZKdGZwc19mcHpWTE9XcVpKX0dadk5rbl9aWTZSVEsyWXU4dUNZa3lCM24yT0puZmYzX0ZIVXNPMjlkLXlXQm5WeEE3WW5Ea0x4d1dlTWNWeUhtNWtsUlQ0d013eTZxWUNmVmxn?oc=5",
       "source": "Roanoke Times",
       "published": "2026-11-10",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Virginia Tech's articulated AI adoption philosophy creates institutional infrastructure for developing deep capability across its distributed campus system and research partnerships, potentially seeding peer learning networks beyond NoVA.",
-      "fetched": "2026-11-11"
-    },
-    {
-      "title": "JLARC: Data center tax break accounts for 60% of Virginia’s incentive spending",
-      "url": "https://virginiamercury.com/2026/11/10/jlarc-data-center-tax-break-accounts-for-60-of-virginias-incentive-spending/",
-      "source": "Virginia Mercury",
-      "published": "2026-11-10",
-      "region": "Statewide",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Data center tax breaks consuming 60% of Virginia's incentive spending reveals a policy choice to subsidize concentrated infrastructure over distributed capability development—capital investment without workforce depth or geographic equity.",
+      "region": "Statewide (Virginia Tech anchor)",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Virginia Tech's institutional AI philosophy could deepen technical excellence in the New River Valley cluster while creating a knowledge transfer challenge—whether deep capability radiates outward or concentrates around the university ecosystem determines distribution.",
       "fetched": "2026-11-11"
     },
     {
@@ -57,7 +47,17 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "A statewide AI cybersecurity response plan signals platform-level adoption across government—potentially broad but shallow implementation where agencies consume AI-powered security tools without developing deep internal AI expertise.",
+      "signal_reading": "Governor's cybersecurity AI directive signals shallow, platform-mediated adoption—state agencies consuming vendor AI tools for defense creates broad surface-level exposure without building indigenous technical depth or distributed human capability.",
+      "fetched": "2026-11-11"
+    },
+    {
+      "title": "Sociologist: You want to see the next iteration of the company town? Come to Virginia.",
+      "url": "https://cardinalnews.org/2026/11/11/sociologist-you-want-to-see-the-next-iteration-of-the-company-town-come-to-virginia/",
+      "source": "Cardinal News",
+      "published": "2026-11-11",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "The company-town critique of data centers in Appalachian Virginia reveals extractive infrastructure patterns—massive capital investment concentrating power and resources while bypassing local capability development, echoing historical coal exploitation dynamics.",
       "fetched": "2026-11-11"
     }
   ]
