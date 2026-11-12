@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "next_check": "2026-11-12",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -15,10 +15,10 @@
       "url": "https://cardinalnews.org/2026/11/11/report-data-centers-dominate-virginias-economic-development-incentives/",
       "source": "Cardinal News",
       "published": "2026-11-11",
-      "region": "Statewide (concentrating in NoVA)",
+      "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Data center tax incentives consuming 60% of Virginia's economic development spending signals a policy preference for capital-intensive infrastructure over human capability building, widening the gap between capital-rich metros and regions needing workforce investment.",
-      "fetched": "2026-11-11"
+      "signal_reading": "Data centers consuming 60% of Virginia's economic incentives represent infrastructure concentration without distributed capability-building—capital flows to equipment tax breaks rather than workforce development or broad AI literacy initiatives.",
+      "fetched": "2026-11-12"
     },
     {
       "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
@@ -27,18 +27,28 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents distributed peer-network capacity building outside traditional tech hubs, signaling potential for grassroots AI fluency if evaluation translates into sustained community-driven adoption rather than vendor-dependent deployment.",
-      "fetched": "2026-11-11"
+      "signal_reading": "AI Ready Roanoke signals intentional capability-building in a non-metro region, evaluating practical AI deployment rather than merely hosting infrastructure—a potential counter-narrative to the NoVA concentration pattern if execution materializes.",
+      "fetched": "2026-11-12"
+    },
+    {
+      "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUVpSVZHWTFYN214bERPSnE3SThCdzI5am9UOGMxUHBtd1Nmc2ZWT2JuckJLVTNhMUI3UjVydWU4am1Gc29uQnBZaVlrazBfRlVsc1Uwd091ZE0tdWJQYTRMa2pWbERab3RZVFJwWWRGUUxYRzZvTTk5LXlVRGhvUUdOQzRJUDRXREZLRU1HTmNnN2VIQTVFZlVrYVdvTVFKLUN2R3g5S19ReWZRckxqQ3VWaw?oc=5",
+      "source": "WHRO",
+      "published": "2026-11-11",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "ODU-CHKD partnership applying AI to childhood asthma mapping demonstrates deep technical capability in Hampton Roads' institutional anchors, but remains confined to academic-medical elite rather than distributing AI fluency across the regional workforce.",
+      "fetched": "2026-11-12"
     },
     {
       "title": "Virginia Tech outlines philosophy for AI adoption - Roanoke Times",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUIwUHo0c0p0YXplYUFqVHRBdUV3VFpyNklxXzRsWm5OM2hOSzdrSk5SbF9kcTRGYVc1Q0VZTzdxdGdNNWxaMFlCOWdvUkF3YnNBRjJ2dHFIQzZKdGZwc19mcHpWTE9XcVpKX0dadk5rbl9aWTZSVEsyWXU4dUNZa3lCM24yT0puZmYzX0ZIVXNPMjlkLXlXQm5WeEE3WW5Ea0x4d1dlTWNWeUhtNWtsUlQ0d013eTZxWUNmVmxn?oc=5",
       "source": "Roanoke Times",
       "published": "2026-11-10",
-      "region": "Statewide (Virginia Tech anchor)",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Virginia Tech's institutional AI philosophy could deepen technical excellence in the New River Valley cluster while creating a knowledge transfer challenge—whether deep capability radiates outward or concentrates around the university ecosystem determines distribution.",
-      "fetched": "2026-11-11"
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Virginia Tech articulating an AI adoption philosophy positions the institution as a potential knowledge transfer hub for Southwest Virginia and beyond—whether this cascades into regional peer networks or stays campus-bound will determine Build vs. Pockets trajectory.",
+      "fetched": "2026-11-12"
     },
     {
       "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
@@ -46,19 +56,9 @@
       "source": "StateScoop",
       "published": "2026-10-23",
       "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Governor's cybersecurity AI directive signals shallow, platform-mediated adoption—state agencies consuming vendor AI tools for defense creates broad surface-level exposure without building indigenous technical depth or distributed human capability.",
-      "fetched": "2026-11-11"
-    },
-    {
-      "title": "Sociologist: You want to see the next iteration of the company town? Come to Virginia.",
-      "url": "https://cardinalnews.org/2026/11/11/sociologist-you-want-to-see-the-next-iteration-of-the-company-town-come-to-virginia/",
-      "source": "Cardinal News",
-      "published": "2026-11-11",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "The company-town critique of data centers in Appalachian Virginia reveals extractive infrastructure patterns—massive capital investment concentrating power and resources while bypassing local capability development, echoing historical coal exploitation dynamics.",
-      "fetched": "2026-11-11"
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Statewide AI cybersecurity planning suggests government capacity concentration in Richmond-NoVA corridor for defensive AI applications, but without accompanying programs to distribute that expertise, reinforces rather than bridges the capability gap.",
+      "fetched": "2026-11-12"
     }
   ]
 }
