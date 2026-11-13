@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-13",
-  "next_check": "2026-11-13",
+  "next_check": "2026-11-14",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -15,19 +15,19 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
-      "region": "Roanoke / New River Valley",
+      "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "A deliberate community-led initiative to evaluate AI deployment across the Roanoke Valley signals grassroots capability-building outside metro hubs, suggesting distributed deep learning if accompanied by implementation resources and not just assessment.",
+      "signal_reading": "A region-wide AI readiness initiative in Roanoke Valley signals intentional capacity-building beyond traditional tech hubs, suggesting distributed capability development if implementation moves beyond evaluation to deployment and training.",
       "fetched": "2026-11-13"
     },
     {
-      "title": "News | Maker of AI recyclable, garbage sorting systems ramps up in Virginia, Michigan - CoStar",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGxhaHRaMW9PN1hjaVgyLUhnTkdlMFo2MVRhNkZaSkwySllPRHp1VWFOazYwc0VjQW1tWG1UVTVNX1FNQjBpeTM2R3hCbUlidTNBbFJTbWF2ajJHMDhkQ2cyODgtZEI0eWxmcEJacC1VYWhkMjhCRGhqMk04QmZfeVU2NjRXSVpaSE5QQ2JucTVWMTRFRDc0dFVkaHhqWWExakg4d3FTRW5tWGdXQzY5d1V3SlhxOVNy?oc=5",
-      "source": "CoStar",
-      "published": "2026-11-12",
-      "region": "Statewide",
+      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
+      "source": "City of Norfolk (.gov)",
+      "published": "2026-10-05",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI-powered waste sorting systems represent turnkey platform adoption that delivers operational efficiency without requiring deep technical capability—classic shallow-but-distributed deployment that could reach manufacturing and municipal sites across all regions.",
+      "signal_reading": "Norfolk's E911 AI implementation on non-emergency lines represents shallow but functional adoption—platform-delivered capability that requires minimal local expertise while modernizing public services,典型 of distributed but surface-level AI integration.",
       "fetched": "2026-11-13"
     },
     {
@@ -36,28 +36,28 @@
       "source": "Tom's Hardware",
       "published": "2026-10-23",
       "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon's data center reversal in NoVA reflects infrastructure concentration reaching saturation limits, potentially redistributing future AI infrastructure investment—but only if policy mechanisms actively direct it beyond metro cores rather than simply pausing metro growth.",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Amazon canceling four NoVA data center projects due to local backlash reveals infrastructure concentration creating community resistance rather than capability diffusion, potentially stalling even the region's depth advantage while other areas lack alternatives.",
       "fetched": "2026-11-13"
     },
     {
-      "title": "Norfolk police officer uses AI to build music career and TikTok following - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpRkV0TE5aLXlqTWRUeDRSTWZDYlotamExTm1ETm9tVDFLcy01ZDN2am5tQUI0S2ViYTZCdkpyX1hEd3FjQWdMQXRNQ3J4YnJnU2d0bjlucHlqeVNCNXptQUJaQk9zZEJaeFBaUWdpX1VuWDF2THVTQ0JMS1Y?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-11-12",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "A Norfolk police officer using consumer AI tools for creative work exemplifies shallow-but-accessible adoption reaching non-tech workers in mid-tier metros—distribution without depth, enabled by platforms rather than training infrastructure.",
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Governor's statewide AI cybersecurity preparedness order signals state-level awareness but lacks visible mechanisms for distributed implementation capacity—likely to concentrate defensive AI expertise in Richmond and NoVA government-adjacent entities.",
       "fetched": "2026-11-13"
     },
     {
-      "title": "Unnecessary medical tests are raising healthcare costs. A group of Virginia doctors and researchers has shown it&#8217;s possible to change the approach.",
-      "url": "https://cardinalnews.org/2026/11/12/unnecessary-medical-tests-are-raising-healthcare-costs-a-group-of-virginia-doctors-and-researchers-has-shown-its-possible-to-change-the-approach/",
-      "source": "Cardinal News",
-      "published": "2026-11-12",
-      "region": "Southwest & Southside",
+      "title": "WVRIFA confirms Google is considering a data center in Roanoke County’s Wood Haven Technology Park - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlpuVF91Y1VpOG1kdWg5V0Yxb3RZWTdSVkxmSVBXMTlXQ05UTW9tZVAyNm9RaXRDUDQ5eno1cERXWnNXWXo5TUxhNFdsUWVacXBMRkV3V3VoNEU5TEZocVUweWNoZ1hrOHVuRktuN0h4MnVLZzg2ZERLUHc3bUgzOVBDcTQyNTdJZ0NGamtOUmNSUWVadjBoLUlONzVDUkVfbkpTNW44MWJYWlJReDhQZ3ZhbmhSNWxmejFUZUxSeGc4TjA?oc=5",
+      "source": "WSLS",
+      "published": "2026-10-16",
+      "region": "Southwest / Roanoke",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A multi-year research initiative reducing unnecessary medical testing demonstrates deep analytical capability deployment in healthcare, but published in JAMA by established research institutions suggests concentrated expertise rather than distributed community health system transformation.",
+      "signal_reading": "Google's consideration of Roanoke County data center represents infrastructure concentration following established patterns—physical presence doesn't guarantee local AI capability development unless paired with workforce programs and knowledge transfer beyond facilities management.",
       "fetched": "2026-11-13"
     }
   ]
