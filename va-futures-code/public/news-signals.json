@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13",
+  "last_updated": "2026-11-14",
   "next_check": "2026-11-14",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "A region-wide AI readiness initiative in Roanoke Valley signals intentional capacity-building beyond traditional tech hubs, suggesting distributed capability development if implementation moves beyond evaluation to deployment and training.",
-      "fetched": "2026-11-13"
+      "signal_reading": "A community-led initiative to evaluate AI readiness in the Roanoke Valley signals distributed capacity-building beyond traditional tech hubs, potentially creating peer learning networks that spread deep AI literacy across a non-metro region.",
+      "fetched": "2026-11-14"
     },
     {
       "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
@@ -27,8 +27,8 @@
       "published": "2026-10-05",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's E911 AI implementation on non-emergency lines represents shallow but functional adoption—platform-delivered capability that requires minimal local expertise while modernizing public services,典型 of distributed but surface-level AI integration.",
-      "fetched": "2026-11-13"
+      "signal_reading": "Norfolk's deployment of turnkey AI for non-emergency call routing represents shallow but functional adoption—platform-delivered capability that improves services without requiring deep technical expertise, signaling distributed breadth over depth.",
+      "fetched": "2026-11-14"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -37,8 +37,8 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling four NoVA data center projects due to local backlash reveals infrastructure concentration creating community resistance rather than capability diffusion, potentially stalling even the region's depth advantage while other areas lack alternatives.",
-      "fetched": "2026-11-13"
+      "signal_reading": "Amazon's cancellation of four NoVA data centers due to local backlash reveals infrastructure resistance even in the state's AI epicenter, potentially slowing both the concentration of deep capability and its distributed benefits to other regions.",
+      "fetched": "2026-11-14"
     },
     {
       "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
@@ -47,18 +47,18 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Governor's statewide AI cybersecurity preparedness order signals state-level awareness but lacks visible mechanisms for distributed implementation capacity—likely to concentrate defensive AI expertise in Richmond and NoVA government-adjacent entities.",
-      "fetched": "2026-11-13"
+      "signal_reading": "A gubernatorial directive for statewide AI cybersecurity planning could either concentrate defensive expertise in Richmond/NoVA policy centers or distribute readiness across regions—the execution determines whether this deepens existing pockets or builds new ones.",
+      "fetched": "2026-11-14"
     },
     {
-      "title": "WVRIFA confirms Google is considering a data center in Roanoke County’s Wood Haven Technology Park - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlpuVF91Y1VpOG1kdWg5V0Yxb3RZWTdSVkxmSVBXMTlXQ05UTW9tZVAyNm9RaXRDUDQ5eno1cERXWnNXWXo5TUxhNFdsUWVacXBMRkV3V3VoNEU5TEZocVUweWNoZ1hrOHVuRktuN0h4MnVLZzg2ZERLUHc3bUgzOVBDcTQyNTdJZ0NGamtOUmNSUWVadjBoLUlONzVDUkVfbkpTNW44MWJYWlJReDhQZ3ZhbmhSNWxmejFUZUxSeGc4TjA?oc=5",
+      "title": "Clearview Dynamics LLC eyes Roanoke County for potential data center at Wood Haven Technology Park - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85TGdvVWwtUnJIMDk1aDFvSmxOTVBveFYzTldZajlYa0hSbkZwMXA0bXRuRUt3Qmo1V0NHVUFTeUFMdTVmNmx6QU1KUlhrVUdua3JGblNFeEVnZDdzcnJjLXRUczhxOGtqWmNYREZPU2ZmeUpF?oc=5",
       "source": "WSLS",
-      "published": "2026-10-16",
+      "published": "2026-09-23",
       "region": "Southwest / Roanoke",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Google's consideration of Roanoke County data center represents infrastructure concentration following established patterns—physical presence doesn't guarantee local AI capability development unless paired with workforce programs and knowledge transfer beyond facilities management.",
-      "fetched": "2026-11-13"
+      "signal_reading": "A potential data center in Roanoke County creates infrastructure that could anchor deep AI capability outside NoVA, but without intentional workforce development, risks becoming extractive infrastructure that concentrates economic benefits elsewhere while distributing only energy costs.",
+      "fetched": "2026-11-14"
     }
   ]
 }
