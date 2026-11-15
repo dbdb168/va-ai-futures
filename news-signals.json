@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-15",
-  "next_check": "2026-11-15",
+  "next_check": "2026-11-16",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,7 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents organized community-level AI exploration outside metro centers, signaling potential for distributed capability building if evaluation translates to implementation and peer learning networks.",
+      "signal_reading": "A community-driven 'AI Ready Roanoke' initiative signals grassroots capability-building in a non-metro region, demonstrating peer network formation that could enable distributed deep learning beyond traditional tech hubs.",
       "fetched": "2026-11-15"
     },
     {
@@ -27,7 +27,7 @@
       "published": "2026-11-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Platform-delivered AI (Anthropic) targeting military families creates broad but shallow adoption in Hampton Roads—useful service access without building local AI development capacity or technical depth.",
+      "signal_reading": "Platform AI (Anthropic) deployment for military family services shows shallow-but-distributed adoption through turnkey solutions, extending access without requiring deep local AI expertise or infrastructure.",
       "fetched": "2026-11-15"
     },
     {
@@ -36,8 +36,8 @@
       "source": "City of Norfolk (.gov)",
       "published": "2026-10-05",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's E911 AI implementation demonstrates operational AI adoption in municipal services, but reliance on vendor solutions creates shallow distribution rather than indigenous capability development.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk's E911 AI implementation demonstrates concentrated capability in mission-critical government services, but as a single-agency deployment it signals depth without distribution across the broader regional workforce.",
       "fetched": "2026-11-15"
     },
     {
@@ -46,8 +46,8 @@
       "source": "StateScoop",
       "published": "2026-10-23",
       "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Statewide cybersecurity AI plan will likely concentrate technical implementation capacity in NoVA and Richmond where expertise exists, creating coordination infrastructure but not necessarily distributing deep capability.",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A statewide cybersecurity AI plan could democratize defensive AI capabilities across all regions and agencies, creating distributed competency through coordinated knowledge transfer rather than market concentration.",
       "fetched": "2026-11-15"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon scrapping NoVA data centers signals infrastructure saturation concerns that could slow AI development investment even in Virginia's strongest tech hub, while offering no alternative distribution mechanisms to other regions.",
+      "signal_reading": "Amazon scrapping NoVA data centers amid local backlash reveals infrastructure resistance that could paradoxically limit both the region's AI concentration advantage and any spillover distribution to other Virginia regions.",
       "fetched": "2026-11-15"
     }
   ]
