@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15",
+  "last_updated": "2026-11-16",
   "next_check": "2026-11-16",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,18 +17,8 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "A community-driven 'AI Ready Roanoke' initiative signals grassroots capability-building in a non-metro region, demonstrating peer network formation that could enable distributed deep learning beyond traditional tech hubs.",
-      "fetched": "2026-11-15"
-    },
-    {
-      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
-      "source": "The Legacy Newspaper",
-      "published": "2026-11-14",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Platform AI (Anthropic) deployment for military family services shows shallow-but-distributed adoption through turnkey solutions, extending access without requiring deep local AI expertise or infrastructure.",
-      "fetched": "2026-11-15"
+      "signal_reading": "A community-driven AI readiness initiative in Roanoke Valley signals grassroots capacity-building beyond traditional tech hubs, suggesting distributed learning networks could activate outside NoVA if sustained with resources and peer knowledge transfer.",
+      "fetched": "2026-11-16"
     },
     {
       "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
@@ -36,19 +26,9 @@
       "source": "City of Norfolk (.gov)",
       "published": "2026-10-05",
       "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Norfolk's E911 AI implementation demonstrates concentrated capability in mission-critical government services, but as a single-agency deployment it signals depth without distribution across the broader regional workforce.",
-      "fetched": "2026-11-15"
-    },
-    {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A statewide cybersecurity AI plan could democratize defensive AI capabilities across all regions and agencies, creating distributed competency through coordinated knowledge transfer rather than market concentration.",
-      "fetched": "2026-11-15"
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk's deployment of turnkey AI for non-emergency 911 calls represents shallow-but-functional adoption through vendor platforms—distributed geographically but not building deep local AI capability or workforce skills.",
+      "fetched": "2026-11-16"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -57,8 +37,28 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon scrapping NoVA data centers amid local backlash reveals infrastructure resistance that could paradoxically limit both the region's AI concentration advantage and any spillover distribution to other Virginia regions.",
-      "fetched": "2026-11-15"
+      "signal_reading": "Amazon's scrapped data center plans reveal infrastructure concentration without community benefit or workforce development, exposing how AI's physical footprint can deepen regional inequality when local backlash prevents even shallow distribution mechanisms.",
+      "fetched": "2026-11-16"
+    },
+    {
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Statewide cybersecurity planning for AI threats signals state-level coordination capacity but likely concentrates implementation expertise in Richmond and NoVA government tech centers rather than distributing defensive AI literacy across all regions.",
+      "fetched": "2026-11-16"
+    },
+    {
+      "title": "Norfolk police officer uses AI to build music career and TikTok following - The Virginian-Pilot",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpRkV0TE5aLXlqTWRUeDRSTWZDYlotamExTm1ETm9tVDFLcy01ZDN2am5tQUI0S2ViYTZCdkpyX1hEd3FjQWdMQXRNQ3J4YnJnU2d0bjlucHlqeVNCNXptQUJaQk9zZEJaeFBaUWdpX1VuWDF2THVTQ0JMS1Y?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "2026-11-12",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "A Norfolk officer independently mastering generative AI for creative work exemplifies peer-driven skill acquisition outside formal tech sectors—individual deep learning that could seed broader cultural shifts if supported by institutional knowledge-sharing infrastructure.",
+      "fetched": "2026-11-16"
     }
   ]
 }
