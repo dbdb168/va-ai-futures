@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-16",
-  "next_check": "2026-11-16",
+  "next_check": "2026-11-17",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,47 +17,47 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "A community-driven AI readiness initiative in Roanoke Valley signals grassroots capacity-building beyond traditional tech hubs, suggesting distributed learning networks could activate outside NoVA if sustained with resources and peer knowledge transfer.",
+      "signal_reading": "A community-led initiative to evaluate AI readiness in Roanoke Valley signals grassroots capacity-building beyond traditional tech hubs, potentially distributing deep AI fluency through peer networks rather than waiting for platform solutions.",
       "fetched": "2026-11-16"
     },
     {
-      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
-      "source": "City of Norfolk (.gov)",
-      "published": "2026-10-05",
+      "title": "Norfolk prosecutors partner with Harvard to test new AI tool - WHRO",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXotZHJkM2dTN0l3MkVaM3VreFF1MVJGSkhQTEh3TEFacGotRFM5ZkRrQzFhUTRLazBwLTFZV1hydDFxTFhJUkdNd3pSYm94Z2t0QjBhc2diS3g2MTJxOGFpM0ZJZjR5UGNldkFFUlYzamRoYTVOQ3VfTXphVFQ5Tkl3?oc=5",
+      "source": "WHRO",
+      "published": "2026-09-18",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Norfolk prosecutors partnering with Harvard on AI tools demonstrates deep technical engagement in Hampton Roads, but the elite academic partnership model suggests concentrated expertise rather than distributed community capability.",
+      "fetched": "2026-11-16"
+    },
+    {
+      "title": "Some Southwest Virginia localities look to zoning to slow down data centers",
+      "url": "https://cardinalnews.org/2026/11/16/some-southwest-virginia-localities-look-to-zoning-to-slow-down-data-centers/",
+      "source": "Cardinal News",
+      "published": "2026-11-16",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Local governments in Southwest Virginia passing defensive zoning against data centers reveals communities experiencing AI infrastructure as extractive rather than capacity-building, signaling neither depth nor meaningful distribution of AI benefits.",
+      "fetched": "2026-11-16"
+    },
+    {
+      "title": "Amazon pledges millions to cover in-demand career training at Virginia community colleges",
+      "url": "https://virginiamercury.com/2026/11/16/amazon-pledges-millions-to-cover-in-demand-career-training-at-virginia-community-colleges/",
+      "source": "Virginia Mercury",
+      "published": "2026-11-16",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Amazon funding community college career training creates broad access to AI-adjacent workforce skills, but corporate platform delivery model suggests shallow, employer-defined adoption rather than deep community-owned capability.",
+      "fetched": "2026-11-16"
+    },
+    {
+      "title": "Norfolk, Newport News police launch AI tool for non-emergency calls - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTBjRl9xSnlSRENxelktY1g0OEF2OHBuY3lQN3M2c1R3bWgtV3UyajB0c3NQLUpZN01NSy1SRnp3M3dRaDZQZi1rYlBwS3Z0X2o1N2xDdUJ6WU9pdXVrQkY5TUxLb0ZiVHBxVzFDbmFyWWhIM203M2VTWjdCV3NDTVN4ZlF0ZWdMWnpteDk3ZWVGQVJaN0ZpY0wxQVJ4eDFNaF9iTDhNTWFoZmd1RjBsOHU5SXNHSHZYY3BpRzdGLWllNk5SMHNGeDFlREh0aExXanhyRjV3RzhvNUp4TXlfUmVBbjhUQUZFTFhuRjc4bUYweWxTdHN2V1ZUNA?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-10-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's deployment of turnkey AI for non-emergency 911 calls represents shallow-but-functional adoption through vendor platforms—distributed geographically but not building deep local AI capability or workforce skills.",
-      "fetched": "2026-11-16"
-    },
-    {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon's scrapped data center plans reveal infrastructure concentration without community benefit or workforce development, exposing how AI's physical footprint can deepen regional inequality when local backlash prevents even shallow distribution mechanisms.",
-      "fetched": "2026-11-16"
-    },
-    {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Statewide cybersecurity planning for AI threats signals state-level coordination capacity but likely concentrates implementation expertise in Richmond and NoVA government tech centers rather than distributing defensive AI literacy across all regions.",
-      "fetched": "2026-11-16"
-    },
-    {
-      "title": "Norfolk police officer uses AI to build music career and TikTok following - The Virginian-Pilot",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpRkV0TE5aLXlqTWRUeDRSTWZDYlotamExTm1ETm9tVDFLcy01ZDN2am5tQUI0S2ViYTZCdkpyX1hEd3FjQWdMQXRNQ3J4YnJnU2d0bjlucHlqeVNCNXptQUJaQk9zZEJaeFBaUWdpX1VuWDF2THVTQ0JMS1Y?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "2026-11-12",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A Norfolk officer independently mastering generative AI for creative work exemplifies peer-driven skill acquisition outside formal tech sectors—individual deep learning that could seed broader cultural shifts if supported by institutional knowledge-sharing infrastructure.",
+      "signal_reading": "Norfolk and Newport News deploying turnkey AI call systems represents shallow platform adoption—operational efficiency gains without building local AI development capacity or transferable technical expertise.",
       "fetched": "2026-11-16"
     }
   ]
