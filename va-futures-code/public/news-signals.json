@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-17",
-  "next_check": "2026-11-17",
+  "next_check": "2026-11-18",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,37 +17,17 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents organized regional effort to build local AI capacity outside major metros, signaling potential for distributed fluency if implementation moves beyond evaluation to actual skill-building.",
+      "signal_reading": "AI Ready Roanoke represents intentional community-driven AI capacity building outside traditional tech hubs, potentially creating distributed expertise through deliberate assessment and adoption rather than passive platform consumption.",
       "fetched": "2026-11-17"
     },
     {
-      "title": "Some Southwest Virginia localities look to zoning to slow down data centers",
-      "url": "https://cardinalnews.org/2026/11/16/some-southwest-virginia-localities-look-to-zoning-to-slow-down-data-centers/",
-      "source": "Cardinal News",
-      "published": "2026-11-16",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Local resistance through zoning restrictions on data centers suggests communities experiencing infrastructure imposition without capability development—physical presence of AI economy without local agency or depth.",
-      "fetched": "2026-11-17"
-    },
-    {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon canceling NoVA data centers amid local backlash reveals concentration dynamics: even the established tech hub sees AI infrastructure conflicts, while capability and capital remain concentrated there despite community resistance.",
-      "fetched": "2026-11-17"
-    },
-    {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
+      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
+      "source": "The Legacy Newspaper",
+      "published": "2026-11-14",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Statewide defensive AI cybersecurity planning prioritizes protection over capability-building, signaling shallow platform-dependency rather than deep technical fluency across Virginia's government systems.",
+      "signal_reading": "Warner-Anthropic pilot delivers AI-powered resource navigation to military families through a platform interface, exemplifying shallow-but-distributed adoption where end users gain utility without building underlying AI literacy or technical capability.",
       "fetched": "2026-11-17"
     },
     {
@@ -57,7 +37,27 @@
       "published": "2026-10-05",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's E911 AI implementation represents pragmatic platform adoption for operational efficiency—distributed deployment but shallow integration that positions government as AI consumer rather than developer of local expertise.",
+      "signal_reading": "Norfolk's E911 AI implementation on non-emergency lines shows municipal adoption of turnkey AI solutions that increase operational efficiency but don't necessarily deepen workforce AI fluency or create transferable technical skills.",
+      "fetched": "2026-11-17"
+    },
+    {
+      "title": "Problems with AI use in Roanoke County schools: It’s not the students - WFIR News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE5pMWlYbXdfd0J6Y3ZqMFJpNXZzSnNMZmJBLVFzdm1nQXRKWTNhVm1TN29POTB1dHJNR09YQTIzajhYbDlBcjdXdVgtMVBKV2JxbEZ1OFI5ckNlTTFDZlhFbFo1Zml4dktYcXIyMEZhTmhKTkhpWjB0cE1McElzRzUyUF9qYjNnbWhRSkhMVU1BQ0ZuRUM1Ug?oc=5",
+      "source": "WFIR News",
+      "published": "2026-11-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI problems in Roanoke County schools identified as teacher-side rather than student-side reveals shallow integration without adequate professional development, suggesting neither depth of understanding nor effective distribution of capability is occurring.",
+      "fetched": "2026-11-17"
+    },
+    {
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-23",
+      "region": "Northern Virginia",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Amazon's cancelled NoVA data centers reveal infrastructure saturation in the state's primary AI concentration zone while other regions compete for such investments, reinforcing rather than redistributing the geographic capability gap.",
       "fetched": "2026-11-17"
     }
   ]
