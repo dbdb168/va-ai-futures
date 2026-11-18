@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-18",
-  "next_check": "2026-11-18",
+  "next_check": "2026-11-19",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,28 +16,28 @@
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents a deliberate regional capacity-building effort outside NoVA, suggesting distributed AI fluency may emerge through intentional local convening rather than platform adoption or market concentration alone.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI Ready Roanoke represents intentional capacity-building in a secondary city, but its effectiveness will determine whether Roanoke becomes a true secondary hub or remains dependent on NoVA's concentrated expertise for meaningful AI implementation.",
       "fetched": "2026-11-18"
     },
     {
-      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
-      "source": "The Legacy Newspaper",
-      "published": "2026-11-14",
-      "region": "Hampton Roads",
+      "title": "VCU partners with the Better Business Bureau to bring AI support to Central Virginia businesses - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlZmMVoyS0pKWEVnWXBLS1BXS2h4TEZzLW1HWDM1bGlsUHFORWZyRWdrd1hDR0tqTTRlRUFQdXlJV0tSOWo5b1FTWnIwbTNlcVFYUWdqOXByTTBRZFJzWGJMa3JhVFNoXzl2UXdRNkpFcUQxaHpNLUxuX2s3TWN3VDdtZ1NTTnR3dVY1OHZvTXh6cnZSd1c3ZmhxS0NQMi1ISVBPQkk4VVdoWVpSNzhqRmMzT1lwNzF3bzJma0Y1QUV3UQ?oc=5",
+      "source": "VCU News",
+      "published": "2026-11-18",
+      "region": "Richmond Metro / Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "Senator Warner partnering with Anthropic to deploy an AI pilot for military families indicates platform-delivered AI solutions reaching non-tech communities, but raises questions about whether shallow tool use creates genuine capability or just vendor dependency.",
+      "signal_reading": "VCU-BBB partnership offering AI support to Central Virginia businesses suggests platform-based, shallow adoption spreading beyond metro cores—businesses getting access to AI tools without necessarily building deep internal capability.",
       "fetched": "2026-11-18"
     },
     {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
+      "title": "Pittsylvania County Schools weigh AI policy as technology rapidly changes - Chatham Star-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnJUZS1kMUNXaTN2VDFBdVY1c1lLTHhuYmRRX1ZITTVXZ2ZfQklBZUczeTN2dEI0X0lYUUhXTkd3aGFVVlJZdEJSb3JTLU1WT0ZSeERZcDlHa3pWcndwdGhNV1JOVzl5a3Y0bkRtQThOX0tYaHVxcU80bXZ1NDRscjRiY3p1SUxnS3BuamJRelBDQV9LMTVIRE5xWQ?oc=5",
+      "source": "Chatham Star-Tribune",
+      "published": "2026-11-18",
+      "region": "Southside",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling data center expansion due to local backlash suggests infrastructure concentration without community buy-in creates resistance rather than distributed AI capability, potentially stalling even concentrated development.",
+      "signal_reading": "Pittsylvania County Schools weighing AI policy signals reactive rather than proactive positioning—rural districts grappling with governance before they have resources or capability, risking falling further behind regions with implementation capacity.",
       "fetched": "2026-11-18"
     },
     {
@@ -47,7 +47,7 @@
       "published": "2026-11-17",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Norfolk Public Library teaching AI literacy represents grassroots education infrastructure in a non-metro tech hub, signaling potential for peer-network-driven fluency distribution if sustained beyond one-off workshops.",
+      "signal_reading": "Norfolk Public Library teaching AI literacy represents grassroots, community-level capability distribution through public infrastructure—the kind of broad peer-learning environment that could create distributed fluency beyond elite institutions.",
       "fetched": "2026-11-18"
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-10-23",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Governor's executive order on AI cybersecurity indicates state-level recognition of AI risk, but top-down mandates without regional capacity-building mechanisms may deepen the gap between prepared metros and under-resourced localities.",
+      "signal_reading": "Governor's executive order on AI cyberattacks concentrates security expertise and policy authority at state level, likely benefiting regions with existing cybersecurity clusters (NoVA, Hampton Roads) while other areas lack capacity to implement sophisticated defenses.",
       "fetched": "2026-11-18"
     }
   ]
