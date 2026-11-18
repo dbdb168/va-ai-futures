@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "next_check": "2026-11-18",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,8 +17,8 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents intentional community-driven AI capacity building outside traditional tech hubs, potentially creating distributed expertise through deliberate assessment and adoption rather than passive platform consumption.",
-      "fetched": "2026-11-17"
+      "signal_reading": "AI Ready Roanoke represents a deliberate regional capacity-building effort outside NoVA, suggesting distributed AI fluency may emerge through intentional local convening rather than platform adoption or market concentration alone.",
+      "fetched": "2026-11-18"
     },
     {
       "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
@@ -27,28 +27,8 @@
       "published": "2026-11-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Warner-Anthropic pilot delivers AI-powered resource navigation to military families through a platform interface, exemplifying shallow-but-distributed adoption where end users gain utility without building underlying AI literacy or technical capability.",
-      "fetched": "2026-11-17"
-    },
-    {
-      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
-      "source": "City of Norfolk (.gov)",
-      "published": "2026-10-05",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's E911 AI implementation on non-emergency lines shows municipal adoption of turnkey AI solutions that increase operational efficiency but don't necessarily deepen workforce AI fluency or create transferable technical skills.",
-      "fetched": "2026-11-17"
-    },
-    {
-      "title": "Problems with AI use in Roanoke County schools: It’s not the students - WFIR News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE5pMWlYbXdfd0J6Y3ZqMFJpNXZzSnNMZmJBLVFzdm1nQXRKWTNhVm1TN29POTB1dHJNR09YQTIzajhYbDlBcjdXdVgtMVBKV2JxbEZ1OFI5ckNlTTFDZlhFbFo1Zml4dktYcXIyMEZhTmhKTkhpWjB0cE1McElzRzUyUF9qYjNnbWhRSkhMVU1BQ0ZuRUM1Ug?oc=5",
-      "source": "WFIR News",
-      "published": "2026-11-16",
-      "region": "Southwest / Roanoke",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI problems in Roanoke County schools identified as teacher-side rather than student-side reveals shallow integration without adequate professional development, suggesting neither depth of understanding nor effective distribution of capability is occurring.",
-      "fetched": "2026-11-17"
+      "signal_reading": "Senator Warner partnering with Anthropic to deploy an AI pilot for military families indicates platform-delivered AI solutions reaching non-tech communities, but raises questions about whether shallow tool use creates genuine capability or just vendor dependency.",
+      "fetched": "2026-11-18"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -56,9 +36,29 @@
       "source": "Tom's Hardware",
       "published": "2026-10-23",
       "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Amazon canceling data center expansion due to local backlash suggests infrastructure concentration without community buy-in creates resistance rather than distributed AI capability, potentially stalling even concentrated development.",
+      "fetched": "2026-11-18"
+    },
+    {
+      "title": "Norfolk Public Library to teach people about AI - KCAU 9 News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0tOaVNRa1NYVDZ0UW1DM1drYnVLMTV0RmVEVUpvNFFaaEFNSHY1bFdJWXpnV0FKNFdvanJpelo5LWtmMTlCMncxNmRSYjhKeloxanY4N3c5ZUFLUXg2STM4eDNEOVF1aUpEeVpXcnl6WXhEYnZRdlB3cUgzZ0kweVc0RHUxRUtzMUk1aXdzSzZnTlV0N2piVtIBngFBVV95cUxQRm9OV3p1VkJIVVVsQm1GQVNoX0M4S2VzMzRfakFZWHQwaFRFMWs3cm5SeFRrTVNMdTFZa2NIOEoxVmJaNW4wMmpZLTdIa2JicmdGY1dfWEFocWtaQ2pDZ1BIWkd0M1RRVHBNUFhNS1BZWHdsY0hTZXFHeUpPNXpINWlqcUNBOWtMTEdNVEtkbVIxLVFodUNEUXdtM2x3UQ?oc=5",
+      "source": "KCAU 9 News",
+      "published": "2026-11-17",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Norfolk Public Library teaching AI literacy represents grassroots education infrastructure in a non-metro tech hub, signaling potential for peer-network-driven fluency distribution if sustained beyond one-off workshops.",
+      "fetched": "2026-11-18"
+    },
+    {
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon's cancelled NoVA data centers reveal infrastructure saturation in the state's primary AI concentration zone while other regions compete for such investments, reinforcing rather than redistributing the geographic capability gap.",
-      "fetched": "2026-11-17"
+      "signal_reading": "Governor's executive order on AI cybersecurity indicates state-level recognition of AI risk, but top-down mandates without regional capacity-building mechanisms may deepen the gap between prepared metros and under-resourced localities.",
+      "fetched": "2026-11-18"
     }
   ]
 }
