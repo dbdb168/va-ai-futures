@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-19",
-  "next_check": "2026-11-19",
+  "next_check": "2026-11-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,7 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents intentional capacity-building in a non-metro region, suggesting peer networks and local institutions can catalyze distributed depth beyond traditional tech hubs if resourced properly.",
-      "fetched": "2026-11-19"
-    },
-    {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling data centers due to local backlash reveals infrastructure concentration without community buy-in creates resistance rather than capability diffusion, potentially stalling even concentrated AI development.",
+      "signal_reading": "A locally-driven initiative to evaluate and deploy AI across the Roanoke Valley signals potential for peer-driven capability building in a non-metro region, testing whether deep fluency can emerge outside traditional tech hubs through community-led adoption.",
       "fetched": "2026-11-19"
     },
     {
@@ -37,7 +27,7 @@
       "published": "2026-11-18",
       "region": "Richmond Metro / Statewide",
       "scenario": "Software Does It For You",
-      "signal_reading": "VCU-BBB partnership bringing AI support to Central Virginia businesses signals platform-mediated shallow adoption spreading beyond NoVA, but through external expertise delivery rather than indigenous capability building.",
+      "signal_reading": "VCU partnering with BBB to bring AI support to Central Virginia businesses suggests platform-mediated, broad-but-shallow adoption where academic institutions serve as intermediaries for turnkey solutions rather than deep capability building.",
       "fetched": "2026-11-19"
     },
     {
@@ -47,17 +37,27 @@
       "published": "2026-11-17",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Public library AI education in Norfolk demonstrates grassroots knowledge distribution infrastructure activating in a military-adjacent region, potentially seeding peer learning networks among non-tech workers.",
+      "signal_reading": "Public library-led AI education in Norfolk represents grassroots knowledge distribution through civic infrastructure, potentially creating distributed fluency if training moves beyond tool usage toward actual capability development.",
       "fetched": "2026-11-19"
     },
     {
-      "title": "Google revealed as company considering Roanoke County site for data center - Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JV0RqUmNYY3E0c0dIOGU3Z0cwcEU1OUxsTU1HczliSnVYeEZVd1QzYmUybzJRTGxmeXJkWlluV3ktV1E2ZkNLa09QdkdQcEhBNnk0OW9PU1ZDelo4TTZlMHRDWGg1YllteGFuNC1oUUk0bGFGeUs0dFZGS3FjZnM?oc=5",
-      "source": "Virginia Business",
-      "published": "2026-10-16",
-      "region": "Southwest / Roanoke",
+      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
+      "source": "StateScoop",
+      "published": "2026-10-23",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Google eyeing Roanoke for data centers signals infrastructure concentration following cheap power rather than workforce depth, risking extractive development that deepens the gap unless paired with local capability investment.",
+      "signal_reading": "A governor-mandated statewide AI cybersecurity plan signals centralized, top-down response capacity likely to concentrate expertise in state government and major metros rather than distribute defensive capabilities across all regions.",
+      "fetched": "2026-11-19"
+    },
+    {
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-23",
+      "region": "Northern Virginia",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Amazon canceling NoVA data center plans due to local resistance reveals infrastructure concentration without corresponding local capability or buy-in, suggesting shallow engagement where even metro regions reject AI development that doesn't serve community needs.",
       "fetched": "2026-11-19"
     }
   ]
