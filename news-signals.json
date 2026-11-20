@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "next_check": "2026-11-20",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -15,40 +15,40 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "A locally-driven initiative to evaluate and deploy AI across the Roanoke Valley signals potential for peer-driven capability building in a non-metro region, testing whether deep fluency can emerge outside traditional tech hubs through community-led adoption.",
-      "fetched": "2026-11-19"
+      "signal_reading": "A grassroots regional initiative to evaluate AI adoption signals emerging distributed capability building outside traditional tech hubs, potentially establishing peer learning networks that could spread deep AI fluency beyond NoVA.",
+      "fetched": "2026-11-20"
     },
     {
       "title": "VCU partners with the Better Business Bureau to bring AI support to Central Virginia businesses - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlZmMVoyS0pKWEVnWXBLS1BXS2h4TEZzLW1HWDM1bGlsUHFORWZyRWdrd1hDR0tqTTRlRUFQdXlJV0tSOWo5b1FTWnIwbTNlcVFYUWdqOXByTTBRZFJzWGJMa3JhVFNoXzl2UXdRNkpFcUQxaHpNLUxuX2s3TWN3VDdtZ1NTTnR3dVY1OHZvTXh6cnZSd1c3ZmhxS0NQMi1ISVBPQkk4VVdoWVpSNzhqRmMzT1lwNzF3bzJma0Y1QUV3UQ?oc=5",
       "source": "VCU News",
       "published": "2026-11-18",
-      "region": "Richmond Metro / Statewide",
+      "region": "Richmond Metro",
       "scenario": "Software Does It For You",
-      "signal_reading": "VCU partnering with BBB to bring AI support to Central Virginia businesses suggests platform-mediated, broad-but-shallow adoption where academic institutions serve as intermediaries for turnkey solutions rather than deep capability building.",
-      "fetched": "2026-11-19"
+      "signal_reading": "VCU-BBB partnership delivering AI support to Central Virginia businesses suggests platform-mediated, service-layer adoption that creates broad but shallow capability rather than indigenous technical depth.",
+      "fetched": "2026-11-20"
     },
     {
-      "title": "Norfolk Public Library to teach people about AI - KCAU 9 News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0tOaVNRa1NYVDZ0UW1DM1drYnVLMTV0RmVEVUpvNFFaaEFNSHY1bFdJWXpnV0FKNFdvanJpelo5LWtmMTlCMncxNmRSYjhKeloxanY4N3c5ZUFLUXg2STM4eDNEOVF1aUpEeVpXcnl6WXhEYnZRdlB3cUgzZ0kweVc0RHUxRUtzMUk1aXdzSzZnTlV0N2piVtIBngFBVV95cUxQRm9OV3p1VkJIVVVsQm1GQVNoX0M4S2VzMzRfakFZWHQwaFRFMWs3cm5SeFRrTVNMdTFZa2NIOEoxVmJaNW4wMmpZLTdIa2JicmdGY1dfWEFocWtaQ2pDZ1BIWkd0M1RRVHBNUFhNS1BZWHdsY0hTZXFHeUpPNXpINWlqcUNBOWtMTEdNVEtkbVIxLVFodUNEUXdtM2x3UQ?oc=5",
-      "source": "KCAU 9 News",
+      "title": "Norfolk Public Library to teach people about AI - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTZhZ2tsWjBFd1FmdEtMQ0JXbVpsWGtBWDZ4VHRsaDJfVEtvdjI5M0oxTTZaMGVodF85LVh3NWlyTmNMUHFRcmNuNmVwb1dSMEJZaDlGN0ZPcDUyd0dCY3Nhd2NzdEVYOTNWTkpXLVk1dzVRbzBpUThacE9TNkdaZUJFVHpGQQ?oc=5",
+      "source": "AOL.com",
       "published": "2026-11-17",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Public library-led AI education in Norfolk represents grassroots knowledge distribution through civic infrastructure, potentially creating distributed fluency if training moves beyond tool usage toward actual capability development.",
-      "fetched": "2026-11-19"
+      "signal_reading": "Public library AI education programs represent crucial distributed access points for community-level skill building, potentially seeding peer networks in military-adjacent regions often overlooked in tech capacity discussions.",
+      "fetched": "2026-11-20"
     },
     {
-      "title": "Virginia governor orders statewide plan to address AI cyberattacks - StateScoop",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmRvLUFpSV9sRTYzeXNCMkozSDNPVEZ6eTdZaVE3c0p3VnlXU0lKdXNuZWU5SE1wdGNPUlVFSFprZnFpQTN3dG5PZTdFSDRFbVItR1BzVUxraExvWW94MmRxV2w3MHkwUXUteEZoOGg0dW9IbHA3TzlRNmplNXV4a0l4U1JCdnhPTWRJcEd1YTRtN1pj?oc=5",
-      "source": "StateScoop",
-      "published": "2026-10-23",
-      "region": "Statewide",
+      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
+      "source": "The Legacy Newspaper",
+      "published": "2026-11-14",
+      "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "A governor-mandated statewide AI cybersecurity plan signals centralized, top-down response capacity likely to concentrate expertise in state government and major metros rather than distribute defensive capabilities across all regions.",
-      "fetched": "2026-11-19"
+      "signal_reading": "Senator Warner partnering with elite AI firm Anthropic for military family services demonstrates concentrated expertise deployment where federal-defense nexus exists, but risks creating service dependency rather than local capability.",
+      "fetched": "2026-11-20"
     },
     {
       "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
@@ -57,8 +57,8 @@
       "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling NoVA data center plans due to local resistance reveals infrastructure concentration without corresponding local capability or buy-in, suggesting shallow engagement where even metro regions reject AI development that doesn't serve community needs.",
-      "fetched": "2026-11-19"
+      "signal_reading": "Amazon canceling data centers due to local backlash reveals infrastructure concentration without community adoption or capability building—physical presence of AI industry failing to translate into distributed fluency or acceptance.",
+      "fetched": "2026-11-20"
     }
   ]
 }
