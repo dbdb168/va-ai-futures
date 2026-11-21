@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-21",
-  "next_check": "2026-11-21",
+  "next_check": "2026-11-22",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,33 +11,33 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops delivered by a Norfolk native represent grassroots peer-to-peer knowledge transfer that could build distributed fluency outside traditional tech hubs, directly counteracting concentration dynamics.",
-      "fetched": "2026-11-21"
-    },
-    {
       "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
-      "region": "Northern Virginia",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "AI industry campaign contributions to NoVA lawmakers despite local resistance reveals how capital and political influence concentrate around data center infrastructure, deepening the metro capability moat even amid backlash.",
+      "region": "Southwest / Roanoke",
+      "scenario": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley",
+      "signal_reading": "A city-led initiative to evaluate AI applications signals potential for distributed capability-building outside traditional tech hubs, but success depends on whether evaluation translates into deep implementation or remains at the shallow adoption layer.",
       "fetched": "2026-11-21"
     },
     {
-      "title": "VCU partners with the Better Business Bureau to bring AI support to Central Virginia businesses - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlZmMVoyS0pKWEVnWXBLS1BXS2h4TEZzLW1HWDM1bGlsUHFORWZyRWdrd1hDR0tqTTRlRUFQdXlJV0tSOWo5b1FTWnIwbTNlcVFYUWdqOXByTTBRZFJzWGJMa3JhVFNoXzl2UXdRNkpFcUQxaHpNLUxuX2s3TWN3VDdtZ1NTTnR3dVY1OHZvTXh6cnZSd1c3ZmhxS0NQMi1ISVBPQkk4VVdoWVpSNzhqRmMzT1lwNzF3bzJma0Y1QUV3UQ?oc=5",
-      "source": "VCU News",
-      "published": "2026-11-18",
-      "region": "Richmond Metro",
+      "title": "AI is already common in Virginia Beach high schools. Leaders weigh guardrails - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNem9uM2l6Snc5SGtrZDlMQUszdkFabGMwV3Z4cXdYenprTlZwQmRCNXFScWc1NXNHNkhvbzRfeDhhbnhFODl3eEJ5TWdDcVdpMlJEbnpCWFc5UzIzRTA5M2ZzdVB0RUVKV1lRZmVoQzlzWk1KUzhQRFJRVk9kWlNXNWlGLWNKa0JQcVFEbUxQbUFUekY2eGxWckpheUJ0LTN6VXkxcUNvMFBYWnJsY0YtZWVMcVVTSFBNSEdkOF94cXNhSU5iUnlyVkJEZ0dzNXc?oc=5",
+      "source": "WTKR",
+      "published": "2026-11-21",
+      "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "VCU-BBB partnership bringing AI support to Central Virginia businesses signals platform-mediated adoption that spreads geographically but may create shallow, vendor-dependent usage rather than deep internal capability.",
+      "signal_reading": "AI already embedded in Virginia Beach high schools with leaders now seeking guardrails indicates broad but platform-driven adoption—students are users, not builders, suggesting shallow distribution rather than deep technical fluency development.",
+      "fetched": "2026-11-21"
+    },
+    {
+      "title": "UVA President Scott Beardsley charts University’s future in artificial intelligence - UVA Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjB5LWNHOTc5UUF0T0pkSFZ3Ylh3UHdVYzI1bXNFbDRYWEhnMk5RWm92dWR3djVwUWJreVB0cWF4dUVJbjdHRjZJMkFTdnZ2RGYwYVZxWnVQcUxabjl2dDRMZlcxR1Babk92NXlOYXhHUlBXUWxmaTBYdVpDYmZzOXZkeFZLLXc1QlpKOFNvdHRManNEX2FwbG5IOGZHT0pZMldEV1NvY1lGdmNZWXBoNDc5SQ?oc=5",
+      "source": "UVA Today",
+      "published": "2026-11-20",
+      "region": "Statewide (Charlottesville-centered)",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "UVA presidential focus on AI strategy concentrates research capability and talent development in an established academic hub, likely reinforcing metro advantage unless explicit distributed education and partnership mechanisms reach underserved regions.",
       "fetched": "2026-11-21"
     },
     {
@@ -47,17 +47,17 @@
       "published": "2026-11-11",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU and CHKD deploying AI for asthma mapping demonstrates research institution-led deep technical application, but concentration in university-hospital partnerships limits distribution beyond credentialed knowledge workers.",
+      "signal_reading": "ODU-CHKD collaboration using AI for pediatric health mapping demonstrates deep technical application emerging in Hampton Roads medical-academic corridor, expanding Virginia's excellence geography beyond NoVA but still concentrated in metro institutional partnerships.",
       "fetched": "2026-11-21"
     },
     {
-      "title": "Grant program aims to expand Southwest Virginia’s behavioral health workforce by making training more affordable - Cardinal News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWmxaNjk5S0dBMEJOdmgxclhnM3BWcTEzUTJBb3pfay1YeXdscTE2eEFwcGlIVVlfR0g0bDRQMlVvSE5TNHNyaVFhWW1hNlBOaFRfdG9jdXROY0I0bHhjSy1tZmJXcGVPbDVwOG1BV01UVmdZZzJjZmN3S0U5LW9ISEdfYjVBNnVVQWl1T2FsQ3dkZVFxMmtmNkI1MGdXYU9uenlPSFVVWUJmNXMzQmVJZXlkRDV0RVozY0VGOG1Jd2FKZm9qWi1qUVNJN2pGamZsUEJkdy1IQS1PUmZMMGZtYm9n?oc=5",
-      "source": "Cardinal News",
-      "published": "2026-11-06",
-      "region": "Southwest",
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-23",
+      "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Grant funding for behavioral health workforce training addresses critical needs but makes no mention of AI/tech capability development, signaling that rural workforce development remains disconnected from the AI transition.",
+      "signal_reading": "Amazon canceling data centers due to local backlash reveals infrastructure resistance in Virginia's leading AI region, potentially constraining the physical layer needed for both concentrated excellence and future distribution—a signal of stalled buildout across all scenarios.",
       "fetched": "2026-11-21"
     }
   ]
