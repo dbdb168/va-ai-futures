@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21",
+  "last_updated": "2026-11-22",
   "next_check": "2026-11-22",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -16,9 +16,19 @@
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
-      "scenario": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley",
-      "signal_reading": "A city-led initiative to evaluate AI applications signals potential for distributed capability-building outside traditional tech hubs, but success depends on whether evaluation translates into deep implementation or remains at the shallow adoption layer.",
-      "fetched": "2026-11-21"
+      "scenario": "Build It Yourself",
+      "signal_reading": "AI Ready Roanoke represents intentional community-led capacity building in a non-metro region, suggesting distributed peer learning networks could emerge outside traditional tech hubs if sustained with resources and coordination.",
+      "fetched": "2026-11-22"
+    },
+    {
+      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
+      "source": "City of Norfolk (.gov)",
+      "published": "2026-10-05",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk's deployment of turnkey AI for E911 non-emergency lines demonstrates shallow, platform-driven adoption in government services—distributed geographically but not building deep local AI capability or expertise.",
+      "fetched": "2026-11-22"
     },
     {
       "title": "AI is already common in Virginia Beach high schools. Leaders weigh guardrails - WTKR",
@@ -27,8 +37,8 @@
       "published": "2026-11-21",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI already embedded in Virginia Beach high schools with leaders now seeking guardrails indicates broad but platform-driven adoption—students are users, not builders, suggesting shallow distribution rather than deep technical fluency development.",
-      "fetched": "2026-11-21"
+      "signal_reading": "AI already commonplace in Virginia Beach schools signals rapid shallow distribution through commercial ed-tech platforms, with policy debate focused on guardrails rather than building student/teacher AI fluency—consumption over creation.",
+      "fetched": "2026-11-22"
     },
     {
       "title": "UVA President Scott Beardsley charts University’s future in artificial intelligence - UVA Today",
@@ -37,8 +47,8 @@
       "published": "2026-11-20",
       "region": "Statewide (Charlottesville-centered)",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA presidential focus on AI strategy concentrates research capability and talent development in an established academic hub, likely reinforcing metro advantage unless explicit distributed education and partnership mechanisms reach underserved regions.",
-      "fetched": "2026-11-21"
+      "signal_reading": "UVA President's strategic AI initiative concentrates advanced research capability and talent development in flagship university, potentially deepening the expertise gap between university-adjacent regions and areas without R1 research infrastructure.",
+      "fetched": "2026-11-22"
     },
     {
       "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
@@ -47,18 +57,8 @@
       "published": "2026-11-11",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-CHKD collaboration using AI for pediatric health mapping demonstrates deep technical application emerging in Hampton Roads medical-academic corridor, expanding Virginia's excellence geography beyond NoVA but still concentrated in metro institutional partnerships.",
-      "fetched": "2026-11-21"
-    },
-    {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling data centers due to local backlash reveals infrastructure resistance in Virginia's leading AI region, potentially constraining the physical layer needed for both concentrated excellence and future distribution—a signal of stalled buildout across all scenarios.",
-      "fetched": "2026-11-21"
+      "signal_reading": "ODU-CHKD partnership using AI for asthma mapping demonstrates deep technical application concentrated in research-hospital nexus, building specialized local capability but limited to institutional actors rather than distributed community capacity.",
+      "fetched": "2026-11-22"
     }
   ]
 }
