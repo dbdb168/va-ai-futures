@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-22",
-  "next_check": "2026-11-22",
+  "next_check": "2026-11-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,7 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents intentional community-led capacity building in a non-metro region, suggesting distributed peer learning networks could emerge outside traditional tech hubs if sustained with resources and coordination.",
-      "fetched": "2026-11-22"
-    },
-    {
-      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
-      "source": "City of Norfolk (.gov)",
-      "published": "2026-10-05",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's deployment of turnkey AI for E911 non-emergency lines demonstrates shallow, platform-driven adoption in government services—distributed geographically but not building deep local AI capability or expertise.",
+      "signal_reading": "AI Ready Roanoke represents a deliberate regional capacity-building effort outside traditional tech hubs, suggesting distributed AI fluency is achievable through intentional community organizing rather than waiting for platform solutions or metro spillover.",
       "fetched": "2026-11-22"
     },
     {
@@ -37,7 +27,7 @@
       "published": "2026-11-21",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "AI already commonplace in Virginia Beach schools signals rapid shallow distribution through commercial ed-tech platforms, with policy debate focused on guardrails rather than building student/teacher AI fluency—consumption over creation.",
+      "signal_reading": "Widespread AI adoption in Virginia Beach high schools with policy discussions around guardrails indicates platform-driven shallow distribution—students use AI tools ubiquitously but the focus on safety rather than deep capability development reveals superficial engagement.",
       "fetched": "2026-11-22"
     },
     {
@@ -45,19 +35,29 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjB5LWNHOTc5UUF0T0pkSFZ3Ylh3UHdVYzI1bXNFbDRYWEhnMk5RWm92dWR3djVwUWJreVB0cWF4dUVJbjdHRjZJMkFTdnZ2RGYwYVZxWnVQcUxabjl2dDRMZlcxR1Babk92NXlOYXhHUlBXUWxmaTBYdVpDYmZzOXZkeFZLLXc1QlpKOFNvdHRManNEX2FwbG5IOGZHT0pZMldEV1NvY1lGdmNZWXBoNDc5SQ?oc=5",
       "source": "UVA Today",
       "published": "2026-11-20",
-      "region": "Statewide (Charlottesville-centered)",
+      "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA President's strategic AI initiative concentrates advanced research capability and talent development in flagship university, potentially deepening the expertise gap between university-adjacent regions and areas without R1 research infrastructure.",
+      "signal_reading": "UVA's presidential focus on AI strategy concentrates institutional resources and elite talent development in Charlottesville, reinforcing the research-university-to-innovation-hub pipeline that deepens capability in metro-adjacent academic centers while other regions lack equivalent infrastructure.",
       "fetched": "2026-11-22"
     },
     {
-      "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUVpSVZHWTFYN214bERPSnE3SThCdzI5am9UOGMxUHBtd1Nmc2ZWT2JuckJLVTNhMUI3UjVydWU4am1Gc29uQnBZaVlrazBfRlVsc1Uwd091ZE0tdWJQYTRMa2pWbERab3RZVFJwWWRGUUxYRzZvTTk5LXlVRGhvUUdOQzRJUDRXREZLRU1HTmNnN2VIQTVFZlVrYVdvTVFKLUN2R3g5S19ReWZRckxqQ3VWaw?oc=5",
-      "source": "WHRO",
-      "published": "2026-11-11",
+      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
+      "source": "City of Norfolk (.gov)",
+      "published": "2026-10-05",
       "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-CHKD partnership using AI for asthma mapping demonstrates deep technical application concentrated in research-hospital nexus, building specialized local capability but limited to institutional actors rather than distributed community capacity.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk's deployment of AI for 911 non-emergency call routing represents municipal adoption of turnkey platform solutions—distributed geographically but shallow in local capability development, as the city consumes rather than develops AI capacity.",
+      "fetched": "2026-11-22"
+    },
+    {
+      "title": "Rural advocacy groups band together to oppose data centers, related energy projects",
+      "url": "https://virginiamercury.com/2026/11/19/rural-advocacy-groups-band-together-to-oppose-data-centers-related-energy-projects/",
+      "source": "Virginia Mercury",
+      "published": "2026-11-19",
+      "region": "Statewide",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Rural coalitions organizing against data centers signal communities experiencing AI infrastructure as extractive burden rather than capacity-building opportunity, suggesting neither depth nor distribution is materializing in non-metro regions despite proximity to physical AI infrastructure.",
       "fetched": "2026-11-22"
     }
   ]
