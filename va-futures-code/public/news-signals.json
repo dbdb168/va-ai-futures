@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "next_check": "2026-11-23",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,24 @@
   ],
   "signals": [
     {
+      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
+      "source": "WTKR",
+      "published": "2026-05-30",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Free AI workshops delivered by a Norfolk native represent grassroots peer-to-peer knowledge transfer that could build distributed fluency outside traditional tech hubs, directly counteracting concentration dynamics.",
+      "fetched": "2026-11-23"
+    },
+    {
       "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents a deliberate regional capacity-building effort outside traditional tech hubs, suggesting distributed AI fluency is achievable through intentional community organizing rather than waiting for platform solutions or metro spillover.",
-      "fetched": "2026-11-22"
+      "signal_reading": "AI Ready Roanoke signals intentional capability-building in a non-metro region, suggesting infrastructure for distributed AI fluency rather than passive platform consumption or exclusion from the AI economy.",
+      "fetched": "2026-11-23"
     },
     {
       "title": "AI is already common in Virginia Beach high schools. Leaders weigh guardrails - WTKR",
@@ -27,8 +37,8 @@
       "published": "2026-11-21",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Widespread AI adoption in Virginia Beach high schools with policy discussions around guardrails indicates platform-driven shallow distribution—students use AI tools ubiquitously but the focus on safety rather than deep capability development reveals superficial engagement.",
-      "fetched": "2026-11-22"
+      "signal_reading": "AI already embedded in Virginia Beach high schools indicates broad but shallow adoption via educational platforms—widespread access without deep technical capability development, fitting the platform-delivered distribution model.",
+      "fetched": "2026-11-23"
     },
     {
       "title": "UVA President Scott Beardsley charts University’s future in artificial intelligence - UVA Today",
@@ -37,18 +47,8 @@
       "published": "2026-11-20",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA's presidential focus on AI strategy concentrates institutional resources and elite talent development in Charlottesville, reinforcing the research-university-to-innovation-hub pipeline that deepens capability in metro-adjacent academic centers while other regions lack equivalent infrastructure.",
-      "fetched": "2026-11-22"
-    },
-    {
-      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
-      "source": "City of Norfolk (.gov)",
-      "published": "2026-10-05",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's deployment of AI for 911 non-emergency call routing represents municipal adoption of turnkey platform solutions—distributed geographically but shallow in local capability development, as the city consumes rather than develops AI capacity.",
-      "fetched": "2026-11-22"
+      "signal_reading": "UVA's strategic AI positioning signals institutional concentration of deep capability in flagship research universities, potentially widening the gap between academic centers and communities without similar anchor institutions.",
+      "fetched": "2026-11-23"
     },
     {
       "title": "Rural advocacy groups band together to oppose data centers, related energy projects",
@@ -57,8 +57,8 @@
       "published": "2026-11-19",
       "region": "Statewide",
       "scenario": "The Widening Gap",
-      "signal_reading": "Rural coalitions organizing against data centers signal communities experiencing AI infrastructure as extractive burden rather than capacity-building opportunity, suggesting neither depth nor distribution is materializing in non-metro regions despite proximity to physical AI infrastructure.",
-      "fetched": "2026-11-22"
+      "signal_reading": "Rural coalitions opposing data centers reveal infrastructure conflicts where regions bear energy burdens without gaining AI capability—physical concentration of infrastructure without knowledge distribution, reinforcing exclusion.",
+      "fetched": "2026-11-23"
     }
   ]
 }
