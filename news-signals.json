@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-24",
-  "next_check": "2026-11-24",
+  "next_check": "2026-11-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -11,43 +11,23 @@
   ],
   "signals": [
     {
-      "title": "Norfolk native brings free AI workshops to Hampton Roads to close the technology gap - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTNKTjVoZG9wOUk1dWlmTkZhN1g4bzItTTk3YnJRMzRJT3I1VF9jdEhPeGw3YlIxOHN4blZRZmtZR3MxUE44QlBTbUhEMXpNVXJ5TG5FQXdDNmtpd1ZRcDNyd2lxZDFzN1lrTkZLWjVTYWZjWGk1NWlLazJ6bVd0UjRha3NNWlhQWGNHU3hvWUxUQnVLWUt0dk5vSHJXbUhUNHl1REFPb0tRcnlVR01hTnZrVTljNDJkcEpDNVFsQUN1amcwQWNNS0VESVVvQWFT?oc=5",
-      "source": "WTKR",
-      "published": "2026-05-30",
-      "region": "Hampton Roads",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops in Hampton Roads targeting community access signal grassroots capability-building that could distribute deeper AI literacy beyond traditional tech hubs, testing whether peer-led models can overcome metro concentration patterns.",
-      "fetched": "2026-11-24"
-    },
-    {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
+      "title": "Judge halts Google data center construction in Botetourt County, orders public hearing",
+      "url": "https://cardinalnews.org/2026/11/23/judge-halts-google-data-center-construction-in-botetourt-county-orders-public-hearing/",
+      "source": "Cardinal News",
+      "published": "2026-11-23",
+      "region": "Southwest",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "AI pressure on Richmond's young workforce indicates the capital region is experiencing skill-shift demands typical of metro tech centers, reinforcing Richmond's position as a secondary hub while implicitly widening gaps with non-metro regions facing different economic transitions.",
+      "signal_reading": "Legal challenges to Google data center infrastructure in rural Botetourt reveal tension between concentrated tech capital seeking cheap land/power and local governance capacity—infrastructure builds without distributed capability deepening signal 'Widening Gap' risk unless paired with workforce development.",
       "fetched": "2026-11-24"
     },
     {
-      "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUVpSVZHWTFYN214bERPSnE3SThCdzI5am9UOGMxUHBtd1Nmc2ZWT2JuckJLVTNhMUI3UjVydWU4am1Gc29uQnBZaVlrazBfRlVsc1Uwd091ZE0tdWJQYTRMa2pWbERab3RZVFJwWWRGUUxYRzZvTTk5LXlVRGhvUUdOQzRJUDRXREZLRU1HTmNnN2VIQTVFZlVrYVdvTVFKLUN2R3g5S19ReWZRckxqQ3VWaw?oc=5",
-      "source": "WHRO",
-      "published": "2026-11-11",
-      "region": "Hampton Roads",
+      "title": "Loudoun County pauses new data center applications for a year",
+      "url": "https://virginiamercury.com/2026/11/20/loudoun-county-pauses-new-data-center-applications-for-a-year/",
+      "source": "Virginia Mercury",
+      "published": "2026-11-20",
+      "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU and CHKD deploying AI for childhood asthma mapping demonstrates institutional deep capability concentrated in Hampton Roads' research-healthcare nexus, showing how specialized AI applications cluster around existing centers of technical and medical expertise.",
-      "fetched": "2026-11-24"
-    },
-    {
-      "title": "Norfolk, Newport News police launch AI tool for non-emergency calls - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTBjRl9xSnlSRENxelktY1g0OEF2OHBuY3lQN3M2c1R3bWgtV3UyajB0c3NQLUpZN01NSy1SRnp3M3dRaDZQZi1rYlBwS3Z0X2o1N2xDdUJ6WU9pdXVrQkY5TUxLb0ZiVHBxVzFDbmFyWWhIM203M2VTWjdCV3NDTVN4ZlF0ZWdMWnpteDk3ZWVGQVJaN0ZpY0wxQVJ4eDFNaF9iTDhNTWFoZmd1RjBsOHU5SXNHSHZYY3BpRzdGLWllNk5SMHNGeDFlREh0aExXanhyRjV3RzhvNUp4TXlfUmVBbjhUQUZFTFhuRjc4bUYweWxTdHN2V1ZUNA?oc=5",
-      "source": "13newsnow.com",
-      "published": "2026-10-14",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk and Newport News police adopting turnkey AI for non-emergency calls exemplifies shallow, platform-delivered adoption that distributes AI functionality without building local technical depth—operational efficiency without capability transfer.",
+      "signal_reading": "Loudoun pausing data center applications after aggressive expansion reveals NoVA's infrastructure concentration reaching saturation—the county hosts critical AI computing infrastructure but local pushback suggests benefits aren't distributing beyond property tax revenue and specialized jobs.",
       "fetched": "2026-11-24"
     },
     {
@@ -55,9 +35,29 @@
       "url": "https://virginiamercury.com/2026/11/19/rural-advocacy-groups-band-together-to-oppose-data-centers-related-energy-projects/",
       "source": "Virginia Mercury",
       "published": "2026-11-19",
-      "region": "Southwest & Southside",
+      "region": "Southside / Southwest",
       "scenario": "The Widening Gap",
-      "signal_reading": "Rural groups opposing data centers and energy projects suggests resistance infrastructure that could benefit from AI-driven economic development, signaling potential for neither deep capability nor broad distribution to materialize in underserved regions despite proximity to major tech infrastructure investments.",
+      "signal_reading": "Rural coalitions opposing data centers signal that physical infrastructure placement doesn't equal capability distribution—communities see energy demands and land use impacts without workforce development or AI fluency benefits, deepening the extraction vs. participation divide.",
+      "fetched": "2026-11-24"
+    },
+    {
+      "title": "Virginia parents weigh screen-time limits as schools expand classroom technology",
+      "url": "https://virginiamercury.com/2026/11/19/virginia-parents-weigh-screen-time-limits-as-schools-expand-classroom-technology/",
+      "source": "Virginia Mercury",
+      "published": "2026-11-19",
+      "region": "Statewide",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Statewide parent concerns about classroom technology expansion indicate shallow, platform-driven tech adoption without critical AI literacy—students use devices but debate centers on screen time rather than computational thinking or deeper digital capability building.",
+      "fetched": "2026-11-24"
+    },
+    {
+      "title": "Franklin: For long-term growth, invest in Roanoke-Blacksburg airport",
+      "url": "https://cardinalnews.org/2026/11/24/franklin-for-long-term-growth-invest-in-roanoke-blacksburg-airport/",
+      "source": "Cardinal News",
+      "published": "2026-11-24",
+      "region": "Roanoke / New River Valley",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Local advocacy for Roanoke-Blacksburg airport investment recognizes connectivity infrastructure as prerequisite for distributed economic development—physical access enables talent circulation and knowledge transfer needed to prevent capability concentration in NoVA/Richmond corridors.",
       "fetched": "2026-11-24"
     }
   ]
