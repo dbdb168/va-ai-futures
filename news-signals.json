@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-24",
   "next_check": "2026-11-24",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -17,38 +17,18 @@
       "published": "2026-05-30",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Free AI workshops led by a Norfolk native directly target distributed skill-building outside traditional tech hubs, creating peer learning pathways that could democratize deep capability rather than just tool adoption.",
-      "fetched": "2026-11-23"
+      "signal_reading": "Free AI workshops in Hampton Roads targeting community access signal grassroots capability-building that could distribute deeper AI literacy beyond traditional tech hubs, testing whether peer-led models can overcome metro concentration patterns.",
+      "fetched": "2026-11-24"
     },
     {
-      "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-10-04",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents organized regional capacity-building in a non-metro area, signaling potential for distributed depth if evaluation translates to sustained training infrastructure rather than one-off platform deployment.",
-      "fetched": "2026-11-23"
-    },
-    {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling four NoVA data centers due to backlash reveals infrastructure concentration without community integration—economic development that neither deepens local capability nor distributes benefits, leaving regions competing for contested facilities.",
-      "fetched": "2026-11-23"
-    },
-    {
-      "title": "Rural advocacy groups band together to oppose data centers, related energy projects",
-      "url": "https://virginiamercury.com/2026/11/19/rural-advocacy-groups-band-together-to-oppose-data-centers-related-energy-projects/",
-      "source": "Virginia Mercury",
-      "published": "2026-11-19",
-      "region": "Southwest & Southside",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Rural coalitions opposing data centers signal extraction without capability transfer—infrastructure arrives but generates neither local AI fluency nor meaningful economic participation, concentrating costs while exporting value.",
-      "fetched": "2026-11-23"
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "AI pressure on Richmond's young workforce indicates the capital region is experiencing skill-shift demands typical of metro tech centers, reinforcing Richmond's position as a secondary hub while implicitly widening gaps with non-metro regions facing different economic transitions.",
+      "fetched": "2026-11-24"
     },
     {
       "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
@@ -57,8 +37,28 @@
       "published": "2026-11-11",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-CHKD partnership using AI for asthma mapping demonstrates deep institutional capability in Hampton Roads health tech sector, but research application doesn't necessarily signal workforce distribution or broad community AI literacy.",
-      "fetched": "2026-11-23"
+      "signal_reading": "ODU and CHKD deploying AI for childhood asthma mapping demonstrates institutional deep capability concentrated in Hampton Roads' research-healthcare nexus, showing how specialized AI applications cluster around existing centers of technical and medical expertise.",
+      "fetched": "2026-11-24"
+    },
+    {
+      "title": "Norfolk, Newport News police launch AI tool for non-emergency calls - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTBjRl9xSnlSRENxelktY1g0OEF2OHBuY3lQN3M2c1R3bWgtV3UyajB0c3NQLUpZN01NSy1SRnp3M3dRaDZQZi1rYlBwS3Z0X2o1N2xDdUJ6WU9pdXVrQkY5TUxLb0ZiVHBxVzFDbmFyWWhIM203M2VTWjdCV3NDTVN4ZlF0ZWdMWnpteDk3ZWVGQVJaN0ZpY0wxQVJ4eDFNaF9iTDhNTWFoZmd1RjBsOHU5SXNHSHZYY3BpRzdGLWllNk5SMHNGeDFlREh0aExXanhyRjV3RzhvNUp4TXlfUmVBbjhUQUZFTFhuRjc4bUYweWxTdHN2V1ZUNA?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-10-14",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Norfolk and Newport News police adopting turnkey AI for non-emergency calls exemplifies shallow, platform-delivered adoption that distributes AI functionality without building local technical depth—operational efficiency without capability transfer.",
+      "fetched": "2026-11-24"
+    },
+    {
+      "title": "Rural advocacy groups band together to oppose data centers, related energy projects",
+      "url": "https://virginiamercury.com/2026/11/19/rural-advocacy-groups-band-together-to-oppose-data-centers-related-energy-projects/",
+      "source": "Virginia Mercury",
+      "published": "2026-11-19",
+      "region": "Southwest & Southside",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Rural groups opposing data centers and energy projects suggests resistance infrastructure that could benefit from AI-driven economic development, signaling potential for neither deep capability nor broad distribution to materialize in underserved regions despite proximity to major tech infrastructure investments.",
+      "fetched": "2026-11-24"
     }
   ]
 }
