@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24",
+  "last_updated": "2026-11-25",
   "next_check": "2026-11-25",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,54 +11,54 @@
   ],
   "signals": [
     {
-      "title": "Judge halts Google data center construction in Botetourt County, orders public hearing",
-      "url": "https://cardinalnews.org/2026/11/23/judge-halts-google-data-center-construction-in-botetourt-county-orders-public-hearing/",
-      "source": "Cardinal News",
-      "published": "2026-11-23",
-      "region": "Southwest",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Legal challenges to Google data center infrastructure in rural Botetourt reveal tension between concentrated tech capital seeking cheap land/power and local governance capacity—infrastructure builds without distributed capability deepening signal 'Widening Gap' risk unless paired with workforce development.",
-      "fetched": "2026-11-24"
+      "title": "iHub open house invites community to explore innovation and technology - norfolkneradio.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGg3VGVNTVZpanhDTWp5TmFCcXJ2d2U2eFhuX2p5OTM4Y0oza1R3Z2dTMTRjTmdsU1hkMWVobUFCQ1VXRFZxWC1nNDZKb0c0UWpHMzd0Qm1kYXFrLThHNUtuRkF4MHR4bXBxWXJNT2Q4STFxY3oxZG51djA5T1lkMjBhYTg5dXpNLXVRNWhOLUc2aDFkZkJodmZuc05zZnlpbWtGXzBfdzhsSlYzSGpVWHdMYmxnNWNlWUhEbDlPZHFwTXRwV0hWX0o5R1NxeFE2czhCZXh5SkxRcVpZa0h3OGZyakFVM0U0VnJqZw?oc=5",
+      "source": "norfolkneradio.com",
+      "published": "2026-11-24",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Community-facing innovation hub open houses signal grassroots technology engagement in a non-metro region, suggesting distributed peer learning networks could develop beyond traditional tech corridors if sustained.",
+      "fetched": "2026-11-25"
     },
     {
-      "title": "Loudoun County pauses new data center applications for a year",
-      "url": "https://virginiamercury.com/2026/11/20/loudoun-county-pauses-new-data-center-applications-for-a-year/",
-      "source": "Virginia Mercury",
-      "published": "2026-11-20",
+      "title": "Norfolk Police Department E911 Division implements AI system for non-emergency calls - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSUJpZC0tZ3dVMDhMRVJxZUtYaGpsVmlvVS0xLXl1NVNMeU5PWmVHSlhjNHNvTGNvMC16ckNVR01sOFBSSXc1X0lLWEh0dUtaa1IwbmRHa0NnZ0tmMFl5NVhSOUpJVnRPd0R5WWNSaTFGZ1lEVi03M2o5LVpoREZfUTBfRElwVzB0UmJoV05zczllVGpwS3V1ZGRFV3ZsdmZRSXFXLUFWQ3cxRHlkNjRNdU1YU3p2NGIzSHA3RThCc0FtSHNxdzhqSmJMODItMElrUzA0Rmx3MTFjenNYRjNjRFJYRWVyVUFhZkNFVEt2MW5MbVlvOF9WdUZhQS1tUWs?oc=5",
+      "source": "13newsnow.com",
+      "published": "2026-10-05",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Municipal AI adoption for E911 non-emergency calls represents shallow, platform-delivered implementation—operational efficiency without deep capability building, typifying distributed but surface-level adoption patterns.",
+      "fetched": "2026-11-25"
+    },
+    {
+      "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-10-04",
+      "region": "Southwest / Roanoke",
+      "scenario": "Build It Yourself",
+      "signal_reading": "AI Ready Roanoke initiative demonstrates deliberate capability assessment in a smaller metro area, potentially building deep local expertise through community evaluation rather than waiting for top-down platform deployment.",
+      "fetched": "2026-11-25"
+    },
+    {
+      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-23",
       "region": "Northern Virginia",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Loudoun pausing data center applications after aggressive expansion reveals NoVA's infrastructure concentration reaching saturation—the county hosts critical AI computing infrastructure but local pushback suggests benefits aren't distributing beyond property tax revenue and specialized jobs.",
-      "fetched": "2026-11-24"
+      "signal_reading": "Amazon's data center cancellation due to local backlash reveals concentration tensions—NoVA remains the infrastructure gravity well even as communities resist, reinforcing metro-focused AI capability rather than dispersing it.",
+      "fetched": "2026-11-25"
     },
     {
-      "title": "Rural advocacy groups band together to oppose data centers, related energy projects",
-      "url": "https://virginiamercury.com/2026/11/19/rural-advocacy-groups-band-together-to-oppose-data-centers-related-energy-projects/",
-      "source": "Virginia Mercury",
-      "published": "2026-11-19",
-      "region": "Southside / Southwest",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Rural coalitions opposing data centers signal that physical infrastructure placement doesn't equal capability distribution—communities see energy demands and land use impacts without workforce development or AI fluency benefits, deepening the extraction vs. participation divide.",
-      "fetched": "2026-11-24"
-    },
-    {
-      "title": "Virginia parents weigh screen-time limits as schools expand classroom technology",
-      "url": "https://virginiamercury.com/2026/11/19/virginia-parents-weigh-screen-time-limits-as-schools-expand-classroom-technology/",
-      "source": "Virginia Mercury",
-      "published": "2026-11-19",
-      "region": "Statewide",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Statewide parent concerns about classroom technology expansion indicate shallow, platform-driven tech adoption without critical AI literacy—students use devices but debate centers on screen time rather than computational thinking or deeper digital capability building.",
-      "fetched": "2026-11-24"
-    },
-    {
-      "title": "Franklin: For long-term growth, invest in Roanoke-Blacksburg airport",
-      "url": "https://cardinalnews.org/2026/11/24/franklin-for-long-term-growth-invest-in-roanoke-blacksburg-airport/",
-      "source": "Cardinal News",
+      "title": "Spanberger releases Moving Virginia Forward agenda, tackling issues of affordability and AI - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0pkUTh4ZFFoUGc0QzdIN1BjMWV2TnFYMWhwX2lBa1R1dHM2a3dmSS1xNTV6ZXpJbWMtUlZxak92SlVEVDZfWTlRMzZaakZONVNScFpfRVFFQmtRM1dvd0k1b0QtNUp0OFNBQnh2T01tVEJRc0l6LUZPNDl6LXV1TUtUekRpNVVxU1NiVGFpZ3k3a0NRS2haRDlVeTYtSVJXR3ZYWmdtM1BZSm9TcHR6X080aUt3WjJsRjBBX1J5TTNNbDZDRmdfWmlQcUZyVkZZSWc?oc=5",
+      "source": "The Cavalier Daily",
       "published": "2026-11-24",
-      "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "Local advocacy for Roanoke-Blacksburg airport investment recognizes connectivity infrastructure as prerequisite for distributed economic development—physical access enables talent circulation and knowledge transfer needed to prevent capability concentration in NoVA/Richmond corridors.",
-      "fetched": "2026-11-24"
+      "region": "Statewide",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Gubernatorial candidate's statewide AI agenda acknowledges the technology gap as a policy problem, but without mechanisms for distributed capability building, awareness alone may reinforce existing concentration patterns.",
+      "fetched": "2026-11-25"
     }
   ]
 }
