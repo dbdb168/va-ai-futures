@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-25",
-  "next_check": "2026-11-25",
+  "next_check": "2026-11-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,47 +17,47 @@
       "published": "2026-11-24",
       "region": "Hampton Roads",
       "scenario": "Build It Yourself",
-      "signal_reading": "Community-facing innovation hub open houses signal grassroots technology engagement in a non-metro region, suggesting distributed peer learning networks could develop beyond traditional tech corridors if sustained.",
+      "signal_reading": "Community-centered innovation spaces like iHub signal distributed capacity-building infrastructure in a non-NoVA region, creating peer learning networks that could foster grassroots AI fluency beyond metro concentration.",
       "fetched": "2026-11-25"
     },
     {
-      "title": "Norfolk Police Department E911 Division implements AI system for non-emergency calls - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSUJpZC0tZ3dVMDhMRVJxZUtYaGpsVmlvVS0xLXl1NVNMeU5PWmVHSlhjNHNvTGNvMC16ckNVR01sOFBSSXc1X0lLWEh0dUtaa1IwbmRHa0NnZ0tmMFl5NVhSOUpJVnRPd0R5WWNSaTFGZ1lEVi03M2o5LVpoREZfUTBfRElwVzB0UmJoV05zczllVGpwS3V1ZGRFV3ZsdmZRSXFXLUFWQ3cxRHlkNjRNdU1YU3p2NGIzSHA3RThCc0FtSHNxdzhqSmJMODItMElrUzA0Rmx3MTFjenNYRjNjRFJYRWVyVUFhZkNFVEt2MW5MbVlvOF9WdUZhQS1tUWs?oc=5",
-      "source": "13newsnow.com",
+      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
+      "source": "City of Norfolk (.gov)",
       "published": "2026-10-05",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Municipal AI adoption for E911 non-emergency calls represents shallow, platform-delivered implementation—operational efficiency without deep capability building, typifying distributed but surface-level adoption patterns.",
+      "signal_reading": "Municipal adoption of turnkey AI for E911 demonstrates shallow but practical platform deployment in public services—distributed geographically but not building deep local capability, as the system is likely vendor-managed rather than locally developed.",
       "fetched": "2026-11-25"
     },
     {
-      "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
-      "source": "Roanoke Times",
-      "published": "2026-10-04",
-      "region": "Southwest / Roanoke",
-      "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke initiative demonstrates deliberate capability assessment in a smaller metro area, potentially building deep local expertise through community evaluation rather than waiting for top-down platform deployment.",
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "AI creating workforce pressure on young workers without corresponding skill-building infrastructure suggests automation anxiety outpacing capability development—neither deep expertise nor broad fluency materializing fast enough to meet displacement risks.",
       "fetched": "2026-11-25"
     },
     {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
+      "title": "Norfolk's champion farm will show how AI can turn data into better crop decisions - EDP24",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWN0c055VUNRTnRUVXU1TzlyQUtTR09uRmZaZXRiSzNDMzdIQktTU3NMUUlEaC1JSjJUcTNYTXVvN3NYSFF0aUxRa1hrZ1hWc1RCcGVfYnlBQWJVYl9iWnYtdkx4ZmxoWjllOG9pUVJ4OHpJTEw0MTMyUU5YNmtrRmlCZWFaWUFHNG5yVnVSWmstdw?oc=5",
+      "source": "EDP24",
+      "published": "2026-11-25",
+      "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Amazon's data center cancellation due to local backlash reveals concentration tensions—NoVA remains the infrastructure gravity well even as communities resist, reinforcing metro-focused AI capability rather than dispersing it.",
+      "signal_reading": "Advanced agricultural AI for data-driven crop decisions represents deep technical application, but confined to champion farms with resources for adoption—concentrating precision agriculture capability rather than distributing it across Virginia's broader farming communities.",
       "fetched": "2026-11-25"
     },
     {
-      "title": "Spanberger releases Moving Virginia Forward agenda, tackling issues of affordability and AI - The Cavalier Daily",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0pkUTh4ZFFoUGc0QzdIN1BjMWV2TnFYMWhwX2lBa1R1dHM2a3dmSS1xNTV6ZXpJbWMtUlZxak92SlVEVDZfWTlRMzZaakZONVNScFpfRVFFQmtRM1dvd0k1b0QtNUp0OFNBQnh2T01tVEJRc0l6LUZPNDl6LXV1TUtUekRpNVVxU1NiVGFpZ3k3a0NRS2haRDlVeTYtSVJXR3ZYWmdtM1BZSm9TcHR6X080aUt3WjJsRjBBX1J5TTNNbDZDRmdfWmlQcUZyVkZZSWc?oc=5",
-      "source": "The Cavalier Daily",
-      "published": "2026-11-24",
+      "title": "UVA President Scott Beardsley charts University’s future in artificial intelligence - UVA Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjB5LWNHOTc5UUF0T0pkSFZ3Ylh3UHdVYzI1bXNFbDRYWEhnMk5RWm92dWR3djVwUWJreVB0cWF4dUVJbjdHRjZJMkFTdnZ2RGYwYVZxWnVQcUxabjl2dDRMZlcxR1Babk92NXlOYXhHUlBXUWxmaTBYdVpDYmZzOXZkeFZLLXc1QlpKOFNvdHRManNEX2FwbG5IOGZHT0pZMldEV1NvY1lGdmNZWXBoNDc5SQ?oc=5",
+      "source": "UVA Today",
+      "published": "2026-11-20",
       "region": "Statewide",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Gubernatorial candidate's statewide AI agenda acknowledges the technology gap as a policy problem, but without mechanisms for distributed capability building, awareness alone may reinforce existing concentration patterns.",
+      "signal_reading": "UVA presidential focus on AI strategy concentrates research university resources and talent in Charlottesville, reinforcing the institutional advantage of established academic centers while rural regions remain dependent on knowledge transfer that may not materialize.",
       "fetched": "2026-11-25"
     }
   ]
