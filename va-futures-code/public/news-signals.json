@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-26",
   "next_check": "2026-11-26",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -11,14 +11,14 @@
   ],
   "signals": [
     {
-      "title": "iHub open house invites community to explore innovation and technology - norfolkneradio.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGg3VGVNTVZpanhDTWp5TmFCcXJ2d2U2eFhuX2p5OTM4Y0oza1R3Z2dTMTRjTmdsU1hkMWVobUFCQ1VXRFZxWC1nNDZKb0c0UWpHMzd0Qm1kYXFrLThHNUtuRkF4MHR4bXBxWXJNT2Q4STFxY3oxZG51djA5T1lkMjBhYTg5dXpNLXVRNWhOLUc2aDFkZkJodmZuc05zZnlpbWtGXzBfdzhsSlYzSGpVWHdMYmxnNWNlWUhEbDlPZHFwTXRwV0hWX0o5R1NxeFE2czhCZXh5SkxRcVpZa0h3OGZyakFVM0U0VnJqZw?oc=5",
-      "source": "norfolkneradio.com",
-      "published": "2026-11-24",
-      "region": "Hampton Roads",
+      "title": "AI Ready Roanoke evaluates use for new technology in Roanoke Valley - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
+      "source": "Roanoke Times",
+      "published": "2026-10-04",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "Community-centered innovation spaces like iHub signal distributed capacity-building infrastructure in a non-NoVA region, creating peer learning networks that could foster grassroots AI fluency beyond metro concentration.",
-      "fetched": "2026-11-25"
+      "signal_reading": "A regional collaborative initiative to evaluate and deploy AI across the Roanoke Valley signals distributed capacity-building through local networks, potentially creating replicable models for mid-sized metros outside NoVA's gravity well.",
+      "fetched": "2026-11-26"
     },
     {
       "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
@@ -27,38 +27,38 @@
       "published": "2026-10-05",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Municipal adoption of turnkey AI for E911 demonstrates shallow but practical platform deployment in public services—distributed geographically but not building deep local capability, as the system is likely vendor-managed rather than locally developed.",
-      "fetched": "2026-11-25"
+      "signal_reading": "Norfolk's deployment of off-the-shelf AI for E911 non-emergency lines demonstrates shallow but pragmatic platform adoption in government services—broad distribution without requiring deep technical capability development.",
+      "fetched": "2026-11-26"
     },
     {
-      "title": "AI pressure grows on Richmond's young workforce - Axios",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
-      "source": "Axios",
-      "published": "2026-04-02",
-      "region": "Richmond Metro",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI creating workforce pressure on young workers without corresponding skill-building infrastructure suggests automation anxiety outpacing capability development—neither deep expertise nor broad fluency materializing fast enough to meet displacement risks.",
-      "fetched": "2026-11-25"
-    },
-    {
-      "title": "Norfolk's champion farm will show how AI can turn data into better crop decisions - EDP24",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWN0c055VUNRTnRUVXU1TzlyQUtTR09uRmZaZXRiSzNDMzdIQktTU3NMUUlEaC1JSjJUcTNYTXVvN3NYSFF0aUxRa1hrZ1hWc1RCcGVfYnlBQWJVYl9iWnYtdkx4ZmxoWjllOG9pUVJ4OHpJTEw0MTMyUU5YNmtrRmlCZWFaWUFHNG5yVnVSWmstdw?oc=5",
-      "source": "EDP24",
-      "published": "2026-11-25",
+      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
+      "source": "The Legacy Newspaper",
+      "published": "2026-11-14",
       "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "Advanced agricultural AI for data-driven crop decisions represents deep technical application, but confined to champion farms with resources for adoption—concentrating precision agriculture capability rather than distributing it across Virginia's broader farming communities.",
-      "fetched": "2026-11-25"
+      "signal_reading": "Senator Warner partnering with Anthropic to pilot AI for military families concentrates cutting-edge capability in Hampton Roads' defense corridor, leveraging existing institutional infrastructure rather than distributing AI fluency broadly.",
+      "fetched": "2026-11-26"
     },
     {
-      "title": "UVA President Scott Beardsley charts University’s future in artificial intelligence - UVA Today",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjB5LWNHOTc5UUF0T0pkSFZ3Ylh3UHdVYzI1bXNFbDRYWEhnMk5RWm92dWR3djVwUWJreVB0cWF4dUVJbjdHRjZJMkFTdnZ2RGYwYVZxWnVQcUxabjl2dDRMZlcxR1Babk92NXlOYXhHUlBXUWxmaTBYdVpDYmZzOXZkeFZLLXc1QlpKOFNvdHRManNEX2FwbG5IOGZHT0pZMldEV1NvY1lGdmNZWXBoNDc5SQ?oc=5",
-      "source": "UVA Today",
-      "published": "2026-11-20",
-      "region": "Statewide",
+      "title": "Problems with AI use in Roanoke County schools: It’s not the students - WFIR News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE5pMWlYbXdfd0J6Y3ZqMFJpNXZzSnNMZmJBLVFzdm1nQXRKWTNhVm1TN29POTB1dHJNR09YQTIzajhYbDlBcjdXdVgtMVBKV2JxbEZ1OFI5ckNlTTFDZlhFbFo1Zml4dktYcXIyMEZhTmhKTkhpWjB0cE1McElzRzUyUF9qYjNnbWhRSkhMVU1BQ0ZuRUM1Ug?oc=5",
+      "source": "WFIR News",
+      "published": "2026-11-16",
+      "region": "Roanoke / New River Valley",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Problems with AI use in Roanoke County schools—apparently by staff, not students—reveals shallow understanding even where technology is present, signaling adoption without meaningful capability development in educational institutions.",
+      "fetched": "2026-11-26"
+    },
+    {
+      "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUVpSVZHWTFYN214bERPSnE3SThCdzI5am9UOGMxUHBtd1Nmc2ZWT2JuckJLVTNhMUI3UjVydWU4am1Gc29uQnBZaVlrazBfRlVsc1Uwd091ZE0tdWJQYTRMa2pWbERab3RZVFJwWWRGUUxYRzZvTTk5LXlVRGhvUUdOQzRJUDRXREZLRU1HTmNnN2VIQTVFZlVrYVdvTVFKLUN2R3g5S19ReWZRckxqQ3VWaw?oc=5",
+      "source": "WHRO",
+      "published": "2026-11-11",
+      "region": "Hampton Roads",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "UVA presidential focus on AI strategy concentrates research university resources and talent in Charlottesville, reinforcing the institutional advantage of established academic centers while rural regions remain dependent on knowledge transfer that may not materialize.",
-      "fetched": "2026-11-25"
+      "signal_reading": "ODU and CHKD's collaborative AI research mapping childhood asthma concentrates advanced technical capability within academic-medical partnerships, deepening expertise in metro hubs while leaving rural health systems without similar analytical infrastructure.",
+      "fetched": "2026-11-26"
     }
   ]
 }
