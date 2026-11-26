@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-26",
-  "next_check": "2026-11-26",
+  "next_check": "2026-11-27",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -16,18 +16,8 @@
       "source": "Roanoke Times",
       "published": "2026-10-04",
       "region": "Roanoke / New River Valley",
-      "scenario": "Build It Yourself",
-      "signal_reading": "A regional collaborative initiative to evaluate and deploy AI across the Roanoke Valley signals distributed capacity-building through local networks, potentially creating replicable models for mid-sized metros outside NoVA's gravity well.",
-      "fetched": "2026-11-26"
-    },
-    {
-      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
-      "source": "City of Norfolk (.gov)",
-      "published": "2026-10-05",
-      "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "Norfolk's deployment of off-the-shelf AI for E911 non-emergency lines demonstrates shallow but pragmatic platform adoption in government services—broad distribution without requiring deep technical capability development.",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "A region-wide AI readiness initiative signals intentional capability-building outside NoVA, but success depends on whether this translates into distributed deep expertise or remains a planning exercise—critical test case for Build It Yourself potential in mid-tier metros.",
       "fetched": "2026-11-26"
     },
     {
@@ -36,28 +26,38 @@
       "source": "The Legacy Newspaper",
       "published": "2026-11-14",
       "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Senator Warner partnering with Anthropic to pilot AI for military families concentrates cutting-edge capability in Hampton Roads' defense corridor, leveraging existing institutional infrastructure rather than distributing AI fluency broadly.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Senator Warner deploying Anthropic's platform AI to solve military family navigation problems exemplifies shallow-but-useful distribution—Hampton Roads gets access to advanced capability without building indigenous expertise, reinforcing platform dependency over local development.",
       "fetched": "2026-11-26"
     },
     {
-      "title": "Problems with AI use in Roanoke County schools: It’s not the students - WFIR News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE5pMWlYbXdfd0J6Y3ZqMFJpNXZzSnNMZmJBLVFzdm1nQXRKWTNhVm1TN29POTB1dHJNR09YQTIzajhYbDlBcjdXdVgtMVBKV2JxbEZ1OFI5ckNlTTFDZlhFbFo1Zml4dktYcXIyMEZhTmhKTkhpWjB0cE1McElzRzUyUF9qYjNnbWhRSkhMVU1BQ0ZuRUM1Ug?oc=5",
-      "source": "WFIR News",
-      "published": "2026-11-16",
-      "region": "Roanoke / New River Valley",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Problems with AI use in Roanoke County schools—apparently by staff, not students—reveals shallow understanding even where technology is present, signaling adoption without meaningful capability development in educational institutions.",
-      "fetched": "2026-11-26"
-    },
-    {
-      "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUVpSVZHWTFYN214bERPSnE3SThCdzI5am9UOGMxUHBtd1Nmc2ZWT2JuckJLVTNhMUI3UjVydWU4am1Gc29uQnBZaVlrazBfRlVsc1Uwd091ZE0tdWJQYTRMa2pWbERab3RZVFJwWWRGUUxYRzZvTTk5LXlVRGhvUUdOQzRJUDRXREZLRU1HTmNnN2VIQTVFZlVrYVdvTVFKLUN2R3g5S19ReWZRckxqQ3VWaw?oc=5",
-      "source": "WHRO",
-      "published": "2026-11-11",
+      "title": "AI is already common in Virginia Beach high schools. Leaders weigh guardrails - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNem9uM2l6Snc5SGtrZDlMQUszdkFabGMwV3Z4cXdYenprTlZwQmRCNXFScWc1NXNHNkhvbzRfeDhhbnhFODl3eEJ5TWdDcVdpMlJEbnpCWFc5UzIzRTA5M2ZzdVB0RUVKV1lRZmVoQzlzWk1KUzhQRFJRVk9kWlNXNWlGLWNKa0JQcVFEbUxQbUFUekY2eGxWckpheUJ0LTN6VXkxcUNvMFBYWnJsY0YtZWVMcVVTSFBNSEdkOF94cXNhSU5iUnlyVkJEZ0dzNXc?oc=5",
+      "source": "WTKR",
+      "published": "2026-11-21",
       "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU and CHKD's collaborative AI research mapping childhood asthma concentrates advanced technical capability within academic-medical partnerships, deepening expertise in metro hubs while leaving rural health systems without similar analytical infrastructure.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "AI already pervasive in Virginia Beach schools with leaders now seeking guardrails indicates rapid platform-driven adoption outpacing governance—classic shallow distribution where tools spread faster than understanding, raising questions about sustainable capability development.",
+      "fetched": "2026-11-26"
+    },
+    {
+      "title": "AI pressure grows on Richmond's young workforce - Axios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGQybFFFLXBfQ0t1QXE3OGJ6M1JoVnJZakloMEJNRmJSOGo5MEM3cmF5VUpDbUNGWVZsWWRoRkZjU1ZNWl9pdC16WDB4VEZOSmlrOW12Sy1WelE5aHhNYzRhbERMNEJUNjI5cF9NZ3lCZUZ6X1BtT3NkWmtPYTNLZlNfWmlHajBPeGpnd3N5dlNsS3pOWjF3TFdjbFhkN3pKd3hqQ1NoRWI2SE5NanhtSnUtNm11OVdBWTY1VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-04-02",
+      "region": "Richmond Metro",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Axios reporting AI pressure on Richmond's young workforce without corresponding training infrastructure signals anxiety without capability—neither deep expertise nor broad fluency materializing, just displacement concerns that could widen metro-rural and skills gaps.",
+      "fetched": "2026-11-26"
+    },
+    {
+      "title": "Norfolk Public Library to teach people about AI - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlduOEE5LXQ1SW82MnhnRzhXb2xPbUs3RHhvS3BDMkxNYk9SdGs3cWtaY0tUaHk3cW9rSkNHb2JfcjVsU296bmRpWGNKaFd1NWY3bWJpbkdrYjQ1TmR5U3F4NlZuMUwtUzQ4NWM3b1piZnl3STgzdTNTcGJreTlua1FOaUVZUXN6bXNPOFhvOA?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-17",
+      "region": "Hampton Roads",
+      "scenario": "Build It Yourself",
+      "signal_reading": "Norfolk Public Library teaching AI literacy represents grassroots peer-to-peer capability building through civic infrastructure—if scaled through Virginia's library networks, this model could distribute foundational fluency beyond elite tech hubs and educational institutions.",
       "fetched": "2026-11-26"
     }
   ]
