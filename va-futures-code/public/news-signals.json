@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-27",
-  "next_check": "2026-11-27",
+  "next_check": "2026-11-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,7 +17,37 @@
       "published": "2026-10-04",
       "region": "Southwest / Roanoke",
       "scenario": "Build It Yourself",
-      "signal_reading": "A regional AI readiness initiative in Roanoke Valley signals intentional peer-driven capacity building outside the NoVA corridor, potentially distributing deep capabilities through local workforce development rather than platform dependency.",
+      "signal_reading": "A region-wide collaborative effort to evaluate AI readiness suggests emerging distributed capacity-building infrastructure beyond traditional tech hubs, potentially democratizing AI fluency through deliberate peer learning networks in mid-sized metros.",
+      "fetched": "2026-11-27"
+    },
+    {
+      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
+      "source": "City of Norfolk (.gov)",
+      "published": "2026-10-05",
+      "region": "Hampton Roads",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Municipal government deploying turnkey AI solutions for call routing represents shallow but pragmatic adoption—distributed geographically but relying on vendor platforms rather than building deep internal capability.",
+      "fetched": "2026-11-27"
+    },
+    {
+      "title": "Roanoke coalition names Texas firm to study AI center plan - Virginia Business",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvYng4OWM4UWNBbzhmTWhzRXdTb2ExeXRUM0VrUTJINW9Pb3R6aTFTMVZHVGVkN2dZamFQMGhXVTVqcWtvUGxGMlJWYmF2ZGZOV2FjZU0ybjZmYjdia2lLM09ZdURwaGM3ZFBFMm9KcDA?oc=5",
+      "source": "Virginia Business",
+      "published": "2026-11-03",
+      "region": "Southwest / Roanoke",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "Commissioning specialized consultants to study an AI center plan signals aspiration toward concentrated excellence in Roanoke, but reliance on external Texas expertise reveals current capability gaps that could either resolve or reinforce depending on knowledge transfer outcomes.",
+      "fetched": "2026-11-27"
+    },
+    {
+      "title": "VCU partners with the Better Business Bureau to bring AI support to Central Virginia businesses - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlZmMVoyS0pKWEVnWXBLS1BXS2h4TEZzLW1HWDM1bGlsUHFORWZyRWdrd1hDR0tqTTRlRUFQdXlJV0tSOWo5b1FTWnIwbTNlcVFYUWdqOXByTTBRZFJzWGJMa3JhVFNoXzl2UXdRNkpFcUQxaHpNLUxuX2s3TWN3VDdtZ1NTTnR3dVY1OHZvTXh6cnZSd1c3ZmhxS0NQMi1ISVBPQkk4VVdoWVpSNzhqRmMzT1lwNzF3bzJma0Y1QUV3UQ?oc=5",
+      "source": "VCU News",
+      "published": "2026-11-18",
+      "region": "Richmond Metro / Statewide",
+      "scenario": "Build It Yourself",
+      "signal_reading": "VCU-BBB partnership to bring AI support directly to Central Virginia small businesses creates distributed peer learning infrastructure, moving AI literacy beyond elite institutions into Main Street commerce through community anchor institutions.",
       "fetched": "2026-11-27"
     },
     {
@@ -26,38 +56,8 @@
       "source": "WTKR",
       "published": "2026-11-21",
       "region": "Hampton Roads",
-      "scenario": "Software Does It For You",
-      "signal_reading": "AI already embedded in Virginia Beach high schools with policy debates over guardrails indicates rapid shallow adoption through educational platforms—broad distribution but focused on consumption rather than creation of AI capabilities.",
-      "fetched": "2026-11-27"
-    },
-    {
-      "title": "VCU partners with the Better Business Bureau to bring AI support to Central Virginia businesses - VCU News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlZmMVoyS0pKWEVnWXBLS1BXS2h4TEZzLW1HWDM1bGlsUHFORWZyRWdrd1hDR0tqTTRlRUFQdXlJV0tSOWo5b1FTWnIwbTNlcVFYUWdqOXByTTBRZFJzWGJMa3JhVFNoXzl2UXdRNkpFcUQxaHpNLUxuX2s3TWN3VDdtZ1NTTnR3dVY1OHZvTXh6cnZSd1c3ZmhxS0NQMi1ISVBPQkk4VVdoWVpSNzhqRmMzT1lwNzF3bzJma0Y1QUV3UQ?oc=5",
-      "source": "VCU News",
-      "published": "2026-11-18",
-      "region": "Richmond Metro",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU-BBB partnership to support Central Virginia businesses with AI training represents institutional knowledge transfer creating distributed peer networks for practical AI adoption, moving capability beyond metro consumption toward regional application depth.",
-      "fetched": "2026-11-27"
-    },
-    {
-      "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUVpSVZHWTFYN214bERPSnE3SThCdzI5am9UOGMxUHBtd1Nmc2ZWT2JuckJLVTNhMUI3UjVydWU4am1Gc29uQnBZaVlrazBfRlVsc1Uwd091ZE0tdWJQYTRMa2pWbERab3RZVFJwWWRGUUxYRzZvTTk5LXlVRGhvUUdOQzRJUDRXREZLRU1HTmNnN2VIQTVFZlVrYVdvTVFKLUN2R3g5S19ReWZRckxqQ3VWaw?oc=5",
-      "source": "WHRO",
-      "published": "2026-11-11",
-      "region": "Hampton Roads",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "ODU-CHKD collaboration on AI-powered asthma mapping concentrates sophisticated technical capability within research institutions, creating localized excellence that may remain siloed without deliberate distribution mechanisms to community healthcare providers.",
-      "fetched": "2026-11-27"
-    },
-    {
-      "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-23",
-      "region": "Northern Virginia",
       "scenario": "The Widening Gap",
-      "signal_reading": "Amazon canceling NoVA data center plans paradoxically signals infrastructure saturation blocking new AI capacity concentration while alternative regions lack the ecosystem to absorb displaced projects—deepening geographic capability asymmetry statewide.",
+      "signal_reading": "AI already common in Virginia Beach schools yet leaders still weighing guardrails suggests proliferation without governance or deep understanding—shallow adoption spreading faster than institutional capacity to manage it effectively.",
       "fetched": "2026-11-27"
     }
   ]
