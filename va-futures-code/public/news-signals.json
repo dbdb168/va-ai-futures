@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27",
+  "last_updated": "2026-11-28",
   "next_check": "2026-11-28",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
@@ -15,40 +15,30 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakdfc016Q28xNUdVNkxYOG9rNF9WMlpLZktmRFNKTGZQTzdQOWcweWxUMkRSRHBxbkNzTVZocUFab053d0lTek0zUmY5TmF5Um1uY2NEdjFOdE4wenVvTlgxMXctRjlOa3dGTHV6NUUzU3g3cDA2czZ5ZzEtWkZ0aWRvU1BhRmVPU05uek91U3hrNTRuX3FzdDJTcWlXc0lfWVlr?oc=5",
       "source": "Roanoke Times",
       "published": "2026-10-04",
-      "region": "Southwest / Roanoke",
+      "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "A region-wide collaborative effort to evaluate AI readiness suggests emerging distributed capacity-building infrastructure beyond traditional tech hubs, potentially democratizing AI fluency through deliberate peer learning networks in mid-sized metros.",
-      "fetched": "2026-11-27"
+      "signal_reading": "AI Ready Roanoke represents intentional community-led capacity building in a mid-sized metro outside traditional tech hubs, signaling potential for distributed deep capability if evaluation translates into implementation and peer learning networks.",
+      "fetched": "2026-11-28"
     },
     {
-      "title": "News Flash Archive - NPD E911 Division implements Artificial Intelligence (AI) system on non-emergency lines - City of Norfolk (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
-      "source": "City of Norfolk (.gov)",
-      "published": "2026-10-05",
+      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
+      "source": "The Legacy Newspaper",
+      "published": "2026-11-14",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Municipal government deploying turnkey AI solutions for call routing represents shallow but pragmatic adoption—distributed geographically but relying on vendor platforms rather than building deep internal capability.",
-      "fetched": "2026-11-27"
-    },
-    {
-      "title": "Roanoke coalition names Texas firm to study AI center plan - Virginia Business",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvYng4OWM4UWNBbzhmTWhzRXdTb2ExeXRUM0VrUTJINW9Pb3R6aTFTMVZHVGVkN2dZamFQMGhXVTVqcWtvUGxGMlJWYmF2ZGZOV2FjZU0ybjZmYjdia2lLM09ZdURwaGM3ZFBFMm9KcDA?oc=5",
-      "source": "Virginia Business",
-      "published": "2026-11-03",
-      "region": "Southwest / Roanoke",
-      "scenario": "Pockets of Excellence",
-      "signal_reading": "Commissioning specialized consultants to study an AI center plan signals aspiration toward concentrated excellence in Roanoke, but reliance on external Texas expertise reveals current capability gaps that could either resolve or reinforce depending on knowledge transfer outcomes.",
-      "fetched": "2026-11-27"
+      "signal_reading": "Platform-delivered AI pilot (Anthropic) for military families demonstrates shallow, broad adoption pattern where sophisticated external tools serve specific use cases without building local AI development capacity or transferable technical skills.",
+      "fetched": "2026-11-28"
     },
     {
       "title": "VCU partners with the Better Business Bureau to bring AI support to Central Virginia businesses - VCU News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlZmMVoyS0pKWEVnWXBLS1BXS2h4TEZzLW1HWDM1bGlsUHFORWZyRWdrd1hDR0tqTTRlRUFQdXlJV0tSOWo5b1FTWnIwbTNlcVFYUWdqOXByTTBRZFJzWGJMa3JhVFNoXzl2UXdRNkpFcUQxaHpNLUxuX2s3TWN3VDdtZ1NTTnR3dVY1OHZvTXh6cnZSd1c3ZmhxS0NQMi1ISVBPQkk4VVdoWVpSNzhqRmMzT1lwNzF3bzJma0Y1QUV3UQ?oc=5",
       "source": "VCU News",
       "published": "2026-11-18",
-      "region": "Richmond Metro / Statewide",
-      "scenario": "Build It Yourself",
-      "signal_reading": "VCU-BBB partnership to bring AI support directly to Central Virginia small businesses creates distributed peer learning infrastructure, moving AI literacy beyond elite institutions into Main Street commerce through community anchor institutions.",
-      "fetched": "2026-11-27"
+      "region": "Richmond Metro",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "VCU-BBB partnership concentrates AI expertise delivery through established institutions to serve Central Virginia businesses, reinforcing Richmond's role as a secondary hub but requiring business adoption rather than building distributed grassroots capability.",
+      "fetched": "2026-11-28"
     },
     {
       "title": "AI is already common in Virginia Beach high schools. Leaders weigh guardrails - WTKR",
@@ -57,8 +47,18 @@
       "published": "2026-11-21",
       "region": "Hampton Roads",
       "scenario": "The Widening Gap",
-      "signal_reading": "AI already common in Virginia Beach schools yet leaders still weighing guardrails suggests proliferation without governance or deep understanding—shallow adoption spreading faster than institutional capacity to manage it effectively.",
-      "fetched": "2026-11-27"
+      "signal_reading": "AI already common in Virginia Beach schools yet leaders still weighing guardrails signals reactive shallow adoption without strategic depth—students use tools without districts building systematic AI literacy or workforce preparation infrastructure.",
+      "fetched": "2026-11-28"
+    },
+    {
+      "title": "Problems with AI use in Roanoke County schools: It’s not the students - WFIR News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE5pMWlYbXdfd0J6Y3ZqMFJpNXZzSnNMZmJBLVFzdm1nQXRKWTNhVm1TN29POTB1dHJNR09YQTIzajhYbDlBcjdXdVgtMVBKV2JxbEZ1OFI5ckNlTTFDZlhFbFo1Zml4dktYcXIyMEZhTmhKTkhpWjB0cE1McElzRzUyUF9qYjNnbWhRSkhMVU1BQ0ZuRUM1Ug?oc=5",
+      "source": "WFIR News",
+      "published": "2026-11-16",
+      "region": "Southwest / Roanoke",
+      "scenario": "The Widening Gap",
+      "signal_reading": "Problems with AI use in Roanoke County schools stem from educators rather than students, revealing implementation without adequate professional development—technology adoption outpacing institutional capacity building creates shallow, problematic deployment.",
+      "fetched": "2026-11-28"
     }
   ]
 }
