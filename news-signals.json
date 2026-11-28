@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-28",
-  "next_check": "2026-11-28",
+  "next_check": "2026-11-29",
   "methodology": "Articles sourced from Virginia-specific RSS feeds and Google News RSS, filtered for AI/technology/workforce relevance, then assessed by Claude against the scenario framework. Each article is tagged with the region it most affects and the scenario it signals toward.",
   "sources": [
     "Virginia Business (virginiabusiness.com)",
@@ -17,17 +17,17 @@
       "published": "2026-10-04",
       "region": "Roanoke / New River Valley",
       "scenario": "Build It Yourself",
-      "signal_reading": "AI Ready Roanoke represents intentional community-led capacity building in a mid-sized metro outside traditional tech hubs, signaling potential for distributed deep capability if evaluation translates into implementation and peer learning networks.",
+      "signal_reading": "A locally-branded AI readiness initiative in Roanoke signals grassroots capacity-building beyond traditional tech hubs, suggesting distributed fluency development if implementation reaches beyond evaluation to actual training and peer networks.",
       "fetched": "2026-11-28"
     },
     {
-      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
-      "source": "The Legacy Newspaper",
-      "published": "2026-11-14",
+      "title": "AI is already common in Virginia Beach high schools. Leaders weigh guardrails - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNem9uM2l6Snc5SGtrZDlMQUszdkFabGMwV3Z4cXdYenprTlZwQmRCNXFScWc1NXNHNkhvbzRfeDhhbnhFODl3eEJ5TWdDcVdpMlJEbnpCWFc5UzIzRTA5M2ZzdVB0RUVKV1lRZmVoQzlzWk1KUzhQRFJRVk9kWlNXNWlGLWNKa0JQcVFEbUxQbUFUekY2eGxWckpheUJ0LTN6VXkxcUNvMFBYWnJsY0YtZWVMcVVTSFBNSEdkOF94cXNhSU5iUnlyVkJEZ0dzNXc?oc=5",
+      "source": "WTKR",
+      "published": "2026-11-21",
       "region": "Hampton Roads",
       "scenario": "Software Does It For You",
-      "signal_reading": "Platform-delivered AI pilot (Anthropic) for military families demonstrates shallow, broad adoption pattern where sophisticated external tools serve specific use cases without building local AI development capacity or transferable technical skills.",
+      "signal_reading": "AI already embedded in Virginia Beach high schools with leaders now considering guardrails indicates platform-driven shallow adoption has already distributed broadly, with governance catching up to usage rather than capability-building leading deployment.",
       "fetched": "2026-11-28"
     },
     {
@@ -37,27 +37,27 @@
       "published": "2026-11-18",
       "region": "Richmond Metro",
       "scenario": "Pockets of Excellence",
-      "signal_reading": "VCU-BBB partnership concentrates AI expertise delivery through established institutions to serve Central Virginia businesses, reinforcing Richmond's role as a secondary hub but requiring business adoption rather than building distributed grassroots capability.",
+      "signal_reading": "VCU partnering with BBB to deliver AI support concentrates expertise in Richmond's academic-business corridor, creating a hub-spoke model where Central Virginia businesses access centralized knowledge rather than building distributed internal capacity.",
       "fetched": "2026-11-28"
     },
     {
-      "title": "AI is already common in Virginia Beach high schools. Leaders weigh guardrails - WTKR",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNem9uM2l6Snc5SGtrZDlMQUszdkFabGMwV3Z4cXdYenprTlZwQmRCNXFScWc1NXNHNkhvbzRfeDhhbnhFODl3eEJ5TWdDcVdpMlJEbnpCWFc5UzIzRTA5M2ZzdVB0RUVKV1lRZmVoQzlzWk1KUzhQRFJRVk9kWlNXNWlGLWNKa0JQcVFEbUxQbUFUekY2eGxWckpheUJ0LTN6VXkxcUNvMFBYWnJsY0YtZWVMcVVTSFBNSEdkOF94cXNhSU5iUnlyVkJEZ0dzNXc?oc=5",
-      "source": "WTKR",
-      "published": "2026-11-21",
+      "title": "Warner, Anthropic launch AI pilot to help Hampton Roads military families find local resources - The Legacy Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlR3Z1daMjE3Rzl5aWx3aDNycnp3Z193emZCYzVLMTRZc2NTQnltZXEwQUE0OU0xQUdUT2I5eVk4RmM0WUJUd2ZlTHQyZmYxT2VkMjRuX2xjemxPU0lBbXNCQUdDQk5qZGQ5OVFaYTJFdVJ1OHRLdmlraFI3TmFuaWlKd3N1R0t6anpVQXBhYW16bnVOMjJSUEFabW9OZlFtY3Y4Wkc3Vnl4WEQxbUZaWGQweFZXeDRmM1hXcDJmQW1kY3hK?oc=5",
+      "source": "The Legacy Newspaper",
+      "published": "2026-11-14",
       "region": "Hampton Roads",
-      "scenario": "The Widening Gap",
-      "signal_reading": "AI already common in Virginia Beach schools yet leaders still weighing guardrails signals reactive shallow adoption without strategic depth—students use tools without districts building systematic AI literacy or workforce preparation infrastructure.",
+      "scenario": "Software Does It For You",
+      "signal_reading": "Senator Warner deploying Anthropic's platform AI to serve military families represents shallow but high-impact distributed adoption—solving real problems through vendor tools rather than developing regional AI development capability.",
       "fetched": "2026-11-28"
     },
     {
-      "title": "Problems with AI use in Roanoke County schools: It’s not the students - WFIR News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE5pMWlYbXdfd0J6Y3ZqMFJpNXZzSnNMZmJBLVFzdm1nQXRKWTNhVm1TN29POTB1dHJNR09YQTIzajhYbDlBcjdXdVgtMVBKV2JxbEZ1OFI5ckNlTTFDZlhFbFo1Zml4dktYcXIyMEZhTmhKTkhpWjB0cE1McElzRzUyUF9qYjNnbWhRSkhMVU1BQ0ZuRUM1Ug?oc=5",
-      "source": "WFIR News",
-      "published": "2026-11-16",
-      "region": "Southwest / Roanoke",
-      "scenario": "The Widening Gap",
-      "signal_reading": "Problems with AI use in Roanoke County schools stem from educators rather than students, revealing implementation without adequate professional development—technology adoption outpacing institutional capacity building creates shallow, problematic deployment.",
+      "title": "ODU, CHKD want to map hotspots of childhood asthma in Hampton Roads with AI - WHRO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUVpSVZHWTFYN214bERPSnE3SThCdzI5am9UOGMxUHBtd1Nmc2ZWT2JuckJLVTNhMUI3UjVydWU4am1Gc29uQnBZaVlrazBfRlVsc1Uwd091ZE0tdWJQYTRMa2pWbERab3RZVFJwWWRGUUxYRzZvTTk5LXlVRGhvUUdOQzRJUDRXREZLRU1HTmNnN2VIQTVFZlVrYVdvTVFKLUN2R3g5S19ReWZRckxqQ3VWaw?oc=5",
+      "source": "WHRO",
+      "published": "2026-11-11",
+      "region": "Hampton Roads",
+      "scenario": "Pockets of Excellence",
+      "signal_reading": "ODU and CHKD using AI for asthma mapping demonstrates deep technical application concentrated in research institutions, potentially widening the gap between university-led innovation and community-level AI fluency unless knowledge transfer occurs.",
       "fetched": "2026-11-28"
     }
   ]
